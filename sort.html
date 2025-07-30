@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>شماره‌گذاری کلمات و ذخیره فایل متنی</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 700px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #0056b3;
+            margin-bottom: 25px;
+        }
+
+        .input-section, .output-section {
+            margin-bottom: 20px;
+        }
+
+        input[type="file"] {
+            display: none; /* Hide the default file input */
+        }
+
+        .custom-file-upload {
+            border: 2px dashed #007bff;
+            display: inline-block;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            background-color: #eaf6ff;
+            color: #007bff;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .custom-file-upload:hover {
+            background-color: #d0e9ff;
+            color: #0056b3;
+        }
+
+        #file-name {
+            margin-top: 10px;
+            font-style: italic;
+            color: #666;
+        }
+
+        textarea {
+            width: calc(100% - 20px);
+            min-height: 200px;
+            padding: 10px;
+            margin-top: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1rem;
+            line-height: 1.5;
+            resize: vertical;
+            direction: rtl; /* For Persian text direction */
+            text-align: right; /* For Persian text alignment */
+        }
+
+        button {
+            background-color: #28a745;
+            color: white;
+            padding: 10px 25px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+            margin-top: 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #218838;
+        }
+
+        button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+
+        .status-message {
+            margin-top: 15px;
+            color: #dc3545;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>شماره‌گذاری کلمات در فایل متنی</h1>
+        <p>یک فایل متنی (.txt) را انتخاب کنید تا کلمات آن شماره‌گذاری شوند.</p>
+
+        <div class="input-section">
+            <label for="fileInput" class="custom-file-upload">
+                انتخاب فایل .txt
+            </label>
+            <input type="file" id="fileInput" accept=".txt">
+            <div id="file-name">فایلی انتخاب نشده است.</div>
+        </div>
+
+        <button id="processButton" disabled>شروع شماره‌گذاری</button>
+
+        <div class="status-message" id="statusMessage"></div>
+
+        <hr>
+
+        <div class="output-section">
+            <h2>متن شماره‌گذاری شده</h2>
+            <textarea id="outputTextArea" readonly></textarea>
+            <button id="saveButton" disabled>ذخیره فایل .txt</button>
+        </div>
+    </div>
+
+    <script>
+        const fileInput = document.getElementById('fileInput');
+        const fileNameDisplay = document.getElementById('file-name');
+        const processButton = document.getElementById('processButton');
+        const outputTextArea = document.getElementById('outputTextArea');
+        const saveButton = document.getElementById('saveButton');
+        const statusMessage = document.getElementById('statusMessage');
+
+        let fileContent = ''; // To store the content of the loaded file
+
+        // Event listener for file input change
+        fileInput.addEventListener('change', (event) => {
+            const file = event.target.files[0];
+            if (file) {
+                fileNameDisplay.textContent = `فایل انتخاب شده: ${file.name}`;
+                processButton.disabled = false;
+                statusMessage.textContent = '';
+                outputTextArea.value = ''; // Clear previous output
+                saveButton.disabled = true; // Disable save until processed
+
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    fileContent = e.target.result;
+                    statusMessage.textContent = 'فایل آماده پردازش است.';
+                };
+                reader.onerror = () => {
+                    statusMessage.textContent = 'خطا در بارگذاری فایل.';
+                    processButton.disabled = true;
+                };
+                reader.readAsText(file);
+            } else {
+                fileNameDisplay.textContent = 'فایلی انتخاب نشده است.';
+                processButton.disabled = true;
+                statusMessage.textContent = '';
+                fileContent = '';
+            }
+        });
+
+        // Event listener for process button click
+        processButton.addEventListener('click', () => {
+            if (fileContent) {
+                const processedText = addNumberToWords(fileContent);
+                outputTextArea.value = processedText;
+                saveButton.disabled = false;
+                statusMessage.textContent = 'کلمات با موفقیت شماره‌گذاری شدند.';
+            } else {
+                statusMessage.textContent = 'لطفاً ابتدا یک فایل را انتخاب کنید.';
+            }
+        });
+
+        // Event listener for save button click
+        saveButton.addEventListener('click', () => {
+            if (outputTextArea.value) {
+                saveTextAsFile(outputTextArea.value, 'شماره‌گذاری_شده.txt');
+                statusMessage.textContent = 'فایل با موفقیت ذخیره شد.';
+            } else {
+                statusMessage.textContent = 'متنی برای ذخیره وجود ندارد.';
+            }
+        });
+
+        /**
+         * Adds sequential numbers to the beginning of each word in a given text.
+         * Handles various delimiters and keeps original line breaks.
+         * @param {string} text The input text.
+         * @returns {string} The text with numbered words.
+         */
+        function addNumberToWords(text) {
+            let wordCount = 0;
+            // Use a regular expression to split by spaces, newlines, and common punctuation,
+            // but keep the delimiters for reconstruction.
+            const parts = text.split(/(\s+|[,.?!:;()"'-]+)/g); // Split but keep delimiters
+
+            let result = [];
+            for (let i = 0; i < parts.length; i++) {
+                const part = parts[i];
+                if (part.trim() !== '' && !/^\s+$/.test(part) && !/^[,.?!:;()"'-]+$/.test(part)) {
+                    // It's likely a word, increment count and add number
+                    wordCount++;
+                    result.push(`${wordCount}. ${part}`);
+                } else {
+                    // It's a space, punctuation, or empty string, add as is
+                    result.push(part);
+                }
+            }
+            return result.join('');
+        }
+
+        /**
+         * Saves a given text as a .txt file.
+         * @param {string} textToSave The content to be saved.
+         * @param {string} filename The name of the file to save.
+         */
+        function saveTextAsFile(textToSave, filename) {
+            const blob = new Blob([textToSave], { type: 'text/plain;charset=utf-8' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(link.href); // Clean up the URL object
+        }
+    </script>
+</body>
+</html>
