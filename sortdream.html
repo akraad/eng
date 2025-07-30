@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تحلیلگر کلمات</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f6;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 800px;
+            box-sizing: border-box;
+            direction: rtl; /* برای راست به چپ */
+            text-align: right; /* برای تراز راست */
+        }
+        h1, h2 {
+            color: #007bff;
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        input[type="file"] {
+            display: block;
+            margin: 20px auto;
+            padding: 10px;
+            border: 2px solid #007bff;
+            border-radius: 5px;
+            background-color: #e9f5ff;
+            cursor: pointer;
+            width: fit-content;
+        }
+        #results {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #e9f5ff;
+            border: 1px solid #cceeff;
+            border-radius: 8px;
+        }
+        #results div {
+            margin-bottom: 10px;
+            padding-bottom: 5px;
+            border-bottom: 1px dashed #cceeff;
+        }
+        #results div:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        .error {
+            color: #dc3545;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #007bff;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>تحلیلگر لغات فایل متنی</h1>
+        <p>لطفا یک فایل متنی (.txt) را انتخاب کنید تا اطلاعات لغات آن استخراج شود.</p>
+        <input type="file" id="textFileInput" accept=".txt">
+        
+        <div id="results">
+            <h2>نتایج تحلیل</h2>
+            <p id="wordCount">تعداد کل کلمات: 0</p>
+            <h3>آمار بر اساس سطح کلمه (CEFR):</h3>
+            <table id="levelStats">
+                <thead>
+                    <tr>
+                        <th>سطح</th>
+                        <th>تعداد</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    </tbody>
+            </table>
+
+            <h3>آمار بر اساس سطح استفاده (Frequency):</h3>
+            <table id="usageStats">
+                <thead>
+                    <tr>
+                        <th>سطح استفاده</th>
+                        <th>تعداد</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    </tbody>
+            </table>
+
+            <h3>آمار بر اساس نوع کلمه (Part of Speech):</h3>
+            <table id="typeStats">
+                <thead>
+                    <tr>
+                        <th>نوع کلمه</th>
+                        <th>تعداد</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    </tbody>
+            </table>
+            <p class="error" id="errorMessage"></p>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const textFileInput = document.getElementById('textFileInput');
+            const wordCountSpan = document.getElementById('wordCount');
+            const levelStatsTableBody = document.querySelector('#levelStats tbody');
+            const usageStatsTableBody = document.querySelector('#usageStats tbody');
+            const typeStatsTableBody = document.querySelector('#typeStats tbody');
+            const errorMessageDiv = document.getElementById('errorMessage');
+
+            // شبیه‌سازی یک پایگاه داده ساده از کلمات
+            // **توجه:** این فقط برای مثال است و شامل تعداد بسیار کمی کلمه می‌شود.
+            // در یک پروژه واقعی، این داده‌ها باید از یک سرور یا پایگاه داده واقعی بارگیری شوند.
+            const wordDatabase = {
+                // کلمه: { level: 'A1', usage: 'XV1', type: 'Q1' }
+                "hello": { level: "A1", usage: "XV1", type: "Q1" },
+                "world": { level: "A1", usage: "XV1", type: "Q1" },
+                "cat": { level: "A1", usage: "XV2", type: "Q1" },
+                "dog": { level: "A1", usage: "XV2", type: "Q1" },
+                "run": { level: "A2", usage: "XV2", type: "Q2" },
+                "jump": { level: "A2", usage: "XV2", type: "Q2" },
+                "beautiful": { level: "B1", usage: "XV3", type: "Q3" },
+                "understand": { level: "B1", usage: "XV3", type: "Q2" },
+                "develop": { level: "B2", usage: "XV4", type: "Q2" },
+                "complex": { level: "B2", usage: "XV4", type: "Q3" },
+                "consequences": { level: "C1", usage: "XV5", type: "Q1" },
+                "meticulous": { level: "C1", usage: "XV5", type: "Q3" },
+                "ubiquitous": { level: "C2", usage: "XV6", type: "Q3" },
+                "paradigm": { level: "C2", usage: "XV6", type: "Q1" },
+                "and": { level: "A1", usage: "XV1", type: "Q7" }, // Conjunction
+                "the": { level: "A1", usage: "XV1", type: "Q8" }, // Article
+                "quickly": { level: "A2", usage: "XV3", type: "Q4" }, // Adverb
+                "in": { level: "A1", usage: "XV1", type: "Q5" }, // Preposition
+                "oh": { level: "A1", usage: "XV6", type: "Q6" }, // Interjection
+                // می‌توانید کلمات بیشتری را اضافه کنید
+            };
+
+            const initializeStats = () => {
+                const levels = ["A1", "A2", "B1", "B2", "C1", "C2"];
+                const usages = ["XV1", "XV2", "XV3", "XV4", "XV5", "XV6"];
+                const types = ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7", "Q8"];
+
+                const stats = {
+                    level: {},
+                    usage: {},
+                    type: {}
+                };
+
+                levels.forEach(lvl => stats.level[lvl] = 0);
+                usages.forEach(use => stats.usage[use] = 0);
+                types.forEach(typ => stats.type[typ] = 0);
+
+                return stats;
+            };
+
+            textFileInput.addEventListener('change', (event) => {
+                const file = event.target.files[0];
+                if (!file) {
+                    errorMessageDiv.textContent = 'لطفاً یک فایل .txt انتخاب کنید.';
+                    return;
+                }
+
+                if (file.type !== 'text/plain') {
+                    errorMessageDiv.textContent = 'فقط فایل‌های متنی (.txt) پشتیبانی می‌شوند.';
+                    return;
+                }
+
+                errorMessageDiv.textContent = ''; // پاک کردن پیام خطا
+
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    const text = e.target.result;
+                    processText(text);
+                };
+                reader.onerror = () => {
+                    errorMessageDiv.textContent = 'خطا در خواندن فایل.';
+                };
+                reader.readAsText(file);
+            });
+
+            const processText = (text) => {
+                // حذف کاراکترهای خاص و تبدیل به حروف کوچک برای مقایسه بهتر
+                const cleanedText = text.toLowerCase().replace(/[.,!?;()"_:\-—«»]/g, '').replace(/\s+/g, ' ').trim();
+                const words = cleanedText.split(' ').filter(word => word.length > 0);
+
+                let totalWords = words.length;
+                wordCountSpan.textContent = `تعداد کل کلمات: ${totalWords}`;
+
+                const stats = initializeStats();
+
+                words.forEach(word => {
+                    if (wordDatabase[word]) {
+                        const wordInfo = wordDatabase[word];
+                        stats.level[wordInfo.level]++;
+                        stats.usage[wordInfo.usage]++;
+                        stats.type[wordInfo.type]++;
+                    }
+                    // کلماتی که در دیتابیس نیستند نادیده گرفته می‌شوند
+                });
+
+                displayResults(stats);
+            };
+
+            const displayResults = (stats) => {
+                // پاک کردن نتایج قبلی
+                levelStatsTableBody.innerHTML = '';
+                usageStatsTableBody.innerHTML = '';
+                typeStatsTableBody.innerHTML = '';
+
+                // نمایش آمار سطح کلمه
+                for (const level in stats.level) {
+                    const row = levelStatsTableBody.insertRow();
+                    const cell1 = row.insertCell();
+                    const cell2 = row.insertCell();
+                    cell1.textContent = level;
+                    cell2.textContent = stats.level[level];
+                }
+
+                // نمایش آمار سطح استفاده
+                for (const usage in stats.usage) {
+                    const row = usageStatsTableBody.insertRow();
+                    const cell1 = row.insertCell();
+                    const cell2 = row.insertCell();
+                    cell1.textContent = usage;
+                    cell2.textContent = stats.usage[usage];
+                }
+
+                // نمایش آمار نوع کلمه
+                for (const type in stats.type) {
+                    const row = typeStatsTableBody.insertRow();
+                    const cell1 = row.insertCell();
+                    const cell2 = row.insertCell();
+                    cell1.textContent = type;
+                    cell2.textContent = stats.type[type];
+                }
+            };
+
+            // اجرای اولیه برای نمایش صفرها
+            wordCountSpan.textContent = `تعداد کل کلمات: 0`;
+            displayResults(initializeStats());
+        });
+    </script>
+</body>
+</html>
