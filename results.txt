@@ -1726,7 +1726,6 @@ Hurt
 Hypocrisy
 Hypocritical
 I
-ID card
 IT
 Iconoclast
 Iconoclastic
@@ -2122,7 +2121,6 @@ Mollification
 Mollify
 Moment
 Monday
-Monday morning
 Money
 Monitor
 Monotonous
@@ -2185,8 +2183,6 @@ November
 Now
 Number
 OK
-OK (adj.)
-Obdurate
 Obfuscate
 Obfuscation
 Object
@@ -2929,7 +2925,6 @@ accomplish
 accomplishment
 accordance
 according
-according to
 accordingly
 account
 accountability
@@ -3046,7 +3041,6 @@ alien
 alike
 alive
 all
-all right
 allegation
 allege
 alliance
@@ -3102,8 +3096,6 @@ angel
 anger
 angle
 angry
-angry (v.)
-animal
 animate
 ankle
 anniversary
@@ -3118,7 +3110,6 @@ annually
 anonymous
 another
 answer
-anti-
 anticipate
 anticipation
 anxiety
@@ -3167,8 +3158,6 @@ architectural
 architecture
 are
 area
-area (v.)
-arena
 argue
 argument
 arise
@@ -3185,18 +3174,13 @@ array
 arrest
 arrival
 arrive
-arrive (v.)
-arrow
 art
 article
 articulate
 artificial
 artificially
 artist
-artist (n.)
-artistic
 as
-as soon as
 ash
 ashamed
 aside
@@ -3343,8 +3327,6 @@ beach
 beak
 beam
 bean
-bean (v.)
-bear
 beard
 beast
 beat
@@ -3353,8 +3335,6 @@ beautifully
 beauty
 because
 become
-become (v.)
-bed
 bedroom
 bee
 beef
@@ -3363,8 +3343,6 @@ before
 beforehand
 beg
 begin
-begin (v.)
-beginning
 behalf
 behave
 behavior
@@ -3374,7 +3352,6 @@ belief
 believe
 bell
 belong
-belong to
 beloved
 below
 belt
@@ -3388,8 +3365,6 @@ berry
 beside
 besides
 best
-best friend
-best-selling
 bet
 betray
 better
@@ -3400,7 +3375,6 @@ bicycle
 bid
 big
 bike
-bike ride
 bill
 bin
 bind
@@ -3409,7 +3383,6 @@ biology
 bird
 birth
 birthday
-birthday party
 biscuit
 bit
 bite
@@ -3442,12 +3415,9 @@ blouse
 blow
 blue
 board
-board (n.)
-boarding pass
 boast
 boat
 body
-body part
 boil
 boiler
 bold
@@ -3485,14 +3455,9 @@ brain
 branch
 brand
 brave
-brave (v.)
-bravely
 bravery
 bread
-bread roll
 break
-break (n.)
-breakdown
 breakfast
 breast
 breath
@@ -3509,7 +3474,6 @@ brightly
 brilliant
 brilliantly
 bring
-bring back
 broad
 broadcast
 broadly
@@ -3520,15 +3484,11 @@ brother
 brown
 browser
 brush
-brush (n.)
-brutal
 bubble
 budget
 build
 builder
 building
-building (v.)
-bulk
 bull
 bullet
 bunch
@@ -3537,29 +3497,20 @@ bureaucracy
 bureaucratic
 burial
 burn
-burn (n.)
-burst
 bury
 bus
 bush
 business
-business trip
 businessman
 businesswoman
 bust
 busy
-busy (v.)
-but
 butcher
 butt
 butter
 button
-button (v.)
-buy
 buyer
 by
-by accident
-by myself
 bye
 cabbage
 cabin
@@ -3577,8 +3528,6 @@ calm
 calmly
 calorie
 camera
-camera (v.)
-camp
 campaign
 campfire
 camping
@@ -3598,23 +3547,17 @@ capability
 capable
 capacity
 capital
-capital (city)
-capital city
 capitalism
 capitalist
 capsule
 captain
 capture
 car
-car park
 carbon
 card
-card game
 care
 career
 careful
-careful (v.)
-carefully
 careless
 carelessly
 cargo
@@ -3623,7 +3566,6 @@ carpet
 carriage
 carrot
 carry
-carry on
 carton
 cartoon
 case
@@ -3650,7 +3592,6 @@ celebrate
 celebration
 celebrity
 cell
-cell phone
 cellar
 cellular
 cement
@@ -3681,9 +3622,6 @@ champion
 championship
 chance
 change
-change (n.)
-change (n./v.)
-channel
 chapter
 character
 characterise
@@ -3728,8 +3666,6 @@ choice
 choir
 choke
 choose
-choose (n.)
-chop
 chronic
 church
 cigarette
@@ -3741,7 +3677,6 @@ circulation
 circumstance
 citizen
 city
-city center
 civil
 civilian
 civilisation
@@ -3758,8 +3693,6 @@ classmate
 classroom
 clause
 clean
-clean (n.)
-clean up
 clear
 clearly
 clerk
@@ -3769,17 +3702,10 @@ click
 client
 climate
 climb
-climb (n.)
-climbing
 clinic
 clinical
 clip
 clock
-clock (v.)
-close
-close (adj.)
-close (v.)
-closed
 closely
 closet
 cloth
@@ -3791,8 +3717,6 @@ club
 clue
 cluster
 coach
-coach (bus/sports)
-coal
 coalition
 coast
 coastal
@@ -3821,7 +3745,6 @@ combat
 combination
 combine
 come
-come back
 comedy
 comfort
 comfortable
@@ -3864,8 +3787,6 @@ complain
 complaint
 complement
 complete
-complete (adj.)
-completely
 complex
 complexity
 compliance
@@ -3993,17 +3914,12 @@ convention
 conventional
 converge
 conversation
-conversation (v.)
-convert
 convey
 convict
 conviction
 convince
 convinced
 cook
-cook (n.)
-cook (person)
-cooker
 cookery
 cookie
 cooking
@@ -4021,9 +3937,6 @@ corner
 corporate
 corporation
 correct
-correct (adj.)
-correct (v.)
-correction
 correctly
 correspond
 correspondent
@@ -4031,8 +3944,6 @@ corridor
 corrupt
 corruption
 cost
-cost (v.)
-costly
 costume
 cottage
 cotton
@@ -4049,8 +3960,6 @@ counterfeit
 counterpart
 country
 countryside
-countryside (v.)
-county
 coup
 couple
 courage
@@ -4058,10 +3967,6 @@ course
 court
 courtesy
 cousin
-cousin (v.)
-cover
-cover (n.)
-coverage
 covered
 covering
 cow
@@ -4077,7 +3982,6 @@ creativity
 creator
 creature
 credit
-credit card
 crew
 crime
 criminal
@@ -4123,9 +4027,6 @@ curve
 custody
 custom
 customer
-customer (v.)
-cut
-cut down
 cycle
 cycling
 cylinder
@@ -4135,23 +4036,13 @@ daily
 damage
 damp
 dance
-dance (n.)
-dancer
 dancing
-dancing (v.)
-danger
 dangerous
 dare
 dark
-dark (n.)
-dark (v.)
-darkness
 data
 database
 date
-date (calendar)
-date (v.)
-daughter
 dawn
 day
 dead
@@ -4213,8 +4104,6 @@ democratic
 demonstrate
 demonstration
 dentist
-dentist (v.)
-deny
 depart
 department
 departure
@@ -4239,8 +4128,6 @@ description
 desert
 deserve
 design
-design (n.)
-designer
 desirable
 desire
 desk
@@ -4251,8 +4138,6 @@ destination
 destroy
 destruction
 detail
-detail (v.)
-detailed
 detain
 detect
 detection
@@ -4303,15 +4188,10 @@ diplomat
 diplomatic
 direct
 direction
-direction (v.)
-directly
 director
 directory
 dirt
 dirty
-dirty (adj.)
-dirty (n.)
-disability
 disabled
 disadvantage
 disagree
@@ -4341,8 +4221,6 @@ discretion
 discriminate
 discrimination
 discuss
-discuss (n.)
-discussion
 disease
 disguise
 disgust
@@ -4360,8 +4238,6 @@ dispute
 disrupt
 disruption
 distance
-distance (v.)
-distant
 distinct
 distinction
 distinctive
@@ -4375,8 +4251,6 @@ disturbance
 disturbed
 disturbing
 dive
-dive (n.)
-diverse
 diversity
 divert
 divide
@@ -4387,13 +4261,9 @@ divorce
 divorced
 do
 doctor
-doctor (v.)
-document
 documentary
 dog
 doll
-doll (v.)
-domestic
 dominant
 dominate
 donate
@@ -4409,8 +4279,6 @@ down
 downhill
 download
 downstairs
-downstairs (n.)
-downtown
 downward
 downwards
 dozen
@@ -4421,37 +4289,19 @@ drama
 dramatic
 dramatically
 draw
-draw (v.)
-drawer
 drawing
-drawing (v.)
-dread
 dream
-dream (n.)
-dream (n./v.)
-dress
-dress (v.)
-dressed
 drift
 drill
 drink
 drip
 drive
-drive (n.)
-driver
-driver (v.)
-driving
-driving licence
 drop
-drop (n.)
-drought
 drown
 drug
 drum
 drunk
 dry
-dry (n.)
-dual
 dubious
 due
 dull
@@ -4469,21 +4319,16 @@ dying
 dynamic
 e
 each
-each other
 eager
 eagerly
 ear
 early
-early (adv.)
-earn
 earnings
 earth
 earthquake
 ease
 easily
 east
-east (n.)
-eastern
 easy
 easygoing
 eat
@@ -4502,8 +4347,6 @@ editor
 educate
 educated
 education
-education (v.)
-educational
 effect
 effective
 effectively
@@ -4526,8 +4369,6 @@ elderly
 elect
 election
 electric
-electric (n.)
-electrical
 electrician
 electricity
 electronic
@@ -4545,8 +4386,6 @@ eligible
 eliminate
 elite
 else
-else (adv.)
-elsewhere
 email
 embark
 embarrass
@@ -4583,8 +4422,6 @@ encouraged
 encouragement
 encouraging
 end
-end (v.)
-endanger
 endeavor
 ending
 endless
@@ -4605,16 +4442,10 @@ engineer
 engineering
 enhance
 enjoy
-enjoy (n.)
-enjoy (v.)
-enjoyable
 enjoyment
 enormous
 enormously
 enough
-enough (adj.)
-enough (v.)
-enquiry
 enrich
 enroll
 ensure
@@ -4633,8 +4464,6 @@ entirely
 entitle
 entity
 entrance
-entrance (v.)
-entrepreneur
 entry
 envelope
 environment
@@ -4681,7 +4510,6 @@ event
 eventually
 ever
 every
-every day
 everybody
 everyday
 everyone
@@ -4697,12 +4525,8 @@ exact
 exactly
 exaggerate
 exam
-exam (v.)
-examination
 examine
 example
-example (n.)
-exceed
 excel
 excellence
 excellent
@@ -4724,10 +4548,6 @@ execute
 execution
 executive
 exercise
-exercise (n.)
-exercise (n./v.)
-exercise (v.)
-exert
 exhaust
 exhausted
 exhausting
@@ -4745,16 +4565,12 @@ expel
 expenditure
 expense
 expensive
-expensive (v.)
-experience
 experienced
 experiment
 experimental
 expert
 expertise
 explain
-explain (n.)
-explanation
 explicit
 explicitly
 explode
@@ -4777,8 +4593,6 @@ external
 externally
 extinct
 extra
-extra (n.)
-extract
 extraordinarily
 extraordinary
 extreme
@@ -4786,13 +4600,9 @@ extremely
 eye
 fabric
 face
-face (v.)
-facilitate
 facilities
 facility
 fact
-fact (n.)
-factor
 factory
 faculty
 fade
@@ -4804,43 +4614,32 @@ faith
 faithful
 faithfully
 fall
-fall (n.)
-false
 fame
 familiar
 familiarity
 family
 famous
-famous (adj.)
-fan
 fancy
 fantastic
 fantasy
 far
 fare
 farm
-farm (v.)
-farmer
 farming
 fashion
 fashionable
 fast
-fast (adv.)
-fast food
 fasten
 fat
 fatal
 fate
 father
-father-in-law
 fault
 favor
 favorable
 favorite
 favour
 favourite
-favourite (n.)
-fear
 fearful
 feasible
 feast
@@ -4851,15 +4650,11 @@ fee
 feed
 feedback
 feel
-feel (v.)
-feel like
 feeling
 fellow
 female
 fence
 festival
-festival (v.)
-fetch
 fever
 few
 fiber
@@ -4872,41 +4667,23 @@ fifteen
 fifth
 fifty
 fight
-fight (n.)
-fighting
 figure
 file
 fill
-fill (v.)
-fill in
 film
-film (v.)
-filter
 final
 finally
 finance
 financial
 find
-find (n.)
-find out
 finding
 fine
-fine (adj.)
-fine (adj./n.)
-finely
 finger
-finger (v.)
-finish
-finish (v.)
-fire
-fire (v.)
-fire station
 fireman
 fireplace
 firm
 firmly
 first
-first name
 firstly
 fiscal
 fish
@@ -4922,9 +4699,6 @@ flag
 flame
 flash
 flat
-flat (adj.)
-flat (n.)
-flavor
 flavour
 flaw
 flawless
@@ -4937,11 +4711,8 @@ flight
 float
 flood
 floor
-floor (v.)
-flour
 flow
 flower
-flower shop
 flu
 fluctuate
 fluid
@@ -4952,16 +4723,11 @@ focus
 fold
 folk
 follow
-follow (n.)
-follower
 following
 food
-food (uncountable)
-fool
 foolish
 foot
 football
-football match
 footballer
 footstep
 for
@@ -4972,11 +4738,7 @@ foreign
 forest
 forever
 forget
-forget (v.)
-forgive
 fork
-fork (v.)
-form
 formal
 formally
 format
@@ -5012,8 +4774,6 @@ frank
 frankly
 fraud
 free
-free (adj.)
-free time
 freedom
 freely
 freeze
@@ -5022,7 +4782,6 @@ freight
 frequent
 frequently
 fresh
-fresh air
 freshly
 friction
 fridge
@@ -5036,13 +4795,11 @@ fringe
 frog
 from
 front
-front door
 frontier
 frost
 frown
 frozen
 fruit
-fruit juice
 frustrate
 frustrated
 frustrating
@@ -5052,7 +4809,6 @@ fuel
 fulfil
 fulfill
 full
-full name
 fully
 fun
 function
@@ -5064,8 +4820,6 @@ funding
 funeral
 funfair
 funny
-funny (n.)
-fur
 furious
 furniture
 further
@@ -5078,22 +4832,15 @@ gallon
 gamble
 gambling
 game
-game (n.)
-game show
 gang
 gap
 garage
-garage sale
 garbage
 garden
-garden (v.)
-garden center
 gardener
 garlic
 gas
 gate
-gate (v.)
-gather
 gauge
 gay
 gaze
@@ -5117,51 +4864,24 @@ genuine
 genuinely
 geographic
 geography
-geography (v.)
-geological
 geology
 gesture
 get
-get back
-get dressed
-get married
 ghost
 giant
 gift
-gift shop
 girl
-girl (v.)
-girlfriend
-girlfriend (v.)
-give
-give up
 glad
-glad (v.)
-glance
 glass
-glass (n.)
-glass (v.)
-glimpse
 global
 globe
 glory
 glove
 gloves
 go
-go ahead
-go back
-go down
-go out
-go shopping
-go to bed
-go up
 goal
 god
 gold
-gold (adj.)
-good
-good at
-good-looking
 goodbye
 goodness
 goods
@@ -5183,12 +4903,8 @@ grandchild
 grandchildren
 granddaughter
 grandfather
-grandfather (v.)
-grandma
 grandmother
 grandparent
-grandparent (v.)
-grandparents
 grandson
 grant
 grape
@@ -5208,24 +4924,18 @@ greet
 greeting
 grey
 ground
-ground floor
 group
 grow
-grow (v.)
-grow up
 growth
 guarantee
 guard
 guardian
 guess
-guess (n.)
-guest
 guesthouse
 guide
 guideline
 guilty
 guitar
-guitar lesson
 gun
 guy
 gym
@@ -5237,25 +4947,15 @@ hairbrush
 haircut
 hairdresser
 half
-half (adv.)
-hall
 halt
 hand
-hand (n.)
-hand (v.)
-handbag
 handball
 handle
 hang
 happen
-happen (n.)
-happen (v.)
-happily
 happiness
 happy
 hard
-hard (adv.)
-hard-working
 hardly
 hardship
 hardware
@@ -5267,11 +4967,8 @@ hat
 hate
 hatred
 have
-have to
 he
 head
-head (v.)
-headache
 heading
 headquarters
 headteacher
@@ -5279,15 +4976,8 @@ heal
 health
 healthcare
 healthy
-healthy food
 hear
-hear (n.)
-hearing
 heart
-heart (v.)
-heat
-heat (v.)
-heating
 heaven
 heavily
 heavy
@@ -5296,12 +4986,7 @@ heel
 height
 helicopter
 hello
-hello (int.)
-helmet
 help
-help (n.)
-help (v.)
-helpful
 helpless
 hence
 her
@@ -5312,16 +4997,11 @@ herself
 hesitate
 hey
 hi
-hi-fi
 hide
 high
-high (adv.)
-highlight
 highly
 highway
 hill
-hill (v.)
-him
 himself
 hinder
 hint
@@ -5334,33 +5014,20 @@ historically
 history
 hit
 hobby
-hobby (n.)
-hobby (v.)
-hold
-hold (n.)
-hole
 holiday
-holiday (v.)
-holiday plan
 hollow
 holy
 home
-home address
-home page
 homeless
 homepage
 hometown
 homework
-homework (v.)
-honest
 honestly
 honey
 honor
 honour
 hook
 hope
-hope (n.)
-hopeful
 hopefully
 hopeless
 horizon
@@ -5370,20 +5037,11 @@ horrible
 horribly
 horror
 horse
-horse (v.)
-hospital
-hospital (n.)
-hospital (v.)
-host
 hostel
 hostile
 hostility
 hot
-hot (adv.)
-hotel
 hour
-hour (v.)
-house
 household
 housework
 housing
@@ -5399,26 +5057,15 @@ humour
 hundred
 hunger
 hungry
-hungry (adj.)
-hunt
 hunter
 hunting
 hurricane
 hurry
 hurt
-hurt (adj.)
-husband
-husband (v.)
-hydrogen
 hypothesis
 ice
-ice (n.)
-ice cream
-ice-skating
 icon
 idea
-idea (n.)
-ideal
 ideally
 identical
 identification
@@ -5460,28 +5107,36 @@ important
 importantly
 impose
 impossible
+imprecation
 impress
 impressed
 impression
 impressive
 impressively
 imprison
+impromptu
 improve
-improve (n.)
-improvement
+improvident
 impulse
+impunity
+imputation
 in
-in fact
-in front
-in front of
 inability
 inadequate
+inamorata
+incantation
 incapable
+incarnation
+incendiary
 inch
 incident
+incise
+incivility
 include
 including
+incoherence
 income
+incongruous
 incorporate
 incorrect
 increase
@@ -5489,7 +5144,11 @@ increased
 increasingly
 incredible
 incredibly
+inculpate
+incumbent
 indeed
+indefeasible
+indemnity
 independence
 independent
 independently
@@ -5497,14 +5156,22 @@ index
 indicate
 indication
 indicative
+indignant
+indisposed
 individual
+indolence
 indoor
 indoors
+inductive
 industrial
 industry
+inefficacy
 inevitable
 inevitably
+inexpiable
+infamy
 infant
+infatuation
 infect
 infected
 infection
@@ -5512,25 +5179,35 @@ infectious
 infer
 inference
 inferior
+infiltrate
 infinite
+infinitesimal
+infirmity
 inflation
+inflection
 influence
 inform
 informal
 informally
+informant
 information
-information (uncountable)
-information center
+infraction
 infrastructure
+infuriate
+inglorious
+ingrained
+ingratiate
 ingredient
 inherit
 inhibit
+iniquitous
 initial
 initially
 initiate
 initiative
 inject
 injection
+injunction
 injure
 injured
 injury
@@ -5539,15 +5216,19 @@ inner
 innocent
 innovation
 innovative
+innuendo
 input
 inquire
 inquiry
+inquisition
 insane
 insect
+insensate
 insert
 inside
-inside (prep.)
-insight
+insidiousness
+insinuation
+insipidness
 insist
 inspect
 inspection
@@ -5557,6 +5238,7 @@ install
 installation
 instance
 instant
+instantiation
 instantly
 instead
 instinct
@@ -5568,7 +5250,9 @@ instructions
 instructor
 instrument
 insult
+insuperably
 insurance
+insurrection
 intact
 integral
 integrate
@@ -5577,6 +5261,7 @@ integrity
 intellectual
 intelligence
 intelligent
+intemperate
 intend
 intended
 intense
@@ -5586,14 +5271,15 @@ intention
 interact
 interaction
 interactive
+intercede
 interest
 interested
 interesting
-interesting (adj.)
-interface
 interfere
 interference
 interior
+interloper
+interminable
 internal
 internally
 international
@@ -5602,16 +5288,21 @@ interpret
 interpretation
 interrupt
 interruption
+interstice
 interval
 intervene
 intervention
 interview
-interview (v.)
-into
+intonation
 introduce
 introduction
+introspection
+inundate
+inure
 invade
 invasion
+invective
+inveigh
 invent
 invention
 inventor
@@ -5619,76 +5310,69 @@ invest
 investigate
 investigation
 investor
+inveterate
+invidiously
 invisible
 invitation
 invite
-invite (n.)
-invite (v.)
-involve
 involved
 involvement
+iota
+iridescent
 iron
 ironic
 ironically
 irony
 is
 island
-island (v.)
-isolate
 isolated
 isolation
 issue
 it
 item
+itinerancy
 its
 itself
 jacket
-jacket (v.)
-jail
 jam
 jazz
 jealous
 jealousy
 jeans
-jeans (v.)
-jet
+jejune
+jettison
 jewel
 jewellery
 job
-job (v.)
-join
-join (v.)
-join in
+jocosity
 joint
 jointly
 joke
+jollity
+jostle
 journal
 journalist
 journey
 joy
+jubilant
+judder
 judge
 judgment
 judicial
 juice
 jump
-jump (n.)
-jump (v.)
-jumper
 junior
 junk
 jury
 just
-just now
 justice
 justify
+juxtaposition
 keen
 keenly
 keep
-keep going
 ketchup
 key
-key (adj.)
-keyboard
 kick
 kid
 kill
@@ -5697,31 +5381,34 @@ killing
 kilogram
 kilometre
 kind
-kind (adj.)
-kind of
 kindly
 kindness
 king
 kingdom
+kismet
 kiss
 kit
 kitchen
-kitchen (v.)
-kitten
+knavery
 knee
 kneel
 knife
 knock
 know
 knowledge
+kowtow
 label
 labor
 laboratory
 labour
+labyrinthine
+lachrymal
 lack
+lackadaisical
 lady
 lake
 lamb
+lambaste
 lamp
 land
 landing
@@ -5729,25 +5416,21 @@ landlord
 landscape
 lane
 language
-language (v.)
-laptop
+languish
+lapidary
 large
 largely
+lascivious
 last
-last name
 late
-late (adv.)
-lately
+latency
 later
 latest
 latter
 laugh
-laugh (n.)
-laugh (v.)
-launch
+laurels
 law
-law (v.)
-lawyer
+laxity
 lay
 layer
 layout
@@ -5757,110 +5440,80 @@ leader
 leadership
 leading
 leaf
-leaf (v.)
-league
 lean
 learn
-learn (v.)
-learn about
 learning
 least
 leather
 leave
-leave (n.)
-leave (v.)
-lecture
+lechery
 lecturer
+leer
 left
-left (n.)
-leg
-leg (v.)
-legal
 legally
 legend
+legerity
 leisure
 lemon
 lemonade
 lend
 length
+leniency
 lens
 less
-less than
 lesson
-lesson (v.)
-let
+lethality
 letter
 level
+levitate
+lexicon
+libelous
 liberal
 liberation
 liberty
 library
-library (v.)
-licence
 license
+licentiate
 lie
-lie (v.)
-life
-life (n.)
-lift
-lift (n.)
-light
-light (adj.)
-light (adj./n.)
-light (v.)
-lighting
+lien
 lightly
+ligneous
 like
-like (prep./v.)
-likely
+liminality
 limit
 limited
 line
-line (v.)
-linear
 linguistic
 link
 lion
+lionize
 lip
 liquid
 list
-list (v.)
-listen
-listen to
 listener
 literacy
 literally
 literary
 literature
+lithe
 litre
 little
-little (adv.)
-live
 lively
+livid
 living
 load
 loan
 local
-local area
 locally
 locate
 location
 lock
-lock (n.)
-log
 logic
 logical
 logically
 loneliness
 lonely
-lonely (adj.)
-long
-long-term
 look
-look after
-look at
-look for
-look like
 loose
 loosely
 lord
@@ -5870,63 +5523,61 @@ loss
 lost
 lot
 loud
-loud (adj.)
-loudly
 love
-love (n.)
-love (v.)
-lovely
 lover
 low
 lower
 loyal
 loyalty
+lubricious
 luck
 lucky
-lucky (adj.)
-luggage
+lucubration
+ludic
+lugubriousness
+luminary
 lump
 lunch
-lunch (v.)
-lunch break
 lunchtime
 lung
+lurk
+luxuriate
 luxury
 lyrics
+macabre
+machinate
 machine
-machine (n.)
-machine (v.)
-mad
 madly
+madrigal
 magazine
-magazine (n.)
-magazine (v.)
-magic
 magical
 magnetic
 magnificent
+magniloquent
 mail
-mail (n.)
-main
-main course
 mainly
 maintain
 maintenance
 major
 majority
 make
-make a decision
-make sure
-make up
-make-up
+maladroit
+malcontent
 male
+malefactor
+malevolence
+malfeasant
 mall
+malodorous
 mammal
 man
+manacle
 manage
 management
 manager
+mandamus
 mandate
+maniacal
 manipulate
 manipulation
 mankind
@@ -5936,58 +5587,38 @@ manual
 manufacture
 manufacturer
 manufacturing
+manumission
 many
 map
-map (n.)
-map (v.)
-marble
 march
 margin
 marginal
 mark
 market
-market (v.)
-marketing
+marplot
 marriage
 married
 marry
-marry (n.)
-marry (v.)
-mask
+martyrdom
 mass
 massive
 master
 match
-match (v.)
-mate
 material
 maternal
 math
-math (v.)
-mathematics
 maths
+matronly
 matter
+maw
 maximum
 may
-may (v.)
-maybe
-maybe (adv.)
-mayor
 me
 meal
-meal (n.)
-meal (v.)
-mean
-mean (adj.)
-mean (v.)
-meaning
 meanwhile
 measure
 measurement
 meat
-meat (n.)
-meat (v.)
-mechanic
 mechanical
 mechanism
 medal
@@ -5997,50 +5628,40 @@ medicine
 medieval
 medium
 meet
-meet (v.)
-meeting
+melee
 melt
 member
-member (v.)
-membership
 memory
+mendacity
+menial
 mental
 mentally
 mention
 menu
-menu (v.)
-mere
 merely
 merge
 merit
+meritorious
+mesmerism
 mess
 message
-message (v.)
-message board
 messy
 metal
-metal (n.)
-metaphor
 meter
-meter (v.)
-method
 metre
+mettle
 microphone
 microscopic
 mid
-mid-
 middle
-middle (adj.)
-midnight
+mien
+miff
 might
-might (v.)
-mild
 mile
 mileage
 military
 milk
-milk (v.)
-milligram
+milksop
 millilitre
 millimetre
 million
@@ -6048,133 +5669,116 @@ mind
 mine
 mineral
 minimum
+minion
 minister
 ministry
 minor
 minority
 minus
 minute
-minute (v.)
-miracle
 mirror
+mirth
+misanthropy
+miscreant
+miser
 misery
+misogyny
 miss
-miss (v.)
-missile
 missing
-missing (adj.)
-mission
+missive
 mistake
-mistake (v.)
-mistaken
 mistakenly
 mix
 mixed
 mixture
+mnemonic
 mobile
-mobile phone
 mobility
 model
 moderate
 moderately
 modern
-modern (adj.)
-modest
 modestly
 modify
+modish
+moiety
+mollusk
 moment
-moment (v.)
-money
-money (v.)
-monitor
 monk
 monkey
+monolithic
 monopoly
 monster
 month
-month (v.)
-monthly
 mood
 moon
-moon (v.)
-moonlight
+moot
 moral
 morally
+morass
 more
-more or less
-more than
 moreover
 morning
-morning (v.)
-morning routine
 mortal
 mortgage
 mosquito
 most
-most of the time
 mostly
 mother
-mother (v.)
-motion
 motivate
 motivation
 motive
+motley
 motor
 motorbike
 motorcycle
 mount
 mountain
-mountain (v.)
-mountain bike
+mountebank
 mouse
-mouse (v.)
-mouth
 move
-move (n.)
-move (v.)
-movement
 movie
-movie star
 much
-much (adj.)
-much (adv.)
-mud
 mug
+mulish
 multiple
 multiply
+munificence
 murder
 muscle
+muse
 museum
-museum (n.)
-museum (v.)
-music
-music band
 musical
 musician
 must
-must (v.)
-mutual
+musty
+mutiny
 mutually
 my
+myriad
+myrmidon
 myself
-myself (pron.)
-mysterious
 mysteriously
 mystery
+mystique
 myth
+nadir
 nail
+naivete
 naked
 name
 napkin
+narcissism
 narrative
 narrow
 narrowly
+nascence
 nasty
+natal
 nation
 national
 nationality
-nationality (v.)
-native
+natty
 natural
 naturally
 nature
@@ -6184,18 +5788,13 @@ navigation
 near
 nearby
 nearly
-nearly (adv.)
-neat
 neatly
+nebulousness
 necessarily
 necessary
 necessity
 neck
-neck (v.)
-need
-need (n.)
-need (v.)
-needle
+nefariousness
 negative
 negatively
 neglect
@@ -6206,156 +5805,132 @@ neighbor
 neighbour
 neighbourhood
 neither
+neologistic
+nepotism
 nerve
 nervous
-nervous (adj.)
-nervously
 nest
 net
 network
 neutral
 never
-never (adv.)
-never mind
 nevertheless
 new
-new year
 newly
 news
-news (n.)
-news (v.)
-newspaper
-newspaper (v.)
-next
-next door
-next to
+nexus
 nice
-nice to meet you
 nicely
+niggardly
 night
-night (v.)
-nightmare
+nihilism
+nimble
 nine
 nineteen
 ninety
 no
-no one
 nobody
 noise
-noise (v.)
-noisy
+noiseless
+nomenclature
 nominate
 nomination
-non-
+nonchalance
 none
-none of
 nonetheless
+nonpareil
 norm
 normal
-normal (adj.)
-normally
 north
-north (n.)
-northern
 nose
 not
 notable
 notably
 note
 notebook
-notebook (n.)
-notebook (v.)
-nothing
-nothing special
 notice
 notion
+notoriety
 notorious
 noun
 novel
+novice
 now
-now (adv.)
-now and then
 nowhere
+noxious
+nuance
 nuclear
 nude
+nugget
 nuisance
+nullify
 number
-number (v.)
-numerous
+numinous
+nuptial
 nurse
-nurse (n.)
-nurse (v.)
-nursing
 nut
 nutrition
+obduracy
 obedient
+obeisance
 obey
+obfuscation
 object
-object (n.)
-objection
 objective
+objurgate
+oblation
 obligation
 oblige
+obliqueness
+obliviousness
 obscure
+obsequiousness
 observation
 observe
 observer
 obsession
+obsolescence
+obstinacy
 obtain
+obtrude
+obtuse
+obviate
 obvious
 obviously
 occasion
 occasional
 occasionally
+occlusion
 occupation
 occupy
 occur
 occurrence
 ocean
-ocean (v.)
-odd
 oddly
 of
 off
-off (adj.)
-off-set
-off-spring
 offence
 offend
 offensive
 offer
-offer (n.)
-office
-office worker
 officer
 official
 officially
+officiousness
 often
-often (adv.)
-oh
 oil
 old
-old-fashioned
 olive
+omnipotent
 on
-on the left
-on the right
 once
-once a week
 one
-one more
 ongoing
 onion
 online
-online shopping
 only
-only (adv.)
-only child
 onto
 open
-open (adj.)
-open (n.)
-opening
 openly
 operate
 operation
@@ -6368,8 +5943,6 @@ oppose
 opposed
 opposing
 opposite
-opposite (adj.)
-opposition
 opt
 optic
 optical
@@ -6379,12 +5952,9 @@ option
 or
 oral
 orange
-orange juice
 orbit
 orchestra
 order
-order (n.)
-ordinary
 organ
 organic
 organisation
@@ -6412,12 +5982,8 @@ outfit
 outline
 output
 outside
-outside (adj.)
-outside (adv.)
-outstanding
 oven
 over
-over there
 overall
 overcome
 overflow
@@ -6426,11 +5992,7 @@ overlook
 overnight
 owe
 own
-own (adj.)
-own (v.)
-owner
 ownership
-o’clock
 pace
 pack
 package
@@ -6438,18 +6000,11 @@ packed
 pad
 paddle
 page
-page (n.)
-page (v.)
-pain
 painful
 painfully
 paint
-paint (n.)
-paint (v.)
-painter
 painting
 pair
-pair of shoes
 palace
 pale
 palm
@@ -6458,25 +6013,16 @@ panel
 panic
 pant
 paper
-paper (uncountable)
-parachute
 parade
 paradise
 paragraph
 parallel
 parameter
 parent
-parent (n.)
-parent (v.)
-parental
 park
-park (n.)
-park (v.)
-parking
 parliament
 parliamentary
 part
-part-time
 participant
 participate
 participation
@@ -6487,11 +6033,7 @@ partly
 partner
 partnership
 party
-party (v.)
-party hat
 pass
-pass (v.)
-passage
 passenger
 passion
 passionate
@@ -6499,57 +6041,40 @@ passionately
 passive
 passport
 past
-past (n.)
-path
 patience
 patient
-patient (adj.)
-pattern
 pause
 pave
 pavement
 pay
-pay (n.)
-payment
 peace
 peaceful
 peacefully
 peak
 peer
 pen
-pen (v.)
-penalty
 pencil
-pencil case
 penetrate
 penetration
 penny
 pension
 people
-people (v.)
-pepper
 per
 perceive
 percent
 percentage
 perception
 perfect
-perfect (adj.)
-perfectly
 perform
 performance
 performer
 perhaps
-perhaps (adv.)
-period
 permanent
 permanently
 permission
 permit
 persistent
 person
-person (v.)
-personal
 personality
 personally
 personnel
@@ -6561,11 +6086,7 @@ phase
 phenomenon
 philosophy
 phone
-phone (v.)
-phone call
 photo
-photo (v.)
-photocopy
 photograph
 photographer
 photography
@@ -6579,8 +6100,6 @@ piano
 pick
 picture
 piece
-piece (n.)
-pig
 pile
 pill
 pilot
@@ -6610,8 +6129,6 @@ plea
 pleasant
 pleasantly
 please
-please (v.)
-pleased
 pleasure
 pledge
 plenty
@@ -6620,15 +6137,12 @@ plough
 plug
 plus
 pocket
-pocket (v.)
-poem
 poet
 poetry
 point
 pointed
 pole
 police
-police officer
 policeman
 policy
 political
@@ -6640,12 +6154,8 @@ pollution
 pond
 pool
 poor
-poor (adv.)
-poorly
 pop
 popular
-popular (adv.)
-popularity
 population
 port
 pose
@@ -6694,8 +6204,6 @@ prepare
 prescription
 presence
 present
-present (v.)
-presentation
 preserve
 president
 presidential
@@ -6711,8 +6219,6 @@ prevent
 previous
 previously
 price
-price (v.)
-pride
 priest
 primarily
 primary
@@ -6736,8 +6242,6 @@ probable
 probably
 probe
 problem
-problem (v.)
-procedure
 proceed
 process
 produce
@@ -6751,8 +6255,6 @@ profile
 profit
 profound
 program
-program (v.)
-progress
 progressive
 prohibit
 project
@@ -6806,8 +6308,6 @@ purchase
 pure
 purely
 purple
-purple (v.)
-purpose
 pursue
 pursuit
 push
@@ -6817,18 +6317,12 @@ qualify
 quality
 quantity
 quarter
-quarter (n.)
-queen
 query
 quest
 question
 queue
 quick
-quick (adv.)
-quickly
 quiet
-quiet (n.)
-quietly
 quit
 quite
 quiz
@@ -6868,8 +6362,6 @@ realistically
 reality
 realize
 really
-really (adv.)
-rear
 reason
 reasonable
 reasonably
@@ -6943,8 +6435,6 @@ remarkable
 remarkably
 remedy
 remember
-remember (v.)
-remind
 remote
 remove
 render
@@ -7020,8 +6510,6 @@ rice
 rich
 rid
 ride
-ride (v.)
-rider
 rifle
 right
 rigid
@@ -7605,7 +7093,6 @@ terror
 terrorist
 test
 text
-text message
 textbook
 than
 thank
@@ -7822,7 +7309,6 @@ upon
 upper
 upset
 upsetting
-upside down
 upstairs
 upward
 upwards
@@ -7946,13 +7432,11 @@ weight
 welcome
 welfare
 well
-well-known
 west
 western
 wet
 whale
 what
-what's up
 whatever
 wheat
 wheel
@@ -8051,622 +7535,3 @@ zero
 zip
 zone
 zoo
-در ادامه، آخرین بخش واژگان غیرتکراری سطح بالا از ۸۰۱ تا ۱۰۰۰ را مشاهده می‌کنید:
-
-
----
-
-۸۰۱ تا ۹۰۰:
-
-801. imprecation
-
-
-802. impromptu
-
-
-803. improvident
-
-
-804. impunity
-
-
-805. imputation
-
-
-806. inamorata
-
-
-807. incantation
-
-
-808. incarnation
-
-
-809. incendiary
-
-
-810. incise
-
-
-811. incivility
-
-
-812. incoherence
-
-
-813. incongruous
-
-
-814. inculpate
-
-
-815. incumbent
-
-
-816. indefeasible
-
-
-817. indemnity
-
-
-818. indignant
-
-
-819. indisposed
-
-
-820. indolence
-
-
-821. inductive
-
-
-822. inefficacy
-
-
-823. inexpiable
-
-
-824. infamy
-
-
-825. infatuation
-
-
-826. infiltrate
-
-
-827. infinitesimal
-
-
-828. infirmity
-
-
-829. inflection
-
-
-830. informant
-
-
-831. infraction
-
-
-832. infuriate
-
-
-833. inglorious
-
-
-834. ingrained
-
-
-835. ingratiate
-
-
-836. iniquitous
-
-
-837. injunction
-
-
-838. innuendo
-
-
-839. inquisition
-
-
-840. insensate
-
-
-841. insidiousness
-
-
-842. insinuation
-
-
-843. insipidness
-
-
-844. instantiation
-
-
-845. insuperably
-
-
-846. insurrection
-
-
-847. intemperate
-
-
-848. intercede
-
-
-849. interloper
-
-
-850. interminable
-
-
-851. interstice
-
-
-852. intonation
-
-
-853. introspection
-
-
-854. inundate
-
-
-855. inure
-
-
-856. invective
-
-
-857. inveigh
-
-
-858. inveterate
-
-
-859. invidiously
-
-
-860. iota
-
-
-861. iridescent
-
-
-862. irony
-
-
-863. itinerancy
-
-
-864. jejune
-
-
-865. jettison
-
-
-866. jocosity
-
-
-867. jollity
-
-
-868. jostle
-
-
-869. jubilant
-
-
-870. judder
-
-
-871. juxtaposition
-
-
-872. kismet
-
-
-873. knavery
-
-
-874. kowtow
-
-
-875. labyrinthine
-
-
-876. lachrymal
-
-
-877. lackadaisical
-
-
-878. lambaste
-
-
-879. languish
-
-
-880. lapidary
-
-
-881. lascivious
-
-
-882. latency
-
-
-883. laurels
-
-
-884. laxity
-
-
-885. lechery
-
-
-886. leer
-
-
-887. legerity
-
-
-888. leniency
-
-
-889. lethality
-
-
-890. levitate
-
-
-891. lexicon
-
-
-892. libelous
-
-
-893. licentiate
-
-
-894. lien
-
-
-895. ligneous
-
-
-896. liminality
-
-
-897. lionize
-
-
-898. lithe
-
-
-899. livid
-
-
-900. lubricious
-
-
-
-
----
-
-۹۰۱ تا ۱۰۰۰:
-
-901. lucubration
-
-
-902. ludic
-
-
-903. lugubriousness
-
-
-904. luminary
-
-
-905. lurk
-
-
-906. luxuriate
-
-
-907. macabre
-
-
-908. machinate
-
-
-909. madrigal
-
-
-910. magniloquent
-
-
-911. maladroit
-
-
-912. malcontent
-
-
-913. malefactor
-
-
-914. malevolence
-
-
-915. malfeasant
-
-
-916. malodorous
-
-
-917. manacle
-
-
-918. mandamus
-
-
-919. maniacal
-
-
-920. manumission
-
-
-921. marplot
-
-
-922. martyrdom
-
-
-923. matronly
-
-
-924. maw
-
-
-925. mealy-mouthed
-
-
-926. melee
-
-
-927. mendacity
-
-
-928. menial
-
-
-929. meritorious
-
-
-930. mesmerism
-
-
-931. mettle
-
-
-932. mien
-
-
-933. miff
-
-
-934. milksop
-
-
-935. minion
-
-
-936. mirth
-
-
-937. misanthropy
-
-
-938. miscreant
-
-
-939. miser
-
-
-940. misogyny
-
-
-941. missive
-
-
-942. mnemonic
-
-
-943. modish
-
-
-944. moiety
-
-
-945. mollusk
-
-
-946. monolithic
-
-
-947. moot
-
-
-948. morass
-
-
-949. motley
-
-
-950. mountebank
-
-
-951. mulish
-
-
-952. munificence
-
-
-953. muse
-
-
-954. musty
-
-
-955. mutiny
-
-
-956. myrmidon
-
-
-957. myriad
-
-
-958. mystique
-
-
-959. nadir
-
-
-960. naivete
-
-
-961. narcissism
-
-
-962. nascence
-
-
-963. natal
-
-
-964. natty
-
-
-965. nebulousness
-
-
-966. nefariousness
-
-
-967. neologistic
-
-
-968. nepotism
-
-
-969. nexus
-
-
-970. niggardly
-
-
-971. nihilism
-
-
-972. nimble
-
-
-973. noiseless
-
-
-974. nomenclature
-
-
-975. nonchalance
-
-
-976. nonpareil
-
-
-977. notoriety
-
-
-978. novice
-
-
-979. noxious
-
-
-980. nuance
-
-
-981. nugget
-
-
-982. nullify
-
-
-983. numinous
-
-
-984. nuptial
-
-
-985. obduracy
-
-
-986. obeisance
-
-
-987. obfuscation
-
-
-988. objurgate
-
-
-989. oblation
-
-
-990. obliqueness
-
-
-991. obliviousness
-
-
-992. obsequiousness
-
-
-993. obsolescence
-
-
-994. obstinacy
-
-
-995. obtrude
-
-
-996. obtuse
-
-
-997. obviate
-
-
-998. occlusion
-
-
-999. officiousness
-
-
-1000. omnipotent
-
-
-
-
----
-
-✅ با این ۱۰۰۰ واژه، مجموعه شما اکنون به حدود ۱۰٬۰۰۰ واژه بدون تکرار رسیده است.
-اگر خواستی همه را در یک فایل متنی جداگانه یا اکسل برایت آماده کنم، کافی است بگویی.
