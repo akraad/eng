@@ -15,6 +15,14 @@
         body {
             font-family: 'Vazirmatn', sans-serif;
         }
+        /* استایل سفارشی برای دکمه toggle */
+        .toggle-checkbox:checked {
+            right: 0;
+            border-color: #2563eb; /* blue-600 */
+        }
+        .toggle-checkbox:checked + .toggle-label {
+            background-color: #2563eb; /* blue-600 */
+        }
     </style>
 </head>
 <body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
@@ -44,6 +52,18 @@
         </div>
 
         <!--
+          بخش تنظیمات
+        -->
+        <div id="settings" class="hidden bg-gray-50 rounded-lg p-4 flex items-center justify-between">
+            <span class="font-semibold text-gray-700">فقط لغات انگلیسی باقی بمانند:</span>
+            <div class="relative inline-block w-10 mr-2 align-middle select-none transition duration-200 ease-in">
+                <input type="checkbox" name="toggle" id="englishOnlyToggle" class="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 appearance-none cursor-pointer"/>
+                <label for="englishOnlyToggle" class="toggle-label block overflow-hidden h-6 rounded-full bg-gray-300 cursor-pointer"></label>
+            </div>
+        </div>
+
+
+        <!--
           بخش نمایش نتایج
         -->
         <div id="results" class="hidden bg-gray-50 rounded-lg p-6 space-y-4">
@@ -70,32 +90,25 @@
     </div>
 
     <script>
-        // تعریف متغیر برای نگهداری محتوای قابل دانلود
+        // تعریف متغیرهای سراسری
         let downloadableContent = '';
+        let originalWords = []; // برای نگهداری لیست اولیه کلمات پس از خواندن فایل
 
+        // دریافت عناصر DOM
         const dropZone = document.getElementById('dropZone');
         const fileInput = document.getElementById('fileInput');
         const fileNameDisplay = document.getElementById('fileName');
+        const settingsDiv = document.getElementById('settings');
+        const englishOnlyToggle = document.getElementById('englishOnlyToggle');
         const resultsDiv = document.getElementById('results');
         const totalCountSpan = document.getElementById('totalCount');
         const uniqueCountSpan = document.getElementById('uniqueCount');
         const downloadBtn = document.getElementById('downloadBtn');
 
-        // باز کردن پنجره انتخاب فایل با کلیک روی ناحیه مشخص شده
+        // رویدادهای مربوط به بارگذاری فایل
         dropZone.addEventListener('click', () => fileInput.click());
-        
-        // جلوگیری از رفتار پیش‌فرض مرورگر هنگام کشیدن فایل
-        dropZone.addEventListener('dragover', (e) => {
-            e.preventDefault();
-            dropZone.classList.add('border-blue-500', 'bg-blue-50');
-        });
-
-        dropZone.addEventListener('dragleave', (e) => {
-            e.preventDefault();
-            dropZone.classList.remove('border-blue-500', 'bg-blue-50');
-        });
-
-        // پردازش فایل رها شده
+        dropZone.addEventListener('dragover', (e) => { e.preventDefault(); dropZone.classList.add('border-blue-500', 'bg-blue-50'); });
+        dropZone.addEventListener('dragleave', (e) => { e.preventDefault(); dropZone.classList.remove('border-blue-500', 'bg-blue-50'); });
         dropZone.addEventListener('drop', (e) => {
             e.preventDefault();
             dropZone.classList.remove('border-blue-500', 'bg-blue-50');
@@ -105,17 +118,16 @@
                 handleFile(files[0]);
             }
         });
-
-        // پردازش فایل انتخاب شده
         fileInput.addEventListener('change', (event) => {
             const file = event.target.files[0];
-            if (file) {
-                handleFile(file);
-            }
+            if (file) handleFile(file);
         });
 
+        // رویداد مربوط به تغییر وضعیت دکمه فیلتر
+        englishOnlyToggle.addEventListener('change', processAndDisplayWords);
+
         /**
-         * تابع اصلی برای خواندن و پردازش فایل
+         * فایل را خوانده و پردازش اولیه را انجام می‌دهد.
          * @param {File} file - فایل متنی برای پردازش
          */
         function handleFile(file) {
@@ -127,63 +139,75 @@
             fileNameDisplay.textContent = `فایل انتخاب شده: ${file.name}`;
             const reader = new FileReader();
 
-            // این تابع پس از اتمام خواندن فایل اجرا می‌شود
             reader.onload = function(e) {
-                const content = e.target.result;
+                let content = e.target.result;
 
-                // **منطق پردازش بهبود یافته**
-                // 1. ابتدا تمام کاماها را با خط جدید (newline) جایگزین می‌کنیم تا فرمت یکپارچه شود.
+                // 1. حذف تمام متن‌های داخل پرانتز
+                content = content.replace(/\s*\(.*?\)\s*/g, ' ');
+
+                // 2. جایگزینی کاما با خط جدید برای یکپارچه‌سازی
                 const standardizedContent = content.replace(/,/g, '\n');
 
-                // 2. محتوای یکپارچه شده را بر اساس خط جدید تقسیم می‌کنیم.
+                // 3. تقسیم محتوا به آیتم‌های جداگانه
                 const linesAndWords = standardizedContent.split('\n');
 
-                // 3. هر آیتم را پاکسازی می‌کنیم: شماره‌ها را حذف و فاصله‌های اضافی را می‌گیریم.
-                // سپس کلمات خالی را فیلتر می‌کنیم.
-                const allWords = linesAndWords
+                // 4. پاکسازی هر آیتم و ذخیره در آرایه اولیه
+                originalWords = linesAndWords
                     .map(item => 
                         item
-                            .replace(/^\d+\.\s*/, '') // حذف شماره‌گذاری مانند "1774. "
-                            .trim() // حذف فاصله‌های خالی از ابتدا و انتها
+                            .replace(/^\d+\.\s*/, '') // حذف شماره‌گذاری
+                            .trim() // حذف فاصله‌های اضافی
                     )
                     .filter(word => word); // حذف آیتم‌های خالی
 
-                // 4. با استفاده از Set یک آرایه از کلمات منحصربه‌فرد ایجاد می‌کند
-                const uniqueWords = [...new Set(allWords)];
-
-                // 5. تعداد کل و تعداد منحصربه‌فرد را در صفحه نمایش می‌دهد
-                totalCountSpan.textContent = allWords.length;
-                uniqueCountSpan.textContent = uniqueWords.length;
-                resultsDiv.classList.remove('hidden');
-
-                // 6. محتوای نهایی برای دانلود را آماده می‌کند (کلمات مرتب شده)
-                downloadableContent = uniqueWords.sort().join('\n');
+                // 5. نمایش تنظیمات و پردازش نهایی
+                settingsDiv.classList.remove('hidden');
+                processAndDisplayWords();
             };
 
-            // شروع خواندن فایل به صورت متن
             reader.readAsText(file);
         }
 
-        // افزودن رویداد کلیک به دکمه دانلود
+        /**
+         * کلمات را بر اساس تنظیمات فیلتر کرده و نتایج را نمایش می‌دهد.
+         */
+        function processAndDisplayWords() {
+            if (originalWords.length === 0) return;
+
+            let wordsToProcess = [...originalWords];
+
+            // 1. اگر دکمه فیلتر فعال بود، فقط کلمات انگلیسی را نگه دار
+            if (englishOnlyToggle.checked) {
+                // این عبارت منظم چک می‌کند که آیا رشته فقط از حروف انگلیسی تشکیل شده است یا خیر
+                const englishOnlyRegex = /^[a-zA-Z]+$/;
+                wordsToProcess = wordsToProcess.filter(word => englishOnlyRegex.test(word));
+            }
+
+            // 2. ایجاد لیست کلمات غیرتکراری
+            const uniqueWords = [...new Set(wordsToProcess)];
+
+            // 3. به‌روزرسانی تعداد در صفحه
+            totalCountSpan.textContent = wordsToProcess.length;
+            uniqueCountSpan.textContent = uniqueWords.length;
+            resultsDiv.classList.remove('hidden');
+
+            // 4. آماده‌سازی محتوای قابل دانلود (مرتب شده بر اساس حروف الفبا)
+            downloadableContent = uniqueWords.sort().join('\n');
+        }
+
+        // رویداد مربوط به دکمه دانلود
         downloadBtn.addEventListener('click', function() {
             if (!downloadableContent) {
-                alert('ابتدا یک فایل را پردازش کنید.');
+                alert('محتوایی برای دانلود وجود ندارد. ابتدا یک فایل را پردازش کنید.');
                 return;
             }
 
-            // 1. ایجاد یک Blob (Binary Large Object) از محتوای متنی
             const blob = new Blob([downloadableContent], { type: 'text/plain;charset=utf-8' });
-
-            // 2. ایجاد یک لینک موقت در حافظه برای دانلود
             const link = document.createElement('a');
             link.href = URL.createObjectURL(blob);
             link.download = 'result.txt';
-
-            // 3. شبیه‌سازی کلیک روی لینک برای شروع دانلود
             document.body.appendChild(link);
             link.click();
-
-            // 4. پاک کردن لینک موقت از حافظه و صفحه
             document.body.removeChild(link);
             URL.revokeObjectURL(link.href);
         });
