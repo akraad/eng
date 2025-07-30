@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>تحلیلگر کلمات</title>
+    <title>تحلیلگر لغات فایل متنی بر اساس ID</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -83,13 +83,13 @@
 </head>
 <body>
     <div class="container">
-        <h1>تحلیلگر لغات فایل متنی</h1>
-        <p>لطفا یک فایل متنی (.txt) را انتخاب کنید تا اطلاعات لغات آن استخراج شود.</p>
+        <h1>تحلیلگر لغات فایل متنی بر اساس ID</h1>
+        <p>لطفا یک فایل متنی (.txt) را انتخاب کنید. برنامه اطلاعات سطح، استفاده و نوع کلمه را از خطوطی که با "ID:" شروع می‌شوند، استخراج می‌کند.</p>
         <input type="file" id="textFileInput" accept=".txt">
         
         <div id="results">
             <h2>نتایج تحلیل</h2>
-            <p id="wordCount">تعداد کل کلمات: 0</p>
+            <p id="processedLinesCount">تعداد خطوط ID پردازش شده: 0</p>
             <h3>آمار بر اساس سطح کلمه (CEFR):</h3>
             <table id="levelStats">
                 <thead>
@@ -132,44 +132,18 @@
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             const textFileInput = document.getElementById('textFileInput');
-            const wordCountSpan = document.getElementById('wordCount');
+            const processedLinesCountSpan = document.getElementById('processedLinesCount');
             const levelStatsTableBody = document.querySelector('#levelStats tbody');
             const usageStatsTableBody = document.querySelector('#usageStats tbody');
             const typeStatsTableBody = document.querySelector('#typeStats tbody');
             const errorMessageDiv = document.getElementById('errorMessage');
 
-            // شبیه‌سازی یک پایگاه داده ساده از کلمات
-            // **توجه:** این فقط برای مثال است و شامل تعداد بسیار کمی کلمه می‌شود.
-            // در یک پروژه واقعی، این داده‌ها باید از یک سرور یا پایگاه داده واقعی بارگیری شوند.
-            const wordDatabase = {
-                // کلمه: { level: 'A1', usage: 'XV1', type: 'Q1' }
-                "hello": { level: "A1", usage: "XV1", type: "Q1" },
-                "world": { level: "A1", usage: "XV1", type: "Q1" },
-                "cat": { level: "A1", usage: "XV2", type: "Q1" },
-                "dog": { level: "A1", usage: "XV2", type: "Q1" },
-                "run": { level: "A2", usage: "XV2", type: "Q2" },
-                "jump": { level: "A2", usage: "XV2", type: "Q2" },
-                "beautiful": { level: "B1", usage: "XV3", type: "Q3" },
-                "understand": { level: "B1", usage: "XV3", type: "Q2" },
-                "develop": { level: "B2", usage: "XV4", type: "Q2" },
-                "complex": { level: "B2", usage: "XV4", type: "Q3" },
-                "consequences": { level: "C1", usage: "XV5", type: "Q1" },
-                "meticulous": { level: "C1", usage: "XV5", type: "Q3" },
-                "ubiquitous": { level: "C2", usage: "XV6", type: "Q3" },
-                "paradigm": { level: "C2", usage: "XV6", type: "Q1" },
-                "and": { level: "A1", usage: "XV1", type: "Q7" }, // Conjunction
-                "the": { level: "A1", usage: "XV1", type: "Q8" }, // Article
-                "quickly": { level: "A2", usage: "XV3", type: "Q4" }, // Adverb
-                "in": { level: "A1", usage: "XV1", type: "Q5" }, // Preposition
-                "oh": { level: "A1", usage: "XV6", type: "Q6" }, // Interjection
-                // می‌توانید کلمات بیشتری را اضافه کنید
-            };
+            // لیست‌های ثابت برای سطوح، استفاده و نوع کلمات
+            const levels = ["A1", "A2", "B1", "B2", "C1", "C2"];
+            const usages = ["XV1", "XV2", "XV3", "XV4", "XV5", "XV6"];
+            const types = ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7", "Q8"];
 
             const initializeStats = () => {
-                const levels = ["A1", "A2", "B1", "B2", "C1", "C2"];
-                const usages = ["XV1", "XV2", "XV3", "XV4", "XV5", "XV6"];
-                const types = ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7", "Q8"];
-
                 const stats = {
                     level: {},
                     usage: {},
@@ -209,25 +183,38 @@
             });
 
             const processText = (text) => {
-                // حذف کاراکترهای خاص و تبدیل به حروف کوچک برای مقایسه بهتر
-                const cleanedText = text.toLowerCase().replace(/[.,!?;()"_:\-—«»]/g, '').replace(/\s+/g, ' ').trim();
-                const words = cleanedText.split(' ').filter(word => word.length > 0);
-
-                let totalWords = words.length;
-                wordCountSpan.textContent = `تعداد کل کلمات: ${totalWords}`;
-
+                const lines = text.split('\n');
+                let totalProcessedLines = 0;
                 const stats = initializeStats();
 
-                words.forEach(word => {
-                    if (wordDatabase[word]) {
-                        const wordInfo = wordDatabase[word];
-                        stats.level[wordInfo.level]++;
-                        stats.usage[wordInfo.usage]++;
-                        stats.type[wordInfo.type]++;
+                lines.forEach(line => {
+                    // بررسی می‌کنیم که آیا خط با "ID:" شروع می‌شود یا خیر
+                    if (line.trim().startsWith('ID:')) {
+                        totalProcessedLines++;
+                        // از Regular Expression برای استخراج الگوهای مورد نظر استفاده می‌کنیم
+                        // این ریجکس به دنبال یک حرف و یک عدد (مثل C1) یا XV و یک عدد (مثل XV6) یا Q و یک عدد (مثل Q4) می‌گردد
+                        const matches = line.matchAll(/(A[1-2]|B[1-2]|C[1-2]|XV[1-6]|Q[1-8])/g);
+                        
+                        for (const match of matches) {
+                            const value = match[0];
+                            if (value.startsWith('A') || value.startsWith('B') || value.startsWith('C')) {
+                                if (stats.level[value] !== undefined) {
+                                    stats.level[value]++;
+                                }
+                            } else if (value.startsWith('XV')) {
+                                if (stats.usage[value] !== undefined) {
+                                    stats.usage[value]++;
+                                }
+                            } else if (value.startsWith('Q')) {
+                                if (stats.type[value] !== undefined) {
+                                    stats.type[value]++;
+                                }
+                            }
+                        }
                     }
-                    // کلماتی که در دیتابیس نیستند نادیده گرفته می‌شوند
                 });
 
+                processedLinesCountSpan.textContent = `تعداد خطوط ID پردازش شده: ${totalProcessedLines}`;
                 displayResults(stats);
             };
 
@@ -238,35 +225,35 @@
                 typeStatsTableBody.innerHTML = '';
 
                 // نمایش آمار سطح کلمه
-                for (const level in stats.level) {
+                levels.forEach(level => {
                     const row = levelStatsTableBody.insertRow();
                     const cell1 = row.insertCell();
                     const cell2 = row.insertCell();
                     cell1.textContent = level;
                     cell2.textContent = stats.level[level];
-                }
+                });
 
                 // نمایش آمار سطح استفاده
-                for (const usage in stats.usage) {
+                usages.forEach(usage => {
                     const row = usageStatsTableBody.insertRow();
                     const cell1 = row.insertCell();
                     const cell2 = row.insertCell();
                     cell1.textContent = usage;
                     cell2.textContent = stats.usage[usage];
-                }
+                });
 
                 // نمایش آمار نوع کلمه
-                for (const type in stats.type) {
+                types.forEach(type => {
                     const row = typeStatsTableBody.insertRow();
                     const cell1 = row.insertCell();
                     const cell2 = row.insertCell();
                     cell1.textContent = type;
                     cell2.textContent = stats.type[type];
-                }
+                });
             };
 
             // اجرای اولیه برای نمایش صفرها
-            wordCountSpan.textContent = `تعداد کل کلمات: 0`;
+            processedLinesCountSpan.textContent = `تعداد خطوط ID پردازش شده: 0`;
             displayResults(initializeStats());
         });
     </script>
