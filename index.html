@@ -17,7 +17,7 @@
         }
     </style>
 </head>
-<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
 
     <div class="w-full max-w-2xl mx-auto bg-white rounded-xl shadow-lg p-8 space-y-6">
         
@@ -49,7 +49,7 @@
         <div id="results" class="hidden bg-gray-50 rounded-lg p-6 space-y-4">
             <h2 class="text-xl font-bold text-gray-700">نتایج تحلیل:</h2>
             <div class="flex justify-between items-center text-lg">
-                <span class="text-gray-600">تعداد کل لغات:</span>
+                <span class="text-gray-600">تعداد کل لغات (پس از پاکسازی):</span>
                 <span id="totalCount" class="font-bold text-blue-600 bg-blue-100 px-3 py-1 rounded-full">0</span>
             </div>
             <div class="flex justify-between items-center text-lg">
@@ -131,25 +131,33 @@
             reader.onload = function(e) {
                 const content = e.target.result;
 
-                // 1. محتوا را به خطوط جداگانه تقسیم کرده و خطوط خالی را حذف می‌کند
-                const lines = content.split('\n').filter(line => line.trim() !== '');
+                // **منطق پردازش بهبود یافته**
+                // 1. ابتدا تمام کاماها را با خط جدید (newline) جایگزین می‌کنیم تا فرمت یکپارچه شود.
+                const standardizedContent = content.replace(/,/g, '\n');
 
-                // 2. از هر خط، فقط کلمه را استخراج می‌کند (اعداد و نقطه را حذف می‌کند)
-                // و کلمات خالی را فیلتر می‌کند
-                const allWords = lines
-                    .map(line => line.replace(/^\d+\.\s*/, '').trim())
-                    .filter(word => word);
+                // 2. محتوای یکپارچه شده را بر اساس خط جدید تقسیم می‌کنیم.
+                const linesAndWords = standardizedContent.split('\n');
 
-                // 3. با استفاده از Set یک آرایه از کلمات منحصربه‌فرد ایجاد می‌کند
+                // 3. هر آیتم را پاکسازی می‌کنیم: شماره‌ها را حذف و فاصله‌های اضافی را می‌گیریم.
+                // سپس کلمات خالی را فیلتر می‌کنیم.
+                const allWords = linesAndWords
+                    .map(item => 
+                        item
+                            .replace(/^\d+\.\s*/, '') // حذف شماره‌گذاری مانند "1774. "
+                            .trim() // حذف فاصله‌های خالی از ابتدا و انتها
+                    )
+                    .filter(word => word); // حذف آیتم‌های خالی
+
+                // 4. با استفاده از Set یک آرایه از کلمات منحصربه‌فرد ایجاد می‌کند
                 const uniqueWords = [...new Set(allWords)];
 
-                // 4. تعداد کل و تعداد منحصربه‌فرد را در صفحه نمایش می‌دهد
+                // 5. تعداد کل و تعداد منحصربه‌فرد را در صفحه نمایش می‌دهد
                 totalCountSpan.textContent = allWords.length;
                 uniqueCountSpan.textContent = uniqueWords.length;
                 resultsDiv.classList.remove('hidden');
 
-                // 5. محتوای نهایی برای دانلود را آماده می‌کند
-                downloadableContent = uniqueWords.join('\n');
+                // 6. محتوای نهایی برای دانلود را آماده می‌کند (کلمات مرتب شده)
+                downloadableContent = uniqueWords.sort().join('\n');
             };
 
             // شروع خواندن فایل به صورت متن
