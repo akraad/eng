@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>پردازشگر فایل لغات</title>
+    <!--
+      استفاده از Tailwind CSS برای طراحی ظاهری
+    -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Vazirmatn', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+
+    <div class="w-full max-w-2xl mx-auto bg-white rounded-xl shadow-lg p-8 space-y-6">
+        
+        <!--
+          بخش عنوان و توضیحات
+        -->
+        <div class="text-center">
+            <h1 class="text-3xl font-bold text-gray-800">پردازشگر فایل لغات</h1>
+            <p class="text-gray-500 mt-2">فایل .txt خود را برای شمارش و حذف لغات تکراری بارگذاری کنید.</p>
+        </div>
+
+        <!--
+          بخش بارگذاری فایل
+        -->
+        <div class="border-2 border-dashed border-gray-300 rounded-lg p-8 text-center cursor-pointer hover:border-blue-500 transition-colors duration-300" id="dropZone">
+            <input type="file" id="fileInput" class="hidden" accept=".txt">
+            <svg class="mx-auto h-12 w-12 text-gray-400" stroke="currentColor" fill="none" viewBox="0 0 48 48" aria-hidden="true">
+                <path d="M28 8H12a4 4 0 00-4 4v20m32-12v8m0 0v8a4 4 0 01-4 4H12a4 4 0 01-4-4v-4m32-4l-3.172-3.172a4 4 0 00-5.656 0L28 28M8 32l9.172-9.172a4 4 0 015.656 0L28 28m0 0l4 4m4-24h8m-4-4v8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+            <p class="mt-2 text-sm text-gray-600">
+                فایل خود را اینجا بکشید یا <span class="font-semibold text-blue-600">برای انتخاب کلیک کنید</span>
+            </p>
+            <p id="fileName" class="text-xs text-gray-500 mt-1"></p>
+        </div>
+
+        <!--
+          بخش نمایش نتایج
+        -->
+        <div id="results" class="hidden bg-gray-50 rounded-lg p-6 space-y-4">
+            <h2 class="text-xl font-bold text-gray-700">نتایج تحلیل:</h2>
+            <div class="flex justify-between items-center text-lg">
+                <span class="text-gray-600">تعداد کل لغات:</span>
+                <span id="totalCount" class="font-bold text-blue-600 bg-blue-100 px-3 py-1 rounded-full">0</span>
+            </div>
+            <div class="flex justify-between items-center text-lg">
+                <span class="text-gray-600">تعداد لغات غیرتکراری:</span>
+                <span id="uniqueCount" class="font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">0</span>
+            </div>
+            
+            <!--
+              دکمه دانلود فایل خروجی
+            -->
+            <div id="downloadSection" class="pt-4">
+                <button id="downloadBtn" class="w-full bg-green-600 text-white font-bold py-3 px-4 rounded-lg hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 transition-transform transform hover:scale-105">
+                    دانلود فایل result.txt
+                </button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        // تعریف متغیر برای نگهداری محتوای قابل دانلود
+        let downloadableContent = '';
+
+        const dropZone = document.getElementById('dropZone');
+        const fileInput = document.getElementById('fileInput');
+        const fileNameDisplay = document.getElementById('fileName');
+        const resultsDiv = document.getElementById('results');
+        const totalCountSpan = document.getElementById('totalCount');
+        const uniqueCountSpan = document.getElementById('uniqueCount');
+        const downloadBtn = document.getElementById('downloadBtn');
+
+        // باز کردن پنجره انتخاب فایل با کلیک روی ناحیه مشخص شده
+        dropZone.addEventListener('click', () => fileInput.click());
+        
+        // جلوگیری از رفتار پیش‌فرض مرورگر هنگام کشیدن فایل
+        dropZone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropZone.classList.add('border-blue-500', 'bg-blue-50');
+        });
+
+        dropZone.addEventListener('dragleave', (e) => {
+            e.preventDefault();
+            dropZone.classList.remove('border-blue-500', 'bg-blue-50');
+        });
+
+        // پردازش فایل رها شده
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropZone.classList.remove('border-blue-500', 'bg-blue-50');
+            const files = e.dataTransfer.files;
+            if (files.length > 0) {
+                fileInput.files = files;
+                handleFile(files[0]);
+            }
+        });
+
+        // پردازش فایل انتخاب شده
+        fileInput.addEventListener('change', (event) => {
+            const file = event.target.files[0];
+            if (file) {
+                handleFile(file);
+            }
+        });
+
+        /**
+         * تابع اصلی برای خواندن و پردازش فایل
+         * @param {File} file - فایل متنی برای پردازش
+         */
+        function handleFile(file) {
+            if (!file || !file.type.match('text.*')) {
+                alert('لطفاً یک فایل با فرمت .txt انتخاب کنید.');
+                return;
+            }
+
+            fileNameDisplay.textContent = `فایل انتخاب شده: ${file.name}`;
+            const reader = new FileReader();
+
+            // این تابع پس از اتمام خواندن فایل اجرا می‌شود
+            reader.onload = function(e) {
+                const content = e.target.result;
+
+                // 1. محتوا را به خطوط جداگانه تقسیم کرده و خطوط خالی را حذف می‌کند
+                const lines = content.split('\n').filter(line => line.trim() !== '');
+
+                // 2. از هر خط، فقط کلمه را استخراج می‌کند (اعداد و نقطه را حذف می‌کند)
+                // و کلمات خالی را فیلتر می‌کند
+                const allWords = lines
+                    .map(line => line.replace(/^\d+\.\s*/, '').trim())
+                    .filter(word => word);
+
+                // 3. با استفاده از Set یک آرایه از کلمات منحصربه‌فرد ایجاد می‌کند
+                const uniqueWords = [...new Set(allWords)];
+
+                // 4. تعداد کل و تعداد منحصربه‌فرد را در صفحه نمایش می‌دهد
+                totalCountSpan.textContent = allWords.length;
+                uniqueCountSpan.textContent = uniqueWords.length;
+                resultsDiv.classList.remove('hidden');
+
+                // 5. محتوای نهایی برای دانلود را آماده می‌کند
+                downloadableContent = uniqueWords.join('\n');
+            };
+
+            // شروع خواندن فایل به صورت متن
+            reader.readAsText(file);
+        }
+
+        // افزودن رویداد کلیک به دکمه دانلود
+        downloadBtn.addEventListener('click', function() {
+            if (!downloadableContent) {
+                alert('ابتدا یک فایل را پردازش کنید.');
+                return;
+            }
+
+            // 1. ایجاد یک Blob (Binary Large Object) از محتوای متنی
+            const blob = new Blob([downloadableContent], { type: 'text/plain;charset=utf-8' });
+
+            // 2. ایجاد یک لینک موقت در حافظه برای دانلود
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'result.txt';
+
+            // 3. شبیه‌سازی کلیک روی لینک برای شروع دانلود
+            document.body.appendChild(link);
+            link.click();
+
+            // 4. پاک کردن لینک موقت از حافظه و صفحه
+            document.body.removeChild(link);
+            URL.revokeObjectURL(link.href);
+        });
+
+    </script>
+
+</body>
+</html>
