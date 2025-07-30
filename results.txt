@@ -8051,3 +8051,622 @@ zero
 zip
 zone
 zoo
+در ادامه، آخرین بخش واژگان غیرتکراری سطح بالا از ۸۰۱ تا ۱۰۰۰ را مشاهده می‌کنید:
+
+
+---
+
+۸۰۱ تا ۹۰۰:
+
+801. imprecation
+
+
+802. impromptu
+
+
+803. improvident
+
+
+804. impunity
+
+
+805. imputation
+
+
+806. inamorata
+
+
+807. incantation
+
+
+808. incarnation
+
+
+809. incendiary
+
+
+810. incise
+
+
+811. incivility
+
+
+812. incoherence
+
+
+813. incongruous
+
+
+814. inculpate
+
+
+815. incumbent
+
+
+816. indefeasible
+
+
+817. indemnity
+
+
+818. indignant
+
+
+819. indisposed
+
+
+820. indolence
+
+
+821. inductive
+
+
+822. inefficacy
+
+
+823. inexpiable
+
+
+824. infamy
+
+
+825. infatuation
+
+
+826. infiltrate
+
+
+827. infinitesimal
+
+
+828. infirmity
+
+
+829. inflection
+
+
+830. informant
+
+
+831. infraction
+
+
+832. infuriate
+
+
+833. inglorious
+
+
+834. ingrained
+
+
+835. ingratiate
+
+
+836. iniquitous
+
+
+837. injunction
+
+
+838. innuendo
+
+
+839. inquisition
+
+
+840. insensate
+
+
+841. insidiousness
+
+
+842. insinuation
+
+
+843. insipidness
+
+
+844. instantiation
+
+
+845. insuperably
+
+
+846. insurrection
+
+
+847. intemperate
+
+
+848. intercede
+
+
+849. interloper
+
+
+850. interminable
+
+
+851. interstice
+
+
+852. intonation
+
+
+853. introspection
+
+
+854. inundate
+
+
+855. inure
+
+
+856. invective
+
+
+857. inveigh
+
+
+858. inveterate
+
+
+859. invidiously
+
+
+860. iota
+
+
+861. iridescent
+
+
+862. irony
+
+
+863. itinerancy
+
+
+864. jejune
+
+
+865. jettison
+
+
+866. jocosity
+
+
+867. jollity
+
+
+868. jostle
+
+
+869. jubilant
+
+
+870. judder
+
+
+871. juxtaposition
+
+
+872. kismet
+
+
+873. knavery
+
+
+874. kowtow
+
+
+875. labyrinthine
+
+
+876. lachrymal
+
+
+877. lackadaisical
+
+
+878. lambaste
+
+
+879. languish
+
+
+880. lapidary
+
+
+881. lascivious
+
+
+882. latency
+
+
+883. laurels
+
+
+884. laxity
+
+
+885. lechery
+
+
+886. leer
+
+
+887. legerity
+
+
+888. leniency
+
+
+889. lethality
+
+
+890. levitate
+
+
+891. lexicon
+
+
+892. libelous
+
+
+893. licentiate
+
+
+894. lien
+
+
+895. ligneous
+
+
+896. liminality
+
+
+897. lionize
+
+
+898. lithe
+
+
+899. livid
+
+
+900. lubricious
+
+
+
+
+---
+
+۹۰۱ تا ۱۰۰۰:
+
+901. lucubration
+
+
+902. ludic
+
+
+903. lugubriousness
+
+
+904. luminary
+
+
+905. lurk
+
+
+906. luxuriate
+
+
+907. macabre
+
+
+908. machinate
+
+
+909. madrigal
+
+
+910. magniloquent
+
+
+911. maladroit
+
+
+912. malcontent
+
+
+913. malefactor
+
+
+914. malevolence
+
+
+915. malfeasant
+
+
+916. malodorous
+
+
+917. manacle
+
+
+918. mandamus
+
+
+919. maniacal
+
+
+920. manumission
+
+
+921. marplot
+
+
+922. martyrdom
+
+
+923. matronly
+
+
+924. maw
+
+
+925. mealy-mouthed
+
+
+926. melee
+
+
+927. mendacity
+
+
+928. menial
+
+
+929. meritorious
+
+
+930. mesmerism
+
+
+931. mettle
+
+
+932. mien
+
+
+933. miff
+
+
+934. milksop
+
+
+935. minion
+
+
+936. mirth
+
+
+937. misanthropy
+
+
+938. miscreant
+
+
+939. miser
+
+
+940. misogyny
+
+
+941. missive
+
+
+942. mnemonic
+
+
+943. modish
+
+
+944. moiety
+
+
+945. mollusk
+
+
+946. monolithic
+
+
+947. moot
+
+
+948. morass
+
+
+949. motley
+
+
+950. mountebank
+
+
+951. mulish
+
+
+952. munificence
+
+
+953. muse
+
+
+954. musty
+
+
+955. mutiny
+
+
+956. myrmidon
+
+
+957. myriad
+
+
+958. mystique
+
+
+959. nadir
+
+
+960. naivete
+
+
+961. narcissism
+
+
+962. nascence
+
+
+963. natal
+
+
+964. natty
+
+
+965. nebulousness
+
+
+966. nefariousness
+
+
+967. neologistic
+
+
+968. nepotism
+
+
+969. nexus
+
+
+970. niggardly
+
+
+971. nihilism
+
+
+972. nimble
+
+
+973. noiseless
+
+
+974. nomenclature
+
+
+975. nonchalance
+
+
+976. nonpareil
+
+
+977. notoriety
+
+
+978. novice
+
+
+979. noxious
+
+
+980. nuance
+
+
+981. nugget
+
+
+982. nullify
+
+
+983. numinous
+
+
+984. nuptial
+
+
+985. obduracy
+
+
+986. obeisance
+
+
+987. obfuscation
+
+
+988. objurgate
+
+
+989. oblation
+
+
+990. obliqueness
+
+
+991. obliviousness
+
+
+992. obsequiousness
+
+
+993. obsolescence
+
+
+994. obstinacy
+
+
+995. obtrude
+
+
+996. obtuse
+
+
+997. obviate
+
+
+998. occlusion
+
+
+999. officiousness
+
+
+1000. omnipotent
+
+
+
+
+---
+
+✅ با این ۱۰۰۰ واژه، مجموعه شما اکنون به حدود ۱۰٬۰۰۰ واژه بدون تکرار رسیده است.
+اگر خواستی همه را در یک فایل متنی جداگانه یا اکسل برایت آماده کنم، کافی است بگویی.
