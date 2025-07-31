@@ -10144,3 +10144,1013 @@ Examples:
    (او به دلیل فشار خون بالا، چهره‌ای گلگون داشت.)
  * The florid decorations on the old building were impressive.
    (تزئینات پرآرایه ساختمان قدیمی چشمگیر بود.)
+ID: ID1500 - C1 - XV5 - Q4 - Flout (سرپیچی کردن، نادیده گرفتن، توهین کردن) *
+Examples:
+ * Many drivers habitually flout the speed limit.
+   (بسیاری از رانندگان عادت دارند که حد مجاز سرعت را نادیده بگیرند.)
+ * He openly flouted the rules of the organization.
+   (او آشکارا از قوانین سازمان سرپیچی کرد.)
+ * Some people flout social conventions without concern.
+   (برخی افراد بدون نگرانی به عرف‌های اجتماعی توهین می‌کنند.)
+ * The company was criticized for flouting environmental regulations.
+   (این شرکت به دلیل نادیده گرفتن مقررات زیست‌محیطی مورد انتقاد قرار گرفت.)
+ID: ID1501 - A1 - XV1 - Q4 - Flow (جریان یافتن، روان شدن؛ جریان) *
+Examples:
+ * Water flows downhill.
+   (آب به سمت پایین تپه جریان می‌یابد.)
+ * The river flows into the sea.
+   (رودخانه به دریا می‌ریزد.)
+ * There was a steady flow of traffic.
+   (جریان ثابتی از ترافیک وجود داشت.)
+ * The conversation flowed easily between them.
+   (مکالمه به راحتی بین آنها روان شد.)
+ID: ID1502 - A1 - XV1 - Q1 - Flower (گل) *
+Examples:
+ * She picked a beautiful flower from the garden.
+   (او یک گل زیبا از باغ چید.)
+ * Flowers bloom in spring.
+   (گل‌ها در بهار شکوفا می‌شوند.)
+ * He bought a bouquet of flowers for his mother.
+   (او برای مادرش یک دسته گل خرید.)
+ * The flower shop smells wonderful.
+   (گلفروشی بوی فوق‌العاده‌ای می‌دهد.)
+ID: ID1503 - B2 - XV3 - Q4 - Fluctuate (نوسان داشتن، در نوسان بودن) *
+Examples:
+ * Prices for oil fluctuate widely.
+   (قیمت نفت به شدت نوسان دارد.)
+ * His mood fluctuates depending on the weather.
+   (حال و هوای او بسته به آب و هوا نوسان دارد.)
+ * The temperature will fluctuate throughout the day.
+   (دما در طول روز در نوسان خواهد بود.)
+ * Exchange rates can fluctuate daily.
+   (نرخ ارز می‌تواند روزانه نوسان داشته باشد.)
+ID: ID1504 - C1 - XV5 - Q4 - Flummox (گیج کردن، سردرگم کردن) *
+Examples:
+ * The complex instructions flummoxed the new employee.
+   (دستورالعمل‌های پیچیده کارمند جدید را گیج کرد.)
+ * He was flummoxed by the sudden change in plans.
+   (او از تغییر ناگهانی برنامه‌ها سردرگم شد.)
+ * The puzzle was designed to flummox even the smartest minds.
+   (این پازل برای گیج کردن حتی باهوش‌ترین افراد طراحی شده بود.)
+ * Her unexpected question completely flummoxed him.
+   (سوال غیرمنتظره او کاملاً او را سردرگم کرد.)
+ID: ID1505 - A1 - XV1 - Q4 - Fly (پرواز کردن؛ مگس) *
+Examples:
+ * Birds fly in the sky.
+   (پرندگان در آسمان پرواز می‌کنند.)
+ * I need to catch a fly.
+   (من باید یک مگس بگیرم.)
+ * We are flying to Paris next week.
+   (هفته آینده به پاریس پرواز می‌کنیم.)
+ * The plane flies at a high altitude.
+   (هواپیما در ارتفاع بالا پرواز می‌کند.)
+ID: ID1506 - B1 - XV3 - Q4 - Focus (تمرکز کردن؛ تمرکز) *
+Examples:
+ * Please focus on your work.
+   (لطفاً روی کارتان تمرکز کنید.)
+ * The meeting will focus on the new strategy.
+   (جلسه روی استراتژی جدید تمرکز خواهد کرد.)
+ * He has a clear focus on his goals.
+   (او تمرکز واضحی بر اهدافش دارد.)
+ * The camera struggled to find its focus.
+   (دوربین برای پیدا کردن فوکوس خود مشکل داشت.)
+ID: ID1507 - A1 - XV1 - Q4 - Follow (دنبال کردن، پیروی کردن) *
+Examples:
+ * Please follow me.
+   (لطفاً مرا دنبال کنید.)
+ * Follow the instructions carefully.
+   (دستورالعمل‌ها را با دقت دنبال کنید.)
+ * The police followed the suspect.
+   (پلیس مظنون را دنبال کرد.)
+ * Spring follows winter.
+   (بهار بعد از زمستان می‌آید.)
+ID: ID1508 - C1 - XV5 - Q4 - Foment (برانگیختن، تحریک کردن، دامن زدن به) *
+Examples:
+ * They were accused of fomenting unrest among the workers.
+   (آنها متهم به برانگیختن ناآرامی در میان کارگران شدند.)
+ * The speech was designed to foment rebellion.
+   (سخنرانی برای تحریک شورش طراحی شده بود.)
+ * The extreme group tried to foment hatred.
+   (گروه افراطی سعی در دامن زدن به نفرت داشت.)
+ * His inflammatory remarks could foment conflict.
+   (اظهارات تحریک‌آمیز او می‌توانست درگیری را برانگیزد.)
+ID: ID1509 - A1 - XV1 - Q1 - Food (غذا) *
+Examples:
+ * I need to buy some food.
+   (من باید مقداری غذا بخرم.)
+ * This restaurant serves delicious food.
+   (این رستوران غذای خوشمزه سرو می‌کند.)
+ * Healthy food is important for a good diet.
+   (غذای سالم برای یک رژیم غذایی خوب مهم است.)
+ * We packed some food for the picnic.
+   (ما مقداری غذا برای پیک‌نیک بسته‌بندی کردیم.)
+ID: ID1510 - A1 - XV1 - Q1 - Foot (پا، قدم) *
+Examples:
+ * My foot hurts.
+   (پایم درد می‌کند.)
+ * He put his best foot forward.
+   (او بهترین تلاش خود را کرد.)
+ * The mountain is 10,000 feet high.
+   (کوه ۱۰ هزار فوت ارتفاع دارد.)
+ * She tapped her foot impatiently.
+   (او از روی بی‌صبری پایش را روی زمین می‌زد.)
+ID: ID1511 - A1 - XV1 - Q1 - Football (فوتبال) *
+Examples:
+ * I love watching football.
+   (من عاشق تماشای فوتبال هستم.)
+ * Do you play football?
+   (آیا فوتبال بازی می‌کنی؟)
+ * The football game was very exciting.
+   (مسابقه فوتبال بسیار هیجان‌انگیز بود.)
+ * He dreams of becoming a professional football player.
+   (او رویای فوتبالیست حرفه‌ای شدن را در سر دارد.)
+ID: ID1512 - A1 - XV1 - Q6 - For (برای، به خاطر) *
+Examples:
+ * This gift is for you.
+   (این هدیه برای شماست.)
+ * I did it for my family.
+   (من این کار را برای خانواده‌ام انجام دادم.)
+ * She's leaving for London tomorrow.
+   (او فردا به مقصد لندن حرکت می‌کند.)
+ * We waited for an hour.
+   (یک ساعت منتظر ماندیم.)
+ID: ID1513 - C1 - XV5 - Q1 - Forbearance (خویشتن‌داری، بردباری، تحمل) *
+Examples:
+ * He showed great forbearance towards his rude colleagues.
+   (او بردباری زیادی نسبت به همکاران بی‌ادبش نشان داد.)
+ * The judge asked for forbearance from the jury.
+   (قاضی از هیئت منصفه خویشتن‌داری خواست.)
+ * Her patience and forbearance were greatly admired.
+   (صبر و بردباری او بسیار مورد تحسین قرار گرفت.)
+ * The teacher's forbearance with the disruptive student was remarkable.
+   (تحمل معلم در برابر دانش‌آموز مخل بسیار قابل توجه بود.)
+ID: ID1514 - A2 - XV2 - Q1 - Force (نیرو، قدرت؛ مجبور کردن، تحمیل کردن) *
+Examples:
+ * The police used force to control the crowd.
+   (پلیس از نیرو برای کنترل جمعیت استفاده کرد.)
+ * You can't force me to do it.
+   (نمی‌توانی مرا مجبور به انجام آن کنی.)
+ * The wind blew with great force.
+   (باد با قدرت زیادی وزید.)
+ * He joined the armed forces.
+   (او به نیروهای مسلح پیوست.)
+ID: ID1515 - C1 - XV5 - Q1 - Foreboding (دلهره، دلشوره، پیش‌آگاهی بد) *
+Examples:
+ * He felt a sense of foreboding as he entered the old house.
+   (او با ورود به خانه قدیمی احساس دلهره کرد.)
+ * The dark clouds gave him a foreboding of a coming storm.
+   (ابرهای تیره به او پیش‌آگاهی بدی از طوفان قریب‌الوقوع دادند.)
+ * Her dream was filled with an ominous foreboding.
+   (رویای او پر از دلهره‌ای شوم بود.)
+ * Despite the calm exterior, she sensed an internal foreboding.
+   (با وجود ظاهر آرام، او دلهره درونی را حس کرد.)
+ID: ID1516 - A2 - XV2 - Q2 - Foreign (خارجی، بیگانه) *
+Examples:
+ * I enjoy learning foreign languages.
+   (من از یادگیری زبان‌های خارجی لذت می‌برم.)
+ * He is an expert in foreign policy.
+   (او یک متخصص در سیاست خارجی است.)
+ * The foreign currency exchange rate fluctuated.
+   (نرخ ارز خارجی نوسان داشت.)
+ * The company plans to expand into foreign markets.
+   (شرکت قصد دارد به بازارهای خارجی گسترش یابد.)
+ID: ID1517 - A2 - XV2 - Q1 - Forest (جنگل) *
+Examples:
+ * We went for a walk in the forest.
+   (ما برای قدم زدن به جنگل رفتیم.)
+ * The forest is home to many wild animals.
+   (جنگل خانه بسیاری از حیوانات وحشی است.)
+ * A large part of the country is covered by forest.
+   (بخش بزرگی از کشور توسط جنگل پوشیده شده است.)
+ * They got lost in the dense forest.
+   (آنها در جنگل انبوه گم شدند.)
+ID: ID1518 - A2 - XV2 - Q5 - Forever (برای همیشه، تا ابد) *
+Examples:
+ * I will love you forever.
+   (من تو را برای همیشه دوست خواهم داشت.)
+ * They promised to be together forever.
+   (آنها قول دادند که تا ابد با هم باشند.)
+ * The memory will stay with me forever.
+   (این خاطره برای همیشه با من خواهد ماند.)
+ * Nothing lasts forever.
+   (هیچ چیز برای همیشه دوام نمی‌آورد.)
+ID: ID1519 - B2 - XV4 - Q4 - Forfeit (از دست دادن، مصادره کردن؛ جریمه، باخت) *
+Examples:
+ * If you break the rules, you will forfeit your right to participate.
+   (اگر قوانین را زیر پا بگذارید، حق شرکت خود را از دست خواهید داد.)
+ * He had to forfeit his deposit when he cancelled the booking.
+   (او مجبور شد ودیعه خود را هنگام لغو رزرو از دست بدهد.)
+ * The team had to forfeit the game due to a lack of players.
+   (تیم به دلیل کمبود بازیکن مجبور شد بازی را واگذار کند.)
+ * The contract stipulated that any delay would result in a forfeit.
+   (قرارداد تصریح می‌کرد که هر تاخیری منجر به جریمه خواهد شد.)
+ID: ID1520 - A1 - XV1 - Q4 - Forget (فراموش کردن) *
+Examples:
+ * Don't forget your keys.
+   (کلیدهایت را فراموش نکن.)
+ * I sometimes forget people's names.
+   (گاهی اوقات نام افراد را فراموش می‌کنم.)
+ * He will never forget that day.
+   (او هرگز آن روز را فراموش نخواهد کرد.)
+ * It's easy to forget minor details.
+   (فراموش کردن جزئیات کوچک آسان است.)
+ID: ID1521 - A1 - XV1 - Q1 - Fork (چنگال) *
+Examples:
+ * Please pass me a fork.
+   (لطفاً یک چنگال به من بدهید.)
+ * You need a knife and fork to eat this.
+   (برای خوردن این به یک چاقو و چنگال نیاز دارید.)
+ * The road forks ahead.
+   (جاده جلوتر دوشاخه می‌شود.)
+ * She picked up her fork and started eating.
+   (او چنگال خود را برداشت و شروع به خوردن کرد.)
+ID: ID1522 - C1 - XV5 - Q2 - Forlorn (متروک، تنها، غمگین و ناامید) *
+Examples:
+ * The old house stood forlorn on the hill.
+   (خانه قدیمی متروک بر روی تپه ایستاده بود.)
+ * She had a forlorn expression on her face.
+   (او چهره‌ای غمگین و ناامید داشت.)
+ * The forlorn puppy wandered the streets.
+   (توله سگ تنها در خیابان‌ها پرسه می‌زد.)
+ * He felt utterly forlorn after everyone left.
+   (او پس از رفتن همه کاملاً تنها و ناامید احساس می‌کرد.)
+ID: ID1523 - A1 - XV1 - Q1 - Form (شکل، فرم؛ تشکیل دادن) *
+Examples:
+ * The clouds formed strange shapes.
+   (ابرها اشکال عجیبی را تشکیل دادند.)
+ * Please fill out the form.
+   (لطفاً فرم را پر کنید.)
+ * This is a new form of art.
+   (این یک شکل جدید از هنر است.)
+ * They decided to form a new company.
+   (آنها تصمیم گرفتند یک شرکت جدید تشکیل دهند.)
+ID: ID1524 - B1 - XV3 - Q2 - Formal (رسمی، تشریفاتی) *
+Examples:
+ * He wore a formal suit to the wedding.
+   (او برای عروسی یک کت و شلوار رسمی پوشید.)
+ * The meeting requires a formal invitation.
+   (جلسه به یک دعوت‌نامه رسمی نیاز دارد.)
+ * We had a formal discussion about the proposal.
+   (ما یک بحث رسمی در مورد پیشنهاد داشتیم.)
+ * She received a formal education.
+   (او تحصیلات رسمی داشت.)
+ID: ID1525 - B1 - XV3 - Q1 - Formality (رسمیت، تشریفات) *
+Examples:
+ * It's just a formality, you don't need to worry.
+   (این فقط یک تشریفات است، نیازی نیست نگران باشید.)
+ * The meeting was a mere formality.
+   (جلسه فقط یک تشریفات بود.)
+ * They handled the matter with great formality.
+   (آنها این موضوع را با رسمیت زیادی اداره کردند.)
+ * Stripping away the formality, they had a genuine conversation.
+   (با کنار گذاشتن تشریفات، آنها یک گفتگوی واقعی داشتند.)
+ID: ID1526 - B1 - XV3 - Q2 - Former (قبلی، سابق) *
+Examples:
+ * My former boss was very strict.
+   (رئیس سابق من بسیار سختگیر بود.)
+ * The former capital of the country was Istanbul.
+   (پایتخت سابق کشور استانبول بود.)
+ * He is a former Olympic athlete.
+   (او یک ورزشکار سابق المپیک است.)
+ * In former times, people traveled by horse.
+   (در زمان‌های گذشته، مردم با اسب سفر می‌کردند.)
+ID: ID1527 - C1 - XV5 - Q2 - Formidable (عظیم، مهیب، دشوار، قابل احترام) *
+Examples:
+ * He faced a formidable opponent in the chess match.
+   (او در مسابقه شطرنج با یک حریف مهیب روبرو شد.)
+ * The task ahead was formidable, but they were determined.
+   (وظیفه پیش رو دشوار بود، اما آنها مصمم بودند.)
+ * Her reputation as a formidable negotiator preceded her.
+   (شهرت او به عنوان یک مذاکره‌کننده قابل احترام، پیش از او می‌آمد.)
+ * The mountain presented a formidable challenge to climbers.
+   (کوه یک چالش عظیم برای کوهنوردان ایجاد می‌کرد.)
+ID: ID1528 - C1 - XV5 - Q1 - Fortitude (پایداری، استقامت، مقاومت) *
+Examples:
+ * She showed great fortitude during her illness.
+   (او در طول بیماری‌اش پایداری زیادی نشان داد.)
+ * It takes mental fortitude to overcome such difficulties.
+   (غلبه بر چنین مشکلاتی به استقامت ذهنی نیاز دارد.)
+ * His fortitude in the face of adversity was admirable.
+   (مقاومت او در مواجهه با ناملایمات ستودنی بود.)
+ * The soldiers displayed remarkable fortitude on the battlefield.
+   (سربازان در میدان نبرد پایداری قابل توجهی از خود نشان دادند.)
+ID: ID1529 - C1 - XV5 - Q2 - Fortuitous (تصادفی، اتفاقی، خوش‌شانس) *
+Examples:
+ * It was a fortuitous encounter that led to their collaboration.
+   (این یک برخورد تصادفی بود که منجر به همکاری آنها شد.)
+ * The discovery of the treasure was purely fortuitous.
+   (کشف گنج کاملاً اتفاقی بود.)
+ * A series of fortuitous events led to his unexpected success.
+   (مجموعه‌ای از رویدادهای خوش‌شانس منجر به موفقیت غیرمنتظره او شد.)
+ * The timing of the meeting was fortuitous.
+   (زمان‌بندی جلسه تصادفی بود.)
+ID: ID1530 - A2 - XV2 - Q5 - Forward (جلو، به جلو؛ پیشرو) *
+Examples:
+ * Please move forward.
+   (لطفاً به جلو حرکت کنید.)
+ * He took a step forward.
+   (او یک قدم به جلو برداشت.)
+ * The company is always looking for forward-thinking ideas.
+   (شرکت همیشه به دنبال ایده‌های پیشرو است.)
+ * I'm looking forward to the holidays.
+   (من مشتاقانه منتظر تعطیلات هستم.)
+ID: ID1531 - B1 - XV3 - Q1 - Foundation (بنیاد، پایه، اساس) *
+Examples:
+ * The building has a strong foundation.
+   (ساختمان پایه محکمی دارد.)
+ * The organization was built on a strong foundation of teamwork.
+   (این سازمان بر اساس یک بنیاد قوی از کار گروهی ساخته شد.)
+ * Education is the foundation of a successful career.
+   (تحصیلات اساس یک حرفه موفق است.)
+ * She established a charitable foundation.
+   (او یک بنیاد خیریه تأسیس کرد.)
+ID: ID1532 - A1 - XV1 - Q1 - Four (چهار) *
+Examples:
+ * I have four books.
+   (من چهار کتاب دارم.)
+ * The table has four legs.
+   (میز چهار پا دارد.)
+ * There are four seasons in a year.
+   (در یک سال چهار فصل وجود دارد.)
+ * We need four more chairs.
+   (ما چهار صندلی دیگر نیاز داریم.)
+ID: ID1533 - A1 - XV1 - Q1 - Fourteen (چهارده) *
+Examples:
+ * He is fourteen years old.
+   (او چهارده ساله است.)
+ * There are fourteen days in two weeks.
+   (در دو هفته چهارده روز وجود دارد.)
+ * She finished the race in fourteen minutes.
+   (او مسابقه را در چهارده دقیقه تمام کرد.)
+ * The class has fourteen students.
+   (کلاس چهارده دانش‌آموز دارد.)
+ID: ID1534 - C2 - XV6 - Q1 - Fracas (نزاع، مشاجره، هیاهو) *
+Examples:
+ * A minor disagreement quickly escalated into a fracas.
+   (یک اختلاف جزئی به سرعت به یک نزاع تبدیل شد.)
+ * The police were called to break up the fracas outside the bar.
+   (پلیس برای پایان دادن به مشاجره بیرون از بار فراخوانده شد.)
+ * The noise from the street indicated a fracas had broken out.
+   (صدای خیابان نشان می‌داد که یک هیاهو آغاز شده است.)
+ * He tried to avoid the fracas and quietly slipped away.
+   (او سعی کرد از نزاع دوری کند و بی سر و صدا دور شد.)
+ID: ID1535 - B2 - XV4 - Q2 - Fraudulent (کلاهبردارانه، تقلبی، فریبکارانه) *
+Examples:
+ * He was arrested for fraudulent business practices.
+   (او به دلیل اقدامات تجاری کلاهبردارانه دستگیر شد.)
+ * The document was found to be fraudulent.
+   (سند تقلبی تشخیص داده شد.)
+ * She reported a fraudulent charge on her credit card.
+   (او یک شارژ تقلبی را در کارت اعتباری خود گزارش داد.)
+ * The company was involved in a fraudulent scheme.
+   (شرکت در یک طرح فریبکارانه دخیل بود.)
+ID: ID1536 - A1 - XV1 - Q2 - Free (آزاد، رایگان) *
+Examples:
+ * You are free to go.
+   (شما آزادید که بروید.)
+ * The entrance to the museum is free.
+   (ورود به موزه رایگان است.)
+ * I want to be free from worries.
+   (من می‌خواهم از نگرانی‌ها رها باشم.)
+ * She has a free spirit.
+   (او روحی آزاد دارد.)
+ID: ID1537 - A2 - XV2 - Q1 - Freedom (آزادی) *
+Examples:
+ * Everyone deserves freedom.
+   (همه شایسته آزادی هستند.)
+ * Freedom of speech is a fundamental right.
+   (آزادی بیان یک حق اساسی است.)
+ * They fought for their freedom.
+   (آنها برای آزادی خود جنگیدند.)
+ * She enjoys the freedom of working from home.
+   (او از آزادی کار از خانه لذت می‌برد.)
+ID: ID1538 - C1 - XV5 - Q2 - Frenetic (دیوانه‌وار، هیجان‌زده، بی‌قرار) *
+Examples:
+ * The city's frenetic pace can be overwhelming.
+   (ریتم دیوانه‌وار شهر می‌تواند طاقت‌فرسا باشد.)
+ * The last few days before the deadline were frenetic.
+   (چند روز آخر قبل از ضرب‌الاجل بی‌قرار کننده بود.)
+ * He worked with frenetic energy to finish the project.
+   (او با انرژی هیجان‌زده برای اتمام پروژه کار کرد.)
+ * The stock market showed frenetic activity.
+   (بازار سهام فعالیت دیوانه‌واری را نشان داد.)
+ID: ID1539 - B1 - XV3 - Q2 - Frequent (مکرر، متداول) *
+Examples:
+ * He is a frequent visitor to the library.
+   (او یک بازدیدکننده مکرر از کتابخانه است.)
+ * Frequent breaks help improve productivity.
+   (استراحت‌های متداول به بهبود بهره‌وری کمک می‌کند.)
+ * This bus service is quite frequent.
+   (این سرویس اتوبوس بسیار متداول است.)
+ * Headaches are a frequent symptom of stress.
+   (سردردها یک علامت مکرر استرس هستند.)
+ID: ID1540 - A1 - XV1 - Q1 - Friday (جمعه) *
+Examples:
+ * We usually go out on Friday evenings.
+   (ما معمولاً عصر جمعه بیرون می‌رویم.)
+ * Friday is the last day of the work week for many.
+   (جمعه برای بسیاری آخرین روز هفته کاری است.)
+ * I have a meeting on Friday.
+   (جمعه جلسه دارم.)
+ * Happy Friday!
+   (جمعه خوبی داشته باشید!)
+ID: ID1541 - A1 - XV1 - Q1 - Friend (دوست) *
+Examples:
+ * She is my best friend.
+   (او بهترین دوست من است.)
+ * I met my friend for coffee.
+   (با دوستم برای قهوه ملاقات کردم.)
+ * Make new friends wherever you go.
+   (در هر کجا که می‌روی دوستان جدید پیدا کن.)
+ * He has many friends.
+   (او دوستان زیادی دارد.)
+ID: ID1542 - A1 - XV1 - Q2 - Friendly (دوستانه، صمیمی) *
+Examples:
+ * She has a friendly smile.
+   (او لبخند دوستانه‌ای دارد.)
+ * The dog is very friendly.
+   (سگ بسیار صمیمی است.)
+ * The local people were very friendly and welcoming.
+   (مردم محلی بسیار دوستانه و خوش‌آمدگو بودند.)
+ * They had a friendly chat.
+   (آنها یک گفتگوی دوستانه داشتند.)
+ID: ID1543 - C2 - XV6 - Q1 - Frivolity (سبک‌سری، بی‌اهمیتی، ابتذال) *
+Examples:
+ * He was criticized for his constant frivolity in serious matters.
+   (او به دلیل سبک‌سری مداومش در مسائل جدی مورد انتقاد قرار گرفت.)
+ * The meeting dissolved into laughter and frivolity.
+   (جلسه به خنده و بی‌اهمیتی کشیده شد.)
+ * Despite the gravity of the situation, there was an air of frivolity.
+   (با وجود جدیت اوضاع، هوای ابتذال وجود داشت.)
+ * She enjoyed moments of pure frivolity with her friends.
+   (او از لحظات سبک‌سری خالص با دوستانش لذت می‌برد.)
+ID: ID1544 - C1 - XV5 - Q2 - Frivolous (بی‌اهمیت، سبک، سطحی) *
+Examples:
+ * Don't waste your time on frivolous matters.
+   (وقت خود را صرف مسائل بی‌اهمیت نکنید.)
+ * He was known for his frivolous spending.
+   (او به خاطر ولخرجی‌های سطحی‌اش شناخته شده بود.)
+ * The lawsuit was dismissed as frivolous.
+   (دعوا به عنوان بی‌اهمیت رد شد.)
+ * Her frivolous attitude during the crisis was disturbing.
+   (نگرش سبک او در طول بحران آزاردهنده بود.)
+ID: ID1545 - A1 - XV1 - Q6 - From (از) *
+Examples:
+ * I'm from Iran.
+   (من اهل ایران هستم.)
+ * The letter is from my friend.
+   (نامه از طرف دوستم است.)
+ * She returned from work.
+   (او از سر کار برگشت.)
+ * We learned a lot from this experience.
+   (ما از این تجربه چیزهای زیادی یاد گرفتیم.)
+ID: ID1546 - A1 - XV1 - Q1 - Front (جلو، قسمت جلو) *
+Examples:
+ * The car is parked in front of the house.
+   (ماشین جلوی خانه پارک شده است.)
+ * The building has a beautiful front.
+   (ساختمان یک نمای جلویی زیبا دارد.)
+ * He stood at the front of the line.
+   (او در جلوی صف ایستاد.)
+ * The garden is at the front of the house.
+   (باغ در قسمت جلوی خانه است.)
+ID: ID1547 - C1 - XV5 - Q2 - Frugal (صرفه‌جو، مقتصد، کم‌خرج) *
+Examples:
+ * They lived a frugal life to save money.
+   (آنها زندگی صرفه‌جویانه‌ای داشتند تا پول پس‌انداز کنند.)
+ * He was known for his frugal habits.
+   (او به خاطر عادات مقتصدش شناخته شده بود.)
+ * A frugal meal can still be delicious.
+   (یک وعده غذایی کم‌خرج هنوز هم می‌تواند خوشمزه باشد.)
+ * Despite his wealth, he remained remarkably frugal.
+   (با وجود ثروتش، او به طور قابل توجهی صرفه‌جو باقی ماند.)
+ID: ID1548 - A2 - XV2 - Q1 - Fruit (میوه) *
+Examples:
+ * I like to eat fresh fruit.
+   (من دوست دارم میوه تازه بخورم.)
+ * Apples are a type of fruit.
+   (سیب نوعی میوه است.)
+ * This tree bears a lot of fruit.
+   (این درخت میوه زیادی می‌دهد.)
+ * She brought a basket of mixed fruits.
+   (او یک سبد میوه مخلوط آورد.)
+ID: ID1549 - C1 - XV5 - Q1 - Fruition (تحقق، به ثمر رسیدن، نتیجه) *
+Examples:
+ * Her plans finally came to fruition.
+   (برنامه‌های او سرانجام به تحقق پیوست.)
+ * The project reached its fruition after years of hard work.
+   (پروژه پس از سال‌ها کار سخت به ثمر رسید.)
+ * He worked tirelessly for the fruition of his dreams.
+   (او بی‌وقفه برای تحقق رویاهایش تلاش کرد.)
+ * The investment brought immediate fruition.
+   (این سرمایه‌گذاری نتایج فوری به همراه داشت.)
+ID: ID1550 - B1 - XV3 - Q1 - Fuel (سوخت؛ سوخت‌گیری کردن، تغذیه کردن) *
+Examples:
+ * The car needs fuel.
+   (ماشین به سوخت نیاز دارد.)
+ * The arguments only fueled her anger.
+   (این بحث‌ها فقط خشم او را تغذیه کرد.)
+ * They are developing alternative fuels.
+   (آنها در حال توسعه سوخت‌های جایگزین هستند.)
+ * The discovery fueled new research.
+   (این کشف به تحقیقات جدید سوخت داد.)
+ID: ID1551 - A1 - XV1 - Q2 - Full (پر، کامل) *
+Examples:
+ * The glass is full of water.
+   (لیوان پر از آب است.)
+ * The movie theater was full.
+   (سینما پر بود.)
+ * She gave a full explanation.
+   (او یک توضیح کامل داد.)
+ * He worked full time.
+   (او تمام وقت کار کرد.)
+ID: ID1552 - C1 - XV5 - Q4 - Fulminate (انفجار کردن، فریاد زدن، به شدت اعتراض کردن) *
+Examples:
+ * He began to fulminate against the injustice of the system.
+   (او شروع به اعتراض شدید علیه بی‌عدالتی سیستم کرد.)
+ * The politician fulminated against his opponents in a fiery speech.
+   (سیاستمدار در یک سخنرانی آتشین علیه مخالفانش فریاد زد.)
+ * The critics fulminated against the play's controversial themes.
+   (منتقدان از موضوعات بحث‌برانگیز نمایش به شدت اعتراض کردند.)
+ * The storm fulminated with thunder and lightning.
+   (طوفان با رعد و برق انفجار کرد.)
+ID: ID1553 - C1 - XV5 - Q2 - Fulsome (زیاده‌روی در ستایش، تملق‌آمیز، متعفن) *
+Examples:
+ * His fulsome praise made her uncomfortable.
+   (ستایش زیاده‌روی او، او را ناراحت کرد.)
+ * The critic's review was so fulsome that it seemed insincere.
+   (نقد منتقد آنقدر تملق‌آمیز بود که غیرصادقانه به نظر می‌رسید.)
+ * Avoid fulsome flattery; it rarely sounds genuine.
+   (از تملق زیاده‌روی خودداری کنید؛ به ندرت واقعی به نظر می‌رسد.)
+ * The fulsome odor from the garbage was unbearable.
+   (بوی متعفن از زباله غیرقابل تحمل بود.)
+ID: ID1554 - A1 - XV1 - Q1 - Fun (سرگرمی، تفریح) *
+Examples:
+ * We had a lot of fun at the party.
+   (ما در مهمانی خیلی خوش گذراندیم.)
+ * Playing games is fun.
+   (بازی کردن سرگرم‌کننده است.)
+ * Let's have some fun!
+   (بیایید کمی تفریح کنیم!)
+ * The trip was great fun.
+   (سفر خیلی باحال بود.)
+ID: ID1555 - B1 - XV3 - Q1 - Function (عملکرد، کارکرد؛ عمل کردن) *
+Examples:
+ * The main function of the heart is to pump blood.
+   (عملکرد اصلی قلب پمپاژ خون است.)
+ * The new machine functions perfectly.
+   (ماشین جدید کاملاً کار می‌کند.)
+ * His role functions as a bridge between the two departments.
+   (نقش او به عنوان پلی بین دو بخش عمل می‌کند.)
+ * The function of a manager is to oversee the team.
+   (عملکرد یک مدیر نظارت بر تیم است.)
+ID: ID1556 - B1 - XV3 - Q1 - Fund (صندوق، وجوه؛ تأمین مالی کردن) *
+Examples:
+ * The organization raises funds for charity.
+   (این سازمان برای کارهای خیریه وجوه جمع‌آوری می‌کند.)
+ * We need to find a way to fund the project.
+   (ما باید راهی برای تأمین مالی پروژه پیدا کنیم.)
+ * The research fund supports scientific studies.
+   (صندوق تحقیقات از مطالعات علمی حمایت می‌کند.)
+ * They are trying to fund a new hospital.
+   (آنها در تلاشند تا یک بیمارستان جدید را تأمین مالی کنند.)
+ID: ID1557 - B1 - XV3 - Q2 - Fundamental (اساسی، بنیادی، اصلی) *
+Examples:
+ * Education is a fundamental right.
+   (تحصیلات یک حق اساسی است.)
+ * We need to address the fundamental issues.
+   (ما باید مسائل بنیادی را بررسی کنیم.)
+ * This is a fundamental principle of democracy.
+   (این یک اصل اصلی دموکراسی است.)
+ * He has a fundamental understanding of physics.
+   (او درک بنیادی از فیزیک دارد.)
+ID: ID1558 - A1 - XV1 - Q2 - Funny (خنده‌دار، بامزه) *
+Examples:
+ * That joke was very funny.
+   (آن شوخی خیلی خنده‌دار بود.)
+ * He told us a funny story.
+   (او برای ما یک داستان بامزه تعریف کرد.)
+ * It's funny how things work out.
+   (خنده‌دار است که چطور کارها پیش می‌رود.)
+ * The movie was not as funny as I expected.
+   (فیلم به اندازه انتظارم خنده‌دار نبود.)
+ID: ID1559 - A2 - XV2 - Q1 - Furniture (مبلمان، اثاثیه) *
+Examples:
+ * We bought new furniture for the living room.
+   (ما برای اتاق نشیمن مبلمان جدید خریدیم.)
+ * The apartment comes unfurnished, so you'll need to buy your own furniture.
+   (آپارتمان بدون اثاثیه است، بنابراین باید مبلمان خود را بخرید.)
+ * The antique furniture was very valuable.
+   (مبلمان عتیقه بسیار با ارزش بود.)
+ * She sells handmade furniture.
+   (او مبلمان دست‌ساز می‌فروشد.)
+ID: ID1560 - C1 - XV5 - Q2 - Furtive (پنهانی، یواشکی، مخفیانه) *
+Examples:
+ * He cast a furtive glance at his watch.
+   (او یک نگاه پنهانی به ساعتش انداخت.)
+ * They exchanged furtive whispers during the meeting.
+   (آنها در طول جلسه زمزمه‌های یواشکی رد و بدل کردند.)
+ * The thief made a furtive attempt to escape.
+   (دزد یک تلاش مخفیانه برای فرار کرد.)
+ * She noticed his furtive movements in the shadows.
+   (او حرکات یواشکی او را در سایه‌ها متوجه شد.)
+ID: ID1561 - C2 - XV6 - Q1 - Furtiveness (پنهانی، یواشکی، محرمانه بودن)
+Examples:
+ * The furtiveness of his actions raised suspicion.
+   (پنهانی اعمالش باعث سوءظن شد.) 
+ * She noticed the furtiveness in his gaze, indicating something was being hidden.
+   (او پنهانی در نگاهش را متوجه شد که نشان می‌داد چیزی پنهان شده است.) 
+ * The success of the secret operation depended on its complete furtiveness.
+   (موفقیت عملیات سری به پنهانی کامل آن بستگی داشت.) 
+ * His furtiveness made it difficult for others to trust him.
+   (محرمانه بودن او باعث می‌شد اعتماد به او دشوار باشد.) 
+ID: ID1562 - B2 - XV4 - Q2 - Futile (بی‌فایده، بی‌حاصل، بیهوده)
+Examples:
+ * Their efforts to stop the flood were futile.
+   (تلاش‌های آنها برای جلوگیری از سیل بی‌فایده بود.) 
+ * It was a futile attempt to change his mind.
+   (تلاش برای تغییر نظر او بیهوده بود.) 
+ * Arguing with him is futile; he never listens.
+   (بحث کردن با او بی‌حاصل است؛ او هرگز گوش نمی‌دهد.) 
+ * The rescue mission proved futile as the ship had already sunk.
+   (عملیات نجات بی‌فایده بود زیرا کشتی قبلاً غرق شده بود.) 
+ID: ID1563 - A1 - XV1 - Q1 - Future (آینده)
+Examples:
+ * What are your plans for the future?
+   (برنامه‌هایت برای آینده چیست؟) 
+ * The future looks bright.
+   (آینده روشن به نظر می‌رسد.) 
+ * We need to prepare for the future.
+   (ما باید برای آینده آماده شویم.) 
+ * Nobody knows what the future holds.
+   (هیچ‌کس نمی‌داند آینده چه خواهد شد.) 
+ID: ID1564 - B1 - XV3 - Q4 - Gain (به دست آوردن، کسب کردن؛ سود، منفعت)
+Examples:
+ * He gained a lot of experience from the project.
+   (او تجربه زیادی از این پروژه به دست آورد.) 
+ * The company made significant gains last quarter.
+   (شرکت در سه ماهه گذشته سود قابل توجهی کسب کرد.) 
+ * She gained confidence after her success.
+   (او پس از موفقیتش اعتماد به نفس به دست آورد.) 
+ * The new policy aims to gain public support.
+   (سیاست جدید با هدف کسب حمایت عمومی است.) 
+ID: ID1565 - C1 - XV5 - Q2 - Gallant (شجاع، دلاور، باوقار)
+Examples:
+ * The knight was known for his gallant deeds.
+   (شوالیه به خاطر اعمال دلاورانه‌اش شناخته شده بود.) 
+ * He made a gallant effort to save the drowning child.
+   (او تلاشی شجاعانه برای نجات کودک در حال غرق شدن کرد.) 
+ * She appreciated his gallant gesture of holding the door.
+   (او از حرکت باوقار او در نگه داشتن در قدردانی کرد.) 
+ * The soldiers put up a gallant fight against overwhelming odds.
+   (سربازان در برابر احتمالات طاقت‌فرسا، مبارزه‌ای دلاورانه از خود نشان دادند.) 
+ID: ID1566 - C2 - XV6 - Q1 - Galvanization (تحریک، برانگیختگی، آبکاری گالوانیکی)
+Examples:
+ * The crisis led to the galvanization of public opinion.
+   (بحران منجر به تحریک افکار عمومی شد.) 
+ * The team needed a galvanization of their spirits after the defeat.
+   (تیم پس از شکست به برانگیختگی روحی نیاز داشت.) 
+ * The speech was intended to be a galvanization for change.
+   (هدف از این سخنرانی تحریک برای تغییر بود.) 
+ * The material underwent galvanization to prevent rust.
+   (ماده تحت آبکاری گالوانیکی قرار گرفت تا از زنگ‌زدگی جلوگیری شود.) 
+ID: ID1567 - C1 - XV5 - Q4 - Galvanize (تحریک کردن، برانگیختن، به حرکت درآوردن)
+Examples:
+ * The news of the disaster galvanized the international community into action.
+   (خبر فاجعه جامعه جهانی را به حرکت واداشت.) 
+ * His inspiring speech galvanized the students.
+   (سخنرانی الهام‌بخش او دانشجویان را برانگیخت.) 
+ * The urgency of the situation galvanized him to take immediate steps.
+   (فوریت وضعیت او را به اقدام فوری تحریک کرد.) 
+ * The shocking documentary galvanized public debate on the issue.
+   (مستند تکان‌دهنده بحث عمومی را در مورد این موضوع برانگیخت.) 
+ID: ID1568 - C1 - XV5 - Q2 - Galvanizing (تحریک‌کننده، برانگیزاننده)
+Examples:
+ * It was a galvanizing performance that inspired the whole audience.
+   (این یک اجرای تحریک‌کننده بود که کل مخاطبان را الهام بخشید.) 
+ * The new leader delivered a galvanizing speech.
+   (رهبر جدید سخنرانی برانگیزاننده‌ای ایراد کرد.) 
+ * The team's victory had a galvanizing effect on the city.
+   (پیروزی تیم تأثیری تحریک‌کننده بر شهر داشت.) 
+ * The crisis served as a galvanizing force for unity.
+   (بحران به عنوان نیروی برانگیزاننده‌ای برای وحدت عمل کرد.) 
+ID: ID1569 - C2 - XV6 - Q1 - Gambit (شروع بازی شطرنج با قربانی کردن پیاده، تدبیر، حیله)
+Examples:
+ * His opening move in the negotiation was a bold gambit.
+   (حرکت اولیه او در مذاکره یک تدبیر جسورانه بود.) 
+ * The company's new product launch was a risky gambit to gain market share.
+   (عرضه محصول جدید شرکت یک حیله پرخطر برای کسب سهم بازار بود.) 
+ * He decided to try a desperate gambit to win the game.
+   (او تصمیم گرفت برای بردن بازی، یک تدبیر ناامیدکننده را امتحان کند.) 
+ * Her offer was a clever gambit to test his intentions.
+   (پیشنهاد او یک حیله هوشمندانه برای آزمایش نیت او بود.) 
+ID: ID1570 - A1 - XV1 - Q1 - Game (بازی)
+Examples:
+ * Let's play a game.
+   (بیایید یک بازی کنیم.) 
+ * The children were playing a board game.
+   (بچه‌ها در حال بازی با یک بازی رومیزی بودند.) 
+ * Do you want to come to the football game?
+   (می‌خواهی به بازی فوتبال بیایی؟) 
+ * It's just a game, don't take it too seriously.
+   (این فقط یک بازی است، زیاد جدی نگیر.) 
+ID: ID1571 - B1 - XV3 - Q1 - Gap (شکاف، فاصله، شکاف)
+Examples:
+ * There's a gap in the fence.
+   (یک شکاف در حصار وجود دارد.) 
+ * We need to close the gap between rich and poor.
+   (ما باید شکاف بین فقیر و غنی را از بین ببریم.) 
+ * There was a long gap in his memory.
+   (یک فاصله طولانی در حافظه او وجود داشت.) 
+ * The company is trying to fill a gap in the market.
+   (شرکت در تلاش است تا یک شکاف در بازار را پر کند.) 
+ID: ID1572 - A1 - XV1 - Q1 - Garage (گاراژ)
+Examples:
+ * I parked my car in the garage.
+   (ماشینم را در گاراژ پارک کردم.) 
+ * He has a workshop in his garage.
+   (او یک کارگاه در گاراژ خود دارد.) 
+ * The garage needs to be cleaned.
+   (گاراژ باید تمیز شود.) 
+ * He spent the afternoon working in the garage.
+   (او بعدازظهر را در گاراژ کار کرد.) 
+ID: ID1573 - A1 - XV1 - Q1 - Garden (باغ، باغچه)
+Examples:
+ * We have a beautiful garden.
+   (ما یک باغ زیبا داریم.) 
+ * She loves working in the garden.
+   (او عاشق کار در باغچه است.) 
+ * The flowers in the garden are blooming.
+   (گل‌های باغ در حال شکوفایی هستند.) 
+ * Let's have a picnic in the garden.
+   (بیایید در باغ یک پیک‌نیک داشته باشیم.) 
+ID: ID1574 - C1 - XV5 - Q4 - Garner (به دست آوردن، جمع‌آوری کردن، انباشتن)
+Examples:
+ * The movie garnered several awards.
+   (فیلم چندین جایزه به دست آورد.) 
+ * She garnered support for her campaign.
+   (او برای کمپین خود حمایت جمع‌آوری کرد.) 
+ * His research has garnered international recognition.
+   (تحقیقات او به رسمیت شناخته شدن بین‌المللی را به دست آورده است.) 
+ * The politician managed to garner enough votes to win.
+   (سیاستمدار توانست رای کافی برای پیروزی را به دست آورد.) 
+ID: ID1575 - C2 - XV6 - Q1 - Garrulity (پرحرفی، وراجی)
+Examples:
+ * His garrulity often made him the life of the party, but also a bore.
+   (پرحرفی او اغلب او را به روح مهمانی تبدیل می‌کرد، اما همچنین خسته‌کننده بود.) 
+ * The interview was difficult due to the candidate's garrulity.
+   (مصاحبه به دلیل پرحرفی نامزد دشوار بود.) 
+ * She found his garrulity irritating after a while.
+   (او بعد از مدتی پرحرفی او را آزاردهنده یافت.) 
+ * The old man's garrulity was a charming trait to some, tiresome to others.
+   (پرحرفی پیرمرد برای برخی ویژگی‌ای دلربا بود، برای برخی دیگر خسته‌کننده.) 
+ID: ID1576 - C1 - XV5 - Q2 - Garrulous (پرحرف، وراج)
+Examples:
+ * He became garrulous after a few drinks.
+   (او بعد از چند نوشیدنی پرحرف شد.) 
+ * The garrulous old man told endless stories.
+   (پیرمرد وراج داستان‌های بی‌شماری تعریف می‌کرد.) 
+ * She found his garrulous nature charming.
+   (او طبیعت پرحرف او را دلربا یافت.) 
+ * The interview was dominated by the garrulous guest.
+   (مصاحبه توسط مهمان پرحرف تسخیر شد.) 
+ID: ID1577 - A2 - XV2 - Q1 - Gas (گاز؛ بنزین)
+Examples:
+ * The stove uses natural gas.
+   (اجاق از گاز طبیعی استفاده می‌کند.) 
+ * I need to put gas in the car.
+   (من باید بنزین در ماشین بریزم.) 
+ * There was a gas leak in the kitchen.
+   (در آشپزخانه نشت گاز وجود داشت.) 
+ * The gas price has increased.
+   (قیمت بنزین افزایش یافته است.) 
+ID: ID1578 - A2 - XV2 - Q1 - Gate (دروازه، گیت)
+Examples:
+ * Close the gate behind you.
+   (دروازه را پشت سرت ببند.) 
+ * We met at the airport gate.
+   (ما در گیت فرودگاه ملاقات کردیم.) 
+ * The garden gate was open.
+   (دروازه باغ باز بود.) 
+ * The security guard opened the main gate.
+   (نگهبان امنیت دروازه اصلی را باز کرد.) 
+ID: ID1579 - B1 - XV3 - Q4 - Gather (جمع کردن، گردآوری کردن، گردهم آمدن)
+Examples:
+ * We gathered firewood for the campfire.
+   (ما برای آتش اردو هیزم جمع کردیم.) 
+ * A crowd gathered outside the building.
+   (جمعیتی در بیرون ساختمان گردهم آمدند.) 
+ * I gathered from his expression that he was unhappy.
+   (از چهره‌اش فهمیدم که ناراحت است.) 
+ * She gathered her courage and spoke.
+   (او شجاعت خود را جمع کرد و صحبت کرد.) 
+ID: ID1580 - C1 - XV5 - Q2 - Gaunt (لاغر و تکیده، استخوانی)
+Examples:
+ * The prolonged illness left him looking gaunt and frail.
+   (بیماری طولانی او را لاغر و نحیف کرده بود.) 
+ * The prisoners were gaunt from starvation.
+   (زندانیان از گرسنگی تکیده بودند.) 
+ * His face was gaunt, but his eyes still held a spark of life.
+   (چهره‌اش تکیده بود، اما چشمانش هنوز جرقه‌ای از زندگی داشت.) 
+ * The old, abandoned house had a gaunt, ghostly appearance.
+   (خانه قدیمی و متروک ظاهری لاغر و شبح‌مانند داشت.) 
+ID: ID1581 - A2 - XV2 - Q2 - General (کلی، عمومی)
+Examples:
+ * In general, I agree with your point.
+   (به طور کلی، من با نظر شما موافقم.) 
+ * The general public has a right to know.
+   (عموم مردم حق دارند بدانند.) 
+ * He gave a general overview of the project.
+   (او یک بررسی کلی از پروژه ارائه داد.) 
+ * The general consensus was that the plan would work.
+   (اجماع کلی بر این بود که طرح موفق خواهد شد.) 
+ID: ID1582 - B1 - XV3 - Q4 - Generate (تولید کردن، ایجاد کردن، تولید برق)
+Examples:
+ * The wind turbines generate electricity.
+   (توربین‌های بادی برق تولید می‌کنند.) 
+ * The new policy is expected to generate jobs.
+   (انتظار می‌رود سیاست جدید شغل ایجاد کند.) 
+ * Her ideas always generate interesting discussions.
+   (ایده‌های او همیشه بحث‌های جالبی را ایجاد می‌کنند.) 
+ * Computers can generate complex images.
+   (کامپیوترها می‌توانند تصاویر پیچیده تولید کنند.) 
+ID: ID1583 - B1 - XV3 - Q1 - Generation (نسل)
+Examples:
+ * This technology is for the next generation.
+   (این فناوری برای نسل بعدی است.) 
+ * There is a generation gap between parents and children.
+   (یک شکاف نسلی بین والدین و فرزندان وجود دارد.) 
+ * My grandparents belonged to a different generation.
+   (پدربزرگ و مادربزرگ من به نسل دیگری تعلق داشتند.) 
+ * The new generation of smartphones has advanced features.
+   (نسل جدید گوشی‌های هوشمند ویژگی‌های پیشرفته‌ای دارند.) 
+ID: ID1584 - B1 - XV3 - Q2 - Generous (سخاوتمند، بخشنده)
+Examples:
+ * He is very generous with his time.
+   (او در مورد وقتش بسیار سخاوتمند است.) 
+ * She made a generous donation to charity.
+   (او کمک مالی سخاوتمندانه‌ای به خیریه کرد.) 
+ * It was generous of you to help.
+   (این کار سخاوتمندانه‌ای از شما بود که کمک کردید.) 
+ * His generous spirit was admired by all.
+   (روح بخشنده او مورد تحسین همه بود.) 
+ID: ID1585 - B2 - XV4 - Q1 - Genre (ژانر، سبک)
+Examples:
+ * What's your favorite music genre?
+   (ژانر موسیقی مورد علاقه شما چیست؟) 
+ * The film blends elements from several different genres.
+   (فیلم عناصری از چندین ژانر مختلف را ترکیب می‌کند.) 
+ * Science fiction is a popular literary genre.
+   (علمی-تخیلی یک ژانر ادبی محبوب است.) 
+ * This game defines a new genre of strategic gameplay.
+   (این بازی یک ژانر جدید از گیم‌پلی استراتژیک را تعریف می‌کند.) 
+ID: ID1586 - C1 - XV5 - Q2 - Genteel (نجیب، باوقار، مودب)
+Examples:
+ * She had a genteel upbringing.
+   (او تربیت نجیبی داشت.) 
+ * The old town retained a genteel atmosphere.
+   (شهر قدیمی یک فضای باوقار را حفظ کرده بود.) 
+ * His manners were always genteel, even in casual settings.
+   (رفتار او همیشه مودبانه بود، حتی در محیط‌های غیررسمی.) 
+ * The guests engaged in genteel conversation over tea.
+   (میهمانان در طول چای‌خوری به گفتگوی باوقار پرداختند.) 
+ID: ID1587 - A2 - XV2 - Q2 - Gentle (ملایم، آرام، مهربان)
+Examples:
+ * He has a gentle voice.
+   (او صدای ملایمی دارد.) 
+ * Be gentle with the puppy.
+   (با توله‌سگ مهربان باش.) 
+ * A gentle breeze blew through the trees.
+   (نسیم ملایمی از میان درختان وزید.) 
+ * She gave him a gentle push.
+   (او یک فشار ملایم به او داد.) 
+ID: ID1588 - B1 - XV3 - Q2 - Genuine (اصیل، واقعی، صادقانه)
+Examples:
+ * Is this a genuine antique?
+   (آیا این یک عتیقه اصیل است؟) 
+ * She showed genuine concern for his well-being.
+   (او نگرانی واقعی برای سلامتی او نشان داد.) 
+ * His apology seemed genuine.
+   (عذرخواهی او صادقانه به نظر می‌رسید.) 
+ * The painting is a genuine Picasso.
+   (این نقاشی یک پیکاسو واقعی است.) 
+ID: ID1589 - C1 - XV5 - Q2 - Germane (مربوط، مناسب، مرتبط)
+Examples:
+ * His comments were not germane to the discussion.
+   (نظرات او به بحث مربوط نبود.) 
+ * We need to stick to topics that are germane to the main issue.
+   (ما باید به موضوعاتی بپردازیم که به مسئله اصلی مرتبط هستند.) 
+ * The lawyer argued that the evidence was not germane to the case.
+   (وکیل استدلال کرد که شواهد به پرونده مربوط نیست.) 
+ * Her insights were highly germane to the research.
+   (بینش‌های او بسیار مناسب تحقیق بود.) 
+ID: ID1590 - C1 - XV5 - Q4 - Germinate (جوانه زدن، رشد کردن، شروع به توسعه یافتن)
+Examples:
+ * The seeds germinated quickly in the warm soil.
+   (بذرها به سرعت در خاک گرم جوانه زدند.) 
+ * An idea began to germinate in her mind.
+   (یک ایده در ذهن او شروع به توسعه یافتن کرد.) 
+ * The project began to germinate after months of planning.
+   (پروژه پس از ماه‌ها برنامه‌ریزی شروع به رشد کرد.) 
+ * We are waiting for the plants to germinate.
+   (ما منتظریم تا گیاهان جوانه بزنند.) 
+ID: ID1591 - A1 - XV1 - Q4 - Get (گرفتن، به دست آوردن، شدن)
+Examples:
+ * Can you get me a glass of water?
+   (می‌توانید یک لیوان آب برایم بیاورید؟) 
+ * I need to get home early.
+   (من باید زود به خانه برسم.) 
+ * She got angry when she heard the news.
+   (او وقتی خبر را شنید عصبانی شد.) 
+ * How can I get to the train station?
+   (چگونه می‌توانم به ایستگاه قطار برسم؟) 
+ID: ID1592 - A1 - XV1 - Q1 - Gift (هدیه، استعداد)
+Examples:
+ * She received a beautiful gift for her birthday.
+   (او برای تولدش یک هدیه زیبا دریافت کرد.) 
+ * He has a gift for music.
+   (او استعداد موسیقی دارد.) 
+ * The children were excited to open their gifts.
+   (بچه‌ها از باز کردن هدایایشان هیجان‌زده بودند.) 
+ * Her ability to connect with people is a true gift.
+   (توانایی او در ارتباط با مردم یک استعداد واقعی است.) 
+ID: ID1593 - A1 - XV1 - Q1 - Girl (دختر)
+Examples:
+ * She is a smart girl.
+   (او یک دختر باهوش است.) 
+ * The little girl was playing with her doll.
+   (دختر کوچولو با عروسکش بازی می‌کرد.) 
+ * There were three boys and two girls in the class.
+   (سه پسر و دو دختر در کلاس بودند.) 
+ * She grew up to be a confident young girl.
+   (او بزرگ شد و به یک دختر جوان با اعتماد به نفس تبدیل شد.) 
+ID: ID1594 - A1 - XV1 - Q4 - Give (دادن، بخشیدن)
+Examples:
+ * Can you give me your pen?
+   (می‌توانید قلمتان را به من بدهید؟) 
+ * She gave him a present.
+   (او به او هدیه داد.) 
+ * Give me a call if you need anything.
+   (اگر چیزی نیاز داشتی، به من زنگ بزن.) 
+ * He gave a speech at the conference.
+   (او در کنفرانس سخنرانی کرد.) 
+ID: ID1595 - A2 - XV2 - Q2 - Glad (خوشحال، راضی)
+Examples:
+ * I'm glad to hear that.
+   (از شنیدن آن خوشحالم.) 
+ * She was glad to be home.
+   (او از اینکه در خانه بود خوشحال بود.) 
+ * I'm glad you came.
+   (خوشحالم که آمدی.) 
+ * He was glad to have the opportunity.
+   (او از داشتن این فرصت راضی بود.) 
+ID: ID1596 - A2 - XV2 - Q1 - Glass (شیشه، لیوان)
+Examples:
+ * The window is made of glass.
+   (پنجره از شیشه ساخته شده است.) 
+ * Can I have a glass of water?
+   (می‌توانم یک لیوان آب داشته باشم؟) 
+ * He raised his glass to toast.
+   (او لیوانش را برای سلامتی بالا برد.) 
+ * The table had a glass top.
+   (میز یک رویه شیشه‌ای داشت.) 
+ID: ID1597 - C1 - XV5 - Q4 - Glean (جمع‌آوری کردن، ذره‌ذره به دست آوردن)
+Examples:
+ * We can glean information from various sources.
+   (می‌توانیم اطلاعات را از منابع مختلف جمع‌آوری کنیم.) 
+ * She gleaned a few facts from the old documents.
+   (او چند واقعیت را از اسناد قدیمی ذره‌ذره به دست آورد.) 
+ * The detective tried to glean clues from the crime scene.
+   (کارآگاه سعی کرد سرنخ‌ها را از صحنه جرم جمع‌آوری کند.) 
+ * From their conversation, I gleaned that they were planning a surprise party.
+   (از مکالمه آنها فهمیدم که آنها در حال برنامه‌ریزی یک مهمانی غافلگیرانه هستند.) 
+ID: ID1598 - C1 - XV5 - Q2 - Glib (زبان‌باز، چرب‌زبان، سطحی و بی‌فکر)
+Examples:
+ * He had a glib answer for every question.
+   (او برای هر سوالی یک پاسخ زبان‌باز داشت.) 
+ * Don't be fooled by his glib promises.
+   (فریب وعده‌های چرب‌زبان او را نخورید.) 
+ * Her glib remarks often masked a lack of understanding.
+   (اظهارات سطحی و بی‌فکر او اغلب عدم درک را پنهان می‌کرد.) 
+ * The politician's glib response failed to address the real issue.
+   (پاسخ زبان‌باز سیاستمدار نتوانست به مسئله اصلی بپردازد.) 
+ID: ID1599 - B1 - XV3 - Q2 - Global (جهانی، بین‌المللی)
+Examples:
+ * Climate change is a global problem.
+   (تغییرات آب و هوایی یک مشکل جهانی است.) 
+ * The company has a global presence.
+   (شرکت حضور بین‌المللی دارد.) 
+ * We need to find global solutions.
+   (ما باید راه‌حل‌های جهانی پیدا کنیم.) 
+ * The internet has created a global community.
+   (اینترنت یک جامعه جهانی ایجاد کرده است.) 
+ID: ID1600 - A1 - XV1 - Q4 - Go (رفتن)
+Examples:
+ * I want to go home.
+   (من می‌خواهم به خانه بروم.) 
+ * Let's go to the park.
+   (بیایید به پارک برویم.) 
+ * She goes to school every day.
+   (او هر روز به مدرسه می‌رود.) 
+ * Where did you go last night?
+   (دیشب کجا رفتی؟) 
