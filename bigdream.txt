@@ -8154,3 +8154,1003 @@ Examples:
  * The company tried to entrench its position in the market. (شرکت سعی کرد موقعیت خود را در بازار تثبیت کند.) 
  * His views became increasingly entrenched. (دیدگاه‌های او به طور فزاینده‌ای مستحکم شدند.) 
  * The habit became so entrenched it was hard to break. (این عادت آنقدر ریشه‌دار شد که ترک آن دشوار بود.) 
+ID: ID1301 - C1 - XV4 - Q4 - Entrench (مستحکم کردن، تثبیت کردن، جا انداختن)
+Examples:
+ * The company entrenched itself in the market by offering innovative products.
+   (شرکت با ارائه محصولات نوآورانه خود را در بازار مستحکم کرد.)
+ * Old habits are difficult to entrench.
+   (عادات قدیمی به سختی جا می‌افتند.)
+ * The government sought to entrench the new policies in the legal system.
+   (دولت به دنبال تثبیت سیاست‌های جدید در نظام حقوقی بود.)
+ * His views on the subject are deeply entrenched.
+   (دیدگاه‌های او در مورد این موضوع عمیقاً ریشه‌دار هستند.)
+ID: ID1302 - A2 - XV1 - Q1 - Envelope (پاکت، لفاف، پوشش)
+Examples:
+ * She put the letter in an envelope.
+   (او نامه را در یک پاکت گذاشت.)
+ * The envelope was sealed with wax.
+   (پاکت با موم مهر و موم شده بود.)
+ * He handed her a thick envelope.
+   (او یک پاکت ضخیم به او داد.)
+ * The special envelope protected the delicate documents.
+   (پاکت مخصوص از اسناد حساس محافظت کرد.)
+ID: ID1303 - B1 - XV2 - Q1 - Environment (محیط، محیط زیست)
+Examples:
+ * We need to protect our environment from pollution.
+   (ما باید از محیط زیست خود در برابر آلودگی محافظت کنیم.)
+ * A healthy environment is crucial for our well-being.
+   (محیطی سالم برای رفاه ما حیاتی است.)
+ * The company is committed to reducing its impact on the environment.
+   (شرکت متعهد به کاهش تأثیر خود بر محیط زیست است.)
+ * She thrives in a stimulating work environment.
+   (او در یک محیط کاری محرک پیشرفت می‌کند.)
+ID: ID1304 - C1 - XV5 - Q2 - Ephemeral (زودگذر، ناپایدار، فانی)
+Examples:
+ * Fame is often ephemeral.
+   (شهرت اغلب زودگذر است.)
+ * The beauty of a sunset is ephemeral.
+   (زیبایی غروب آفتاب زودگذر است.)
+ * Ephemeral joys are quickly forgotten.
+   (شادی‌های زودگذر به سرعت فراموش می‌شوند.)
+ * Many social media trends are ephemeral in nature.
+   (بسیاری از روندهای شبکه‌های اجتماعی ذاتاً زودگذر هستند.)
+ID: ID1305 - C2 - XV6 - Q1 - Epiphany (وحی ناگهانی، مکاشفه، لحظه روشنگری)
+Examples:
+ * He had an epiphany that changed his entire life.
+   (او یک لحظه روشنگری داشت که تمام زندگی‌اش را تغییر داد.)
+ * The book describes the protagonist's journey to an epiphany.
+   (کتاب سفر شخصیت اصلی را به سوی یک مکاشفه توصیف می‌کند.)
+ * Her sudden epiphany helped her solve the complex problem.
+   (وحی ناگهانی او به او کمک کرد تا مشکل پیچیده را حل کند.)
+ * The quiet meditation led him to a profound epiphany.
+   (مراقبه آرام او را به یک مکاشفه عمیق هدایت کرد.)
+ID: ID1306 - A1 - XV1 - Q1 - Episode (قسمت (سریال)، ماجرا، واقعه)
+Examples:
+ * I watched the latest episode of my favorite show last night.
+   (دیشب آخرین قسمت برنامه مورد علاقه‌ام را تماشا کردم.)
+ * The incident was a strange episode in his life.
+   (این حادثه یک ماجرای عجیب در زندگی او بود.)
+ * This episode highlights the complexities of human relationships.
+   (این قسمت بر پیچیدگی روابط انسانی تأکید می‌کند.)
+ * The doctor discussed a past episode of illness with the patient.
+   (دکتر در مورد یک واقعه قبلی بیماری با بیمار صحبت کرد.)
+ID: ID1307 - A1 - XV1 - Q2 - Equal (برابر، مساوی)
+Examples:
+ * All people are equal before the law.
+   (همه مردم در برابر قانون برابرند.)
+ * The two halves are equal in size.
+   (دو نیمه از نظر اندازه برابر هستند.)
+ * They divided the cake into equal portions.
+   (آنها کیک را به قسمت‌های مساوی تقسیم کردند.)
+ * She believes in equal opportunities for everyone.
+   (او به فرصت‌های برابر برای همه اعتقاد دارد.)
+ID: ID1308 - C1 - XV6 - Q1 - Equanimity (آرامش، خونسردی، متانت)
+Examples:
+ * He faced the crisis with remarkable equanimity.
+   (او با آرامش قابل توجهی با بحران روبرو شد.)
+ * Maintaining equanimity in difficult situations is a valuable skill.
+   (حفظ خونسردی در موقعیت‌های دشوار یک مهارت ارزشمند است.)
+ * Her equanimity in the face of adversity was admirable.
+   (متانت او در مواجهه با ناملایمات ستودنی بود.)
+ * The meditation practice helped him achieve a state of equanimity.
+   (تمرین مدیتیشن به او کمک کرد تا به حالت آرامش دست یابد.)
+ID: ID1309 - A2 - XV2 - Q1 - Equipment (تجهیزات، وسایل)
+Examples:
+ * The laboratory is equipped with state-of-the-art equipment.
+   (آزمایشگاه به تجهیزات پیشرفته مجهز است.)
+ * We need to buy new camping equipment.
+   (ما باید وسایل کمپینگ جدید بخریم.)
+ * Safety equipment is mandatory on the construction site.
+   (تجهیزات ایمنی در محل ساخت و ساز الزامی است.)
+ * The gym has a wide range of exercise equipment.
+   (باشگاه ورزشی طیف وسیعی از وسایل ورزشی را دارد.)
+ID: ID1310 - C1 - XV5 - Q2 - Equitable (عادلانه، منصفانه)
+Examples:
+ * The company aims to create an equitable distribution of profits.
+   (شرکت قصد دارد توزیع عادلانه سود را ایجاد کند.)
+ * They sought an equitable solution to the dispute.
+   (آنها به دنبال راه حلی منصفانه برای اختلاف بودند.)
+ * An equitable society ensures justice for all its members.
+   (یک جامعه عادلانه، عدالت را برای همه اعضایش تضمین می‌کند.)
+ * The new tax system is designed to be more equitable.
+   (سیستم مالیاتی جدید برای عادلانه‌تر بودن طراحی شده است.)
+ID: ID1311 - C1 - XV5 - Q2 - Equivocal (مبهم، دوپهلو، مشکوک)
+Examples:
+ * His response was equivocal, leaving us unsure of his intentions.
+   (پاسخ او مبهم بود و ما را در مورد نیت او نامطمئن گذاشت.)
+ * The evidence presented was equivocal and did not lead to a clear conclusion.
+   (شواهد ارائه شده دوپهلو بود و به نتیجه‌گیری روشنی منجر نشد.)
+ * She gave an equivocal answer to avoid committing herself.
+   (او پاسخی مبهم داد تا از متعهد شدن خودداری کند.)
+ * The doctor's prognosis was equivocal, indicating uncertainty about the outcome.
+   (پیش‌آگهی پزشک مبهم بود و عدم قطعیت در مورد نتیجه را نشان می‌داد.)
+ID: ID1312 - C2 - XV6 - Q4 - Equivocate (دوپهلو حرف زدن، طفره رفتن)
+Examples:
+ * Politicians often equivocate when asked direct questions.
+   (سیاستمداران اغلب هنگام پرسش‌های مستقیم دوپهلو حرف می‌زنند.)
+ * He tried to equivocate to avoid admitting his mistake.
+   (او سعی کرد طفره برود تا اشتباهش را اعتراف نکند.)
+ * Do not equivocate; just give me a straight answer.
+   (دوپهلو حرف نزن؛ فقط یک پاسخ سرراست به من بده.)
+ * Her tendency to equivocate made it difficult to trust her.
+   (تمایل او به طفره رفتن باعث شد که اعتماد به او دشوار شود.)
+ID: ID1313 - C2 - XV6 - Q1 - Equivocation (دوپهلوگویی، طفره‌روی)
+Examples:
+ * His speech was full of equivocation, frustrating the audience.
+   (سخنرانی او پر از دوپهلوگویی بود و مخاطبان را ناامید کرد.)
+ * The lawyer used equivocation to confuse the jury.
+   (وکیل از طفره‌روی برای گیج کردن هیئت منصفه استفاده کرد.)
+ * Such equivocation only serves to hide the truth.
+   (چنین دوپهلوگویی فقط برای پنهان کردن حقیقت است.)
+ * The report was criticized for its equivocation on key issues.
+   (این گزارش به دلیل طفره‌روی در مسائل کلیدی مورد انتقاد قرار گرفت.)
+ID: ID1314 - C1 - XV5 - Q4 - Eradicate (ریشه‌کن کردن، از بین بردن)
+Examples:
+ * The goal is to eradicate poverty in the region.
+   (هدف ریشه‌کن کردن فقر در منطقه است.)
+ * Scientists are working to eradicate diseases like malaria.
+   (دانشمندان در تلاشند تا بیماری‌هایی مانند مالاریا را ریشه‌کن کنند.)
+ * It is difficult to eradicate deeply ingrained prejudices.
+   (ریشه‌کن کردن تعصبات عمیقاً ریشه‌دار دشوار است.)
+ * The government launched a campaign to eradicate illiteracy.
+   (دولت کمپینی برای ریشه‌کن کردن بی‌سوادی راه‌اندازی کرد.)
+ID: ID1315 - B2 - XV4 - Q2 - Erratic (نامنظم، بی‌ثبات، نامتعادل)
+Examples:
+ * His attendance at work has been erratic lately.
+   (حضور او در محل کار اخیراً نامنظم بوده است.)
+ * The stock market showed erratic movements today.
+   (بازار سهام امروز حرکات بی‌ثباتی از خود نشان داد.)
+ * The weather in this region can be quite erratic.
+   (آب و هوا در این منطقه می‌تواند بسیار نامتعادل باشد.)
+ * Her erratic behavior worried her friends.
+   (رفتار نامنظم او دوستانش را نگران کرد.)
+ID: ID1316 - B2 - XV4 - Q2 - Erroneous (اشتباه، غلط، نادرست)
+Examples:
+ * The report contained several erroneous conclusions.
+   (این گزارش شامل چندین نتیجه‌گیری اشتباه بود.)
+ * It was an erroneous belief that led to the misunderstanding.
+   (این یک باور غلط بود که منجر به سوءتفاهم شد.)
+ * We must correct any erroneous information.
+   (ما باید هرگونه اطلاعات نادرست را تصحیح کنیم.)
+ * His calculations were found to be erroneous.
+   (محاسبات او اشتباه تشخیص داده شد.)
+ID: ID1317 - A1 - XV1 - Q1 - Error (اشتباه، خطا)
+Examples:
+ * I made a spelling error in my essay.
+   (من در انشایم یک خطای املایی داشتم.)
+ * The computer program showed an error message.
+   (برنامه کامپیوتری یک پیام خطا نشان داد.)
+ * To err is human.
+   (خطا کردن انسانی است.)
+ * Please check your work for any errors.
+   (لطفاً کار خود را برای هرگونه خطا بررسی کنید.)
+ID: ID1318 - C1 - XV5 - Q2 - Erudite (دانشمند، فضل‌پرور، ادیب)
+Examples:
+ * The professor was an erudite scholar of ancient history.
+   (این استاد یک دانشمند ادیب تاریخ باستان بود.)
+ * His erudite lectures were highly respected by the students.
+   (سخنرانی‌های فضل‌پرورانه او بسیار مورد احترام دانشجویان بود.)
+ * She impressed everyone with her erudite comments.
+   (او همه را با نظرات ادیبانه خود تحت تأثیر قرار داد.)
+ * The book is full of erudite references and insights.
+   (این کتاب پر از ارجاعات و بینش‌های دانشمندانه است.)
+ID: ID1319 - C2 - XV6 - Q1 - Erudition (علم، فضل، دانش عمیق)
+Examples:
+ * His erudition in classical literature was vast.
+   (علم او در ادبیات کلاسیک بسیار زیاد بود.)
+ * The speaker’s erudition on the topic was evident.
+   (فضل سخنران در مورد این موضوع آشکار بود.)
+ * She was admired for her deep erudition and wisdom.
+   (او به خاطر دانش عمیق و خردش مورد تحسین قرار گرفت.)
+ * The thesis displayed remarkable erudition.
+   (این پایان‌نامه دانش عمیقی را به نمایش گذاشت.)
+ID: ID1320 - A2 - XV1 - Q4 - Escape (فرار کردن، گریختن؛ فرار)
+Examples:
+ * The prisoner tried to escape from jail.
+   (زندانی سعی کرد از زندان فرار کند.)
+ * He narrowly escaped a serious accident.
+   (او به سختی از یک تصادف جدی گریخت.)
+ * The movie is about a daring escape from enemy territory.
+   (این فیلم درباره یک فرار جسورانه از قلمرو دشمن است.)
+ * Reading is an escape from daily worries for her.
+   (خواندن برای او یک فرار از نگرانی‌های روزانه است.)
+ID: ID1321 - C1 - XV5 - Q4 - Eschew (پرهیز کردن، دوری کردن، اجتناب کردن)
+Examples:
+ * He eschewed all forms of violence.
+   (او از هرگونه خشونت پرهیز می‌کرد.)
+ * To maintain a healthy lifestyle, one should eschew unhealthy habits.
+   (برای حفظ یک سبک زندگی سالم، باید از عادات ناسالم دوری کرد.)
+ * The organization tries to eschew political involvement.
+   (این سازمان سعی می‌کند از دخالت سیاسی اجتناب کند.)
+ * She eschews social media, preferring face-to-face interactions.
+   (او از رسانه‌های اجتماعی پرهیز می‌کند و تعاملات رو در رو را ترجیح می‌دهد.)
+ID: ID1322 - C1 - XV6 - Q2 - Esoteric (سری، باطنی، مخصوص خواص)
+Examples:
+ * The book contained esoteric knowledge only accessible to a few.
+   (این کتاب حاوی دانش سری بود که تنها برای عده کمی قابل دسترسی بود.)
+ * He specialized in esoteric philosophical texts.
+   (او در متون فلسفی باطنی تخصص داشت.)
+ * Their conversation was full of esoteric references that no one else understood.
+   (مکالمه آنها پر از ارجاعات سری بود که هیچ کس دیگری نفهمید.)
+ * The ritual involved esoteric symbols and practices.
+   (این مراسم شامل نمادها و اعمال باطنی بود.)
+ID: ID1323 - A1 - XV1 - Q5 - Especially (مخصوصاً، به ویژه)
+Examples:
+ * I like all fruits, especially strawberries.
+   (من همه میوه‌ها را دوست دارم، مخصوصاً توت فرنگی.)
+ * It's especially important to be careful when driving in the rain.
+   (هنگام رانندگی در باران، مخصوصاً مهم است که احتیاط کنید.)
+ * The painting is especially beautiful in natural light.
+   (این نقاشی به ویژه در نور طبیعی زیباست.)
+ * She prepared the meal especially for her guests.
+   (او غذا را به ویژه برای مهمانانش آماده کرد.)
+ID: ID1324 - A2 - XV2 - Q1 - Essay (مقاله، انشا)
+Examples:
+ * I have to write an essay for my English class.
+   (من باید برای کلاس زبان انگلیسی‌ام یک انشا بنویسم.)
+ * Her essay on environmental issues was very insightful.
+   (مقاله او درباره مسائل زیست‌محیطی بسیار بصیرت‌آمیز بود.)
+ * He submitted a brilliant essay to the competition.
+   (او یک مقاله درخشان به مسابقه ارسال کرد.)
+ * The collection includes various essays on art and culture.
+   (این مجموعه شامل مقالات مختلفی درباره هنر و فرهنگ است.)
+ID: ID1325 - B1 - XV2 - Q2 - Essential (ضروری، اساسی، لازم)
+Examples:
+ * Water is essential for life.
+   (آب برای زندگی ضروری است.)
+ * Good communication is essential for a successful relationship.
+   (ارتباط خوب برای یک رابطه موفق اساسی است.)
+ * It's essential that you arrive on time.
+   (این لازم است که به موقع برسی.)
+ * Patience is an essential quality for a teacher.
+   (صبر یک ویژگی اساسی برای یک معلم است.)
+ID: ID1326 - B1 - XV3 - Q4 - Establish (تأسیس کردن، برقرار کردن، ثابت کردن)
+Examples:
+ * The company was established in 1990.
+   (این شرکت در سال ۱۹۹۰ تأسیس شد.)
+ * They want to establish a good relationship with their new neighbors.
+   (آنها می‌خواهند رابطه خوبی با همسایگان جدید خود برقرار کنند.)
+ * The police established that he was at home at the time of the crime.
+   (پلیس ثابت کرد که او در زمان جرم در خانه بوده است.)
+ * The new laws aim to establish order and stability.
+   (قوانین جدید با هدف برقراری نظم و ثبات هستند.)
+ID: ID1327 - B1 - XV3 - Q1 - Estate (ملک، دارایی، ماترک)
+Examples:
+ * He inherited a large country estate.
+   (او یک ملک بزرگ روستایی به ارث برد.)
+ * The family estate was passed down through generations.
+   (دارایی خانوادگی از طریق نسل‌ها منتقل شد.)
+ * She works in real estate.
+   (او در زمینه املاک و مستغلات کار می‌کند.)
+ * The will specified how his estate should be divided.
+   (وصیت‌نامه مشخص کرد که ماترک او چگونه باید تقسیم شود.)
+ID: ID1328 - A2 - XV2 - Q4 - Estimate (تخمین زدن، برآورد کردن؛ تخمین، برآورد)
+Examples:
+ * Can you estimate the cost of the repairs?
+   (آیا می‌توانید هزینه تعمیرات را تخمین بزنید؟)
+ * The initial estimate was much lower than the actual cost.
+   (برآورد اولیه بسیار کمتر از هزینه واقعی بود.)
+ * Experts estimate that the population will increase significantly.
+   (کارشناسان تخمین می‌زنند که جمعیت به طور قابل توجهی افزایش خواهد یافت.)
+ * The project is still in the early stages, so it's hard to give an accurate estimate.
+   (پروژه هنوز در مراحل اولیه است، بنابراین ارائه یک تخمین دقیق دشوار است.)
+ID: ID1329 - C1 - XV5 - Q4 - Estrange (بیگانه کردن، دور کردن، آزرده خاطر کردن)
+Examples:
+ * His political views estranged him from his family.
+   (دیدگاه‌های سیاسی‌اش او را از خانواده‌اش بیگانه کرد.)
+ * The constant arguments estranged the couple.
+   (مشاجرات مداوم، زوج را از هم دور کرد.)
+ * She felt estranged from her own culture after living abroad for so long.
+   (او پس از مدت‌ها زندگی در خارج از کشور، از فرهنگ خود آزرده خاطر شده بود.)
+ * Their differing opinions began to estrange them.
+   (نظرات متفاوت آنها شروع به دور کردنشان کرد.)
+ID: ID1330 - C2 - XV6 - Q1 - Estrangement (بیگانگی، دوری، آزردگی خاطر)
+Examples:
+ * The estrangement between the two brothers lasted for years.
+   (بیگانگی بین دو برادر سال‌ها طول کشید.)
+ * His unconventional lifestyle led to a complete estrangement from his parents.
+   (سبک زندگی غیرمتعارف او منجر به دوری کامل از والدینش شد.)
+ * The divorce caused a deep estrangement within the family.
+   (طلاق باعث آزردگی خاطر عمیقی در خانواده شد.)
+ * They are working to overcome the estrangement that grew between them.
+   (آنها در تلاشند تا بر بیگانگی که بینشان شکل گرفته بود غلبه کنند.)
+ID: ID1331 - C1 - XV6 - Q2 - Ethereal (اثيري، آسمانی، لطیف)
+Examples:
+ * The dancer moved with ethereal grace across the stage.
+   (رقصنده با لطافتی اثیری روی صحنه حرکت می‌کرد.)
+ * Her voice had an ethereal quality that captivated the audience.
+   (صدای او کیفیت آسمانی داشت که مخاطبان را مجذوب خود کرد.)
+ * The ethereal glow of the moon illuminated the forest.
+   (درخشش اثیری ماه جنگل را روشن کرد.)
+ * She described a dream filled with ethereal beings.
+   (او رویایی را توصیف کرد که پر از موجودات اثیری بود.)
+ID: ID1332 - C2 - XV6 - Q2 - Eulogistic (ستایش‌آمیز، تمجیدی)
+Examples:
+ * The eulogistic speech praised the departed leader's achievements.
+   (سخنرانی ستایش‌آمیز، دستاوردهای رهبر درگذشته را ستود.)
+ * His review of the play was highly eulogistic.
+   (نقد او از نمایشنامه بسیار تمجیدی بود.)
+ * She wrote a eulogistic article about her mentor.
+   (او مقاله‌ای ستایش‌آمیز درباره مربی خود نوشت.)
+ * The monument featured several eulogistic inscriptions.
+   (این بنای یادبود شامل چندین کتیبه تمجیدی بود.)
+ID: ID1333 - C1 - XV5 - Q4 - Eulogize (ستایش کردن، مدح کردن)
+Examples:
+ * At the funeral, friends and family eulogized the deceased.
+   (در مراسم تشییع جنازه، دوستان و خانواده از متوفی ستایش کردند.)
+ * The article eulogized the achievements of the pioneering scientist.
+   (این مقاله دستاوردهای دانشمند پیشگام را مدح کرد.)
+ * It's common to eulogize national heroes on public holidays.
+   (مدح قهرمانان ملی در تعطیلات عمومی رایج است.)
+ * Critics eulogized her latest novel as a masterpiece.
+   (منتقدان رمان آخر او را به عنوان یک شاهکار ستایش کردند.)
+ID: ID1334 - C1 - XV5 - Q1 - Eulogy (ستایش‌نامه، مدحیه، سوگواری)
+Examples:
+ * He delivered a heartfelt eulogy at his father's funeral.
+   (او یک ستایش‌نامه صمیمانه در مراسم تشییع جنازه پدرش ایراد کرد.)
+ * The book begins with a eulogy to the natural world.
+   (کتاب با یک مدحیه برای جهان طبیعی آغاز می‌شود.)
+ * Her colleagues presented a eulogy outlining her significant contributions.
+   (همکارانش یک سوگواری ارائه کردند که مشارکت‌های مهم او را تشریح می‌کرد.)
+ * The professor's retirement party included many eulogies from former students.
+   (مراسم بازنشستگی استاد شامل ستایش‌نامه‌های بسیاری از دانشجویان سابق بود.)
+ID: ID1335 - C1 - XV5 - Q1 - Euphemism (حسن تعبیر، کنایه)
+Examples:
+ * "Passed away" is a euphemism for "died."
+   ("از دنیا رفت" یک حسن تعبیر برای "مُرد" است.)
+ * The use of euphemisms can soften harsh realities.
+   (استفاده از حسن تعبیر می‌تواند واقعیت‌های تلخ را ملایم‌تر کند.)
+ * She was an expert at using euphemisms to avoid direct confrontation.
+   (او در استفاده از حسن تعبیر برای اجتناب از رویارویی مستقیم متخصص بود.)
+ * The term "downsizing" is often a euphemism for "layoffs."
+   (اصطلاح "کوچک‌سازی" اغلب کنایه‌ای برای "اخراج" است.)
+ID: ID1336 - C1 - XV5 - Q1 - Euphoria (سرخوشی، نشاط، حالت وجد)
+Examples:
+ * The team was in a state of euphoria after winning the championship.
+   (تیم پس از قهرمانی در حالت سرخوشی بود.)
+ * The initial euphoria of success soon faded.
+   (نشاط اولیه موفقیت به زودی محو شد.)
+ * He experienced a brief moment of euphoria before the reality set in.
+   (او یک لحظه کوتاه سرخوشی را تجربه کرد پیش از آنکه واقعیت آشکار شود.)
+ * The concert ended with a wave of collective euphoria.
+   (کنسرت با موجی از وجد جمعی به پایان رسید.)
+ID: ID1337 - B2 - XV3 - Q4 - Evade (طفره رفتن، گریختن، اجتناب کردن)
+Examples:
+ * He tried to evade answering the difficult question.
+   (او سعی کرد از پاسخ دادن به سوال دشوار طفره برود.)
+ * The suspect managed to evade the police for several days.
+   (مظنون توانست برای چندین روز از دست پلیس بگریزد.)
+ * Tax evaders try to evade paying their fair share.
+   (فرارکنندگان از مالیات سعی می‌کنند از پرداخت سهم عادلانه خود اجتناب کنند.)
+ * The speaker skillfully evaded the controversial topic.
+   (سخنران ماهرانه از موضوع بحث‌برانگیز طفره رفت.)
+ID: ID1338 - B1 - XV3 - Q4 - Evaluate (ارزیابی کردن، سنجیدن، ارزش‌گذاری کردن)
+Examples:
+ * We need to evaluate the effectiveness of the new program.
+   (ما باید اثربخشی برنامه جدید را ارزیابی کنیم.)
+ * The teacher will evaluate your progress at the end of the term.
+   (معلم پیشرفت شما را در پایان ترم ارزیابی خواهد کرد.)
+ * It's important to evaluate all options before making a decision.
+   (مهم است که قبل از تصمیم‌گیری، همه گزینه‌ها را بسنجید.)
+ * The committee was formed to evaluate the proposals.
+   (کمیته برای ارزش‌گذاری پیشنهادات تشکیل شد.)
+ID: ID1339 - C2 - XV6 - Q2 - Evanescent (محو شونده، زودگذر، فانی)
+Examples:
+ * The evanescent beauty of the cherry blossoms is celebrated every spring.
+   (زیبایی محو شونده شکوفه‌های گیلاس هر بهار جشن گرفته می‌شود.)
+ * He described the fleeting moment as an evanescent dream.
+   (او لحظه گذران را به عنوان یک رویای فانی توصیف کرد.)
+ * The evanescent mist disappeared as the sun rose.
+   (مه محو شونده با طلوع خورشید ناپدید شد.)
+ * Her fame proved to be evanescent, fading quickly.
+   (شهرت او زودگذر بود و به سرعت محو شد.)
+ID: ID1340 - A1 - XV1 - Q1 - Evening (عصر، شب)
+Examples:
+ * I'll see you this evening.
+   (امشب می‌بینمت.)
+ * We had a lovely evening at the restaurant.
+   (ما یک عصر دلپذیر در رستوران داشتیم.)
+ * The news comes on at 7 o'clock in the evening.
+   (اخبار ساعت ۷ عصر پخش می‌شود.)
+ * She enjoys taking a walk in the evening.
+   (او از پیاده‌روی در عصر لذت می‌برد.)
+ID: ID1341 - A1 - XV1 - Q1 - Event (رویداد، واقعه، اتفاق)
+Examples:
+ * The concert was a major event in the city.
+   (کنسرت یک رویداد مهم در شهر بود.)
+ * What's the main event of the festival?
+   (رویداد اصلی جشنواره چیست؟)
+ * The historical event is widely remembered.
+   (این واقعه تاریخی به طور گسترده‌ای به یاد آورده می‌شود.)
+ * Sporting events attract a large audience.
+   (رویدادهای ورزشی مخاطبان زیادی را جذب می‌کنند.)
+ID: ID1342 - A2 - XV2 - Q5 - Eventually (سرانجام، بالاخره، در نهایت)
+Examples:
+ * After many struggles, he eventually succeeded.
+   (پس از کشمکش‌های زیاد، او سرانجام موفق شد.)
+ * The small village eventually grew into a large town.
+   (روستای کوچک بالاخره به یک شهر بزرگ تبدیل شد.)
+ * We waited for hours, and eventually, the train arrived.
+   (ساعت‌ها منتظر ماندیم و در نهایت، قطار رسید.)
+ * Eventually, they realized their mistake.
+   (در نهایت، آنها اشتباه خود را فهمیدند.)
+ID: ID1343 - A1 - XV1 - Q3 - Every (هر، هر یک)
+Examples:
+ * Every student must complete the assignment.
+   (هر دانش‌آموزی باید تکلیف را کامل کند.)
+ * I go to the gym every day.
+   (من هر روز به باشگاه می‌روم.)
+ * Every effort was made to ensure safety.
+   (هر تلاشی برای تضمین ایمنی انجام شد.)
+ * She listened to every word he said.
+   (او به هر کلمه‌ای که او گفت گوش داد.)
+ID: ID1344 - A1 - XV1 - Q3 - Everybody (همه، هر کس)
+Examples:
+ * Everybody loves a good story.
+   (همه یک داستان خوب را دوست دارند.)
+ * Is everybody ready to leave?
+   (آیا همه آماده رفتن هستند؟)
+ * Everybody needs to contribute to the project.
+   (هر کس باید در پروژه مشارکت کند.)
+ * Everybody was surprised by the news.
+   (همه از این خبر شگفت‌زده شدند.)
+ID: ID1345 - A2 - XV2 - Q1 - Evidence (مدرک، دلیل، شواهد)
+Examples:
+ * The police are looking for evidence.
+   (پلیس به دنبال مدرک است.)
+ * There is no evidence to support his claim.
+   (هیچ دلیلی برای حمایت از ادعای او وجود ندارد.)
+ * The evidence suggests that he is innocent.
+   (شواهد نشان می‌دهد که او بی‌گناه است.)
+ * Scientific evidence supports the theory of evolution.
+   (شواهد علمی از نظریه تکامل حمایت می‌کند.)
+ID: ID1346 - C1 - XV5 - Q4 - Exacerbate (بدتر کردن، وخیم‌تر کردن، تشدید کردن)
+Examples:
+ * His rude comments only served to exacerbate the tension.
+   (نظرات بی‌ادبانه او فقط به وخیم‌تر کردن تنش کمک کرد.)
+ * Lack of sleep can exacerbate stress.
+   (کمبود خواب می‌تواند استرس را تشدید کند.)
+ * The new policy might exacerbate existing inequalities.
+   (سیاست جدید ممکن است نابرابری‌های موجود را بدتر کند.)
+ * His refusal to apologize only exacerbated the argument.
+   (امتناع او از عذرخواهی فقط مشاجره را وخیم‌تر کرد.)
+ID: ID1347 - C2 - XV6 - Q1 - Exacerbation (تشدید، وخامت، بدتر شدن)
+Examples:
+ * The doctor noted an exacerbation of the patient's symptoms.
+   (پزشک تشدید علائم بیمار را مشاهده کرد.)
+ * The ongoing conflict led to a further exacerbation of the humanitarian crisis.
+   (درگیری جاری منجر به وخامت بیشتر بحران انسانی شد.)
+ * Environmental changes can lead to an exacerbation of natural disasters.
+   (تغییرات زیست‌محیطی می‌تواند به تشدید بلایای طبیعی منجر شود.)
+ * His withdrawal caused an exacerbation of her anxiety.
+   (کناره‌گیری او باعث تشدید اضطراب او شد.)
+ID: ID1348 - A2 - XV2 - Q2 - Exact (دقیق، صحیح، موثق؛ دقیقاً)
+Examples:
+ * Can you tell me the exact time?
+   (می‌توانید ساعت دقیق را به من بگویید؟)
+ * The measurements must be exact.
+   (اندازه‌گیری‌ها باید دقیق باشند.)
+ * It's not exactly what I was looking for.
+   (دقیقاً آن چیزی نیست که به دنبالش بودم.)
+ * He described the event with exact detail.
+   (او رویداد را با جزئیات دقیق توصیف کرد.)
+ID: ID1349 - C1 - XV5 - Q2 - Exacting (سخت‌گیر، دشوار، طاقت‌فرسا)
+Examples:
+ * The professor had exacting standards for his students.
+   (استاد معیارهای سخت‌گیرانه‌ای برای دانشجویانش داشت.)
+ * The job requires an exacting attention to detail.
+   (این کار نیاز به توجه دقیق و طاقت‌فرسا به جزئیات دارد.)
+ * She is an exacting critic of her own work.
+   (او یک منتقد سخت‌گیر از کار خود است.)
+ * The climb was exacting, but the view from the top was worth it.
+   (صعود طاقت‌فرسا بود، اما منظره از بالا ارزشش را داشت.)
+ID: ID1350 - C1 - XV5 - Q4 - Exalt (بالا بردن، تمجید کردن، تعالی بخشیدن)
+Examples:
+ * The community exalted the hero for his bravery.
+   (جامعه قهرمان را به خاطر شجاعتش ستود.)
+ * Religious rituals often exalt the divine.
+   (آیین‌های مذهبی اغلب الوهیت را تعالی می‌بخشند.)
+ * He liked to exalt his own achievements.
+   (او دوست داشت دستاوردهای خود را بالا ببرد.)
+ * The poem serves to exalt the virtues of kindness.
+   (این شعر به ستایش فضایل مهربانی می‌پردازد.)
+ID: ID1351 - C2 - XV6 - Q1 - Exaltation (تعالی، ستایش، وجد)
+Examples:
+ * The choir's performance evoked a feeling of spiritual exaltation.
+   (اجرای گروه کر حس تعالی روحانی را برانگیخت.)
+ * She felt a moment of pure exaltation upon reaching the summit.
+   (او در لحظه رسیدن به قله، یک لحظه وجد خالص را احساس کرد.)
+ * The painting captures the exaltation of human achievement.
+   (این نقاشی تعالی دستاوردهای انسانی را به تصویر می‌کشد.)
+ * His victory was met with widespread exaltation.
+   (پیروزی او با ستایش گسترده‌ای روبرو شد.)
+ID: ID1352 - A1 - XV1 - Q1 - Exam (امتحان)
+Examples:
+ * I have a big exam tomorrow.
+   (فردا یک امتحان بزرگ دارم.)
+ * She passed her driving exam with flying colors.
+   (او امتحان رانندگی‌اش را با نمرات عالی قبول شد.)
+ * The final exam will cover all chapters.
+   (امتحان نهایی تمام فصل‌ها را پوشش خواهد داد.)
+ * Are you studying for your upcoming exam?
+   (آیا برای امتحان قریب‌الوقوع خود درس می‌خوانید؟)
+ID: ID1353 - A2 - XV2 - Q4 - Examine (بررسی کردن، معاینه کردن، آزمودن)
+Examples:
+ * The doctor will examine the patient.
+   (دکتر بیمار را معاینه خواهد کرد.)
+ * We need to examine the evidence carefully.
+   (ما باید شواهد را با دقت بررسی کنیم.)
+ * The committee was formed to examine the proposed changes.
+   (کمیته برای آزمودن تغییرات پیشنهادی تشکیل شد.)
+ * He examined the contract before signing it.
+   (او قبل از امضای قرارداد آن را بررسی کرد.)
+ID: ID1354 - A1 - XV1 - Q1 - Example (مثال، نمونه)
+Examples:
+ * Can you give me an example?
+   (می‌توانید یک مثال به من بزنید؟)
+ * Follow his example and work hard.
+   (از نمونه او پیروی کن و سخت کار کن.)
+ * This is a perfect example of his talent.
+   (این یک نمونه عالی از استعداد اوست.)
+ * For example, consider the case of John.
+   (به عنوان مثال، مورد جان را در نظر بگیرید.)
+ID: ID1355 - C1 - XV5 - Q4 - Exasperate (خشمگین کردن، کلافه کردن، عصبانی کردن)
+Examples:
+ * His constant complaining began to exasperate everyone.
+   (شکایت مداوم او شروع به کلافه کردن همه کرد.)
+ * The delays exasperated the travelers.
+   (تاخیرها مسافران را خشمگین کرد.)
+ * She was exasperated by the child's stubbornness.
+   (او از لجبازی کودک عصبانی شده بود.)
+ * Their inefficiency would exasperate anyone.
+   (بی‌کفایتی آنها هر کسی را خشمگین می‌کرد.)
+ID: ID1356 - B1 - XV3 - Q4 - Exceed (فراتر رفتن، تجاوز کردن از، بیش از حد بودن)
+Examples:
+ * Do not exceed the speed limit.
+   (از حد مجاز سرعت تجاوز نکنید.)
+ * His performance exceeded all expectations.
+   (عملکرد او از تمام انتظارات فراتر رفت.)
+ * The cost must not exceed the budget.
+   (هزینه نباید از بودجه تجاوز کند.)
+ * The demand for the product exceeded the supply.
+   (تقاضا برای محصول بیش از عرضه بود.)
+ID: ID1357 - A1 - XV1 - Q2 - Excellent (عالی، فوق‌العاده)
+Examples:
+ * That was an excellent idea!
+   (این یک ایده عالی بود!)
+ * She did an excellent job on the project.
+   (او کار فوق‌العاده‌ای در پروژه انجام داد.)
+ * The food at the restaurant was excellent.
+   (غذای رستوران عالی بود.)
+ * He has excellent communication skills.
+   (او مهارت‌های ارتباطی عالی دارد.)
+ID: ID1358 - A1 - XV1 - Q6 - Except (به جز، مگر)
+Examples:
+ * Everybody went to the party except for John.
+   (همه به مهمانی رفتند به جز جان.)
+ * I like all colors except black.
+   (من همه رنگ‌ها را دوست دارم به جز سیاه.)
+ * The store is open every day except Sunday.
+   (فروشگاه هر روز به جز یکشنبه باز است.)
+ * You can take anything except the camera.
+   (می‌توانید هر چیزی را بردارید مگر دوربین را.)
+ID: ID1359 - A2 - XV2 - Q4 - Exchange (مبادله کردن، تبادل کردن؛ مبادله، تبادل)
+Examples:
+ * We exchanged gifts on Christmas Day.
+   (ما در روز کریسمس هدایا را مبادله کردیم.)
+ * They had a brief exchange of words.
+   (آنها یک تبادل کوتاه کلمات داشتند.)
+ * I want to exchange this shirt for a different size.
+   (من می‌خواهم این پیراهن را با سایز دیگری تبادل کنم.)
+ * The exchange rate between the two currencies is volatile.
+   (نرخ مبادله بین دو ارز ناپایدار است.)
+ID: ID1360 - A2 - XV2 - Q4 - Excite (هیجان‌زده کردن، تحریک کردن)
+Examples:
+ * The news excited the children.
+   (این خبر بچه‌ها را هیجان‌زده کرد.)
+ * His new proposal didn't excite much interest.
+   (پیشنهاد جدید او علاقه زیادی را تحریک نکرد.)
+ * The thought of vacation excites me.
+   (فکر تعطیلات مرا هیجان‌زده می‌کند.)
+ * The discovery of ancient ruins excited archaeologists.
+   (کشف ویرانه‌های باستانی باستان‌شناسان را هیجان‌زده کرد.)
+ID: ID1361 - A2 - XV2 - Q2 - Excited (هیجان‌زده)
+Examples:
+ * The children were very excited about their trip to the zoo.
+   (بچه‌ها برای سفرشان به باغ وحش بسیار هیجان‌زده بودند.)
+ * She was excited to start her new job.
+   (او از شروع کار جدیدش هیجان‌زده بود.)
+ * I'm so excited to see you!
+   (خیلی از دیدن تو هیجان‌زده‌ام!)
+ * He was too excited to sleep.
+   (او بیش از حد هیجان‌زده بود که بخوابد.)
+ID: ID1362 - A2 - XV2 - Q1 - Excitement (هیجان، شور)
+Examples:
+ * The excitement in the air was palpable.
+   (هیجان در هوا قابل لمس بود.)
+ * The team's victory caused great excitement among the fans.
+   (پیروزی تیم شور زیادی را در بین طرفداران ایجاد کرد.)
+ * She couldn't hide her excitement about the upcoming event.
+   (او نمی‌توانست هیجان خود را در مورد رویداد آتی پنهان کند.)
+ * There was a lot of excitement surrounding the new movie.
+   (هیجان زیادی پیرامون فیلم جدید وجود داشت.)
+ID: ID1363 - A2 - XV2 - Q2 - Exciting (هیجان‌انگیز)
+Examples:
+ * It was a very exciting game.
+   (یک بازی بسیار هیجان‌انگیز بود.)
+ * Learning a new language can be exciting.
+   (یادگیری یک زبان جدید می‌تواند هیجان‌انگیز باشد.)
+ * She has an exciting career ahead of her.
+   (او یک حرفه هیجان‌انگیز در پیش رو دارد.)
+ * The movie had an exciting plot twist.
+   (فیلم یک پیچش داستانی هیجان‌انگیز داشت.)
+ID: ID1364 - B1 - XV3 - Q4 - Exclude (مستثنی کردن، حذف کردن، خارج کردن)
+Examples:
+ * The price excludes taxes.
+   (قیمت مالیات را مستثنی می‌کند.)
+ * Children under 12 are excluded from the competition.
+   (کودکان زیر ۱۲ سال از مسابقه حذف می‌شوند.)
+ * We cannot exclude the possibility of human error.
+   (ما نمی‌توانیم احتمال خطای انسانی را خارج کنیم.)
+ * Certain items were excluded from the sale.
+   (اقلام خاصی از فروش مستثنی شدند.)
+ID: ID1365 - C2 - XV6 - Q4 - Excoriate (پوست کندن، شدیداً انتقاد کردن، به شدت سرزنش کردن)
+Examples:
+ * The critics excoriated the director's latest film.
+   (منتقدان از آخرین فیلم کارگردان به شدت انتقاد کردند.)
+ * He excoriated his opponents in a scathing speech.
+   (او در یک سخنرانی تند، مخالفان خود را به شدت سرزنش کرد.)
+ * The coach excoriated the team for their poor performance.
+   (مربی تیم را به دلیل عملکرد ضعیفشان به شدت سرزنش کرد.)
+ * The journalist excoriated the corrupt politician.
+   (روزنامه‌نگار از سیاستمدار فاسد به شدت انتقاد کرد.)
+ID: ID1366 - C2 - XV6 - Q4 - Exculpate (تبرئه کردن، بی‌گناه دانستن)
+Examples:
+ * New evidence emerged that could exculpate the suspect.
+   (شواهد جدیدی ظاهر شد که می‌توانست مظنون را تبرئه کند.)
+ * The investigation aims to exculpate or incriminate those involved.
+   (هدف این تحقیق تبرئه یا مجرم دانستن افراد درگیر است.)
+ * The alibi helped to exculpate him from the crime.
+   (عذر او به تبرئه او از جرم کمک کرد.)
+ * The testimony served to exculpate the defendant.
+   (شهادت به تبرئه متهم کمک کرد.)
+ID: ID1367 - C2 - XV6 - Q2 - Exculpatory (مبرّی کننده، تبرئه کننده)
+Examples:
+ * The defense lawyer presented exculpatory evidence.
+   (وکیل مدافع شواهد مبرّی کننده ارائه کرد.)
+ * The police report contained exculpatory statements.
+   (گزارش پلیس حاوی اظهارات تبرئه کننده بود.)
+ * Any exculpatory information must be disclosed to the defense.
+   (هرگونه اطلاعات مبرّی کننده باید به دفاع افشا شود.)
+ * The witness provided exculpatory testimony.
+   (شاهد شهادت تبرئه کننده ارائه کرد.)
+ID: ID1368 - A2 - XV2 - Q1 - Excuse (بهانه، عذر؛ بخشیدن، معذور داشتن)
+Examples:
+ * He made an excuse for being late.
+   (او برای دیر آمدنش بهانه‌ای آورد.)
+ * Please excuse my इंग्लिश, I'm still learning.
+   (لطفاً انگلیسی من را ببخشید، هنوز در حال یادگیری هستم.)
+ * There's no excuse for such rude behavior.
+   (هیچ بهانه‌ای برای چنین رفتار بی‌ادبانه‌ای وجود ندارد.)
+ * May I be excused from the table?
+   (می‌توانم از سر میز مرخص شوم؟)
+ID: ID1369 - B2 - XV3 - Q4 - Execute (اجرا کردن، اعدام کردن، انجام دادن)
+Examples:
+ * The company will execute the new plan next month.
+   (شرکت ماه آینده طرح جدید را اجرا خواهد کرد.)
+ * The criminal was sentenced to be executed.
+   (مجرم به اعدام محکوم شد.)
+ * She executed the complex dance moves perfectly.
+   (او حرکات پیچیده رقص را به طور کامل اجرا کرد.)
+ * The software needs to execute several commands.
+   (نرم‌افزار باید چندین دستور را اجرا کند.)
+ID: ID1370 - C2 - XV6 - Q1 - Exegesis (تفسیر، شرح، تأویل (متون مذهبی یا فلسفی))
+Examples:
+ * The scholar provided a detailed exegesis of the ancient text.
+   (دانشمند یک تفسیر مفصل از متن باستانی ارائه کرد.)
+ * His exegesis of the poem revealed new layers of meaning.
+   (تفسیر او از شعر لایه‌های جدیدی از معنا را آشکار کرد.)
+ * Biblical exegesis is a specialized field of study.
+   (تفسیر کتاب مقدس یک رشته تخصصی از مطالعه است.)
+ * The book offers a modern exegesis of classical philosophy.
+   (این کتاب یک شرح مدرن از فلسفه کلاسیک ارائه می‌دهد.)
+ID: ID1371 - C1 - XV5 - Q2 - Exemplary (نمونه، الگو، سرمشق)
+Examples:
+ * His dedication to his work was exemplary.
+   (تعهد او به کارش نمونه بود.)
+ * The company has an exemplary record of safety.
+   (این شرکت سابقه الگویی در زمینه ایمنی دارد.)
+ * She received an award for her exemplary leadership.
+   (او به خاطر رهبری سرمشق‌گونه‌اش جایزه دریافت کرد.)
+ * The student's behavior was exemplary, serving as a model for others.
+   (رفتار دانش‌آموز نمونه بود و به عنوان الگویی برای دیگران عمل می‌کرد.)
+ID: ID1372 - C2 - XV6 - Q1 - Exemplification (نمونه آوردن، مثال زدن، نمونه‌سازی)
+Examples:
+ * The building is a perfect exemplification of modern architecture.
+   (این ساختمان یک نمونه‌سازی عالی از معماری مدرن است.)
+ * His life serves as an exemplification of perseverance.
+   (زندگی او به عنوان نمونه‌ای از پشتکار است.)
+ * The report provides clear exemplification of the problem through case studies.
+   (این گزارش از طریق مطالعات موردی، نمونه‌های واضحی از مشکل ارائه می‌دهد.)
+ * The essay's strong arguments were supported by effective exemplification.
+   (استدلال‌های قوی این مقاله با نمونه‌آوری مؤثر پشتیبانی می‌شد.)
+ID: ID1373 - C1 - XV5 - Q4 - Exemplify (نمونه بودن، مثال زدن، نشان دادن)
+Examples:
+ * The architect's latest work exemplifies her unique style.
+   (آخرین اثر این معمار سبک منحصر به فرد او را نمونه‌سازی می‌کند.)
+ * His actions exemplify true courage.
+   (اعمال او شجاعت واقعی را نشان می‌دهد.)
+ * The company's success exemplifies the power of innovation.
+   (موفقیت شرکت قدرت نوآوری را نشان می‌دهد.)
+ * These historical events exemplify the complexities of the past.
+   (این رویدادهای تاریخی پیچیدگی‌های گذشته را مثال می‌زنند.)
+ID: ID1374 - A2 - XV2 - Q1 - Exercise (ورزش، تمرین؛ ورزش کردن، تمرین کردن)
+Examples:
+ * Regular exercise is good for your health.
+   (ورزش منظم برای سلامتی شما خوب است.)
+ * You should exercise every day.
+   (شما باید هر روز ورزش کنید.)
+ * Complete the exercises at the end of the chapter.
+   (تمرینات پایان فصل را کامل کنید.)
+ * She exercises her right to vote.
+   (او حق رأی خود را اعمال می‌کند.)
+ID: ID1375 - B1 - XV3 - Q4 - Exhibit (نمایش دادن، نشان دادن؛ نمایشگاه، نمایش)
+Examples:
+ * The museum will exhibit ancient artifacts.
+   (موزه آثار باستانی را نمایش خواهد داد.)
+ * He didn't exhibit any signs of fear.
+   (او هیچ نشانه‌ای از ترس نشان نداد.)
+ * The art exhibit features works by local artists.
+   (نمایشگاه هنری شامل آثاری از هنرمندان محلی است.)
+ * The dog began to exhibit aggressive behavior.
+   (سگ شروع به نشان دادن رفتار تهاجمی کرد.)
+ID: ID1376 - B1 - XV3 - Q1 - Exhibition (نمایشگاه، نمایش)
+Examples:
+ * We visited an exhibition of modern art.
+   (ما از یک نمایشگاه هنر مدرن بازدید کردیم.)
+ * The exhibition attracted many visitors.
+   (این نمایشگاه بازدیدکنندگان زیادی را به خود جلب کرد.)
+ * Her photographs are on exhibition at the gallery.
+   (عکس‌های او در گالری به نمایش گذاشته شده است.)
+ * The car exhibition showcased the latest models.
+   (نمایشگاه خودرو آخرین مدل‌ها را به نمایش گذاشت.)
+ID: ID1377 - C1 - XV5 - Q4 - Exhilarate (شاداب کردن، به وجد آوردن، سرشار از نشاط کردن)
+Examples:
+ * The brisk mountain air exhilarated him.
+   (هوای تازه کوه او را شاداب کرد.)
+ * The victory exhilarated the entire team.
+   (پیروزی کل تیم را به وجد آورد.)
+ * The music had an ability to exhilarate the soul.
+   (موسیقی توانایی داشت که روح را سرشار از نشاط کند.)
+ * She found the challenging task to be surprisingly exhilarating.
+   (او متوجه شد که کار چالش‌برانگیز به طرز شگفت‌آوری شاداب‌کننده است.)
+ID: ID1378 - C1 - XV5 - Q2 - Exhilarating (شاداب‌کننده، به وجد آورنده، مهیج)
+Examples:
+ * Skydiving is an exhilarating experience.
+   (چتربازی یک تجربه مهیج است.)
+ * The concert was an exhilarating performance.
+   (کنسرت یک اجرای به وجد آورنده بود.)
+ * She described the feeling of winning as utterly exhilarating.
+   (او احساس برنده شدن را کاملاً شاداب‌کننده توصیف کرد.)
+ * The ride on the roller coaster was truly exhilarating.
+   (سوار شدن بر رولر کوستر واقعاً هیجان‌انگیز بود.)
+ID: ID1379 - C2 - XV6 - Q1 - Exhilaration (سرخوشی، نشاط، وجد)
+Examples:
+ * A wave of exhilaration swept over him as he crossed the finish line.
+   (موجی از سرخوشی با عبور او از خط پایان، او را فرا گرفت.)
+ * The news of their success brought about great exhilaration.
+   (خبر موفقیت آنها نشاط زیادی را به ارمغان آورد.)
+ * The exhilaration of discovery drives scientists forward.
+   (وجد کشف، دانشمندان را به جلو سوق می‌دهد.)
+ * The crowd erupted in cheers of exhilaration.
+   (جمعیت با فریادهای شادی و وجد به هیجان آمد.)
+ID: ID1380 - C1 - XV5 - Q4 - Exhort (تشویق کردن، ترغیب کردن، اندرز دادن)
+Examples:
+ * He exhorted his team to work harder.
+   (او تیمش را به تلاش بیشتر تشویق کرد.)
+ * The leader exhorted the people to unity.
+   (رهبر مردم را به اتحاد ترغیب کرد.)
+ * The pastor exhorted his congregation to live a virtuous life.
+   (کشیش به جماعت خود اندرز داد که زندگی پرفضیلت داشته باشند.)
+ * The poster exhorted citizens to vote.
+   (پوستر از شهروندان می‌خواست که رأی دهند.)
+ID: ID1381 - C2 - XV6 - Q1 - Exhortation (تشویق، ترغیب، اندرز)
+Examples:
+ * His speech was a powerful exhortation to action.
+   (سخنرانی او یک تشویق قدرتمند به عمل بود.)
+ * The coach's exhortation motivated the players.
+   (اندرز مربی بازیکنان را با انگیزه کرد.)
+ * Despite all his exhortations, they remained unwilling to change.
+   (علیرغم همه تشویق‌های او، آنها همچنان تمایلی به تغییر نداشتند.)
+ * The document concluded with a strong exhortation for peace.
+   (این سند با یک ترغیب قوی برای صلح به پایان رسید.)
+ID: ID1382 - A2 - XV2 - Q4 - Exist (وجود داشتن، بودن)
+Examples:
+ * Do aliens exist?
+   (آیا بیگانگان وجود دارند؟)
+ * Dinosaurs no longer exist.
+   (دایناسورها دیگر وجود ندارند.)
+ * The problem has existed for a long time.
+   (مشکل برای مدت طولانی وجود داشته است.)
+ * She believes that true love does exist.
+   (او معتقد است که عشق واقعی وجود دارد.)
+ID: ID1383 - A2 - XV2 - Q1 - Exit (خروج؛ خارج شدن)
+Examples:
+ * The exit is to your left.
+   (خروجی سمت چپ شماست.)
+ * Please exit the building calmly.
+   (لطفاً ساختمان را با آرامش ترک کنید.)
+ * The emergency exit was clearly marked.
+   (خروجی اضطراری به وضوح علامت‌گذاری شده بود.)
+ * He made a quick exit from the room.
+   (او به سرعت از اتاق خارج شد.)
+ID: ID1384 - C1 - XV5 - Q4 - Exonerate (تبرئه کردن، بری کردن، معاف کردن)
+Examples:
+ * The DNA evidence exonerated him from the crime.
+   (شواهد DNA او را از جرم تبرئه کرد.)
+ * The investigation fully exonerated the suspect.
+   (تحقیقات مظنون را کاملاً تبرئه کرد.)
+ * His testimony helped to exonerate the accused.
+   (شهادت او به بری کردن متهم کمک کرد.)
+ * She hoped her explanation would exonerate her from any blame.
+   (او امیدوار بود که توضیح او او را از هرگونه سرزنشی معاف کند.)
+ID: ID1385 - C2 - XV6 - Q1 - Exoneration (تبرئه، بری شدن، معافیت)
+Examples:
+ * The court's decision led to his full exoneration.
+   (تصمیم دادگاه منجر به تبرئه کامل او شد.)
+ * He fought for years to achieve his exoneration.
+   (او سال‌ها برای دستیابی به تبرئه‌اش جنگید.)
+ * The new evidence brought about the exoneration of the innocent man.
+   (شواهد جدید منجر به تبرئه مرد بی‌گناه شد.)
+ * The committee recommended his exoneration from all charges.
+   (کمیته تبرئه او را از تمام اتهامات توصیه کرد.)
+ID: ID1386 - C1 - XV5 - Q2 - Exorbitant (گزاف، بیش از حد، هنگفت)
+Examples:
+ * The hotel charged an exorbitant price for a small room.
+   (هتل برای یک اتاق کوچک قیمت گزافی دریافت کرد.)
+ * He complained about the exorbitant cost of living in the city.
+   (او از هزینه هنگفت زندگی در شهر شکایت کرد.)
+ * Don't pay exorbitant fees for simple services.
+   (برای خدمات ساده هزینه‌های گزاف نپردازید.)
+ * The restaurant was known for its exorbitant prices.
+   (این رستوران به خاطر قیمت‌های گزافش معروف بود.)
+ID: ID1387 - A2 - XV2 - Q4 - Expect (انتظار داشتن، پیش‌بینی کردن، منتظر بودن)
+Examples:
+ * I expect you to be on time.
+   (من انتظار دارم که به موقع باشی.)
+ * We expect rain tomorrow.
+   (ما فردا باران را پیش‌بینی می‌کنیم.)
+ * What do you expect from this course?
+   (چه انتظاری از این دوره دارید؟)
+ * She didn't expect him to call so soon.
+   (او انتظار نداشت که او به این زودی زنگ بزند.)
+ID: ID1388 - A2 - XV2 - Q1 - Expectation (انتظار، توقع، امید)
+Examples:
+ * My expectations were met.
+   (انتظارات من برآورده شد.)
+ * He had high expectations for his children.
+   (او انتظارات بالایی از فرزندانش داشت.)
+ * The film failed to live up to expectations.
+   (فیلم نتوانست انتظارات را برآورده کند.)
+ * There's a lot of expectation surrounding her new album.
+   (انتظار زیادی پیرامون آلبوم جدید او وجود دارد.)
+ID: ID1389 - C1 - XV5 - Q2 - Expedient (مصلحت‌آمیز، مقتضی، ابزار)
+Examples:
+ * It was more expedient to leave early.
+   (مصلحت‌آمیزتر بود که زودتر برویم.)
+ * They used whatever expedient they could find to solve the problem.
+   (آنها از هر ابزاری که می‌توانستند برای حل مشکل پیدا کنند استفاده کردند.)
+ * While not ideal, it was the most expedient solution.
+   (در حالی که ایده‌آل نبود، مقتضی‌ترین راه‌حل بود.)
+ * The company took an expedient approach to reduce costs.
+   (شرکت رویکردی مصلحت‌آمیز برای کاهش هزینه‌ها اتخاذ کرد.)
+ID: ID1390 - C1 - XV5 - Q4 - Expedite (تسریع کردن، سرعت بخشیدن به)
+Examples:
+ * We need to expedite the process to meet the deadline.
+   (ما باید برای رعایت ضرب‌الاجل، روند را تسریع کنیم.)
+ * The new system will expedite order processing.
+   (سیستم جدید پردازش سفارش را سرعت خواهد بخشید.)
+ * To expedite the delivery, we chose express shipping.
+   (برای تسریع تحویل، ما ارسال سریع را انتخاب کردیم.)
+ * The government promised to expedite reforms.
+   (دولت قول تسریع اصلاحات را داد.)
+ID: ID1391 - C2 - XV6 - Q2 - Expeditious (سریع، فوری، چالاک)
+Examples:
+ * The company is known for its expeditious service.
+   (این شرکت به دلیل خدمات سریع خود شناخته شده است.)
+ * They provided an expeditious response to our inquiry.
+   (آنها یک پاسخ فوری به درخواست ما ارائه کردند.)
+ * We need an expeditious solution to this urgent matter.
+   (ما به یک راه‌حل سریع برای این موضوع فوری نیاز داریم.)
+ * The task was completed with expeditious efficiency.
+   (وظیفه با کارایی چالاک انجام شد.)
+ID: ID1392 - A2 - XV2 - Q1 - Expense (هزینه، مخارج)
+Examples:
+ * Travel expenses will be reimbursed.
+   (هزینه‌های سفر بازپرداخت خواهد شد.)
+ * Buying a car is a big expense.
+   (خرید ماشین یک هزینه بزرگ است.)
+ * He spared no expense to make the party perfect.
+   (او هیچ هزینه‌ای را برای کامل کردن مهمانی دریغ نکرد.)
+ * Living in the city involves many expenses.
+   (زندگی در شهر شامل مخارج زیادی است.)
+ID: ID1393 - A1 - XV1 - Q2 - Expensive (گران، پرهزینه)
+Examples:
+ * That car is very expensive.
+   (آن ماشین بسیار گران است.)
+ * I can't afford such an expensive watch.
+   (من نمی‌توانم از چنین ساعت گران‌قیمتی استفاده کنم.)
+ * Expensive restaurants often offer unique dishes.
+   (رستوران‌های گران‌قیمت اغلب غذاهای منحصر به فردی ارائه می‌دهند.)
+ * The repair was more expensive than I expected.
+   (تعمیر گران‌تر از آن چیزی بود که انتظار داشتم.)
+ID: ID1394 - A2 - XV2 - Q1 - Experience (تجربه، سابقه؛ تجربه کردن)
+Examples:
+ * She has a lot of experience in teaching.
+   (او تجربه زیادی در تدریس دارد.)
+ * I want to experience different cultures.
+   (من می‌خواهم فرهنگ‌های مختلف را تجربه کنم.)
+ * The trip was an unforgettable experience.
+   (این سفر یک تجربه فراموش‌نشدنی بود.)
+ * He has worked for years and gained valuable experience.
+   (او سال‌ها کار کرده و تجربه ارزشمندی کسب کرده است.)
+ID: ID1395 - B1 - XV3 - Q1 - Experiment (آزمایش، تجربه علمی؛ آزمایش کردن)
+Examples:
+ * Scientists conduct experiments to test their hypotheses.
+   (دانشمندان برای آزمایش فرضیه‌های خود آزمایش انجام می‌دهند.)
+ * The new drug is still in the experiment phase.
+   (داروی جدید هنوز در مرحله آزمایش است.)
+ * We will experiment with different methods.
+   (ما با روش‌های مختلف آزمایش خواهیم کرد.)
+ * The children enjoyed doing the science experiment.
+   (بچه‌ها از انجام آزمایش علمی لذت بردند.)
+ID: ID1396 - B1 - XV3 - Q1 - Expert (کارشناس، متخصص)
+Examples:
+ * She is an expert in molecular biology.
+   (او یک کارشناس در زیست‌شناسی مولکولی است.)
+ * We need an expert opinion on this matter.
+   (ما به نظر یک متخصص در این مورد نیاز داریم.)
+ * He is an expert at playing the piano.
+   (او در نواختن پیانو متخصص است.)
+ * The company hires experts to improve its efficiency.
+   (شرکت متخصصان را برای بهبود کارایی خود استخدام می‌کند.)
+ID: ID1397 - C2 - XV6 - Q4 - Expiate (کفاره دادن، جبران کردن)
+Examples:
+ * He sought to expiate his sins through good deeds.
+   (او به دنبال کفاره گناهان خود از طریق اعمال نیک بود.)
+ * There was no way to expiate the damage he had caused.
+   (هیچ راهی برای جبران خسارتی که او وارد کرده بود وجود نداشت.)
+ * The ancient ritual was believed to expiate the community's wrongdoings.
+   (اعتقاد بر این بود که آیین باستانی اشتباهات جامعه را کفاره می‌دهد.)
+ * He felt a need to expiate his past mistakes.
+   (او نیاز به جبران اشتباهات گذشته خود را احساس می‌کرد.)
+ID: ID1398 - A1 - XV1 - Q4 - Explain (توضیح دادن، تفسیر کردن)
+Examples:
+ * Can you explain that again?
+   (می‌توانید دوباره آن را توضیح دهید؟)
+ * He explained the rules of the game to us.
+   (او قوانین بازی را برای ما توضیح داد.)
+ * I need to explain why I was late.
+   (من باید توضیح دهم که چرا دیر کردم.)
+ * The diagram helps to explain the complex process.
+   (نمودار به توضیح فرآیند پیچیده کمک می‌کند.)
+ID: ID1399 - A2 - XV2 - Q1 - Explanation (توضیح، تفسیر)
+Examples:
+ * He gave a clear explanation of the problem.
+   (او یک توضیح واضح از مشکل ارائه داد.)
+ * Her explanation satisfied everyone.
+   (توضیح او همه را راضی کرد.)
+ * I demand an explanation for your behavior.
+   (من برای رفتار شما توضیح می‌خواهم.)
+ * The book provides a detailed explanation of the theory.
+   (این کتاب یک توضیح مفصل از نظریه ارائه می‌دهد.)
+ID: ID1400 - A2 - XV2 - Q4 - Explore (کاوش کردن، اکتشاف کردن، بررسی کردن)
+Examples:
+ * We plan to explore the possibility of expanding our business.
+   (ما قصد داریم امکان گسترش کسب و کارمان را بررسی کنیم.)
+ * They set out to explore the uncharted territory.
+   (آنها برای کاوش سرزمین‌های ناشناخته به راه افتادند.)
+ * The book explores themes of identity and belonging.
+   (این کتاب به بررسی موضوعات هویت و تعلق می‌پردازد.)
+ * Let's explore the options before making a decision.
+   (قبل از تصمیم‌گیری، گزینه‌ها را بررسی کنیم.)
