@@ -11154,3 +11154,993 @@ Examples:
    (او هر روز به مدرسه می‌رود.) 
  * Where did you go last night?
    (دیشب کجا رفتی؟) 
+ID: ID1601 - C1 - XV5 - Q4 - Goad (تحریک کردن، ترغیب کردن، سیخونک زدن)
+Examples:
+ * He was goaded into answering by his opponent's taunts.
+   (او با طعنه‌های حریفش به پاسخگویی تحریک شد.) 
+ * The manager's harsh words goaded the team to work harder.
+   (کلمات تند مدیر، تیم را به تلاش بیشتر ترغیب کرد.) 
+ * Don't let his comments goad you into an argument.
+   (اجازه نده اظهارات او تو را به بحث بکشاند.) 
+ * The desire for success can goad individuals to achieve great things.
+   (میل به موفقیت می‌تواند افراد را به انجام کارهای بزرگ تحریک کند.) 
+ID: ID1602 - A2 - XV2 - Q1 - Goal (هدف، گل)
+Examples:
+ * My main goal is to finish this project on time.
+   (هدف اصلی من اتمام این پروژه به موقع است.) 
+ * He scored a fantastic goal in the football match.
+   (او یک گل فوق‌العاده در مسابقه فوتبال به ثمر رساند.) 
+ * Setting clear goals helps in achieving success.
+   (تعیین اهداف واضح به دستیابی به موفقیت کمک می‌کند.) 
+ * They are working towards a common goal.
+   (آنها در حال کار برای یک هدف مشترک هستند.) 
+ID: ID1603 - A1 - XV1 - Q1 - God (خدا)
+Examples:
+ * Many people believe in God.
+   (بسیاری از مردم به خدا اعتقاد دارند.) 
+ * Oh my God! I can't believe it.
+   (خدای من! نمی‌توانم باور کنم.) 
+ * She prays to God every night.
+   (او هر شب به خدا دعا می‌کند.) 
+ * Thank God it's Friday.
+   (خدا را شکر جمعه است.) 
+ID: ID1604 - A2 - XV2 - Q1 - Gold (طلا)
+Examples:
+ * She wears a gold ring.
+   (او یک انگشتر طلا می‌پوشد.) 
+ * The Olympic winner received a gold medal.
+   (برنده المپیک یک مدال طلا دریافت کرد.) 
+ * Gold is a valuable metal.
+   (طلا یک فلز با ارزش است.) 
+ * Not all that glitters is gold.
+   (هر چه برق می‌زند طلا نیست.) 
+ID: ID1605 - A1 - XV1 - Q2 - Good (خوب، نیکو)
+Examples:
+ * Have a good day!
+   (روز خوبی داشته باشید!) 
+ * She is a good student.
+   (او دانش‌آموز خوبی است.) 
+ * The food was very good.
+   (غذا خیلی خوب بود.) 
+ * It's good to see you again.
+   (دیدن دوباره شما خوب است.) 
+ID: ID1606 - A1 - XV1 - Q8 - Goodbye (خداحافظ)
+Examples:
+ * She waved goodbye to her friends.
+   (او با دوستانش خداحافظی کرد.) 
+ * It was hard to say goodbye.
+   (خداحافظی سخت بود.) 
+ * They said goodbye and left.
+   (آنها خداحافظی کردند و رفتند.) 
+ * Goodbye for now, see you later.
+   (فعلاً خداحافظ، بعداً می‌بینمت.) 
+ID: ID1607 - B1 - XV3 - Q1 - Goods (کالا، اجناس)
+Examples:
+ * The store sells household goods.
+   (فروشگاه کالاهای خانگی می‌فروشد.) 
+ * Imported goods are often more expensive.
+   (اجناس وارداتی اغلب گران‌تر هستند.) 
+ * The ship was loaded with various goods.
+   (کشتی با اجناس مختلف بارگیری شده بود.) 
+ * Consumer goods include items like clothing and electronics.
+   (کالاهای مصرفی شامل اقلامی مانند لباس و الکترونیک می‌شود.) 
+ID: ID1608 - B1 - XV3 - Q1 - Government (دولت)
+Examples:
+ * The government announced new policies.
+   (دولت سیاست‌های جدیدی را اعلام کرد.) 
+ * Local government is responsible for public services.
+   (دولت محلی مسئول خدمات عمومی است.) 
+ * The citizens elected a new government.
+   (شهروندان یک دولت جدید را انتخاب کردند.) 
+ * Government spending has increased.
+   (مخارج دولت افزایش یافته است.) 
+ID: ID1609 - A2 - XV2 - Q4 - Grab (قاپیدن، چنگ زدن، گرفتن)
+Examples:
+ * He tried to grab the falling vase.
+   (او سعی کرد گلدان در حال افتادن را بگیرد.) 
+ * Let's grab a quick bite to eat.
+   (بیایید سریع یک چیزی بخوریم.) 
+ * She grabbed her bag and ran out the door.
+   (او کیفش را قاپید و از در بیرون دوید.) 
+ * The opportunity was too good to let it grab away.
+   (فرصت آنقدر خوب بود که نمی‌شد از دست داد.) 
+ID: ID1610 - B1 - XV3 - Q1 - Grade (درجه، نمره، رتبه)
+Examples:
+ * She got good grades in her exams.
+   (او در امتحاناتش نمرات خوبی گرفت.) 
+ * The meat is of high grade.
+   (گوشت از درجه بالایی است.) 
+ * He was promoted to a higher grade.
+   (او به رتبه بالاتری ارتقا یافت.) 
+ * The road has a steep grade.
+   (جاده شیب تندی دارد.) 
+ID: ID1611 - B1 - XV3 - Q2 - Gradual (تدریجی، آهسته)
+Examples:
+ * There has been a gradual improvement in her health.
+   (بهبودی تدریجی در سلامتی او وجود داشته است.) 
+ * The change was gradual, not sudden.
+   (تغییر تدریجی بود، نه ناگهانی.) 
+ * We observed a gradual increase in temperature.
+   (ما یک افزایش تدریجی دما را مشاهده کردیم.) 
+ * The process of learning a new language is gradual.
+   (فرآیند یادگیری یک زبان جدید تدریجی است.) 
+ID: ID1612 - B1 - XV3 - Q4 - Graduate (فارغ‌التحصیل شدن؛ فارغ‌التحصیل)
+Examples:
+ * She will graduate from university next year.
+   (او سال آینده از دانشگاه فارغ‌التحصیل خواهد شد.) 
+ * He is a university graduate.
+   (او یک فارغ‌التحصیل دانشگاه است.) 
+ * Many graduates struggle to find jobs.
+   (بسیاری از فارغ‌التحصیلان برای یافتن شغل مشکل دارند.) 
+ * He graduated with honors.
+   (او با افتخار فارغ‌التحصیل شد.) 
+ID: ID1613 - A1 - XV1 - Q1 - Grandfather (پدربزرگ)
+Examples:
+ * My grandfather told me stories.
+   (پدربزرگم برایم داستان تعریف کرد.) 
+ * He often visits his grandfather.
+   (او اغلب به ملاقات پدربزرگش می‌رود.) 
+ * My grandfather is 80 years old.
+   (پدربزرگم ۸۰ سال دارد.) 
+ * He learned to fish from his grandfather.
+   (او ماهیگیری را از پدربزرگش یاد گرفت.) 
+ID: ID1614 - C2 - XV6 - Q2 - Grandiloquent (فخیم، پرطمطراق، لفاظی‌کننده)
+Examples:
+ * His grandiloquent speech failed to impress the audience.
+   (سخنرانی پرطمطراق او نتوانست مخاطبان را تحت تأثیر قرار دهد.) 
+ * The young writer had a tendency towards grandiloquent prose.
+   (نویسنده جوان تمایلی به نثر فخیم داشت.) 
+ * Avoid grandiloquent language in simple reports.
+   (از زبان لفاظی‌کننده در گزارش‌های ساده خودداری کنید.) 
+ * The politician's promises were often grandiloquent but lacked substance.
+   (وعده‌های سیاستمدار اغلب پرطمطراق بودند اما فاقد محتوا.) 
+ID: ID1615 - C1 - XV5 - Q2 - Grandiose (عظیم، پر شکوه، پر زرق و برق، جاه‌طلبانه)
+Examples:
+ * He had grandiose plans for his future.
+   (او برنامه‌های جاه‌طلبانه‌ای برای آینده‌اش داشت.) 
+ * The project was criticized for its grandiose scale and cost.
+   (پروژه به دلیل مقیاس و هزینه عظیم خود مورد انتقاد قرار گرفت.) 
+ * The architecture of the old palace was grandiose.
+   (معماری کاخ قدیمی پر شکوه بود.) 
+ * She had a grandiose vision for the company's expansion.
+   (او دیدگاهی جاه‌طلبانه برای گسترش شرکت داشت.) 
+ID: ID1616 - A1 - XV1 - Q1 - Grandmother (مادربزرگ)
+Examples:
+ * My grandmother bakes delicious cookies.
+   (مادربزرگم کلوچه‌های خوشمزه می‌پزد.) 
+ * She lives with her grandmother.
+   (او با مادربزرگش زندگی می‌کند.) 
+ * My grandmother taught me how to sew.
+   (مادربزرگم به من خیاطی یاد داد.) 
+ * We visited our grandmother on Sunday.
+   (ما یکشنبه به ملاقات مادربزرگمان رفتیم.) 
+ID: ID1617 - A1 - XV1 - Q1 - Grandparent (پدربزرگ و مادربزرگ)
+Examples:
+ * My grandparents live in the countryside.
+   (پدربزرگ و مادربزرگ من در حومه شهر زندگی می‌کنند.) 
+ * Children often enjoy spending time with their grandparents.
+   (کودکان اغلب از گذراندن وقت با پدربزرگ و مادربزرگشان لذت می‌برند.) 
+ * She is a proud grandparent of five grandchildren.
+   (او یک پدربزرگ و مادربزرگ مفتخر از پنج نوه است.) 
+ * My grandparent told me stories of their youth.
+   (پدربزرگ و مادربزرگ من داستان‌هایی از جوانی‌شان برایم تعریف کردند.) 
+ID: ID1618 - B1 - XV3 - Q4 - Grant (اعطا کردن، بخشیدن؛ کمک هزینه، اعطا)
+Examples:
+ * The university granted him a scholarship.
+   (دانشگاه به او بورسیه تحصیلی اعطا کرد.) 
+ * The government provides grants for scientific research.
+   (دولت برای تحقیقات علمی کمک هزینه اعطا می‌کند.) 
+ * I grant you permission to leave.
+   (من به شما اجازه خروج می‌دهم.) 
+ * The foundation awarded a research grant to the young scientist.
+   (بنیاد یک کمک هزینه تحقیقاتی به دانشمند جوان اعطا کرد.) 
+ID: ID1619 - A2 - XV2 - Q1 - Grass (چمن، علف)
+Examples:
+ * The grass is green in spring.
+   (چمن در بهار سبز است.) 
+ * We sat on the grass in the park.
+   (ما روی چمن در پارک نشستیم.) 
+ * He mowed the lawn and trimmed the grass.
+   (او چمن را کوتاه کرد و علف‌ها را مرتب کرد.) 
+ * Keep off the grass.
+   (روی چمن نروید.) 
+ID: ID1620 - C1 - XV5 - Q4 - Gratify (راضی کردن، خشنود کردن، ارضا کردن)
+Examples:
+ * His success gratified his parents.
+   (موفقیت او والدینش را خشنود کرد.) 
+ * It was gratifying to see their hard work pay off.
+   (دیدن نتیجه تلاش‌های سخت آنها ارضا‌کننده بود.) 
+ * The praise gratified her desire for recognition.
+   (ستایش، میل او به رسمیت شناخته شدن را ارضا کرد.) 
+ * He found it gratifying to help others.
+   (او کمک به دیگران را خشنودکننده یافت.) 
+ID: ID1621 - C1 - XV5 - Q2 - Gratuitous (بی‌دلیل، بی‌مورد، بی‌پایه و اساس)
+Examples:
+ * The violence in the film was gratuitous and unnecessary.
+   (خشونت در فیلم بی‌مورد و غیرضروری بود.) 
+ * He offered a gratuitous insult to his colleague.
+   (او یک توهین بی‌دلیل به همکارش کرد.) 
+ * The gratuitous comments added nothing to the discussion.
+   (اظهارات بی‌مورد چیزی به بحث اضافه نکرد.) 
+ * The author included gratuitous details that detracted from the story.
+   (نویسنده جزئیات بی‌مورد را اضافه کرده بود که از داستان کم می‌کرد.) 
+ID: ID1622 - A1 - XV1 - Q2 - Great (بزرگ، عالی، فوق‌العاده)
+Examples:
+ * We had a great time.
+   (ما اوقات عالی‌ای داشتیم.) 
+ * He is a great leader.
+   (او یک رهبر بزرگ است.) 
+ * That's a great idea!
+   (این یک ایده عالی است!) 
+ * The concert was great.
+   (کنسرت عالی بود.) 
+ID: ID1623 - A1 - XV1 - Q2 - Green (سبز)
+Examples:
+ * The grass is green.
+   (چمن سبز است.) 
+ * She wore a green dress.
+   (او یک لباس سبز پوشیده بود.) 
+ * We need to protect our green spaces.
+   (ما باید از فضاهای سبز خود محافظت کنیم.) 
+ * He painted the wall green.
+   (او دیوار را سبز رنگ کرد.) 
+ID: ID1624 - C1 - XV5 - Q2 - Gregarious (اجتماعی، خونگرم، گله‌دوست)
+Examples:
+ * She is a gregarious person who enjoys parties.
+   (او یک فرد اجتماعی است که از مهمانی‌ها لذت می‌برد.) 
+ * His gregarious nature made him popular among his peers.
+   (طبیعت خونگرم او او را در بین همسالانش محبوب کرد.) 
+ * Birds are often gregarious creatures.
+   (پرندگان اغلب موجودات گله‌دوست هستند.) 
+ * The group was characterized by its gregarious members.
+   (این گروه با اعضای اجتماعی خود مشخص می‌شد.) 
+ID: ID1625 - A1 - XV1 - Q2 - Grey (خاکستری)
+Examples:
+ * The sky was grey and cloudy.
+   (آسمان خاکستری و ابری بود.) 
+ * He wore a grey suit.
+   (او یک کت و شلوار خاکستری پوشیده بود.) 
+ * Her hair is starting to turn grey.
+   (موهایش شروع به خاکستری شدن کرده است.) 
+ * The artist used various shades of grey in his painting.
+   (هنرمند از سایه‌های مختلف خاکستری در نقاشی خود استفاده کرد.) 
+ID: ID1626 - C1 - XV5 - Q2 - Grievous (سنگین، دلخراش، اندوه‌آور)
+Examples:
+ * He suffered a grievous injury in the accident.
+   (او در حادثه دچار آسیب سنگینی شد.) 
+ * The loss of life was a grievous blow to the community.
+   (از دست دادن جان‌ها ضربه‌ای دلخراش برای جامعه بود.) 
+ * His actions caused grievous harm to his reputation.
+   (اعمال او به شهرتش زیان اندوه‌آوری وارد کرد.) 
+ * The family was trying to cope with their grievous loss.
+   (خانواده در تلاش بودند تا با فقدان اندوه‌آور خود کنار بیایند.) 
+ID: ID1627 - A2 - XV2 - Q1 - Group (گروه)
+Examples:
+ * We worked in a small group.
+   (ما در یک گروه کوچک کار کردیم.) 
+ * A group of students gathered outside.
+   (گروهی از دانشجویان بیرون جمع شدند.) 
+ * The band is a popular music group.
+   (این گروه یک گروه موسیقی محبوب است.) 
+ * They belong to the same social group.
+   (آنها به یک گروه اجتماعی تعلق دارند.) 
+ID: ID1628 - A2 - XV2 - Q4 - Grow (رشد کردن، بزرگ شدن، پرورش دادن)
+Examples:
+ * Children grow very fast.
+   (بچه‌ها خیلی سریع رشد می‌کنند.) 
+ * We grow vegetables in our garden.
+   (ما در باغمان سبزیجات پرورش می‌دهیم.) 
+ * His business grew rapidly.
+   (کسب و کار او به سرعت رشد کرد.) 
+ * I want to grow my hair long.
+   (من می‌خواهم موهایم را بلند کنم.) 
+ID: ID1629 - B1 - XV3 - Q1 - Growth (رشد، توسعه، افزایش)
+Examples:
+ * The company experienced rapid growth last year.
+   (شرکت سال گذشته رشد سریعی را تجربه کرد.) 
+ * Economic growth is essential for prosperity.
+   (رشد اقتصادی برای رفاه ضروری است.) 
+ * We noticed a significant growth in her vocabulary.
+   (ما یک افزایش قابل توجه در واژگان او مشاهده کردیم.) 
+ * Plant growth requires sunlight and water.
+   (رشد گیاه به نور خورشید و آب نیاز دارد.) 
+ID: ID1630 - B1 - XV3 - Q4 - Guarantee (تضمین کردن، ضمانت کردن؛ ضمانت، تضمین)
+Examples:
+ * We guarantee your satisfaction.
+   (ما رضایت شما را تضمین می‌کنیم.) 
+ * The product comes with a one-year guarantee.
+   (محصول با یک سال ضمانت عرضه می‌شود.) 
+ * There is no guarantee that the plan will work.
+   (هیچ تضمینی وجود ندارد که طرح موفق شود.) 
+ * The company guarantees the quality of its goods.
+   (شرکت کیفیت کالاهای خود را ضمانت می‌کند.) 
+ID: ID1631 - B1 - XV3 - Q4 - Guard (محافظت کردن، نگهبانی دادن؛ نگهبان، محافظ)
+Examples:
+ * A security guard stood at the entrance.
+   (یک نگهبان امنیت در ورودی ایستاده بود.) 
+ * He guarded his secrets carefully.
+   (او اسرار خود را با دقت محافظت می‌کرد.) 
+ * The soldiers stood guard all night.
+   (سربازان تمام شب نگهبانی دادند.) 
+ * The dog guards the house from intruders.
+   (سگ خانه را از مهاجمان محافظت می‌کند.) 
+ID: ID1632 - A2 - XV2 - Q4 - Guess (حدس زدن، گمان کردن؛ حدس)
+Examples:
+ * Can you guess my age?
+   (می‌توانید سن من را حدس بزنید؟) 
+ * Take a guess; you might be right.
+   (حدس بزن؛ شاید درست باشد.) 
+ * I guess it's time to leave.
+   (حدس می‌زنم وقت رفتن است.) 
+ * His guess was surprisingly accurate.
+   (حدس او به طرز شگفت‌آوری دقیق بود.) 
+ID: ID1633 - A2 - XV2 - Q1 - Guest (مهمان)
+Examples:
+ * We had guests for dinner last night.
+   (ما دیشب مهمان برای شام داشتیم.) 
+ * The hotel welcomes all guests.
+   (هتل از همه مهمانان استقبال می‌کند.) 
+ * She was a guest speaker at the conference.
+   (او یک سخنران مهمان در کنفرانس بود.) 
+ * Our guest room is ready.
+   (اتاق مهمان ما آماده است.) 
+ID: ID1634 - B1 - XV3 - Q4 - Guide (راهنمایی کردن، هدایت کردن؛ راهنما)
+Examples:
+ * Can you guide me to the nearest station?
+   (می‌توانید مرا به نزدیکترین ایستگاه راهنمایی کنید؟) 
+ * The book is a guide to healthy eating.
+   (این کتاب راهنمایی برای تغذیه سالم است.) 
+ * She guided the tourists through the city.
+   (او گردشگران را در شهر هدایت کرد.) 
+ * Experience will be your guide.
+   (تجربه راهنمای شما خواهد بود.) 
+ID: ID1635 - C1 - XV5 - Q1 - Guile (فریب، مکر، حیله)
+Examples:
+ * He used his guile to trick his opponents.
+   (او از فریب خود برای گول زدن حریفانش استفاده کرد.) 
+ * The magician's tricks were performed with incredible guile.
+   (ترفندهای شعبده‌باز با مکر باورنکردنی انجام شد.) 
+ * Her innocence belied a certain guile.
+   (بی‌گناهی او نشان‌دهنده یک حیله خاص بود.) 
+ * He managed to win through sheer guile and determination.
+   (او موفق شد با فریب محض و اراده پیروز شود.) 
+ID: ID1636 - C2 - XV6 - Q2 - Guileful (حیله‌گر، مکار، فریبنده)
+Examples:
+ * The villain in the story was a guileful character.
+   (شرور داستان یک شخصیت حیله‌گر بود.) 
+ * He used guileful tactics to gain an advantage.
+   (او از تاکتیک‌های مکارانه برای کسب برتری استفاده کرد.) 
+ * Be wary of his guileful promises.
+   (مراقب وعده‌های فریبنده او باشید.) 
+ * The guileful salesperson convinced her to buy the unnecessary item.
+   (فروشنده حیله‌گر او را متقاعد کرد که کالای غیرضروری را بخرد.) 
+ID: ID1637 - C1 - XV5 - Q2 - Guileless (بی‌غل و غش، ساده‌دل، بی‌ریا)
+Examples:
+ * Her guileless smile charmed everyone.
+   (لبخند بی‌غل و غش او همه را مجذوب خود کرد.) 
+ * He was a kind and guileless old man.
+   (او پیرمردی مهربان و ساده‌دل بود.) 
+ * The child's guileless questions were sometimes difficult to answer.
+   (سوالات بی‌ریای کودک گاهی اوقات دشوار بود.) 
+ * Her guileless nature made her vulnerable to manipulation.
+   (طبیعت ساده‌دل او او را در برابر دستکاری آسیب‌پذیر می‌کرد.) 
+ID: ID1638 - C1 - XV5 - Q1 - Guise (ظاهر، قیافه، لباس، پوشش)
+Examples:
+ * He appeared in the guise of a humble traveler.
+   (او در لباس یک مسافر فروتن ظاهر شد.) 
+ * The enemy entered the city under the guise of merchants.
+   (دشمن با ظاهر بازرگانان وارد شهر شد.) 
+ * His generosity was often a guise for his ambition.
+   (سخاوت او اغلب پوششی برای جاه‌طلبی‌اش بود.) 
+ * She adopted a new guise to avoid recognition.
+   (او برای جلوگیری از شناخته شدن، قیافه جدیدی به خود گرفت.) 
+ID: ID1639 - C1 - XV5 - Q2 - Gullible (زودباور، ساده‌لوح)
+Examples:
+ * He's too gullible and believes everything he's told.
+   (او بیش از حد زودباور است و هر چه به او بگویند باور می‌کند.) 
+ * The scam targeted gullible elderly people.
+   (این کلاهبرداری افراد مسن ساده‌لوح را هدف قرار داده بود.) 
+ * Don't be so gullible; verify the information.
+   (اینقدر ساده‌لوح نباشید؛ اطلاعات را تأیید کنید.) 
+ * His gullible nature often led him into trouble.
+   (طبیعت زودباور او اغلب او را به دردسر می‌انداخت.) 
+ID: ID1640 - A2 - XV2 - Q1 - Gun (اسلحه، تفنگ)
+Examples:
+ * The police officer carried a gun.
+   (افسر پلیس یک اسلحه حمل می‌کرد.) 
+ * He heard a gun shot in the distance.
+   (او صدای شلیک تفنگی را در دوردست شنید.) 
+ * Guns are strictly regulated in this country.
+   (اسلحه‌ها در این کشور به شدت تحت کنترل هستند.) 
+ * He pointed the toy gun at his sister.
+   (او تفنگ اسباب‌بازی را به سمت خواهرش نشانه گرفت.) 
+ID: ID1641 - B1 - XV3 - Q1 - Habit (عادت)
+Examples:
+ * Smoking is a bad habit.
+   (سیگار کشیدن یک عادت بد است.) 
+ * He has a habit of biting his nails.
+   (او عادت دارد ناخن‌هایش را بجود.) 
+ * It's important to develop good study habits.
+   (ایجاد عادات مطالعه خوب مهم است.) 
+ * Breaking old habits can be difficult.
+   (ترک عادات قدیمی می‌تواند دشوار باشد.) 
+ID: ID1642 - C1 - XV5 - Q2 - Hackneyed (تکراری، کهنه، مبتذل)
+Examples:
+ * The movie's plot was full of hackneyed clichés.
+   (داستان فیلم پر از کلیشه‌های تکراری بود.) 
+ * Avoid using hackneyed phrases in your writing.
+   (از استفاده از عبارات کهنه در نوشتار خودداری کنید.) 
+ * His speeches often relied on hackneyed political rhetoric.
+   (سخنرانی‌های او اغلب به لفاظی‌های سیاسی مبتذل متکی بود.) 
+ * The song's lyrics were hackneyed and uninspired.
+   (متن ترانه تکراری و بی‌الهام بود.) 
+ID: ID1643 - A1 - XV1 - Q1 - Hair (مو)
+Examples:
+ * She has long, blonde hair.
+   (او موهای بلند و بلوند دارد.) 
+ * He got a haircut yesterday.
+   (او دیروز موهایش را کوتاه کرد.) 
+ * My hair is too long.
+   (موهایم خیلی بلند است.) 
+ * She brushed her hair.
+   (او موهایش را شانه زد.) 
+ID: ID1644 - C2 - XV6 - Q2 - Halcyon (آرام، خوشایند، صلح‌آمیز، دوران طلایی)
+Examples:
+ * She remembered her childhood as a halcyon period.
+   (او دوران کودکی خود را به عنوان یک دوران طلایی به یاد می‌آورد.) 
+ * The island is known for its halcyon climate.
+   (این جزیره به خاطر آب و هوای آرام خود شناخته شده است.) 
+ * They hoped for a return to those halcyon days.
+   (آنها آرزوی بازگشت به آن روزهای خوشایند را داشتند.) 
+ * The painting depicted a halcyon scene of a peaceful village.
+   (نقاشی صحنه‌ای آرام از یک روستای صلح‌آمیز را به تصویر می‌کشید.) 
+ID: ID1645 - A1 - XV1 - Q2 - Half (نصف، نیمه)
+Examples:
+ * I'll have half a cup of coffee.
+   (من نصف فنجان قهوه می‌خورم.) 
+ * The game was over in an hour and a half.
+   (بازی در یک ساعت و نیم تمام شد.) 
+ * He cut the apple in half.
+   (او سیب را از وسط نصف کرد.) 
+ * She only heard half of the conversation.
+   (او فقط نیمی از مکالمه را شنید.) 
+ID: ID1646 - A2 - XV2 - Q1 - Hall (سالن، راهرو)
+Examples:
+ * The meeting will be held in the main hall.
+   (جلسه در سالن اصلی برگزار خواهد شد.) 
+ * She walked down the long hall.
+   (او در راهروی بلند راه رفت.) 
+ * The concert hall was packed.
+   (سالن کنسرت پر بود.) 
+ * He hung his coat in the hall.
+   (او کتش را در راهرو آویزان کرد.) 
+ID: ID1647 - C1 - XV5 - Q4 - Hamper (مانع شدن، جلوگیری کردن، محدود کردن)
+Examples:
+ * Bad weather hampered our travel plans.
+   (هوای بد مانع برنامه‌های سفر ما شد.) 
+ * His lack of experience hampered his progress.
+   (کمبود تجربه او مانع پیشرفت او شد.) 
+ * The new regulations could hamper economic recovery.
+   (مقررات جدید می‌توانستند مانع بهبود اقتصادی شوند.) 
+ * Noise can hamper concentration.
+   (صدا می‌تواند تمرکز را محدود کند.) 
+ID: ID1648 - A1 - XV1 - Q1 - Hand (دست)
+Examples:
+ * She waved her hand.
+   (او دستش را تکان داد.) 
+ * Shake my hand.
+   (با من دست بده.) 
+ * He held the book in his hand.
+   (او کتاب را در دستش گرفت.) 
+ * Give me a hand with this box.
+   (در مورد این جعبه به من کمک کن.) 
+ID: ID1649 - B1 - XV3 - Q4 - Handle (اداره کردن، مدیریت کردن، لمس کردن؛ دسته)
+Examples:
+ * She handles stress very well.
+   (او استرس را خیلی خوب اداره می‌کند.) 
+ * Don't touch the hot pan by the handle.
+   (ماهیتابه داغ را از دسته‌اش لمس نکنید.) 
+ * Can you handle this task?
+   (آیا می‌توانید این کار را مدیریت کنید؟) 
+ * The door handle was broken.
+   (دسته در شکسته بود.) 
+ID: ID1650 - C1 - XV5 - Q2 - Hapless (بیچاره، بدشانس، بدبخت)
+Examples:
+ * The hapless victim lost all her savings.
+   (قربانی بیچاره تمام پس‌انداز خود را از دست داد.) 
+ * He was a hapless soul always getting into trouble.
+   (او یک روح بدشانس بود که همیشه به دردسر می‌افتاد.) 
+ * The hapless attempts to fix the system failed again.
+   (تلاش‌های بدبختانه برای رفع سیستم دوباره شکست خورد.) 
+ * The team's hapless performance led to their defeat.
+   (عملکرد بی‌چاره تیم منجر به شکست آنها شد.) 
+ID: ID1651 - A1 - XV1 - Q4 - Happen (اتفاق افتادن، رخ دادن)
+Examples:
+ * What happened?
+   (چه اتفاقی افتاد؟) 
+ * Accidents can happen to anyone.
+   (تصادفات می‌توانند برای هر کسی رخ دهند.) 
+ * I wonder what will happen next.
+   (نمی‌دانم بعد چه اتفاقی خواهد افتاد.) 
+ * It just so happened that I was there.
+   (فقط اینطور شد که من آنجا بودم.) 
+ID: ID1652 - A2 - XV2 - Q1 - Happiness (شادی، خوشبختی)
+Examples:
+ * Money doesn't always bring happiness.
+   (پول همیشه خوشبختی نمی‌آورد.) 
+ * Her happiness was evident on her face.
+   (شادی او در چهره‌اش آشکار بود.) 
+ * I wish you all the happiness in the world.
+   (برای شما تمام خوشبختی دنیا را آرزو می‌کنم.) 
+ * Finding true happiness is a journey.
+   (یافتن خوشبختی واقعی یک سفر است.) 
+ID: ID1653 - A1 - XV1 - Q2 - Happy (خوشحال، شاد)
+Examples:
+ * I'm very happy today.
+   (امروز خیلی خوشحالم.) 
+ * She looked happy and relaxed.
+   (او خوشحال و آرام به نظر می‌رسید.) 
+ * Happy birthday!
+   (تولدت مبارک!) 
+ * He felt happy about his decision.
+   (او از تصمیمش خوشحال بود.) 
+ID: ID1654 - C1 - XV5 - Q4 - Harangue (سخنرانی تند، سخن طولانی و خشمگینانه؛ سخنرانی تند کردن)
+Examples:
+ * The politician delivered a lengthy harangue against his rivals.
+   (سیاستمدار یک سخنرانی طولانی و خشمگینانه علیه رقبای خود ایراد کرد.) 
+ * He subjected his staff to a continuous harangue about their performance.
+   (او کارکنانش را تحت یک سخنرانی تند مداوم در مورد عملکردشان قرار داد.) 
+ * She would often harangue her children about their messy rooms.
+   (او اغلب در مورد اتاق‌های نامرتب فرزندانش به آنها سخنرانی تند می‌کرد.) 
+ * The protest leader harangued the crowd, urging them to action.
+   (رهبر اعتراضات به جمعیت سخنرانی تند کرد و آنها را به عمل فراخواند.) 
+ID: ID1655 - C1 - XV5 - Q1 - Harbinger (پیش‌قراول، مبشر، نشانه‌ی)
+Examples:
+ * The first robin is a harbinger of spring.
+   (اولین سینه سرخ، پیش‌قراول بهار است.) 
+ * Dark clouds can be a harbinger of a storm.
+   (ابرهای تیره می‌توانند نشانه طوفان باشند.) 
+ * The falling leaves are a harbinger of autumn.
+   (برگ‌های در حال افتادن، مبشر پاییز هستند.) 
+ * The recent economic downturn might be a harbinger of a deeper recession.
+   (رکود اقتصادی اخیر ممکن است نشانه‌ای از یک رکود عمیق‌تر باشد.) 
+ID: ID1656 - A1 - XV1 - Q2 - Hard (سخت، دشوار)
+Examples:
+ * The exam was very hard.
+   (امتحان خیلی سخت بود.) 
+ * He works hard every day.
+   (او هر روز سخت کار می‌کند.) 
+ * It's hard to believe him.
+   (باور کردن او دشوار است.) 
+ * The rock felt hard.
+   (سنگ سخت بود.) 
+ID: ID1657 - A2 - XV2 - Q1 - Harm (آسیب، ضرر؛ آسیب رساندن)
+Examples:
+ * Smoking can cause serious harm to your health.
+   (سیگار کشیدن می‌تواند آسیب جدی به سلامتی شما وارد کند.) 
+ * Don't do any harm.
+   (هیچ آسیبی نرسانید.) 
+ * He meant no harm.
+   (او قصد آسیب رساندن نداشت.) 
+ * The chemicals can harm the environment.
+   (مواد شیمیایی می‌توانند به محیط زیست آسیب برسانند.) 
+ID: ID1658 - C1 - XV5 - Q2 - Harrowing (دلخراش، رنج‌آور، وحشتناک)
+Examples:
+ * It was a harrowing experience to be caught in the earthquake.
+   (گرفتار شدن در زلزله یک تجربه دلخراش بود.) 
+ * The documentary showed harrowing images of the war.
+   (مستند تصاویر رنج‌آوری از جنگ را نشان داد.) 
+ * She recounted her harrowing journey with tears in her eyes.
+   (او سفر وحشتناک خود را با اشک در چشمانش بازگو کرد.) 
+ * The family went through a harrowing ordeal.
+   (خانواده از یک مصیبت دلخراش گذر کردند.) 
+ID: ID1659 - A1 - XV1 - Q1 - Hat (کلاه)
+Examples:
+ * He wore a hat to protect himself from the sun.
+   (او کلاهی به سر داشت تا خود را از آفتاب محافظت کند.) 
+ * She put on her hat before going out.
+   (او قبل از بیرون رفتن کلاهش را سرش گذاشت.) 
+ * That's a stylish hat.
+   (آن یک کلاه شیک است.) 
+ * He took off his hat as a sign of respect.
+   (او کلاهش را به نشانه احترام از سر برداشت.) 
+ID: ID1660 - A2 - XV2 - Q4 - Hate (نفرت داشتن، متنفر بودن؛ نفرت)
+Examples:
+ * I hate doing homework.
+   (من از انجام تکالیف متنفرم.) 
+ * She has a deep hate for injustice.
+   (او نفرت عمیقی از بی‌عدالتی دارد.) 
+ * Many people hate public speaking.
+   (بسیاری از مردم از سخنرانی عمومی متنفرند.) 
+ * He couldn't hide his hate for his enemy.
+   (او نمی‌توانست نفرت خود را از دشمنش پنهان کند.) 
+ID: ID1661 - C2 - XV6 - Q1 - Haughtiness (تکبر، غرور، نخوت)
+Examples:
+ * Her haughtiness made her unpopular among her colleagues.
+   (تکبر او باعث شد که او در بین همکارانش محبوب نباشد.) 
+ * He spoke with an air of haughtiness that offended many.
+   (او با حالتی از غرور صحبت می‌کرد که بسیاری را آزرده خاطر کرد.) 
+ * The public resented the politician's haughtiness.
+   (مردم از نخوت سیاستمدار ناراضی بودند.) 
+ * Her haughtiness was merely a facade to hide her insecurities.
+   (تکبر او تنها نقابی برای پنهان کردن ناامنی‌هایش بود.) 
+ID: ID1662 - C1 - XV5 - Q2 - Haughty (متکبر، مغرور، از خود راضی)
+Examples:
+ * She gave him a haughty look.
+   (او نگاه متکبرانه‌ای به او انداخت.) 
+ * His haughty attitude made him difficult to work with.
+   (نگرش مغرورانه او باعث شد کار کردن با او دشوار باشد.) 
+ * The haughty manager dismissed their concerns.
+   (مدیر از خود راضی نگرانی‌های آنها را رد کرد.) 
+ * Don't be so haughty; humility is a virtue.
+   (اینقدر متکبر نباش؛ فروتنی یک فضیلت است.) 
+ID: ID1663 - A1 - XV1 - Q4 - Have (داشتن)
+Examples:
+ * I have a new car.
+   (من یک ماشین جدید دارم.) 
+ * Do you have any siblings?
+   (آیا خواهر و برادر داری؟) 
+ * We had dinner together.
+   (ما با هم شام خوردیم.) 
+ * She has a lot of work to do.
+   (او کارهای زیادی برای انجام دادن دارد.) 
+ID: ID1664 - A1 - XV1 - Q3 - He (او (مذکر))
+Examples:
+ * He is my brother.
+   (او برادر من است.) 
+ * He likes to play football.
+   (او دوست دارد فوتبال بازی کند.) 
+ * He lives in London.
+   (او در لندن زندگی می‌کند.) 
+ * He told me a secret.
+   (او رازی را به من گفت.) 
+ID: ID1665 - A1 - XV1 - Q1 - Head (سر، رئیس؛ هدایت کردن)
+Examples:
+ * My head hurts.
+   (سرم درد می‌کند.) 
+ * He is the head of the department.
+   (او رئیس بخش است.) 
+ * Let's head home.
+   (بیایید به خانه برویم.) 
+ * She nodded her head in agreement.
+   (او سرش را به نشانه موافقت تکان داد.) 
+ID: ID1666 - A2 - XV2 - Q1 - Health (سلامت، تندرستی)
+Examples:
+ * Exercise is good for your health.
+   (ورزش برای سلامتی شما خوب است.) 
+ * She is in good health.
+   (او در سلامت کامل است.) 
+ * Public health is a major concern.
+   (بهداشت عمومی یک نگرانی عمده است.) 
+ * Mental health is as important as physical health.
+   (سلامت روان به اندازه سلامت جسمانی مهم است.) 
+ID: ID1667 - A2 - XV2 - Q2 - Healthy (سالم، تندرست)
+Examples:
+ * Eat healthy food.
+   (غذای سالم بخورید.) 
+ * She lives a very healthy lifestyle.
+   (او یک سبک زندگی بسیار سالم دارد.) 
+ * He looks healthy and strong.
+   (او سالم و قوی به نظر می‌رسد.) 
+ * A healthy diet includes plenty of fruits and vegetables.
+   (یک رژیم غذایی سالم شامل میوه‌ها و سبزیجات فراوان است.) 
+ID: ID1668 - A1 - XV1 - Q4 - Hear (شنیدن)
+Examples:
+ * Can you hear me?
+   (می‌توانید صدای من را بشنوید؟) 
+ * I heard a strange noise.
+   (من یک صدای عجیب شنیدم.) 
+ * She likes to hear stories.
+   (او دوست دارد داستان بشنود.) 
+ * I was happy to hear the good news.
+   (از شنیدن خبر خوب خوشحال شدم.) 
+ID: ID1669 - B1 - XV3 - Q1 - Hearing (شنوایی، جلسه دادرسی)
+Examples:
+ * His hearing is not very good.
+   (شنوایی او خیلی خوب نیست.) 
+ * The judge scheduled a hearing for next week.
+   (قاضی یک جلسه دادرسی برای هفته آینده تعیین کرد.) 
+ * She has a keen sense of hearing.
+   (او حس شنوایی تیزی دارد.) 
+ * The public hearing addressed environmental concerns.
+   (جلسه دادرسی عمومی به نگرانی‌های زیست‌محیطی پرداخت.) 
+ID: ID1670 - C1 - XV5 - Q1 - Hearsay (شایعه، شنیده‌ها، خبر غیرموثق)
+Examples:
+ * Don't believe everything you hear; it might just be hearsay.
+   (هر چه می‌شنوید باور نکنید؛ ممکن است فقط شایعه باشد.) 
+ * The evidence was dismissed as mere hearsay.
+   (شواهد به عنوان صرفاً شنیده‌ها رد شد.) 
+ * The report was based on hearsay and lacked credible sources.
+   (گزارش بر اساس شنیده‌ها بود و فاقد منابع معتبر بود.) 
+ * She cautioned against making decisions based on hearsay.
+   (او در مورد تصمیم‌گیری بر اساس شایعه هشدار داد.) 
+ID: ID1671 - A1 - XV1 - Q1 - Heart (قلب)
+Examples:
+ * My heart beats fast when I'm scared.
+   (وقتی می‌ترسم قلبم تند می‌زند.) 
+ * He has a kind heart.
+   (او قلب مهربانی دارد.) 
+ * The city is the heart of the country.
+   (این شهر قلب کشور است.) 
+ * She learned the poem by heart.
+   (او شعر را از حفظ یاد گرفت.) 
+ID: ID1672 - A2 - XV2 - Q1 - Heat (گرما، حرارت؛ گرم کردن)
+Examples:
+ * The heat of the sun was intense.
+   (گرمای خورشید شدید بود.) 
+ * Please heat up the soup.
+   (لطفاً سوپ را گرم کنید.) 
+ * The desert is known for its extreme heat.
+   (بیابان به خاطر گرمای شدیدش شناخته شده است.) 
+ * The machine generates a lot of heat.
+   (ماشین گرمای زیادی تولید می‌کند.) 
+ID: ID1673 - A2 - XV2 - Q2 - Heavy (سنگین، زیاد)
+Examples:
+ * This box is very heavy.
+   (این جعبه خیلی سنگین است.) 
+ * There was heavy traffic on the road.
+   (ترافیک سنگینی در جاده وجود داشت.) 
+ * She carried a heavy bag.
+   (او یک کیف سنگین حمل می‌کرد.) 
+ * He has a heavy cold.
+   (او سرماخوردگی شدیدی دارد.) 
+ID: ID1674 - C2 - XV6 - Q1 - Hedonism (لذت‌گرایی، خوشگذرانی)
+Examples:
+ * His life was devoted to hedonism, seeking pleasure above all else.
+   (زندگی او وقف لذت‌گرایی بود و لذت را بر هر چیز دیگری مقدم می‌دانست.) 
+ * The philosophy of hedonism emphasizes the pursuit of pleasure.
+   (فلسفه لذت‌گرایی بر پیگیری لذت تاکید دارد.) 
+ * The movie depicted a lifestyle of unrestrained hedonism.
+   (فیلم سبک زندگی لذت‌گرایی بی‌بند و بار را به تصویر می‌کشید.) 
+ * Critics argued that modern society encourages a form of hedonism.
+   (منتقدان استدلال کردند که جامعه مدرن نوعی لذت‌گرایی را تشویق می‌کند.) 
+ID: ID1675 - C2 - XV6 - Q1 - Hedonist (لذت‌گرا، خوشگذران)
+Examples:
+ * He was known as a hedonist, always seeking new experiences and pleasures.
+   (او به عنوان یک لذت‌گرا شناخته شده بود، همیشه به دنبال تجربه‌ها و لذت‌های جدید بود.) 
+ * A true hedonist believes that pleasure is the highest good.
+   (یک لذت‌گرای واقعی معتقد است که لذت بالاترین خوبی است.) 
+ * She was not a hedonist; she valued hard work and discipline.
+   (او لذت‌گرا نبود؛ او به سخت‌کوشی و انضباط اهمیت می‌داد.) 
+ * The ancient Roman emperors were often depicted as hedonists.
+   (امپراتوران روم باستان اغلب به عنوان لذت‌گرایان به تصویر کشیده می‌شدند.) 
+ID: ID1676 - C1 - XV5 - Q2 - Hedonistic (لذت‌گرایانه، خوشگذرانانه)
+Examples:
+ * He led a hedonistic lifestyle, filled with parties and indulgence.
+   (او سبک زندگی لذت‌گرایانه‌ای داشت، پر از مهمانی و افراط.) 
+ * The resort offered a purely hedonistic escape from reality.
+   (این اقامتگاه یک فرار کاملاً لذت‌گرایانه از واقعیت را ارائه می‌داد.) 
+ * The city's nightlife was described as vibrant and hedonistic.
+   (زندگی شبانه شهر به عنوان پر جنب و جوش و لذت‌گرایانه توصیف شد.) 
+ * His hedonistic tendencies often led him to neglect his responsibilities.
+   (تمایلات لذت‌گرایانه او اغلب او را به نادیده گرفتن مسئولیت‌هایش می‌کشاند.) 
+ID: ID1677 - C1 - XV5 - Q2 - Heedless (بی‌توجه، بی‌اعتنا، بی‌فکر)
+Examples:
+ * Heedless of the danger, she ran into the burning building.
+   (بی‌توجه به خطر، او به داخل ساختمان در حال سوختن دوید.) 
+ * His heedless remarks caused offense to many.
+   (اظهارات بی‌فکر او به بسیاری توهین کرد.) 
+ * The driver was heedless of the warning signs.
+   (راننده به علائم هشدار بی‌اعتنا بود.) 
+ * She walked on, heedless of the shouts behind her.
+   (او به راه خود ادامه داد، بی‌توجه به فریادهایی که پشت سرش بود.) 
+ID: ID1678 - C1 - XV5 - Q1 - Hegemony (هژمونی، سلطه، سیطره)
+Examples:
+ * The company sought to establish its hegemony in the market.
+   (شرکت به دنبال برقراری سلطه خود در بازار بود.) 
+ * The ancient empire maintained its hegemony for centuries.
+   (امپراتوری باستانی برای قرن‌ها سیطره خود را حفظ کرد.) 
+ * Cultural hegemony can influence people's thoughts and behaviors.
+   (هژمونی فرهنگی می‌تواند بر افکار و رفتارهای مردم تأثیر بگذارد.) 
+ * The struggle for regional hegemony led to conflict.
+   (مبارزه برای هژمونی منطقه‌ای منجر به درگیری شد.) 
+ID: ID1679 - A2 - XV2 - Q1 - Height (ارتفاع، بلندی، قد)
+Examples:
+ * What is the height of the building?
+   (ارتفاع ساختمان چقدر است؟) 
+ * He is of average height.
+   (او قد متوسطی دارد.) 
+ * The mountain reaches a great height.
+   (کوه به ارتفاع زیادی می‌رسد.) 
+ * She fears heights.
+   (او از بلندی می‌ترسد.) 
+ID: ID1680 - C1 - XV5 - Q2 - Heinous (شنیع، فجیع، نفرت‌انگیز)
+Examples:
+ * The crime was described as a heinous act of violence.
+   (این جرم به عنوان یک عمل خشونت‌آمیز شنیع توصیف شد.) 
+ * He was punished for his heinous offenses.
+   (او به خاطر جرایم فجیع خود مجازات شد.) 
+ * The judge condemned the heinous cruelty shown to the victims.
+   (قاضی قساوت نفرت‌انگیزی که نسبت به قربانیان نشان داده شده بود را محکوم کرد.) 
+ * Such heinous acts demand severe punishment.
+   (چنین اعمال شنیعی مجازات شدید را طلب می‌کند.) 
+ID: ID1681 - A1 - XV1 - Q8 - Hello (سلام)
+Examples:
+ * Say hello to your mother for me.
+   (از طرف من به مادرت سلام برسان.) 
+ * She greeted him with a warm hello.
+   (او با یک سلام گرم از او استقبال کرد.) 
+ * Hello, how are you today?
+   (سلام، امروز چطور هستید؟) 
+ * He waved hello as he passed by.
+   (او هنگام عبور دست تکان داد.) 
+ID: ID1682 - A1 - XV1 - Q4 - Help (کمک کردن؛ کمک)
+Examples:
+ * Can I help you?
+   (می‌توانم کمکتان کنم؟) 
+ * She offered her help.
+   (او کمک خود را پیشنهاد داد.) 
+ * We need help with this project.
+   (ما برای این پروژه به کمک نیاز داریم.) 
+ * Every little bit helps.
+   (هر ذره‌ای کمک می‌کند.) 
+ID: ID1683 - A2 - XV2 - Q2 - Helpful (مفید، یاری‌دهنده)
+Examples:
+ * Thank you for your helpful advice.
+   (از تو برای نصیحت مفیدت متشکرم.) 
+ * The new software is very helpful.
+   (نرم‌افزار جدید بسیار مفید است.) 
+ * He is always willing to be helpful.
+   (او همیشه مایل به یاری دادن است.) 
+ * The guide provided helpful tips for travelers.
+   (راهنما نکات مفیدی برای مسافران ارائه کرد.) 
+ID: ID1684 - A1 - XV1 - Q3 - Her (او (مونث) - ضمیر مفعولی، صفت ملکی)
+Examples:
+ * I saw her at the store.
+   (او را در فروشگاه دیدم.) 
+ * This is her book.
+   (این کتاب اوست.) 
+ * Give her the message.
+   (پیام را به او بده.) 
+ * Her performance was amazing.
+   (اجرای او فوق‌العاده بود.) 
+ID: ID1685 - A1 - XV1 - Q5 - Here (اینجا)
+Examples:
+ * Come here, please.
+   (لطفاً اینجا بیا.) 
+ * The station is near here.
+   (ایستگاه نزدیک اینجا است.) 
+ * Is anyone here?
+   (آیا کسی اینجا هست؟) 
+ * We will meet here at 5 o'clock.
+   (ما اینجا ساعت ۵ ملاقات خواهیم کرد.) 
+ID: ID1686 - C2 - XV6 - Q1 - Heresy (بدعت، ارتداد، کفر)
+Examples:
+ * His views were considered heresy by the traditionalists.
+   (دیدگاه‌های او توسط سنت‌گرایان بدعت محسوب می‌شد.) 
+ * The scientist was accused of heresy for challenging established theories.
+   (دانشمند به دلیل به چالش کشیدن نظریه‌های تثبیت شده به کفر متهم شد.) 
+ * The book was condemned as heresy.
+   (این کتاب به عنوان ارتداد محکوم شد.) 
+ * Any deviation from the party line was treated as heresy.
+   (هرگونه انحراف از خط حزب به عنوان بدعت تلقی می‌شد.) 
+ID: ID1687 - C1 - XV5 - Q2 - Heretical (بدعت‌آمیز، ارتدادی، خلاف عرف)
+Examples:
+ * He expressed some heretical opinions during the debate.
+   (او در طول بحث نظرات بدعت‌آمیزی ابراز کرد.) 
+ * The church condemned his heretical writings.
+   (کلیسا نوشته‌های ارتدادی او را محکوم کرد.) 
+ * His artistic style was considered heretical by the traditional art community.
+   (سبک هنری او توسط جامعه هنری سنتی خلاف عرف تلقی می‌شد.) 
+ * To question the leader was seen as a heretical act.
+   (سوال بردن از رهبر به عنوان یک عمل بدعت‌آمیز تلقی می‌شد.) 
+ID: ID1688 - C2 - XV6 - Q2 - Hermetic (هوا بند، مهر و موم شده، مرموز، سری)
+Examples:
+ * The ancient text was written in a hermetic script.
+   (متن باستانی با خطی مرموز نوشته شده بود.) 
+ * The experiment required a hermetic seal to prevent contamination.
+   (آزمایش به یک مهر و موم هوا بند برای جلوگیری از آلودگی نیاز داشت.) 
+ * His life was largely hermetic, spent in isolation and study.
+   (زندگی او عمدتاً مرموز بود، در انزوا و مطالعه سپری می‌شد.) 
+ * The jar had a hermetic lid to keep the contents fresh.
+   (شیشه یک درپوش هوا بند داشت تا محتویات را تازه نگه دارد.) 
+ID: ID1689 - A2 - XV2 - Q1 - Hero (قهرمان)
+Examples:
+ * He is a national hero.
+   (او یک قهرمان ملی است.) 
+ * The fireman was hailed as a hero.
+   (آتش‌نشان به عنوان یک قهرمان مورد ستایش قرار گرفت.) 
+ * She plays the role of the hero in the story.
+   (او نقش قهرمان را در داستان بازی می‌کند.) 
+ * Every child needs a hero to look up to.
+   (هر کودکی به یک قهرمان نیاز دارد که او را الگو قرار دهد.) 
+ID: ID1690 - A2 - XV2 - Q4 - Hide (پنهان کردن، مخفی شدن)
+Examples:
+ * Where did you hide the keys?
+   (کلیدها را کجا پنهان کردی؟) 
+ * The child hid behind the curtain.
+   (بچه پشت پرده مخفی شد.) 
+ * He tried to hide his true feelings.
+   (او سعی کرد احساسات واقعی خود را پنهان کند.) 
+ * The rabbit ran to hide in its burrow.
+   (خرگوش دوید تا در لانه‌اش پنهان شود.) 
+ID: ID1691 - A1 - XV1 - Q2 - High (بلند، بالا، زیاد)
+Examples:
+ * The mountain is very high.
+   (کوه بسیار بلند است.) 
+ * He has a high fever.
+   (او تب زیادی دارد.) 
+ * Prices are very high these days.
+   (قیمت‌ها این روزها خیلی بالا هستند.) 
+ * She scored high on the test.
+   (او در آزمون نمره بالایی گرفت.) 
+ID: ID1692 - B1 - XV3 - Q4 - Highlight (برجسته کردن، تاکید کردن؛ قسمت برجسته)
+Examples:
+ * The report highlights the need for reform.
+   (گزارش بر نیاز به اصلاحات تاکید می‌کند.) 
+ * What was the highlight of your trip?
+   (برجسته‌ترین قسمت سفرتان چه بود؟) 
+ * The presentation will highlight key findings.
+   (ارائه یافته‌های کلیدی را برجسته خواهد کرد.) 
+ * The news channel shows the highlights of the football match.
+   (شبکه خبری خلاصه‌ای از نکات برجسته مسابقه فوتبال را نشان می‌دهد.) 
+ID: ID1693 - B1 - XV3 - Q4 - Hinder (مانع شدن، جلوگیری کردن)
+Examples:
+ * Bad weather hindered our progress.
+   (هوای بد مانع پیشرفت ما شد.) 
+ * His shyness hindered his ability to make friends.
+   (خجالتی بودن او مانع توانایی‌اش در دوست‌یابی شد.) 
+ * Lack of funds may hinder the project.
+   (کمبود بودجه ممکن است مانع پروژه شود.) 
+ * The obstacles hindered their path to success.
+   (موانع مسیر آنها به سوی موفقیت را کند کردند.) 
+ID: ID1694 - C2 - XV6 - Q1 - Hinderance (مانع، مزاحمت)
+Examples:
+ * The broken bridge was a major hinderance to traffic.
+   (پل شکسته مانع بزرگی برای ترافیک بود.) 
+ * Her excessive talking was a constant hinderance to productivity.
+   (صحبت‌های بیش از حد او مانع دائمی بهره‌وری بود.) 
+ * He viewed the strict rules as a hinderance to creativity.
+   (او قوانین سختگیرانه را مانعی برای خلاقیت می‌دانست.) 
+ * The lack of proper equipment proved a hinderance to the experiment.
+   (کمبود تجهیزات مناسب مانعی برای آزمایش بود.) 
+ID: ID1695 - B2 - XV4 - Q1 - Hindrance (مانع، سد)
+Examples:
+ * Lack of education is a major hindrance to development.
+   (عدم آموزش یک مانع اصلی برای توسعه است.) 
+ * The noise was a hindrance to concentration.
+   (صدا مانعی برای تمرکز بود.) 
+ * He overcame every hindrance to achieve his goals.
+   (او بر هر مانعی برای دستیابی به اهدافش غلبه کرد.) 
+ * The regulations proved to be more of a hindrance than a help.
+   (مقررات بیشتر مانع بودند تا کمک.) 
+ID: ID1696 - B1 - XV3 - Q4 - Hire (استخدام کردن، اجاره کردن)
+Examples:
+ * The company plans to hire new employees.
+   (شرکت قصد دارد کارمندان جدید استخدام کند.) 
+ * We hired a car for our vacation.
+   (ما برای تعطیلاتمان یک ماشین اجاره کردیم.) 
+ * They decided to hire a professional photographer.
+   (آنها تصمیم گرفتند یک عکاس حرفه‌ای استخدام کنند.) 
+ * You can hire a bike for the day.
+   (می‌توانید برای یک روز دوچرخه اجاره کنید.) 
+ID: ID1697 - A1 - XV1 - Q3 - His (او (مذکر) - صفت ملکی، ضمیر ملکی)
+Examples:
+ * This is his book.
+   (این کتاب اوست.) 
+ * He lost his keys.
+   (او کلیدهایش را گم کرد.) 
+ * That car is his.
+   (آن ماشین مال اوست.) 
+ * His efforts paid off.
+   (تلاش‌های او نتیجه داد.) 
+ID: ID1698 - B1 - XV3 - Q1 - History (تاریخ، سابقه)
+Examples:
+ * I love studying history.
+   (من عاشق مطالعه تاریخ هستم.) 
+ * The building has a long history.
+   (ساختمان سابقه طولانی دارد.) 
+ * He made history by winning four gold medals.
+   (او با بردن چهار مدال طلا تاریخ‌ساز شد.) 
+ * The history of the world is vast and complex.
+   (تاریخ جهان گسترده و پیچیده است.) 
+ID: ID1699 - C1 - XV5 - Q2 - Histrionic (نمایشی، تصنعی، مبالغه‌آمیز)
+Examples:
+ * Her histrionic outbursts were difficult to endure.
+   (فوران‌های نمایشی او دشوار بود که تحمل شود.) 
+ * The actor delivered a histrionic performance.
+   (بازیگر یک اجرای تصنعی ارائه داد.) 
+ * He was known for his histrionic gestures and dramatic pronouncements.
+   (او به خاطر حرکات نمایشی و اعلامیه‌های مبالغه‌آمیز خود شناخته شده بود.) 
+ * Her histrionic reaction to the news seemed exaggerated.
+   (واکنش نمایشی او به خبر اغراق‌آمیز به نظر می‌رسید.) 
