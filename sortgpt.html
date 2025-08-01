@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>برنامه پیشرفته پردازش لغات</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      direction: rtl;
+      padding: 20px;
+      background-color: #f4f4f4;
+    }
+    input, button {
+      font-size: 16px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h2>📄 انتخاب فایل‌های متنی (حداکثر ۵ فایل txt)</h2>
+  <input type="file" id="fileInput" multiple accept=".txt">
+  <br><br>
+  <button onclick="processFiles()">🔍 پردازش و دانلود لیست نهایی</button>
+
+  <script>
+    function cleanWord(word) {
+      return word
+        .toLowerCase()                // lowercase
+        .replace(/[\u0600-\u06FF]/g, '') // حذف حروف فارسی
+        .replace(/[^a-z\-']/g, '')    // حذف همه‌چیز به‌جز حروف انگلیسی، خط تیره، آپوستروف
+        .trim();                      // حذف فاصله اضافی
+    }
+
+    function processFiles() {
+      const input = document.getElementById('fileInput');
+      const files = input.files;
+
+      if (files.length === 0) {
+        alert('لطفاً حداقل یک فایل txt انتخاب کنید.');
+        return;
+      }
+
+      if (files.length > 5) {
+        alert('حداکثر ۵ فایل قابل قبول است.');
+        return;
+      }
+
+      const allTextPromises = [];
+
+      for (let i = 0; i < files.length; i++) {
+        allTextPromises.push(files[i].text());
+      }
+
+      Promise.all(allTextPromises).then(contents => {
+        const wordSet = new Set();
+
+        contents.forEach(text => {
+          const rawWords = text.split(/\s+/);
+
+          rawWords.forEach(raw => {
+            const cleaned = cleanWord(raw);
+            if (cleaned.length > 0 && /^[a-z]/.test(cleaned)) {
+              wordSet.add(cleaned);
+            }
+          });
+        });
+
+        const sorted = Array.from(wordSet).sort((a, b) => a.localeCompare(b));
+        const numbered = sorted.map((w, i) => `${i + 1}. ${w}`);
+        const outputText = numbered.join('\n');
+
+        const blob = new Blob([outputText], { type: 'text/plain;charset=utf-8' });
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = 'unique_sorted_words.txt';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+      });
+    }
+  </script>
+</body>
+</html>
