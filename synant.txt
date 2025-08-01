@@ -573,3 +573,394 @@
  * adolescent
    * Synonyms: teenager, young person, juvenile
    * Antonyms: adult, child, infant
+ * adopt
+   * Synonyms: assume, take up, embrace
+   * Antonyms: reject, abandon, disown
+ * adoption
+   * Synonyms: assumption, acceptance, selection
+   * Antonyms: rejection, abandonment, disavowal
+ * adoration
+   * Synonyms: worship, love, veneration
+   * Antonyms: hatred, detestation, loathing
+ * adore
+   * Synonyms: worship, love, cherish
+   * Antonyms: hate, detest, loathe
+ * adorn
+   * Synonyms: decorate, embellish, beautify
+   * Antonyms: strip, disfigure, plain
+ * adornment
+   * Synonyms: decoration, embellishment, ornamentation
+   * Antonyms: plainness, simplicity, starkness
+ * adorns
+   * Synonyms: decorates, embellishes, beautifies
+   * Antonyms: strips, disfigures, leaves plain
+ * adult
+   * Synonyms: grown-up, mature, full-grown
+   * Antonyms: child, juvenile, infant
+ * advance
+   * Synonyms: progress, move forward, promotion
+   * Antonyms: retreat, withdraw, regression
+ * advanced
+   * Synonyms: progressed, modern, sophisticated
+   * Antonyms: retreated, basic, primitive
+ * advancement
+   * Synonyms: progress, promotion, development
+   * Antonyms: regression, decline, stagnation
+ * advancing
+   * Synonyms: progressing, moving forward, developing
+   * Antonyms: retreating, withdrawing, regressing
+ * advantage
+   * Synonyms: benefit, asset, superiority
+   * Antonyms: disadvantage, drawback, handicap
+ * advantageous
+   * Synonyms: beneficial, favorable, helpful
+   * Antonyms: disadvantageous, unfavorable, unhelpful
+ * adventure
+   * Synonyms: exploit, quest, undertaking
+   * Antonyms: No antonyms available.
+ * adventures
+   * Synonyms: exploits, quests, undertakings
+   * Antonyms: No antonyms available.
+ * adventurous
+   * Synonyms: daring, bold, intrepid
+   * Antonyms: cautious, timid, cowardly
+ * adversary
+   * Synonyms: opponent, enemy, foe
+   * Antonyms: ally, friend, supporter
+ * adverse
+   * Synonyms: unfavorable, harmful, hostile
+   * Antonyms: favorable, beneficial, positive
+ * adversity
+   * Synonyms: misfortune, hardship, difficulty
+   * Antonyms: prosperity, fortune, ease
+ * advert
+   * Synonyms: advertisement, commercial, notice
+   * Antonyms: No antonyms available.
+ * advertise
+   * Synonyms: publicize, promote, market
+   * Antonyms: conceal, suppress, hide
+ * advertisement
+   * Synonyms: advert, commercial, notice
+   * Antonyms: No antonyms available.
+ * advertising
+   * Synonyms: promotion, marketing, publicity
+   * Antonyms: No antonyms available.
+ * advice
+   * Synonyms: counsel, guidance, recommendation
+   * Antonyms: No antonyms available.
+ * advisable
+   * Synonyms: wise, prudent, sensible
+   * Antonyms: inadvisable, unwise, foolish
+ * advise
+   * Synonyms: counsel, recommend, suggest
+   * Antonyms: misadvise, mislead, deceive
+ * advised
+   * Synonyms: counseled, recommended, suggested
+   * Antonyms: unadvised, misadvised, misled
+ * advocate
+   * Synonyms: support, recommend, champion
+   * Antonyms: oppose, criticize, condemn
+ * aerial
+   * Synonyms: airborne, sky, atmospheric
+   * Antonyms: grounded, terrestrial, earthbound
+ * aeronautics
+   * No synonyms or antonyms available.
+ * aesthetic
+   * Synonyms: artistic, beautiful, tasteful
+   * Antonyms: unaesthetic, ugly, tasteless
+ * affair
+   * Synonyms: matter, business, event
+   * Antonyms: No antonyms available.
+ * affairs
+   * Synonyms: matters, business, events
+   * Antonyms: No antonyms available.
+ * affect
+   * Synonyms: influence, impact, alter
+   * Antonyms: unaffected, unchanged, leave alone
+ * affected
+   * Synonyms: influenced, impacted, altered
+   * Antonyms: unaffected, unchanged, neutral
+ * affecting
+   * Synonyms: influencing, impacting, altering
+   * Antonyms: unaffected, unchanging, neutral
+ * affection
+   * Synonyms: fondness, love, attachment
+   * Antonyms: hatred, dislike, aversion
+ * affectionate
+   * Synonyms: loving, caring, fond
+   * Antonyms: cold, uncaring, unfeeling
+ * affects
+   * Synonyms: influences, impacts, alters
+   * Antonyms: leaves alone, neutralizes, stabilizes
+ * affiance
+   * Synonyms: betroth, promise, pledge
+   * Antonyms: No antonyms available.
+ * affiliate
+   * Synonyms: associate, join, connect
+   * Antonyms: disaffiliate, separate, disconnect
+ * affirm
+   * Synonyms: assert, declare, confirm
+   * Antonyms: deny, contradict, renounce
+ * affirmation
+   * Synonyms: assertion, declaration, confirmation
+   * Antonyms: denial, contradiction, renunciation
+ * affirmative
+   * Synonyms: positive, assenting, confirming
+   * Antonyms: negative, contradictory, denying
+ * affirmed
+   * Synonyms: asserted, declared, confirmed
+   * Antonyms: denied, contradicted, renounced
+ * affix
+   * Synonyms: attach, fasten, stick
+   * Antonyms: detach, unfasten, remove
+ * affixed
+   * Synonyms: attached, fastened, stuck
+   * Antonyms: detached, unfastened, removed
+ * afflict
+   * Synonyms: trouble, distress, torment
+   * Antonyms: comfort, relieve, soothe
+ * affliction
+   * Synonyms: suffering, distress, misery
+   * Antonyms: comfort, relief, happiness
+ * afford
+   * Synonyms: provide, supply, bear the cost of
+   * Antonyms: deny, refuse, be unable to pay for
+ * affordable
+   * Synonyms: inexpensive, cheap, economical
+   * Antonyms: expensive, costly, pricey
+ * affording
+   * Synonyms: providing, supplying, giving
+   * Antonyms: denying, refusing, withholding
+ * affront
+   * Synonyms: insult, offense, slight
+   * Antonyms: compliment, praise, flattery
+ * afraid
+   * Synonyms: scared, fearful, apprehensive
+   * Antonyms: brave, courageous, fearless
+ * africa
+   * No synonyms or antonyms available.
+ * african
+   * No synonyms or antonyms available.
+ * after
+   * Synonyms: following, subsequent, behind
+   * Antonyms: before, preceding, in front of
+ * aftermath
+   * Synonyms: consequences, results, outcome
+   * Antonyms: cause, beginning, origin
+ * afternoon
+   * No synonyms or antonyms available.
+ * afterwards
+   * Synonyms: subsequently, later, thereafter
+   * Antonyms: beforehand, earlier, previously
+ * again
+   * Synonyms: once more, anew, repeatedly
+   * Antonyms: never, only once
+ * against
+   * Synonyms: in opposition to, opposed to, contrary to
+   * Antonyms: for, in favor of, with
+ * age
+   * Synonyms: era, epoch, period
+   * Antonyms: youth, infancy
+ * aged
+   * Synonyms: old, elderly, mature
+   * Antonyms: young, youthful, new
+ * agency
+   * Synonyms: organization, firm, bureau
+   * Antonyms: No antonyms available.
+ * agenda
+   * Synonyms: schedule, plan, program
+   * Antonyms: No antonyms available.
+ * agent
+   * Synonyms: representative, broker, delegate
+   * Antonyms: principal, superior
+ * ages
+   * Synonyms: eras, periods, lifetimes
+   * Antonyms: No antonyms available.
+ * aggravate
+   * Synonyms: worsen, intensify, annoy
+   * Antonyms: alleviate, improve, soothe
+ * aggravation
+   * Synonyms: worsening, intensification, annoyance
+   * Antonyms: alleviation, improvement, soothing
+ * aggregate
+   * Synonyms: total, collective, combined
+   * Antonyms: individual, separate, distinct
+ * aggregation
+   * Synonyms: collection, cluster, accumulation
+   * Antonyms: separation, dispersal, division
+ * aggression
+   * Synonyms: hostility, attack, assault
+   * Antonyms: peace, friendliness, defense
+ * aggressive
+   * Synonyms: hostile, assertive, confrontational
+   * Antonyms: passive, peaceful, submissive
+ * aggressor
+   * Synonyms: attacker, assailant, invader
+   * Antonyms: defender, victim, protector
+ * agility
+   * Synonyms: nimbleness, quickness, dexterity
+   * Antonyms: clumsiness, stiffness, slowness
+ * agitate
+   * Synonyms: stir, disturb, upset
+   * Antonyms: calm, soothe, tranquilize
+ * agitated
+   * Synonyms: disturbed, upset, flustered
+   * Antonyms: calm, tranquil, composed
+ * agitation
+   * Synonyms: disturbance, turmoil, unrest
+   * Antonyms: calm, tranquility, peace
+ * ago
+   * Synonyms: back, in the past, earlier
+   * Antonyms: now, later, ahead
+ * agony
+   * Synonyms: suffering, torment, anguish
+   * Antonyms: bliss, delight, joy
+ * agree
+   * Synonyms: consent, concur, assent
+   * Antonyms: disagree, refuse, oppose
+ * agreeable
+   * Synonyms: pleasant, pleasing, likable
+   * Antonyms: disagreeable, unpleasant, offensive
+ * agreeably
+   * Synonyms: pleasantly, pleasingly, nicely
+   * Antonyms: disagreeably, unpleasantly, offensively
+ * agreed
+   * Synonyms: consented, concurred, settled
+   * Antonyms: disagreed, refused, opposed
+ * agreed-on
+   * Synonyms: settled, decided, confirmed
+   * Antonyms: disputed, unresolved, contested
+ * agreeing
+   * Synonyms: consenting, concurring, assenting
+   * Antonyms: disagreeing, refusing, opposing
+ * agreement
+   * Synonyms: consensus, accord, contract
+   * Antonyms: disagreement, conflict, dispute
+ * agricultural
+   * Synonyms: farming, agrarian, rural
+   * Antonyms: industrial, urban, commercial
+ * agriculture
+   * Synonyms: farming, cultivation, husbandry
+   * Antonyms: No antonyms available.
+ * ahead
+   * Synonyms: in front, forward, in advance
+   * Antonyms: behind, backward, after
+ * aid
+   * Synonyms: help, assistance, support
+   * Antonyms: hinder, obstruct, oppose
+ * aide
+   * Synonyms: assistant, helper, subordinate
+   * Antonyms: superior, boss, chief
+ * aids
+   * Synonyms: helps, assists, supports
+   * Antonyms: hinders, obstructs, opposes
+ * ailment
+   * Synonyms: illness, sickness, malady
+   * Antonyms: health, wellness
+ * aim
+   * Synonyms: goal, purpose, target
+   * Antonyms: No antonyms available.
+ * aiming
+   * Synonyms: targeting, intending, striving
+   * Antonyms: No antonyms available.
+ * aimlessly
+   * Synonyms: without purpose, randomly, directionless
+   * Antonyms: purposefully, intentionally, methodically
+ * air
+   * Synonyms: atmosphere, breeze, wind
+   * Antonyms: No antonyms available.
+ * aircraft
+   * Synonyms: airplane, plane, flying machine
+   * Antonyms: No antonyms available.
+ * airplane
+   * Synonyms: aircraft, plane, jet
+   * Antonyms: No antonyms available.
+ * airplanes
+   * Synonyms: aircraft, planes, jets
+   * Antonyms: No antonyms available.
+ * airport
+   * Synonyms: airfield, aerodrome
+   * Antonyms: No antonyms available.
+ * aisle
+   * Synonyms: passage, corridor, gangway
+   * Antonyms: No antonyms available.
+ * ajar
+   * Synonyms: open, unlatched, slightly open
+   * Antonyms: closed, shut, locked
+ * alarm
+   * Synonyms: fear, warning, alert
+   * Antonyms: calm, tranquility, assurance
+ * alarmed
+   * Synonyms: frightened, scared, startled
+   * Antonyms: calm, unafraid, reassured
+ * alarming
+   * Synonyms: frightening, worrying, startling
+   * Antonyms: calming, reassuring, soothing
+ * alaudidae
+   * No synonyms or antonyms available.
+ * albeit
+   * Synonyms: although, even though, notwithstanding
+   * Antonyms: No antonyms available.
+ * album
+   * Synonyms: collection, record, compilation
+   * Antonyms: No antonyms available.
+ * alcohol
+   * Synonyms: liquor, spirits, ethanol
+   * Antonyms: No antonyms available.
+ * alcoholic
+   * Synonyms: intoxicated, drunk, inebriated
+   * Antonyms: sober, abstinent
+ * alert
+   * Synonyms: watchful, vigilant, attentive
+   * Antonyms: inattentive, drowsy, oblivious
+ * alertness
+   * Synonyms: vigilance, watchfulness, attentiveness
+   * Antonyms: inattention, drowsiness, obliviousness
+ * alien
+   * Synonyms: foreign, strange, extraterrestrial
+   * Antonyms: native, familiar, domestic
+ * alienate
+   * Synonyms: estrange, separate, distance
+   * Antonyms: unite, reconcile, connect
+ * align
+   * Synonyms: straighten, line up, arrange
+   * Antonyms: misalign, disorganize, jumble
+ * aligned
+   * Synonyms: straightened, lined up, arranged
+   * Antonyms: misaligned, disorganized, jumbled
+ * alignment
+   * Synonyms: arrangement, positioning, organization
+   * Antonyms: misalignment, disorganization, disorder
+ * alike
+   * Synonyms: similar, identical, same
+   * Antonyms: different, dissimilar, unlike
+ * alive
+   * Synonyms: living, existing, active
+   * Antonyms: dead, lifeless, inactive
+ * all
+   * Synonyms: every, total, whole
+   * Antonyms: none, no, single
+ * allegation
+   * Synonyms: accusation, claim, charge
+   * Antonyms: denial, defense, refutation
+ * allege
+   * Synonyms: claim, assert, declare
+   * Antonyms: deny, retract, refute
+ * allegedly
+   * Synonyms: supposedly, reportedly, purportedly
+   * Antonyms: No antonyms available.
+ * allegiance
+   * Synonyms: loyalty, devotion, faithfulness
+   * Antonyms: disloyalty, treachery, betrayal
+ * allergic
+   * Synonyms: hypersensitive, reactive
+   * Antonyms: immune, resistant
+ * allergy
+   * Synonyms: hypersensitivity, reaction, intolerance
+   * Antonyms: No antonyms available.
+ * alleviate
+   * Synonyms: ease, relieve, lessen
+   * Antonyms: aggravate, worsen, intensify
+ * alliance
+   * Synonyms: partnership, coalition, union
+   * Antonyms: opposition, hostility, separation
