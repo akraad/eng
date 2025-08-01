@@ -1,0 +1,149 @@
+A:
+ * a
+   * No synonyms or antonyms available.
+ * abandon
+   * Synonyms: abdicate, relinquish, renounce
+   * Antonyms: keep, retain, hold
+ * abandoned
+   * Synonyms: deserted, forsaken, neglected
+   * Antonyms: adopted, cherished, maintained
+ * abandonment
+   * Synonyms: dereliction, desertion, forsaking
+   * Antonyms: retention, upkeep, continuance
+ * abashed
+   * Synonyms: embarrassed, mortified, humiliated
+   * Antonyms: proud, unabashed, dignified
+ * abbreviation
+   * Synonyms: acronym, initialism, shorthand
+   * Antonyms: elongation, expansion, extension
+ * abdomen
+   * Synonyms: belly, stomach, gut
+   * Antonyms: No antonyms available.
+ * abeyance
+   * Synonyms: suspension, dormancy, postponement
+   * Antonyms: continuation, activity, operation
+ * abide
+   * Synonyms: tolerate, endure, bear
+   * Antonyms: depart, leave, quit
+ * abies
+   * No synonyms or antonyms available.
+ * abilities
+   * Synonyms: capabilities, talents, skills
+   * Antonyms: inabilities, incapacities, deficiencies
+ * ability
+   * Synonyms: capability, competence, capacity
+   * Antonyms: inability, incompetence, incapacity
+ * able
+   * Synonyms: capable, competent, skilled
+   * Antonyms: unable, incompetent, incapable
+ * abnormal
+   * Synonyms: unusual, irregular, atypical
+   * Antonyms: normal, regular, typical
+ * abnormally
+   * Synonyms: unusually, exceptionally, irregularly
+   * Antonyms: normally, regularly, typically
+ * aboard
+   * Synonyms: on, on board, inside
+   * Antonyms: off, ashore, outside
+ * abode
+   * Synonyms: home, residence, dwelling
+   * Antonyms: No antonyms available.
+ * abolish
+   * Synonyms: eliminate, eradicate, annul
+   * Antonyms: establish, create, institute
+ * abolishing
+   * Synonyms: abrogating, eliminating, terminating
+   * Antonyms: establishing, creating, instituting
+ * abolition
+   * Synonyms: elimination, annulment, termination
+   * Antonyms: establishment, creation, institution
+ * abortion
+   * Synonyms: termination, miscarriage, failure
+   * Antonyms: birth, creation, success
+ * abortive
+   * Synonyms: unsuccessful, futile, fruitless
+   * Antonyms: successful, effective, fruitful
+ * abounding
+   * Synonyms: plentiful, abundant, copious
+   * Antonyms: lacking, scarce, deficient
+ * about
+   * Synonyms: concerning, regarding, approximately
+   * Antonyms: exactly, precisely, unerringly
+ * above
+   * Synonyms: over, on top of, superior to
+   * Antonyms: below, under, beneath
+ * abrading
+   * Synonyms: scraping, rubbing, eroding
+   * Antonyms: polishing, smoothing, protecting
+ * abridge
+   * Synonyms: shorten, condense, summarize
+   * Antonyms: lengthen, expand, extend
+ * abroad
+   * Synonyms: overseas, internationally, widely
+   * Antonyms: domestically, at home, locally
+ * abrogate
+   * Synonyms: abolish, repeal, revoke
+   * Antonyms: enact, institute, establish
+ * abrupt
+   * Synonyms: sudden, unexpected, hasty
+   * Antonyms: gradual, slow, expected
+ * absence
+   * Synonyms: lack, non-existence, deficiency
+   * Antonyms: presence, existence, abundance
+ * absent
+   * Synonyms: missing, away, lacking
+   * Antonyms: present, here, existing
+ * absolute
+   * Synonyms: complete, total, pure
+   * Antonyms: relative, partial, limited
+ * absolutely
+   * Synonyms: completely, totally, certainly
+   * Antonyms: relatively, partially, uncertainly
+ * absorb
+   * Synonyms: soak up, take in, assimilate
+   * Antonyms: exude, expel, release
+ * absorbable
+   * Synonyms: digestible, consumable, assimilable
+   * Antonyms: No antonyms available.
+ * absorbed
+   * Synonyms: engrossed, preoccupied, captivated
+   * Antonyms: bored, distracted, inattentive
+ * absorbent
+   * Synonyms: porous, spongy, permeable
+   * Antonyms: repellent, impermeable, waterproof
+ * absorbing
+   * Synonyms: captivating, engrossing, fascinating
+   * Antonyms: boring, tedious, dull
+ * absorption
+   * Synonyms: assimilation, intake, engrossment
+   * Antonyms: expulsion, release, distraction
+ * abstain
+   * Synonyms: refrain, desist, forbear
+   * Antonyms: indulge, partake, continue
+ * abstract
+   * Synonyms: theoretical, non-concrete, conceptual
+   * Antonyms: concrete, tangible, real
+ * abstractly
+   * Synonyms: theoretically, conceptually, non-specifically
+   * Antonyms: concretely, specifically, really
+ * abstruse
+   * Synonyms: complex, obscure, esoteric
+   * Antonyms: simple, clear, obvious
+ * absurd
+   * Synonyms: ridiculous, illogical, nonsensical
+   * Antonyms: logical, sensible, rational
+ * absurdity
+   * Synonyms: ridiculousness, illogicality, nonsense
+   * Antonyms: logic, sense, rationality
+ * abundance
+   * Synonyms: plenty, profusion, copious
+   * Antonyms: scarcity, lack, deficiency
+ * abundant
+   * Synonyms: plentiful, copious, ample
+   * Antonyms: scarce, lacking, deficient
+ * abuse
+   * Synonyms: misuse, mistreatment, harm
+   * Antonyms: proper use, care, help
+ * abusing
+   * Synonyms: misusing, mistreating, harming
+   * Antonyms: caring for, helping, treating well
