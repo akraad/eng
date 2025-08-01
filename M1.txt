@@ -1,0 +1,600 @@
+ID: ID1 (IDTX: 1) - A1 - XV1 - Q1 - a (حرف تعریف نامعین)
+Examples:
+ * A cat is sleeping on the sofa.
+   یک گربه روی کاناپه خوابیده است.
+ * I want a new book to read.
+   من یک کتاب جدید برای خواندن می‌خواهم.
+ * She is a very talented artist.
+   او یک هنرمند بسیار بااستعداد است.
+ * He works as a doctor in a hospital.
+   او به عنوان یک پزشک در بیمارستان کار می‌کند.
+ * Can you get me a glass of water?
+   می‌توانی یک لیوان آب برایم بیاوری؟
+ID: ID2 (IDTX: 2) - B1 - XV2 - Q4 - abandon (رها کردن، ترک کردن)
+Examples:
+ * The captain decided to abandon the sinking ship.
+   کاپیتان تصمیم گرفت کشتی در حال غرق شدن را ترک کند.
+ * They had to abandon their car in the middle of the desert.
+   آنها مجبور شدند ماشینشان را در وسط بیابان رها کنند.
+ * Don't abandon your friends in times of trouble.
+   در زمان مشکلات دوستانت را رها نکن.
+ * The government will abandon the project due to a lack of funds.
+   دولت به دلیل کمبود بودجه پروژه را رها خواهد کرد.
+ * He had to abandon his dreams to take care of his family.
+   او مجبور شد رویاهایش را رها کند تا از خانواده‌اش مراقبت کند.
+ID: ID3 (IDTX: 2) - B2 - XV3 - Q2 - abandoned (رها شده، متروکه)
+Examples:
+ * We found an abandoned house in the forest.
+   ما یک خانه متروکه در جنگل پیدا کردیم.
+ * The children were playing in an abandoned factory.
+   بچه‌ها در یک کارخانه متروکه بازی می‌کردند.
+ * An abandoned dog was wandering the streets.
+   یک سگ رها شده در خیابان‌ها پرسه می‌زد.
+ * The search for the abandoned treasure was unsuccessful.
+   جستجو برای گنج رها شده ناموفق بود.
+ * He felt completely abandoned after his family left.
+   او پس از رفتن خانواده‌اش کاملاً رها شده احساس می‌کرد.
+ID: ID4 (IDTX: 2) - C1 - XV4 - Q1 - abandonment (ترک، رها کردن)
+Examples:
+ * The abandonment of the old building was a sad sight.
+   ترک آن ساختمان قدیمی منظره غم‌انگیزی بود.
+ * The abandonment of the project led to significant financial losses.
+   رها کردن پروژه منجر به زیان‌های مالی قابل توجهی شد.
+ * Her sudden abandonment of her job surprised everyone.
+   رها کردن ناگهانی کارش همه را شگفت‌زده کرد.
+ * He suffered from feelings of abandonment as a child.
+   او در کودکی از احساس رهاشدگی رنج می‌برد.
+ * The city's abandonment of public transportation has created problems.
+   رها کردن حمل و نقل عمومی توسط شهر مشکلاتی ایجاد کرده است.
+ID: ID5 (IDTX: 5) - B2 - XV5 - Q2 - abashed (خجالت‌زده، شرمسار)
+Examples:
+ * He was a bit abashed when he realized his mistake.
+   وقتی اشتباهش را فهمید، کمی خجالت‌زده شد.
+ * She felt abashed by the unexpected compliment.
+   او از تعریف غیرمنتظره شرمسار شد.
+ * The boy stood abashed, unable to meet her gaze.
+   پسر خجالت‌زده ایستاد و نتوانست به او نگاه کند.
+ * I was too abashed to say anything after my blunder.
+   بعد از گافم، آنقدر شرمسار بودم که نتوانستم چیزی بگویم.
+ * His abashed expression told me he was sorry.
+   چهره شرمسار او به من گفت که پشیمان است.
+ID: ID6 (IDTX: 6) - B1 - XV3 - Q1 - abbreviation (مخفف، کوتاه شده)
+Examples:
+ * ATM is the abbreviation for Automated Teller Machine.
+   ATM مخفف Automated Teller Machine است.
+ * Can you tell me what this abbreviation stands for?
+   می‌توانی به من بگویی این مخفف برای چیست؟
+ * We often use abbreviations in text messages to save time.
+   ما اغلب در پیامک‌ها از مخفف‌ها استفاده می‌کنیم تا در زمان صرفه‌جویی کنیم.
+ * Dr. is the abbreviation for doctor.
+   Dr. مخفف doctor است.
+ * The abbreviation for the United Nations is UN.
+   مخفف سازمان ملل متحد UN است.
+ID: ID7 (IDTX: 7) - B2 - XV4 - Q1 - abdomen (شکم)
+Examples:
+ * The doctor examined the patient's abdomen.
+   دکتر شکم بیمار را معاینه کرد.
+ * He felt a sharp pain in his lower abdomen.
+   او یک درد شدید در قسمت پایین شکمش احساس کرد.
+ * The muscles in the abdomen are important for posture.
+   عضلات شکم برای وضعیت بدن مهم هستند.
+ * A swollen abdomen can be a sign of a health problem.
+   شکم متورم می‌تواند نشانه یک مشکل سلامتی باشد.
+ * The spider has a large abdomen at the back of its body.
+   عنکبوت در پشت بدنش یک شکم بزرگ دارد.
+ID: ID8 (IDTX: 8) - C2 - XV6 - Q1 - abeyance (تعلیق، حالت انتظار)
+Examples:
+ * The project has been held in abeyance due to lack of funding.
+   این پروژه به دلیل کمبود بودجه به حالت تعلیق درآمده است.
+ * We've put our travel plans in abeyance until next year.
+   ما برنامه‌های سفرمان را تا سال آینده به حالت تعلیق درآورده‌ایم.
+ * The new law is in abeyance, waiting for the President's signature.
+   قانون جدید در حالت انتظار است و منتظر امضای رئیس‌جمهور است.
+ * Her membership was in abeyance while she was abroad.
+   عضویت او در زمانی که خارج از کشور بود به حالت تعلیق درآمده بود.
+ * The old rule was placed in abeyance and a new one was introduced.
+   قانون قدیمی به حالت تعلیق درآمد و یک قانون جدید معرفی شد.
+ID: ID9 (IDTX: 9) - B2 - XV3 - Q4 - abide (تحمل کردن، باقی ماندن، پایبند بودن)
+Examples:
+ * You must abide by the rules of the game.
+   شما باید به قوانین بازی پایبند باشید.
+ * I cannot abide his rude behavior any longer.
+   من دیگر نمی‌توانم رفتار گستاخانه او را تحمل کنم.
+ * They promised to abide by the terms of the agreement.
+   آنها قول دادند به شرایط توافق‌نامه پایبند باشند.
+ * He said he would abide by the jury's decision.
+   او گفت که به تصمیم هیئت منصفه پایبند خواهد بود.
+ * We have to abide by the laws of the country we are in.
+   ما باید به قوانینی که در کشوری که هستیم، پایبند باشیم.
+ID: ID10 (IDTX: 10) - C2 - XV6 - Q1 - abies (سرده‌ای از درختان کاج)
+Examples:
+ * The abies forest was a beautiful sight in the winter.
+   جنگل کاج در زمستان منظره زیبایی داشت.
+ * Abies are known for their strong, fragrant wood.
+   سرده کاج به خاطر چوب قوی و معطر خود شناخته شده است.
+ * We found a small abies sapling near the mountain path.
+   ما یک نهال کوچک کاج در نزدیکی مسیر کوهستان پیدا کردیم.
+ * The scientific name for a fir tree is Abies.
+   نام علمی درخت صنوبر، Abies است.
+ * Many species of abies are used in construction.
+   بسیاری از گونه‌های کاج در ساخت و ساز استفاده می‌شوند.
+ID: ID11 (IDTX: 11) - B2 - XV3 - Q1 - abilities (توانایی‌ها)
+Examples:
+ * He has many abilities, including speaking several languages.
+   او توانایی‌های زیادی دارد، از جمله صحبت کردن به چندین زبان.
+ * The job requires a wide range of technical abilities.
+   این شغل به طیف گسترده‌ای از توانایی‌های فنی نیاز دارد.
+ * We need to develop our creative abilities to solve this problem.
+   ما باید توانایی‌های خلاقانه خود را برای حل این مشکل توسعه دهیم.
+ * Her abilities as a leader were evident from the start.
+   توانایی‌های او به عنوان یک رهبر از همان ابتدا آشکار بود.
+ * The test is designed to measure a student's cognitive abilities.
+   این آزمون برای اندازه‌گیری توانایی‌های شناختی دانش‌آموز طراحی شده است.
+ID: ID12 (IDTX: 12) - A2 - XV2 - Q1 - ability (توانایی)
+Examples:
+ * He has the ability to learn new things quickly.
+   او توانایی یادگیری سریع چیزهای جدید را دارد.
+ * The test measures your ability to solve problems.
+   این آزمون توانایی شما در حل مسائل را اندازه می‌گیرد.
+ * A good manager needs the ability to motivate their team.
+   یک مدیر خوب به توانایی ایجاد انگیزه در تیمش نیاز دارد.
+ * I admire her ability to stay calm under pressure.
+   من توانایی او در آرام ماندن تحت فشار را تحسین می‌کنم.
+ * The company's ability to innovate is key to its success.
+   توانایی شرکت در نوآوری کلید موفقیت آن است.
+ID: ID13 (IDTX: 13) - A1 - XV1 - Q2 - able (قادر بودن، توانا)
+Examples:
+ * He is able to speak three languages.
+   او قادر است به سه زبان صحبت کند.
+ * Will you be able to come to the party tonight?
+   آیا امشب می‌توانی به مهمانی بیایی؟
+ * I am not able to lift this heavy box by myself.
+   من قادر نیستم این جعبه سنگین را به تنهایی بلند کنم.
+ * She was able to finish the project ahead of schedule.
+   او توانست پروژه را زودتر از موعد مقرر به پایان برساند.
+ * With a little help, they were able to fix the car.
+   با کمی کمک، آنها توانستند ماشین را تعمیر کنند.
+ID: ID14 (IDTX: 14) - B2 - XV4 - Q2 - abnormal (غیرعادی، ناهنجار)
+Examples:
+ * The doctor was concerned about her abnormal test results.
+   دکتر در مورد نتایج غیرعادی آزمایش او نگران بود.
+ * It's abnormal for the temperature to be so high in winter.
+   غیرعادی است که دما در زمستان اینقدر بالا باشد.
+ * The plant showed abnormal growth patterns.
+   گیاه الگوهای رشد غیرعادی را نشان داد.
+ * An abnormal amount of rainfall caused the flood.
+   میزان غیرعادی بارش باران باعث سیل شد.
+ * His behavior was so abnormal that everyone stared at him.
+   رفتار او آنقدر غیرعادی بود که همه به او خیره شدند.
+ID: ID15 (IDTX: 14) - C1 - XV5 - Q5 - abnormally (به طور غیرعادی)
+Examples:
+ * The temperature rose abnormally high today.
+   امروز دما به طور غیرعادی بالا رفت.
+ * The dog was acting abnormally, so we took it to the vet.
+   سگ به طور غیرعادی رفتار می‌کرد، بنابراین ما آن را نزد دامپزشک بردیم.
+ * This species of plant grows abnormally fast.
+   این گونه از گیاه به طور غیرعادی سریع رشد می‌کند.
+ * His heart was beating abnormally fast.
+   قلب او به طور غیرعادی سریع می‌تپید.
+ * The market performed abnormally well despite the economic downturn.
+   بازار به طور غیرعادی خوب عمل کرد با وجود رکود اقتصادی.
+ID: ID16 (IDTX: 16) - B1 - XV3 - Q5 - aboard (سوار بر، در کشتی یا هواپیما)
+Examples:
+ * Welcome aboard the flight to London.
+   به پرواز لندن خوش آمدید.
+ * He was the last person to go aboard the train.
+   او آخرین نفری بود که سوار قطار شد.
+ * We spent the whole day aboard the cruise ship.
+   ما تمام روز را سوار بر کشتی کروز گذراندیم.
+ * The crew welcomed all the passengers aboard.
+   خدمه به همه مسافران سوار بر کشتی خوش آمد گفتند.
+ * Please have your ticket ready before you go aboard.
+   لطفا قبل از سوار شدن، بلیط خود را آماده کنید.
+ID: ID17 (IDTX: 17) - C1 - XV5 - Q1 - abode (محل سکونت، خانه)
+Examples:
+ * Welcome to my humble abode.
+   به محل سکونت فروتنانه من خوش آمدید.
+ * The mountain cave was the abode of a wise old hermit.
+   غار کوهستانی محل سکونت یک زاهد پیر دانا بود.
+ * We found a cozy abode in the countryside.
+   ما یک خانه دنج در حومه شهر پیدا کردیم.
+ * The wizard’s abode was filled with magical artifacts.
+   محل سکونت جادوگر پر از مصنوعات جادویی بود.
+ * They made their new abode in a small cottage.
+   آنها محل سکونت جدید خود را در یک کلبه کوچک ساختند.
+ID: ID18 (IDTX: 18) - C1 - XV4 - Q4 - abolish (منسوخ کردن، لغو کردن)
+Examples:
+ * The government plans to abolish the old tax system.
+   دولت قصد دارد سیستم مالیاتی قدیمی را لغو کند.
+ * They fought to abolish slavery in their country.
+   آنها برای لغو برده‌داری در کشورشان جنگیدند.
+ * The new law will abolish all previous regulations on the matter.
+   قانون جدید تمام مقررات قبلی در این مورد را لغو خواهد کرد.
+ * Many activists are working to abolish the death penalty.
+   بسیاری از فعالان در تلاشند تا مجازات اعدام را لغو کنند.
+ * The goal of the revolution was to abolish the monarchy.
+   هدف انقلاب لغو سلطنت بود.
+ID: ID19 (IDTX: 18) - C1 - XV5 - Q4 - abolishing (در حال لغو کردن)
+Examples:
+ * Abolishing the old rules will create new opportunities.
+   لغو قوانین قدیمی فرصت‌های جدیدی ایجاد خواهد کرد.
+ * The committee is considering abolishing the annual fee.
+   کمیته در حال بررسی لغو هزینه سالانه است.
+ * By abolishing the barriers, they hope to increase trade.
+   با لغو موانع، آنها امیدوارند تجارت را افزایش دهند.
+ * The new leader is focused on abolishing corruption.
+   رهبر جدید بر لغو فساد متمرکز است.
+ * Abolishing the traditional ceremonies was a controversial decision.
+   لغو مراسم سنتی یک تصمیم بحث‌برانگیز بود.
+ID: ID20 (IDTX: 18) - C1 - XV4 - Q1 - abolition (لغو، منسوخ سازی)
+Examples:
+ * The abolition of the law was a major political event.
+   لغو این قانون یک رویداد سیاسی مهم بود.
+ * They celebrated the abolition of the unfair policy.
+   آنها لغو سیاست ناعادلانه را جشن گرفتند.
+ * The abolition of the tax system was long overdue.
+   لغو سیستم مالیاتی مدت‌ها بود که به تعویق افتاده بود.
+ * The abolition movement gained a lot of support.
+   جنبش لغو حمایت زیادی به دست آورد.
+ * He wrote a book about the history of the abolition of slavery.
+   او کتابی در مورد تاریخ لغو برده‌داری نوشت.
+ID: ID21 (IDTX: 21) - B2 - XV4 - Q1 - abortion (سقط جنین)
+Examples:
+ * The debate around abortion is a complex and sensitive issue.
+   بحث در مورد سقط جنین یک مسئله پیچیده و حساس است.
+ * Many countries have different laws regarding abortion.
+   بسیاری از کشورها قوانین متفاوتی در مورد سقط جنین دارند.
+ * She discussed her stance on abortion during the interview.
+   او در طول مصاحبه در مورد موضع خود در مورد سقط جنین صحبت کرد.
+ * The doctor explained the risks associated with abortion.
+   پزشک خطرات مرتبط با سقط جنین را توضیح داد.
+ * The protesters were marching for or against abortion rights.
+   معترضین برای یا علیه حقوق سقط جنین راهپیمایی می‌کردند.
+ID: ID22 (IDTX: 22) - C2 - XV6 - Q2 - abortive (ناموفق، بی‌نتیجه)
+Examples:
+ * The rescue mission turned out to be abortive.
+   عملیات نجات بی‌نتیجه از آب درآمد.
+ * Their attempts to climb the mountain were abortive due to bad weather.
+   تلاش‌های آنها برای صعود به کوه به دلیل آب و هوای بد ناموفق بود.
+ * It was an abortive coup attempt by a small group of soldiers.
+   این یک تلاش کودتای ناموفق توسط گروه کوچکی از سربازان بود.
+ * All their efforts to convince him were abortive.
+   تمام تلاش‌های آنها برای متقاعد کردن او بی‌نتیجه بود.
+ * The negotiation was abortive, and the two parties couldn't reach an agreement.
+   مذاکره ناموفق بود و دو طرف نتوانستند به توافقی برسند.
+ID: ID23 (IDTX: 23) - C2 - XV5 - Q2 - abounding (فراوان، سرشار)
+Examples:
+ * The rainforest is a place abounding in diverse species.
+   جنگل‌های بارانی مکانی سرشار از گونه‌های متنوع است.
+ * The book is abounding with interesting facts.
+   این کتاب سرشار از حقایق جالب است.
+ * The ancient city was once a place abounding with wealth and power.
+   شهر باستانی زمانی مکانی سرشار از ثروت و قدرت بود.
+ * The sea abounding in fish provided food for the villagers.
+   دریای سرشار از ماهی برای روستاییان غذا فراهم می‌کرد.
+ * He is a person abounding in good cheer.
+   او فردی است که سرشار از شادی است.
+ID: ID24 (IDTX: 24) - A1 - XV1 - Q6 - about (درباره، حدوداً)
+Examples:
+ * The book is about a young wizard.
+   این کتاب درباره یک جادوگر جوان است.
+ * I will be there in about ten minutes.
+   من حدوداً ده دقیقه دیگر آنجا خواهم بود.
+ * What are you talking about?
+   در مورد چه چیزی صحبت می‌کنی؟
+ * There are about fifty people at the party.
+   حدود پنجاه نفر در مهمانی هستند.
+ * I'm worried about my exam tomorrow.
+   من در مورد امتحان فردایم نگران هستم.
+ID: ID25 (IDTX: 25) - A2 - XV1 - Q6 - above (بالای، در بالا)
+Examples:
+ * The picture is hanging just above the fireplace.
+   تصویر دقیقاً بالای شومینه آویزان است.
+ * The temperature is above freezing point.
+   دما بالاتر از نقطه انجماد است.
+ * Please read the instructions written above.
+   لطفاً دستورالعمل‌های نوشته شده در بالا را بخوانید.
+ * The birds were flying high above the clouds.
+   پرنده‌ها در ارتفاعی بالا از ابرها پرواز می‌کردند.
+ * We live in the apartment above theirs.
+   ما در آپارتمان بالای آنها زندگی می‌کنیم.
+ID: ID26 (IDTX: 26) - C2 - XV6 - Q4 - abrading (ساییدن، فرسودن)
+Examples:
+ * The constant friction was abrading the surface of the metal.
+   اصطکاک مداوم سطح فلز را می‌سایید.
+ * He was abrading the wood with sandpaper to make it smooth.
+   او چوب را با کاغذ سنباده می‌سایید تا صاف شود.
+ * The strong winds were abrading the rocks over centuries.
+   بادهای شدید در طول قرن‌ها سنگ‌ها را می‌فرسود.
+ * The machine uses a special tool for abrading hard materials.
+   این دستگاه از یک ابزار خاص برای سایش مواد سخت استفاده می‌کند.
+ * The abrading action of the waves wore down the cliffs.
+   عمل فرسایش امواج باعث فرسودگی صخره‌ها شد.
+ID: ID27 (IDTX: 27) - C2 - XV5 - Q4 - abridge (خلاصه کردن، کوتاه کردن)
+Examples:
+ * The editor decided to abridge the book for a younger audience.
+   ویراستار تصمیم گرفت کتاب را برای مخاطبان جوان‌تر خلاصه کند.
+ * He was asked to abridge his long speech.
+   از او خواسته شد سخنرانی طولانی خود را کوتاه کند.
+ * This is an abridged version of the original text.
+   این یک نسخه خلاصه شده از متن اصلی است.
+ * We need to abridge the report to make it more readable.
+   ما باید گزارش را خلاصه کنیم تا خواناتر شود.
+ * The publisher abridged the classic novel.
+   ناشر رمان کلاسیک را کوتاه کرد.
+ID: ID28 (IDTX: 28) - B1 - XV2 - Q5 - abroad (خارج از کشور)
+Examples:
+ * My brother is currently studying abroad.
+   برادرم در حال حاضر در خارج از کشور تحصیل می‌کند.
+ * Many students dream of going abroad for their studies.
+   بسیاری از دانشجویان رویای رفتن به خارج از کشور برای تحصیل را دارند.
+ * We went abroad for our summer vacation.
+   ما برای تعطیلات تابستانی به خارج از کشور رفتیم.
+ * He works for a company that does business abroad.
+   او برای شرکتی کار می‌کند که در خارج از کشور فعالیت می‌کند.
+ * News of the event spread rapidly, both at home and abroad.
+   اخبار این رویداد به سرعت هم در داخل و هم در خارج از کشور منتشر شد.
+ID: ID29 (IDTX: 29) - C2 - XV6 - Q4 - abrogate (لغو کردن، منسوخ کردن)
+Examples:
+ * The new law will abrogate the old treaty.
+   قانون جدید پیمان قدیمی را لغو خواهد کرد.
+ * The government has the power to abrogate the contract.
+   دولت قدرت لغو قرارداد را دارد.
+ * The king was forced to abrogate his decree.
+   پادشاه مجبور شد فرمان خود را لغو کند.
+ * The court has the authority to abrogate the lower court's ruling.
+   دادگاه اختیار لغو حکم دادگاه پایین‌تر را دارد.
+ * Abrogating the agreement would have severe consequences.
+   لغو توافق‌نامه پیامدهای جدی خواهد داشت.
+ID: ID30 (IDTX: 30) - B2 - XV4 - Q2 - abrupt (ناگهانی، غیرمنتظره)
+Examples:
+ * The car came to an abrupt stop.
+   ماشین به طور ناگهانی متوقف شد.
+ * His abrupt departure surprised everyone.
+   رفتار ناگهانی او همه را شگفت‌زده کرد.
+ * The path ends in an abrupt cliff face.
+   مسیر به یک پرتگاه ناگهانی ختم می‌شود.
+ * The conversation came to an abrupt end.
+   مکالمه به طور ناگهانی به پایان رسید.
+ * She gave an abrupt answer and walked away.
+   او یک پاسخ کوتاه و ناگهانی داد و رفت.
+ID: ID31 (IDTX: 31) - B1 - XV2 - Q1 - absence (غیبت، نبود)
+Examples:
+ * Her absence from the meeting was noted by the manager.
+   غیبت او از جلسه توسط مدیر ثبت شد.
+ * We missed his presence during his long absence.
+   ما حضور او را در طول غیبت طولانی‌اش از دست دادیم.
+ * The absence of evidence made it difficult to solve the case.
+   نبود مدارک حل پرونده را دشوار کرد.
+ * In the absence of a better plan, we'll proceed with this one.
+   در صورت نبود یک برنامه بهتر، ما با همین یکی پیش خواهیم رفت.
+ * I feel a great absence in my life since you left.
+   از زمانی که تو رفتی، یک نبود بزرگ در زندگی‌ام احساس می‌کنم.
+ID: ID32 (IDTX: 31) - A2 - XV2 - Q2 - absent (غایب، حاضر نبودن)
+Examples:
+ * He was absent from school for three days.
+   او سه روز از مدرسه غایب بود.
+ * She looked at me with an absent expression on her face.
+   او با یک حالت چهره غایب (بی‌حواس) به من نگاه کرد.
+ * The ingredient was absent from the recipe.
+   آن ماده در دستور پخت حاضر نبود.
+ * Why were you absent from the class yesterday?
+   چرا دیروز در کلاس غایب بودی؟
+ * The judge was absent, so the trial was postponed.
+   قاضی غایب بود، بنابراین محاکمه به تعویق افتاد.
+ID: ID33 (IDTX: 33) - B1 - XV2 - Q2 - absolute (مطلق، کامل)
+Examples:
+ * He has absolute power over his people.
+   او قدرت مطلق بر مردمش دارد.
+ * There is no absolute truth, only different perspectives.
+   هیچ حقیقت مطلقی وجود ندارد، فقط دیدگاه‌های متفاوت وجود دارند.
+ * You have my absolute trust.
+   تو اعتماد کامل من را داری.
+ * The rule is not absolute and has some exceptions.
+   این قانون مطلق نیست و استثناهایی دارد.
+ * We need absolute silence to concentrate on the experiment.
+   ما برای تمرکز بر آزمایش به سکوت مطلق نیاز داریم.
+ID: ID34 (IDTX: 33) - A2 - XV1 - Q5 - absolutely (کاملاً، مطلقاً)
+Examples:
+ * The movie was absolutely fantastic.
+   فیلم کاملاً فوق‌العاده بود.
+ * Are you sure? Yes, absolutely.
+   مطمئنی؟ بله، کاملاً.
+ * I absolutely refuse to go there.
+   من مطلقاً از رفتن به آنجا خودداری می‌کنم.
+ * It is absolutely necessary for you to be there.
+   مطلقاً لازم است که آنجا باشی.
+ * He was absolutely right about the time of the meeting.
+   او در مورد زمان جلسه کاملاً حق داشت.
+ID: ID35 (IDTX: 35) - B2 - XV4 - Q4 - absorb (جذب کردن)
+Examples:
+ * The sponge can absorb a lot of water.
+   اسفنج می‌تواند مقدار زیادی آب جذب کند.
+ * It's difficult to absorb so much information in one day.
+   جذب این همه اطلاعات در یک روز دشوار است.
+ * The company was absorbed by a larger corporation.
+   شرکت توسط یک شرکت بزرگتر جذب شد.
+ * The curtains absorb the sound, making the room quieter.
+   پرده‌ها صدا را جذب می‌کنند و اتاق را آرام‌تر می‌کنند.
+ * Plants absorb sunlight to create energy.
+   گیاهان نور خورشید را جذب می‌کنند تا انرژی تولید کنند.
+ID: ID36 (IDTX: 35) - C2 - XV6 - Q2 - absorbable (قابل جذب)
+Examples:
+ * This nutrient is easily absorbable by the body.
+   این ماده مغذی به راحتی توسط بدن قابل جذب است.
+ * The doctor prescribed a special form of iron that is more absorbable.
+   دکتر یک فرم خاص از آهن را تجویز کرد که قابل جذب‌تر است.
+ * Not all forms of calcium are equally absorbable.
+   همه اشکال کلسیم به یک اندازه قابل جذب نیستند.
+ * The absorbable material was used to clean up the oil spill.
+   از مواد قابل جذب برای پاکسازی نشت نفت استفاده شد.
+ * The food supplement contains an absorbable form of Vitamin D.
+   مکمل غذایی حاوی یک فرم قابل جذب از ویتامین D است.
+ID: ID37 (IDTX: 35) - B1 - XV3 - Q2 - absorbed (جذب شده، غرق در چیزی)
+Examples:
+ * He was so absorbed in his book that he didn't hear me.
+   او آنقدر غرق در کتابش بود که صدای مرا نشنید.
+ * The towel absorbed all the spilled water.
+   حوله تمام آب ریخته شده را جذب کرد.
+ * The new company was absorbed into the parent company.
+   شرکت جدید در شرکت مادر جذب شد.
+ * She was absorbed in her thoughts, staring out the window.
+   او غرق در افکارش بود و به بیرون از پنجره خیره شده بود.
+ * The dye was completely absorbed by the fabric.
+   رنگ به طور کامل توسط پارچه جذب شد.
+ID: ID38 (IDTX: 35) - C1 - XV5 - Q2 - absorbent (جاذب، جذب کننده)
+Examples:
+ * This paper towel is very absorbent.
+   این دستمال کاغذی بسیار جاذب است.
+ * The material is not very absorbent, so it's not good for spills.
+   این ماده چندان جاذب نیست، بنابراین برای ریخت و پاش خوب نیست.
+ * A baby's diaper needs to be highly absorbent.
+   پوشک بچه باید بسیار جاذب باشد.
+ * The soil is not very absorbent, so water collects on the surface.
+   خاک چندان جاذب نیست، بنابراین آب روی سطح جمع می‌شود.
+ * The new product is designed with a super-absorbent core.
+   محصول جدید با یک هسته فوق‌العاده جاذب طراحی شده است.
+ID: ID39 (IDTX: 35) - C1 - XV4 - Q4 - absorbing (جذب کردن، جذاب)
+Examples:
+ * The documentary was so absorbing that I watched it all night.
+   مستند آنقدر جذاب بود که تمام شب آن را تماشا کردم.
+ * He was absorbing new information during the lecture.
+   او در طول سخنرانی اطلاعات جدیدی را جذب می‌کرد.
+ * The soil is absorbing the rainwater.
+   خاک در حال جذب آب باران است.
+ * She has a very absorbing hobby of painting.
+   او یک سرگرمی بسیار جذاب نقاشی دارد.
+ * This book is very absorbing and hard to put down.
+   این کتاب بسیار جذاب است و کنار گذاشتن آن دشوار است.
+ID: ID40 (IDTX: 35) - C1 - XV4 - Q1 - absorption (جذب)
+Examples:
+ * The absorption of nutrients happens in the small intestine.
+   جذب مواد مغذی در روده کوچک اتفاق می‌افتد.
+ * The new paint has better light absorption properties.
+   رنگ جدید خواص جذب نور بهتری دارد.
+ * The company focused on the absorption of its competitors.
+   شرکت بر جذب رقبای خود تمرکز کرد.
+ * We need to measure the rate of water absorption in the soil.
+   ما باید نرخ جذب آب در خاک را اندازه‌گیری کنیم.
+ * The absorption of foreign culture can be a slow process.
+   جذب فرهنگ خارجی می‌تواند یک فرآیند کند باشد.
+ID: ID41 (IDTX: 41) - C1 - XV5 - Q4 - abstain (پرهیز کردن، خودداری کردن)
+Examples:
+ * He decided to abstain from voting in the election.
+   او تصمیم گرفت از رأی دادن در انتخابات خودداری کند.
+ * She was advised to abstain from eating spicy food.
+   به او توصیه شد از خوردن غذای تند پرهیز کند.
+ * The doctor told him to abstain from alcohol for a month.
+   دکتر به او گفت که به مدت یک ماه از الکل پرهیز کند.
+ * The group was forced to abstain from its usual activities.
+   این گروه مجبور شد از فعالیت‌های معمول خود خودداری کند.
+ * You must abstain from making any hasty decisions.
+   شما باید از گرفتن هرگونه تصمیم عجولانه پرهیز کنید.
+ID: ID42 (IDTX: 42) - B2 - XV4 - Q2 - abstract (انتزاعی، نظری)
+Examples:
+ * The painting was a beautiful abstract design.
+   نقاشی یک طرح انتزاعی زیبا بود.
+ * We were discussing abstract concepts like love and justice.
+   ما در مورد مفاهیم انتزاعی مانند عشق و عدالت بحث می‌کردیم.
+ * The theory is still too abstract to be applied to real life.
+   این نظریه هنوز خیلی انتزاعی است که در زندگی واقعی به کار برده شود.
+ * He has an abstract approach to problem-solving.
+   او یک رویکرد انتزاعی به حل مسئله دارد.
+ * The artist is known for his use of abstract shapes and colors.
+   این هنرمند به خاطر استفاده از اشکال و رنگ‌های انتزاعی شناخته شده است.
+ID: ID43 (IDTX: 42) - C2 - XV6 - Q5 - abstractly (به صورت انتزاعی)
+Examples:
+ * He thinks about the problem too abstractly.
+   او به صورت انتزاعی در مورد مشکل فکر می‌کند.
+ * The sculpture represents the human form abstractly.
+   مجسمه به صورت انتزاعی نمایانگر شکل انسان است.
+ * We can talk abstractly about the future of the company.
+   ما می‌توانیم به صورت انتزاعی در مورد آینده شرکت صحبت کنیم.
+ * She tried to explain her feelings abstractly, but it was difficult.
+   او سعی کرد احساساتش را به صورت انتزاعی توضیح دهد، اما دشوار بود.
+ * The philosophy book deals with these ideas abstractly.
+   کتاب فلسفه به صورت انتزاعی با این ایده‌ها سروکار دارد.
+ID: ID44 (IDTX: 44) - C2 - XV6 - Q2 - abstruse (پیچیده، دشوار)
+Examples:
+ * He gave an abstruse lecture on quantum physics.
+   او یک سخنرانی پیچیده در مورد فیزیک کوانتوم ارائه داد.
+ * The philosopher's writings were too abstruse for most people to understand.
+   نوشته‌های فیلسوف برای درک اکثر مردم بسیار پیچیده بود.
+ * I found the legal text to be completely abstruse.
+   من متن حقوقی را کاملاً دشوار یافتم.
+ * The poem was full of abstruse metaphors.
+   شعر پر از استعاره‌های دشوار بود.
+ * He has a way of explaining abstruse topics in a simple manner.
+   او روشی برای توضیح موضوعات پیچیده به شیوه‌ای ساده دارد.
+ID: ID45 (IDTX: 45) - B2 - XV3 - Q2 - absurd (پوچ، بی‌معنی)
+Examples:
+ * The whole situation was completely absurd.
+   کل وضعیت کاملاً پوچ بود.
+ * It's an absurd idea to think you can fly without wings.
+   این یک ایده پوچ است که فکر کنی می‌توانی بدون بال پرواز کنی.
+ * The play was a comedy of the absurd.
+   نمایشنامه یک کمدی پوچ بود.
+ * Don't be absurd, that's impossible.
+   پوچ نباش، این غیرممکن است.
+ * The novel explored the absurd nature of human existence.
+   رمان طبیعت پوچ وجود انسان را بررسی می‌کرد.
+ID: ID46 (IDTX: 45) - C1 - XV5 - Q1 - absurdity (پوچی، بی‌معنی)
+Examples:
+ * The absurdity of the situation made us all laugh.
+   پوچی وضعیت باعث شد همه ما بخندیم.
+ * She pointed out the absurdity of his argument.
+   او به پوچی استدلال او اشاره کرد.
+ * The play highlights the absurdity of modern life.
+   نمایشنامه پوچی زندگی مدرن را برجسته می‌کند.
+ * He was shocked by the sheer absurdity of the bureaucracy.
+   او از پوچی محض بوروکراسی شوکه شده بود.
+ * The movie was a satire on the absurdity of war.
+   فیلم یک طنز در مورد پوچی جنگ بود.
+ID: ID47 (IDTX: 47) - B2 - XV4 - Q1 - abundance (فراوانی، وفور)
+Examples:
+ * There was an abundance of fresh fruit at the market.
+   فراوانی میوه تازه در بازار وجود داشت.
+ * The rainforest is known for its abundance of wildlife.
+   جنگل‌های بارانی به خاطر وفور حیات وحش شناخته شده است.
+ * We were surprised by the abundance of kindness shown to us.
+   ما از فراوانی مهربانی که به ما نشان داده شد، شگفت‌زده شدیم.
+ * The country has an abundance of natural resources.
+   این کشور وفور منابع طبیعی دارد.
+ * In the garden, there was an abundance of beautiful flowers.
+   در باغ، فراوانی گل‌های زیبا وجود داشت.
+ID: ID48 (IDTX: 47) - B2 - XV3 - Q2 - abundant (فراوان، زیاد)
+Examples:
+ * The ocean is abundant with marine life.
+   اقیانوس سرشار از حیات دریایی است.
+ * This region has an abundant supply of water.
+   این منطقه یک منبع فراوان آب دارد.
+ * The tree produced an abundant harvest of apples this year.
+   درخت امسال یک محصول فراوان از سیب تولید کرد.
+ * His hair was long and abundant.
+   موهای او بلند و پرپشت بود.
+ * The valley is known for its abundant vegetation.
+   این دره به خاطر پوشش گیاهی فراوانش شناخته شده است.
+ID: ID49 (IDTX: 49) - B1 - XV2 - Q4 - abuse (سوء استفاده کردن، آزار دادن)
+Examples:
+ * You should never abuse your power.
+   شما هرگز نباید از قدرت خود سوء استفاده کنید.
+ * He was accused of verbal abuse.
+   او متهم به آزار کلامی شد.
+ * The animal shelter rescues dogs from abuse.
+   پناهگاه حیوانات سگ‌ها را از آزار نجات می‌دهد.
+ * Drug abuse is a serious social problem.
+   سوء مصرف مواد مخدر یک مشکل اجتماعی جدی است.
+ * He suffered from emotional abuse as a child.
+   او در کودکی از آزار عاطفی رنج می‌برد.
+ID: ID50 (IDTX: 49) - C1 - XV5 - Q4 - abusing (سوء استفاده کردن، آزار دادن)
+Examples:
+ * He was fired for abusing his position of power.
+   او به دلیل سوء استفاده از موقعیت قدرتش اخراج شد.
+ * Abusing drugs can have severe health consequences.
+   سوء مصرف مواد مخدر می‌تواند پیامدهای سلامتی شدیدی داشته باشد.
+ * The report detailed cases of abusing the system for personal gain.
+   این گزارش موارد سوء استفاده از سیستم برای منافع شخصی را شرح می‌داد.
+ * The child was afraid of the man who was abusing her dog.
+   کودک از مردی که سگش را آزار می‌داد، می‌ترسید.
+ * Abusing the hospitality of others is not a good thing.
+   سوء استفاده از مهمان‌نوازی دیگران کار خوبی نیست.
