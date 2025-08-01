@@ -2,46 +2,58 @@
 <html lang="fa" dir="rtl">
 <head>
   <meta charset="UTF-8">
-  <title>تحلیل لغات با نمایش کلمات</title>
+  <title>تحلیل هوشمند لغات</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
     body {
       font-family: 'Vazir', sans-serif;
-      margin: 0;
-      background: #edf6f9;
+      background: #f0f4f8;
       color: #333;
-      padding: 15px;
+      padding: 20px;
+      margin: 0;
     }
     .container {
-      max-width: 100%;
+      max-width: 850px;
+      margin: auto;
       background: #fff;
       padding: 20px;
-      border-radius: 16px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      border-radius: 18px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
     }
     h2 {
       text-align: center;
       color: #0077b6;
-      font-size: 20px;
+      font-size: 22px;
       margin-bottom: 20px;
     }
     input[type="file"] {
       width: 100%;
       padding: 12px;
       font-size: 16px;
-      border-radius: 12px;
+      border-radius: 10px;
       border: 1px solid #ccc;
       margin-bottom: 20px;
-      box-sizing: border-box;
+    }
+    .total {
+      background: #caf0f8;
+      padding: 10px;
+      border-radius: 8px;
+      font-weight: bold;
+      text-align: center;
+      margin-bottom: 25px;
+    }
+    .section {
+      margin-top: 30px;
     }
     .section-title {
       font-weight: bold;
-      font-size: 17px;
+      font-size: 18px;
       color: #023e8a;
-      margin-top: 25px;
+      margin-bottom: 10px;
       border-bottom: 2px solid #ade8f4;
-      padding-bottom: 4px;
+      padding-bottom: 5px;
     }
     .category {
       background: #f1f9ff;
@@ -50,32 +62,28 @@
       margin: 6px 0;
       padding: 10px;
       cursor: pointer;
-      font-size: 15px;
     }
     .word-list {
       display: none;
-      padding: 8px 16px;
+      padding: 10px;
       font-size: 14px;
       color: #444;
     }
-    .total {
-      font-weight: bold;
-      background: #caf0f8;
-      padding: 12px;
-      border-radius: 10px;
-      text-align: center;
-      font-size: 16px;
-      margin-bottom: 20px;
+    canvas {
+      max-width: 100%;
+      margin-top: 10px;
     }
     @media (max-width: 600px) {
-      h2 { font-size: 18px; }
+      body {
+        padding: 10px;
+      }
     }
   </style>
 </head>
 <body>
 
 <div class="container">
-  <h2>تحلیل فایل لغات</h2>
+  <h2>تحلیل هوشمند سطح، فراوانی و نوع لغات</h2>
   <input type="file" id="fileInput" accept=".txt">
   <div id="output"></div>
 </div>
@@ -110,7 +118,7 @@ function analyzeLines(lines) {
       const level = parts[1].trim();
       const freq  = parts[2].trim();
       const type  = parts[3].trim();
-      const word  = parts[4].trim().split(' ')[0]; // فقط خود کلمه
+      const word  = parts[4].trim().split(' ')[0];
 
       if (levelMap[level]) levelMap[level].push(word);
       if (freqMap[freq]) freqMap[freq].push(word);
@@ -118,31 +126,64 @@ function analyzeLines(lines) {
     }
   });
 
-  const html = [];
+  const output = [];
+  output.push(`<div class="total">تعداد کل لغات: ${total}</div>`);
 
-  html.push(`<div class="total">تعداد کل لغات: ${total}</div>`);
+  function renderCategory(title, dataMap, chartId, labelMap = null) {
+    const labels = Object.keys(dataMap);
+    const counts = labels.map(key => dataMap[key].length);
+    const percents = counts.map(c => ((c / total) * 100).toFixed(1));
 
-  function renderCategory(title, dataMap) {
-    html.push(`<div class="section-title">${title}</div>`);
-    for (let key in dataMap) {
-      const list = dataMap[key];
-      const count = list.length;
-      const percent = ((count / total) * 100).toFixed(1);
-      const id = `${title}-${key}`;
-      html.push(`
+    output.push(`<div class="section"><div class="section-title">${title}</div>`);
+
+    labels.forEach((key, i) => {
+      const label = labelMap ? labelMap[key] + ` - ${key}` : key;
+      const id = `${chartId}-${key}`;
+      output.push(`
         <div class="category" onclick="toggleList('${id}')">
-          ${key}: ${count} لغت (${percent}%)
+          ${label}: ${counts[i]} لغت (${percents[i]}%)
         </div>
-        <div class="word-list" id="${id}">${list.join(', ')}</div>
+        <div class="word-list" id="${id}">${dataMap[key].join(', ')}</div>
       `);
-    }
+    });
+
+    // Chart
+    const chartCanvasId = chartId + "-chart";
+    output.push(`<canvas id="${chartCanvasId}" height="200"></canvas>`);
+    output.push(`</div>`);
+
+    setTimeout(() => {
+      const ctx = document.getElementById(chartCanvasId).getContext('2d');
+      new Chart(ctx, {
+        type: 'pie',
+        data: {
+          labels: labels.map(k => labelMap ? labelMap[k] : k),
+          datasets: [{
+            data: counts,
+            backgroundColor: [
+              '#0077b6', '#00b4d8', '#90e0ef', '#ade8f4', '#caf0f8', '#d0f4de', '#f6bd60', '#f28482'
+            ],
+          }]
+        },
+        options: {
+          plugins: {
+            legend: {
+              position: 'bottom'
+            }
+          }
+        }
+      });
+    }, 50);
   }
 
-  renderCategory("سطح کلمات (CEFR)", levelMap);
-  renderCategory("سطح رایج بودن", freqMap);
-  renderCategory("نوع کلمات", typeMap);
+  renderCategory("سطح کلمات (CEFR)", levelMap, "levels");
+  renderCategory("سطح رایج بودن (Frequency)", freqMap, "freqs");
+  renderCategory("نوع کلمات (Part of Speech)", typeMap, "types", {
+    Q1: "اسم", Q2: "صفت", Q3: "ضمیر", Q4: "فعل",
+    Q5: "قید", Q6: "حرف اضافه", Q7: "حرف ربط", Q8: "ندا"
+  });
 
-  document.getElementById('output').innerHTML = html.join('');
+  document.getElementById('output').innerHTML = output.join('');
 }
 
 function toggleList(id) {
