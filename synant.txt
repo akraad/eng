@@ -964,3 +964,375 @@
  * alliance
    * Synonyms: partnership, coalition, union
    * Antonyms: opposition, hostility, separation
+ * allied
+   * Synonyms: united, associated, connected
+   * Antonyms: opposing, hostile, separate
+ * alligators
+   * No synonyms or antonyms available.
+ * allocate
+   * Synonyms: assign, distribute, allot
+   * Antonyms: withhold, keep, retain
+ * allocated
+   * Synonyms: assigned, distributed, allotted
+   * Antonyms: withheld, kept, retained
+ * allocation
+   * Synonyms: assignment, distribution, apportionment
+   * Antonyms: retention, withholding, denial
+ * allot
+   * Synonyms: allocate, assign, distribute
+   * Antonyms: withhold, keep, retain
+ * allotment
+   * Synonyms: allocation, share, portion
+   * Antonyms: whole, entirety
+ * allow
+   * Synonyms: permit, authorize, let
+   * Antonyms: forbid, prohibit, deny
+ * allowance
+   * Synonyms: permission, grant, stipend
+   * Antonyms: denial, refusal, prohibition
+ * allowing
+   * Synonyms: permitting, authorizing, letting
+   * Antonyms: forbidding, prohibiting, denying
+ * alloy
+   * Synonyms: mixture, blend, amalgam
+   * Antonyms: pure metal, separation
+ * allure
+   * Synonyms: attract, tempt, entice
+   * Antonyms: repel, deter, discourage
+ * allusion
+   * Synonyms: reference, hint, suggestion
+   * Antonyms: direct statement, explicit mention
+ * ally
+   * Synonyms: partner, associate, friend
+   * Antonyms: enemy, foe, opponent
+ * allying
+   * Synonyms: associating, joining, uniting
+   * Antonyms: opposing, separating, alienating
+ * almost
+   * Synonyms: nearly, approximately, practically
+   * Antonyms: completely, exactly, entirely
+ * aloft
+   * Synonyms: overhead, high up, in the air
+   * Antonyms: below, on the ground, beneath
+ * alone
+   * Synonyms: solitary, single, by oneself
+   * Antonyms: accompanied, together, with others
+ * along
+   * Synonyms: beside, beside, onward
+   * Antonyms: No antonyms available.
+ * alongside
+   * Synonyms: next to, beside, parallel to
+   * Antonyms: away from, separate from
+ * aloud
+   * Synonyms: audibly, out loud, verbally
+   * Antonyms: silently, quietly, in a whisper
+ * alphabet
+   * No synonyms or antonyms available.
+ * alphabetical
+   * Synonyms: ABC order, sequential
+   * Antonyms: random, unorganized
+ * alphabetically
+   * Synonyms: in ABC order, sequentially
+   * Antonyms: randomly, without order
+ * already
+   * Synonyms: previously, by now, before
+   * Antonyms: not yet, later
+ * also
+   * Synonyms: too, in addition, besides
+   * Antonyms: No antonyms available.
+ * altar
+   * No synonyms or antonyms available.
+ * alter
+   * Synonyms: change, modify, adjust
+   * Antonyms: maintain, preserve, keep
+ * alteration
+   * Synonyms: change, modification, adjustment
+   * Antonyms: preservation, stagnation, consistency
+ * altercation
+   * Synonyms: argument, dispute, quarrel
+   * Antonyms: agreement, harmony, accord
+ * altering
+   * Synonyms: changing, modifying, adjusting
+   * Antonyms: maintaining, preserving, keeping
+ * alternate
+   * Synonyms: substitute, alternative, every other
+   * Antonyms: continuous, constant
+ * alternately
+   * Synonyms: in turns, reciprocally, by turns
+   * Antonyms: continuously, constantly
+ * alternation
+   * Synonyms: succession, rotation, sequence
+   * Antonyms: continuity, consistency
+ * alternative
+   * Synonyms: option, choice, substitute
+   * Antonyms: necessity, requirement
+ * alternatively
+   * Synonyms: instead, on the other hand
+   * Antonyms: No antonyms available.
+ * although
+   * Synonyms: though, even though, despite
+   * Antonyms: No antonyms available.
+ * altitude
+   * Synonyms: height, elevation, loftiness
+   * Antonyms: depth, lowness
+ * altogether
+   * Synonyms: completely, entirely, wholly
+   * Antonyms: partially, incompletely
+ * aluminium
+   * No synonyms or antonyms available.
+ * aluminum
+   * No synonyms or antonyms available.
+ * always
+   * Synonyms: forever, eternally, constantly
+   * Antonyms: never, sometimes, rarely
+ * am
+   * No synonyms or antonyms available.
+ * amateur
+   * Synonyms: non-professional, novice, hobbyist
+   * Antonyms: professional, expert, master
+ * amaze
+   * Synonyms: astonish, astound, surprise
+   * Antonyms: bore, expect, underwhelm
+ * amazed
+   * Synonyms: astonished, astounded, surprised
+   * Antonyms: bored, unsurprised, unfazed
+ * amazement
+   * Synonyms: astonishment, wonder, surprise
+   * Antonyms: boredom, indifference, predictability
+ * amazing
+   * Synonyms: astonishing, wonderful, surprising
+   * Antonyms: boring, unimpressive, ordinary
+ * ambassador
+   * Synonyms: envoy, diplomat, representative
+   * Antonyms: No antonyms available.
+ * ambassadors
+   * Synonyms: envoys, diplomats, representatives
+   * Antonyms: No antonyms available.
+ * ambiguity
+   * Synonyms: vagueness, uncertainty, equivocation
+   * Antonyms: clarity, certainty, precision
+ * ambiguous
+   * Synonyms: vague, unclear, uncertain
+   * Antonyms: clear, precise, explicit
+ * ambition
+   * Synonyms: goal, aspiration, drive
+   * Antonyms: apathy, idleness, indifference
+ * ambitious
+   * Synonyms: aspiring, determined, driven
+   * Antonyms: apathetic, lazy, unambitious
+ * ambulance
+   * No synonyms or antonyms available.
+ * amend
+   * Synonyms: revise, correct, modify
+   * Antonyms: worsen, damage, corrupt
+ * amendment
+   * Synonyms: revision, correction, modification
+   * Antonyms: worsening, damaging, corruption
+ * amends
+   * Synonyms: compensation, recompense, restitution
+   * Antonyms: offense, injury, wrong
+ * amiable
+   * Synonyms: friendly, pleasant, good-natured
+   * Antonyms: unfriendly, hostile, disagreeable
+ * amicable
+   * Synonyms: friendly, peaceful, cordial
+   * Antonyms: hostile, unfriendly, contentious
+ * amid
+   * Synonyms: among, in the middle of, surrounded by
+   * Antonyms: No antonyms available.
+ * ammunition
+   * Synonyms: bullets, ordnance, munitions
+   * Antonyms: No antonyms available.
+ * among
+   * Synonyms: amid, between, surrounded by
+   * Antonyms: No antonyms available.
+ * amorous
+   * Synonyms: romantic, loving, passionate
+   * Antonyms: cold, unfeeling, hostile
+ * amount
+   * Synonyms: quantity, sum, total
+   * Antonyms: No antonyms available.
+ * amounting
+   * Synonyms: totaling, adding up to, equaling
+   * Antonyms: No antonyms available.
+ * amounts
+   * Synonyms: quantities, sums, totals
+   * Antonyms: No antonyms available.
+ * ample
+   * Synonyms: sufficient, generous, abundant
+   * Antonyms: insufficient, meager, scarce
+ * amplification
+   * Synonyms: enlargement, expansion, increase
+   * Antonyms: reduction, decrease, attenuation
+ * amplify
+   * Synonyms: enlarge, increase, strengthen
+   * Antonyms: reduce, decrease, diminish
+ * amuse
+   * Synonyms: entertain, delight, divert
+   * Antonyms: bore, weary, tire
+ * amused
+   * Synonyms: entertained, delighted, diverted
+   * Antonyms: bored, weary, serious
+ * amusement
+   * Synonyms: entertainment, fun, recreation
+   * Antonyms: boredom, weariness, seriousness
+ * amuses
+   * Synonyms: entertains, delights, diverts
+   * Antonyms: bores, wearies, tires
+ * amusing
+   * Synonyms: entertaining, funny, delightful
+   * Antonyms: boring, tedious, serious
+ * an
+   * No synonyms or antonyms available.
+ * analogous
+   * Synonyms: comparable, similar, equivalent
+   * Antonyms: dissimilar, different, unrelated
+ * analogue
+   * Synonyms: counterpart, parallel, equivalent
+   * Antonyms: digital
+ * analogy
+   * Synonyms: comparison, metaphor, parallel
+   * Antonyms: contrast, difference
+ * analyse
+   * Synonyms: analyze, examine, study
+   * Antonyms: synthesize, ignore, overlook
+ * analysis
+   * Synonyms: examination, study, breakdown
+   * Antonyms: synthesis, combination, whole
+ * analyst
+   * Synonyms: examiner, investigator, expert
+   * Antonyms: No antonyms available.
+ * analytical
+   * Synonyms: logical, systematic, methodical
+   * Antonyms: illogical, chaotic, unthinking
+ * analyze
+   * Synonyms: examine, study, scrutinize
+   * Antonyms: synthesize, ignore, overlook
+ * ancestor
+   * Synonyms: forefather, progenitor, forebear
+   * Antonyms: descendant, successor, offspring
+ * ancestry
+   * Synonyms: lineage, heritage, descent
+   * Antonyms: progeny, offspring, descendants
+ * anchor
+   * Synonyms: secure, fasten, moor
+   * Antonyms: unmoor, release, loose
+ * ancient
+   * Synonyms: old, archaic, primeval
+   * Antonyms: modern, new, recent
+ * and
+   * No synonyms or antonyms available.
+ * anecdote
+   * Synonyms: story, tale, narrative
+   * Antonyms: No antonyms available.
+ * angel
+   * Synonyms: spirit, celestial being, cherub
+   * Antonyms: devil, demon, fiend
+ * anger
+   * Synonyms: rage, fury, wrath
+   * Antonyms: calm, peace, happiness
+ * angered
+   * Synonyms: enraged, infuriated, provoked
+   * Antonyms: calmed, soothed, appeased
+ * angle
+   * Synonyms: corner, viewpoint, perspective
+   * Antonyms: No antonyms available.
+ * angles
+   * Synonyms: corners, viewpoints, perspectives
+   * Antonyms: No antonyms available.
+ * angrily
+   * Synonyms: furiously, crossly, irately
+   * Antonyms: calmly, happily, peacefully
+ * angry
+   * Synonyms: furious, mad, irate
+   * Antonyms: calm, happy, pleased
+ * anguish
+   * Synonyms: agony, torment, suffering
+   * Antonyms: joy, happiness, bliss
+ * angular
+   * Synonyms: sharp-cornered, jagged, pointed
+   * Antonyms: rounded, curved, smooth
+ * animal
+   * Synonyms: creature, beast, fauna
+   * Antonyms: plant, human
+ * animal's
+   * No synonyms or antonyms available.
+ * animals
+   * Synonyms: creatures, beasts, fauna
+   * Antonyms: plants, humans
+ * animate
+   * Synonyms: enliven, vitalize, energize
+   * Antonyms: inanimate, deaden, lifeless
+ * animated
+   * Synonyms: lively, energetic, spirited
+   * Antonyms: lifeless, dull, inactive
+ * animating
+   * Synonyms: enlivening, vitalizing, energizing
+   * Antonyms: deadening, dulling, numbing
+ * animation
+   * Synonyms: liveliness, spirit, energy
+   * Antonyms: lifelessness, dullness, inactivity
+ * ankle
+   * No synonyms or antonyms available.
+ * annex
+   * Synonyms: add, attach, append
+   * Antonyms: detach, separate, subtract
+ * annexed
+   * Synonyms: added, attached, appended
+   * Antonyms: detached, separated, subtracted
+ * anniversary
+   * Synonyms: commemoration, celebration, remembrance
+   * Antonyms: No antonyms available.
+ * announce
+   * Synonyms: declare, proclaim, state
+   * Antonyms: conceal, suppress, hide
+ * announcement
+   * Synonyms: declaration, proclamation, statement
+   * Antonyms: No antonyms available.
+ * announcer
+   * Synonyms: broadcaster, reporter, narrator
+   * Antonyms: No antonyms available.
+ * announces
+   * Synonyms: declares, proclaims, states
+   * Antonyms: conceals, suppresses, hides
+ * annoy
+   * Synonyms: irritate, bother, vex
+   * Antonyms: please, calm, soothe
+ * annoyance
+   * Synonyms: irritation, bother, nuisance
+   * Antonyms: pleasure, satisfaction, calm
+ * annoyed
+   * Synonyms: irritated, bothered, vexed
+   * Antonyms: pleased, calm, happy
+ * annoying
+   * Synonyms: irritating, bothersome, vexing
+   * Antonyms: pleasant, pleasing, soothing
+ * annoys
+   * Synonyms: irritates, bothers, vexes
+   * Antonyms: pleases, calms, soothes
+ * annual
+   * Synonyms: yearly, once a year
+   * Antonyms: perennial, irregular
+ * annually
+   * Synonyms: yearly, per annum
+   * Antonyms: No antonyms available.
+ * annul
+   * Synonyms: cancel, revoke, nullify
+   * Antonyms: validate, confirm, enact
+ * anonymous
+   * Synonyms: nameless, unknown, unidentified
+   * Antonyms: named, known, identified
+ * anonymously
+   * Synonyms: namelessly, incognito, unidentified
+   * Antonyms: openly, publicly, identified
+ * another
+   * Synonyms: different, other, a different one
+   * Antonyms: same, identical
+ * another's
+   * No synonyms or antonyms available.
+ * answer
+   * Synonyms: reply, response, solution
+   * Antonyms: question, query, problem
+ * answerable
+   * Synonyms: accountable, responsible, liable
+   * Antonyms: unaccountable, irresponsible, blameless
