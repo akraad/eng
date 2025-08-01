@@ -5,11 +5,11 @@
   <title>استخراج کلمات از فایل</title>
   <style>
     body { font-family: sans-serif; padding: 20px; }
-    #output { white-space: pre; border: 1px solid #ccc; padding: 10px; margin-top: 20px; }
+    #output { white-space: pre; border: 1px solid #ccc; padding: 10px; margin-top: 20px; max-height: 300px; overflow-y: auto; }
   </style>
 </head>
 <body>
-  <h2>استخراج کلمات از فایل .txt</h2>
+  <h2>استخراج فقط کلمات از فایل .txt</h2>
   <input type="file" id="fileInput" accept=".txt">
   <button onclick="processFile()">پردازش فایل</button>
   <button onclick="downloadOutput()">دانلود خروجی</button>
@@ -31,7 +31,6 @@
       reader.onload = function(e) {
         const lines = e.target.result.split("\n");
         const output = [];
-        let count = 1;
 
         for (let line of lines) {
           line = line.trim();
@@ -39,11 +38,10 @@
 
           const parts = line.split(" - ");
           const lastPart = parts[parts.length - 1];
-          const wordMatch = lastPart.match(/^([^\s]+)\s*\(/); // واژه قبل از پرانتز
+          const wordMatch = lastPart.match(/^([^\s\d]+)\s*\(/); // فقط حروف، نه عدد
 
           if (wordMatch && wordMatch[1]) {
-            output.push(`S${count} ${wordMatch[1]}`);
-            count++;
+            output.push(wordMatch[1]);
           }
         }
 
@@ -64,7 +62,7 @@
       const url = URL.createObjectURL(blob);
       const link = document.createElement("a");
       link.href = url;
-      link.download = "output.txt";
+      link.download = "words_only.txt";
       link.click();
       URL.revokeObjectURL(url);
     }
