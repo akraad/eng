@@ -147,3 +147,153 @@ A:
  * abusing
    * Synonyms: misusing, mistreating, harming
    * Antonyms: caring for, helping, treating well
+Here are words 51-100 from the provided list, along with their synonyms and antonyms:
+ * abusive
+   * Synonyms: insulting, offensive, cruel
+   * Antonyms: kind, complimentary, gentle
+ * academic
+   * Synonyms: scholarly, educational, collegiate
+   * Antonyms: nonacademic, vocational, practical
+ * academicals
+   * No synonyms or antonyms available.
+ * academy
+   * Synonyms: school, institute, college
+   * Antonyms: No antonyms available.
+ * accede
+   * Synonyms: agree, consent, concede
+   * Antonyms: object, refuse, decline
+ * accelerate
+   * Synonyms: speed up, hasten, quicken
+   * Antonyms: slow down, decelerate, impede
+ * acceleration
+   * Synonyms: speeding up, quickening, hastening
+   * Antonyms: deceleration, slowing, retardation
+ * accent
+   * Synonyms: emphasis, stress, inflection
+   * Antonyms: No antonyms available.
+ * accept
+   * Synonyms: receive, take, approve
+   * Antonyms: refuse, reject, decline
+ * acceptable
+   * Synonyms: satisfactory, suitable, tolerable
+   * Antonyms: unacceptable, unsuitable, intolerable
+ * acceptance
+   * Synonyms: approval, reception, assent
+   * Antonyms: rejection, refusal, denial
+ * accepted
+   * Synonyms: approved, recognized, received
+   * Antonyms: rejected, refused, unapproved
+ * accepting
+   * Synonyms: receiving, taking, approving
+   * Antonyms: rejecting, refusing, declining
+ * access
+   * Synonyms: entry, approach, admittance
+   * Antonyms: denial, exclusion, blockage
+ * accessible
+   * Synonyms: approachable, available, reachable
+   * Antonyms: inaccessible, unavailable, unreachable
+ * accessories
+   * Synonyms: attachments, extras, additions
+   * Antonyms: essentials, necessities
+ * accessory
+   * Synonyms: supplement, addition, adjunct
+   * Antonyms: essential, necessity, core
+ * accident
+   * Synonyms: mishap, misfortune, incident
+   * Antonyms: intention, design, purpose
+ * accidental
+   * Synonyms: unintentional, unforeseen, chance
+   * Antonyms: intentional, planned, deliberate
+ * accidentally
+   * Synonyms: unintentionally, by chance, inadvertently
+   * Antonyms: intentionally, deliberately, on purpose
+ * acclaim
+   * Synonyms: praise, applause, honor
+   * Antonyms: criticism, condemnation, disapproval
+ * accommodate
+   * Synonyms: house, lodge, fit
+   * Antonyms: inconvenience, hinder, disrupt
+ * accommodation
+   * Synonyms: lodging, housing, residence
+   * Antonyms: No antonyms available.
+ * accompanied
+   * Synonyms: escorted, attended, joined
+   * Antonyms: unaccompanied, alone, solitary
+ * accompaniment
+   * Synonyms: companion, adjunct, supplement
+   * Antonyms: No antonyms available.
+ * accompany
+   * Synonyms: go with, attend, escort
+   * Antonyms: leave, abandon, desert
+ * accompanying
+   * Synonyms: attending, escorting, supplemental
+   * Antonyms: leaving, separating, departing
+ * accomplish
+   * Synonyms: achieve, complete, perform
+   * Antonyms: fail, neglect, abandon
+ * accomplished
+   * Synonyms: achieved, completed, skilled
+   * Antonyms: failed, incomplete, unskilled
+ * accomplishment
+   * Synonyms: achievement, feat, success
+   * Antonyms: failure, defeat, setback
+ * accord
+   * Synonyms: agreement, harmony, consent
+   * Antonyms: disagreement, discord, conflict
+ * accordance
+   * Synonyms: conformity, agreement, harmony
+   * Antonyms: disagreement, discord, conflict
+ * accordant
+   * Synonyms: consistent, harmonious, compatible
+   * Antonyms: inconsistent, discordant, incompatible
+ * according
+   * Synonyms: as stated by, in conformity with
+   * Antonyms: No antonyms available.
+ * accordingly
+   * Synonyms: consequently, therefore, as a result
+   * Antonyms: No antonyms available.
+ * account
+   * Synonyms: record, report, narrative
+   * Antonyms: No antonyms available.
+ * accountability
+   * Synonyms: responsibility, liability, answerability
+   * Antonyms: irresponsibility, unaccountability, blamelessness
+ * accountable
+   * Synonyms: responsible, liable, answerable
+   * Antonyms: unaccountable, irresponsible, blameless
+ * accountant
+   * Synonyms: bookkeeper, auditor, financial officer
+   * Antonyms: No antonyms available.
+ * accounting
+   * Synonyms: bookkeeping, auditing, financial reporting
+   * Antonyms: No antonyms available.
+ * accounts
+   * Synonyms: records, reports, statements
+   * Antonyms: No antonyms available.
+ * accrue
+   * Synonyms: accumulate, gather, collect
+   * Antonyms: dissipate, diminish, disperse
+ * accumulate
+   * Synonyms: gather, collect, amass
+   * Antonyms: disperse, scatter, spend
+ * accumulation
+   * Synonyms: collection, aggregation, stockpile
+   * Antonyms: dispersal, dissipation, scattering
+ * accuracy
+   * Synonyms: precision, correctness, exactness
+   * Antonyms: inaccuracy, error, imprecision
+ * accurate
+   * Synonyms: precise, correct, exact
+   * Antonyms: inaccurate, incorrect, wrong
+ * accurately
+   * Synonyms: precisely, correctly, exactly
+   * Antonyms: inaccurately, incorrectly, wrongly
+ * accusation
+   * Synonyms: charge, allegation, indictment
+   * Antonyms: exoneration, acquittal, defense
+ * accuse
+   * Synonyms: charge, blame, indict
+   * Antonyms: defend, exonerate, absolve
+ * accused
+   * Synonyms: charged, blamed, defendant
+   * Antonyms: innocent, absolved, acquitted
