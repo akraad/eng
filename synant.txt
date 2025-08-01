@@ -1336,3 +1336,627 @@
  * answerable
    * Synonyms: accountable, responsible, liable
    * Antonyms: unaccountable, irresponsible, blameless
+ * antagonism
+   * Synonyms: hostility, opposition, conflict
+   * Antonyms: friendship, cooperation, agreement
+ * antagonist
+   * Synonyms: opponent, adversary, rival
+   * Antonyms: protagonist, ally, supporter
+ * antarctic
+   * No synonyms or antonyms available.
+ * antecede
+   * Synonyms: precede, go before, anticipate
+   * Antonyms: follow, succeed
+ * antecedent
+   * Synonyms: preceding, prior, former
+   * Antonyms: subsequent, following, succeeding
+ * anti-
+   * No synonyms or antonyms available.
+ * antibiotic
+   * No synonyms or antonyms available.
+ * anticipate
+   * Synonyms: expect, foresee, predict
+   * Antonyms: doubt, dread, be surprised by
+ * anticipated
+   * Synonyms: expected, foreseen, predicted
+   * Antonyms: unexpected, unforeseen, surprising
+ * anticipation
+   * Synonyms: expectation, foresight, prediction
+   * Antonyms: surprise, doubt, dread
+ * antique
+   * Synonyms: old, vintage, classic
+   * Antonyms: new, modern, contemporary
+ * antiquity
+   * Synonyms: ancient times, past, oldness
+   * Antonyms: modernity, present, future
+ * antonym
+   * No synonyms or antonyms available.
+ * ants
+   * No synonyms or antonyms available.
+ * anvil
+   * No synonyms or antonyms available.
+ * anxiety
+   * Synonyms: worry, apprehension, stress
+   * Antonyms: calm, peace, tranquility
+ * anxious
+   * Synonyms: worried, apprehensive, stressed
+   * Antonyms: calm, peaceful, tranquil
+ * anxiously
+   * Synonyms: worriedly, apprehensively, stressed
+   * Antonyms: calmly, peacefully, tranquilly
+ * any
+   * Synonyms: every, whatever, whichever
+   * Antonyms: none, no
+ * anybody
+   * Synonyms: anyone, whoever, someone
+   * Antonyms: nobody, no one
+ * anyhow
+   * Synonyms: anyway, in any case, regardless
+   * Antonyms: No antonyms available.
+ * anyone
+   * Synonyms: anybody, whoever, someone
+   * Antonyms: no one, nobody
+ * anything
+   * Synonyms: a thing, a matter, an object
+   * Antonyms: nothing, naught
+ * anyway
+   * Synonyms: anyhow, regardless, in any case
+   * Antonyms: No antonyms available.
+ * anywhere
+   * Synonyms: everywhere, anyplace, wherever
+   * Antonyms: nowhere, no place
+ * apart
+   * Synonyms: separate, aside, distant
+   * Antonyms: together, joined, connected
+ * apartment
+   * Synonyms: flat, suite, unit
+   * Antonyms: No antonyms available.
+ * ape
+   * Synonyms: monkey, primate, copy
+   * Antonyms: No antonyms available.
+ * aperture
+   * Synonyms: opening, hole, gap
+   * Antonyms: closure, blockage, covering
+ * apes
+   * Synonyms: monkeys, primates, copies
+   * Antonyms: No antonyms available.
+ * apex
+   * Synonyms: peak, summit, climax
+   * Antonyms: base, bottom, nadir
+ * apologize
+   * Synonyms: express regret, say sorry, make amends
+   * Antonyms: insult, offend, boast
+ * apology
+   * Synonyms: expression of regret, excuse, mea culpa
+   * Antonyms: insult, offense, blame
+ * apparatus
+   * Synonyms: equipment, device, machine
+   * Antonyms: No antonyms available.
+ * apparent
+   * Synonyms: obvious, clear, evident
+   * Antonyms: unclear, hidden, concealed
+ * apparently
+   * Synonyms: seemingly, obviously, evidently
+   * Antonyms: actually, really, factually
+ * appeal
+   * Synonyms: request, plea, attraction
+   * Antonyms: repulsion, rejection, refusal
+ * appealing
+   * Synonyms: attractive, charming, interesting
+   * Antonyms: unappealing, unattractive, repellent
+ * appear
+   * Synonyms: seem, emerge, show up
+   * Antonyms: disappear, vanish, fade
+ * appearance
+   * Synonyms: look, aspect, arrival
+   * Antonyms: disappearance, departure, absence
+ * appears
+   * Synonyms: seems, emerges, shows up
+   * Antonyms: disappears, vanishes, fades
+ * append
+   * Synonyms: add, attach, affix
+   * Antonyms: detach, remove, subtract
+ * appended
+   * Synonyms: added, attached, affixed
+   * Antonyms: detached, removed, subtracted
+ * appendix
+   * Synonyms: supplement, addendum, annex
+   * Antonyms: introduction, preface
+ * appetite
+   * Synonyms: hunger, desire, craving
+   * Antonyms: satiety, aversion, disgust
+ * appetizing
+   * Synonyms: delicious, tempting, mouth-watering
+   * Antonyms: unappetizing, disgusting, repulsive
+ * applaud
+   * Synonyms: clap, cheer, praise
+   * Antonyms: boo, criticize, condemn
+ * apple
+   * No synonyms or antonyms available.
+ * appliance
+   * Synonyms: device, apparatus, tool
+   * Antonyms: No antonyms available.
+ * appliances
+   * Synonyms: devices, apparatuses, tools
+   * Antonyms: No antonyms available.
+ * applicable
+   * Synonyms: relevant, suitable, appropriate
+   * Antonyms: inapplicable, irrelevant, unsuitable
+ * applicant
+   * Synonyms: candidate, petitioner, contender
+   * Antonyms: No antonyms available.
+ * application
+   * Synonyms: use, request, form
+   * Antonyms: No antonyms available.
+ * applied
+   * Synonyms: used, utilized, relevant
+   * Antonyms: theoretical, abstract, unused
+ * apply
+   * Synonyms: use, utilize, request
+   * Antonyms: ignore, disregard, neglect
+ * applying
+   * Synonyms: using, utilizing, requesting
+   * Antonyms: ignoring, disregarding, neglecting
+ * appoint
+   * Synonyms: nominate, designate, select
+   * Antonyms: dismiss, fire, remove
+ * appointed
+   * Synonyms: nominated, designated, selected
+   * Antonyms: dismissed, fired, removed
+ * appointment
+   * Synonyms: meeting, engagement, designation
+   * Antonyms: dismissal, cancellation, resignation
+ * apportioning
+   * Synonyms: distributing, allocating, dividing
+   * Antonyms: hoarding, withholding, keeping
+ * appraisal
+   * Synonyms: evaluation, assessment, judgment
+   * Antonyms: No antonyms available.
+ * appraise
+   * Synonyms: evaluate, assess, judge
+   * Antonyms: disregard, overlook, ignore
+ * appreciable
+   * Synonyms: considerable, significant, noticeable
+   * Antonyms: negligible, insignificant, slight
+ * appreciate
+   * Synonyms: value, be thankful for, recognize
+   * Antonyms: undervalue, deprecate, be ungrateful for
+ * appreciation
+   * Synonyms: gratitude, recognition, understanding
+   * Antonyms: ingratitude, depreciation, misunderstanding
+ * appreciative
+   * Synonyms: thankful, grateful, grateful
+   * Antonyms: ungrateful, unappreciative, thankless
+ * apprehension
+   * Synonyms: anxiety, fear, arrest
+   * Antonyms: calmness, confidence, release
+ * apprehensive
+   * Synonyms: anxious, fearful, worried
+   * Antonyms: calm, confident, relaxed
+ * apprentice
+   * Synonyms: trainee, novice, learner
+   * Antonyms: master, expert, veteran
+ * apprise
+   * Synonyms: inform, notify, tell
+   * Antonyms: conceal, withhold, hide
+ * approach
+   * Synonyms: method, way, come near
+   * Antonyms: retreat, departure, avoidance
+ * approached
+   * Synonyms: came near, neared, drew close
+   * Antonyms: retreated, departed, avoided
+ * approaching
+   * Synonyms: nearing, coming near, imminent
+   * Antonyms: retreating, departing, avoiding
+ * approbation
+   * Synonyms: approval, praise, commendation
+   * Antonyms: disapproval, condemnation, criticism
+ * appropriate
+   * Synonyms: suitable, proper, fitting
+   * Antonyms: inappropriate, unsuitable, improper
+ * appropriately
+   * Synonyms: suitably, properly, fittingly
+   * Antonyms: inappropriately, improperly, unfittingly
+ * appropriateness
+   * Synonyms: suitability, propriety, fitness
+   * Antonyms: inappropriateness, unsuitability, impropriety
+ * approval
+   * Synonyms: consent, sanction, endorsement
+   * Antonyms: disapproval, rejection, condemnation
+ * approve
+   * Synonyms: accept, endorse, sanction
+   * Antonyms: disapprove, reject, condemn
+ * approving
+   * Synonyms: accepting, endorsing, sanctioning
+   * Antonyms: disapproving, rejecting, condemning
+ * approximate
+   * Synonyms: close, estimated, rough
+   * Antonyms: exact, precise, accurate
+ * approximately
+   * Synonyms: about, roughly, nearly
+   * Antonyms: exactly, precisely, accurately
+ * april
+   * No synonyms or antonyms available.
+ * apt
+   * Synonyms: suitable, appropriate, inclined
+   * Antonyms: inappropriate, unsuitable, unlikely
+ * aptitude
+   * Synonyms: talent, ability, knack
+   * Antonyms: ineptitude, inability, lack of talent
+ * aquatic
+   * Synonyms: watery, marine, oceanic
+   * Antonyms: terrestrial, land
+ * arbitrary
+   * Synonyms: random, capricious, whimsical
+   * Antonyms: rational, logical, systematic
+ * arbitrator
+   * Synonyms: mediator, referee, judge
+   * Antonyms: No antonyms available.
+ * arboreal
+   * Synonyms: tree-dwelling, woody
+   * Antonyms: terrestrial, ground-dwelling
+ * arc
+   * Synonyms: curve, arch, bow
+   * Antonyms: line, straight line
+ * arch
+   * Synonyms: curve, arc, bow
+   * Antonyms: No antonyms available.
+ * archaeology
+   * No synonyms or antonyms available.
+ * arched
+   * Synonyms: curved, bowed, bent
+   * Antonyms: straight, flat
+ * architect
+   * No synonyms or antonyms available.
+ * architectural
+   * Synonyms: structural, design, building
+   * Antonyms: No antonyms available.
+ * architecture
+   * No synonyms or antonyms available.
+ * archive
+   * Synonyms: repository, record, collection
+   * Antonyms: No antonyms available.
+ * arctic
+   * Synonyms: polar, frigid, cold
+   * Antonyms: tropical, hot, equatorial
+ * ardent
+   * Synonyms: passionate, enthusiastic, fervent
+   * Antonyms: indifferent, apathetic, cold
+ * arduous
+   * Synonyms: difficult, strenuous, hard
+   * Antonyms: easy, simple, effortless
+ * are
+   * No synonyms or antonyms available.
+ * area
+   * Synonyms: region, zone, space
+   * Antonyms: No antonyms available.
+ * areas
+   * Synonyms: regions, zones, spaces
+   * Antonyms: No antonyms available.
+ * arena
+   * Synonyms: stadium, venue, field
+   * Antonyms: No antonyms available.
+ * arguably
+   * Synonyms: possibly, potentially, debatably
+   * Antonyms: undeniably, certainly, indisputably
+ * argue
+   * Synonyms: debate, dispute, contend
+   * Antonyms: agree, concede, concur
+ * argument
+   * Synonyms: dispute, debate, contention
+   * Antonyms: agreement, harmony, peace
+ * aridity
+   * Synonyms: dryness, barrenness, drought
+   * Antonyms: wetness, moisture, lushness
+ * arise
+   * Synonyms: emerge, appear, originate
+   * Antonyms: disappear, subside, cease
+ * arising
+   * Synonyms: emerging, appearing, originating
+   * Antonyms: disappearing, subsiding, ceasing
+ * aristocracy
+   * Synonyms: nobility, elite, upper class
+   * Antonyms: commoners, proletariat, lower class
+ * aristocrat
+   * Synonyms: noble, patrician, blue blood
+   * Antonyms: commoner, plebeian, peasant
+ * arithmetic
+   * Synonyms: calculation, computation, numbers
+   * Antonyms: No antonyms available.
+ * arm
+   * Synonyms: limb, weapon, branch
+   * Antonyms: No antonyms available.
+ * armed
+   * Synonyms: weaponed, equipped, fortified
+   * Antonyms: unarmed, defenseless, vulnerable
+ * armour
+   * Synonyms: armor, protection, shield
+   * Antonyms: No antonyms available.
+ * arms
+   * Synonyms: weapons, limbs, branches
+   * Antonyms: No antonyms available.
+ * army
+   * Synonyms: military, force, troops
+   * Antonyms: No antonyms available.
+ * aroma
+   * Synonyms: scent, smell, fragrance
+   * Antonyms: stench, odor, foul smell
+ * around
+   * Synonyms: about, surrounding, approximately
+   * Antonyms: away, exactly, precisely
+ * arouse
+   * Synonyms: awaken, provoke, stimulate
+   * Antonyms: calm, soothe, quell
+ * aroused
+   * Synonyms: awakened, provoked, stimulated
+   * Antonyms: calmed, soothed, quelled
+ * arouses
+   * Synonyms: awakens, provokes, stimulates
+   * Antonyms: calms, soothes, quells
+ * arousing
+   * Synonyms: awakening, provoking, stimulating
+   * Antonyms: calming, soothing, quieting
+ * arrange
+   * Synonyms: organize, order, set up
+   * Antonyms: disorganize, jumble, mess up
+ * arranged
+   * Synonyms: organized, ordered, set up
+   * Antonyms: disorganized, jumbled, messy
+ * arrangement
+   * Synonyms: organization, order, plan
+   * Antonyms: disorganization, chaos, disorder
+ * arranging
+   * Synonyms: organizing, ordering, setting up
+   * Antonyms: disorganizing, jumbling, messing up
+ * array
+   * Synonyms: assortment, collection, display
+   * Antonyms: No antonyms available.
+ * arrest
+   * Synonyms: capture, apprehend, stop
+   * Antonyms: release, free, liberation
+ * arresting
+   * Synonyms: capturing, apprehending, stopping
+   * Antonyms: releasing, freeing, liberating
+ * arrival
+   * Synonyms: coming, appearance, entry
+   * Antonyms: departure, leaving, exit
+ * arrive
+   * Synonyms: reach, get to, appear
+   * Antonyms: depart, leave, exit
+ * arrived
+   * Synonyms: reached, got to, appeared
+   * Antonyms: departed, left, exited
+ * arriving
+   * Synonyms: reaching, getting to, appearing
+   * Antonyms: departing, leaving, exiting
+ * arrogance
+   * Synonyms: haughtiness, conceit, pride
+   * Antonyms: humility, modesty, meekness
+ * arrogant
+   * Synonyms: haughty, conceited, proud
+   * Antonyms: humble, modest, meek
+ * arrow
+   * No synonyms or antonyms available.
+ * art
+   * Synonyms: skill, creativity, craft
+   * Antonyms: No antonyms available.
+ * artful
+   * Synonyms: clever, cunning, crafty
+   * Antonyms: artless, naive, simple
+ * artfully
+   * Synonyms: cleverly, cunningly, craftily
+   * Antonyms: artlessly, naively, simply
+ * article
+   * Synonyms: item, piece, essay
+   * Antonyms: No antonyms available.
+ * articles
+   * Synonyms: items, pieces, essays
+   * Antonyms: No antonyms available.
+ * articulate
+   * Synonyms: eloquent, well-spoken, enunciate
+   * Antonyms: inarticulate, muddled, silent
+ * artifact
+   * Synonyms: relic, antiquity, object
+   * Antonyms: No antonyms available.
+ * artifacts
+   * Synonyms: relics, antiquities, objects
+   * Antonyms: No antonyms available.
+ * artifice
+   * Synonyms: trickery, deception, cunning
+   * Antonyms: honesty, sincerity, candor
+ * artificial
+   * Synonyms: fake, synthetic, unnatural
+   * Antonyms: natural, real, genuine
+ * artificially
+   * Synonyms: fakely, synthetically, unnaturally
+   * Antonyms: naturally, really, genuinely
+ * artillery
+   * Synonyms: cannon, guns, ordnance
+   * Antonyms: No antonyms available.
+ * artist
+   * Synonyms: painter, sculptor, creator
+   * Antonyms: No antonyms available.
+ * artistic
+   * Synonyms: creative, aesthetic, expressive
+   * Antonyms: unartistic, uninspired, crude
+ * artistically
+   * Synonyms: creatively, aesthetically, expressively
+   * Antonyms: uncreatively, crudely, plainly
+ * artists
+   * Synonyms: painters, sculptors, creators
+   * Antonyms: No antonyms available.
+ * artwork
+   * Synonyms: art, creation, piece
+   * Antonyms: No antonyms available.
+ * as
+   * No synonyms or antonyms available.
+ * ascend
+   * Synonyms: climb, rise, go up
+   * Antonyms: descend, fall, go down
+ * ascent
+   * Synonyms: climb, rise, upward journey
+   * Antonyms: descent, fall, downward journey
+ * ascertain
+   * Synonyms: determine, discover, find out
+   * Antonyms: miss, overlook, ignore
+ * ascribe
+   * Synonyms: attribute, credit, assign
+   * Antonyms: discredit, disconnect, dissociate
+ * ash
+   * No synonyms or antonyms available.
+ * ashamed
+   * Synonyms: embarrassed, mortified, humiliated
+   * Antonyms: proud, unabashed, unashamed
+ * asia
+   * No synonyms or antonyms available.
+ * asian
+   * No synonyms or antonyms available.
+ * aside
+   * Synonyms: to the side, separately, away
+   * Antonyms: together, integrated
+ * ask
+   * Synonyms: inquire, question, request
+   * Antonyms: answer, reply, tell
+ * asking
+   * Synonyms: inquiring, questioning, requesting
+   * Antonyms: answering, replying, telling
+ * asleep
+   * Synonyms: sleeping, dormant, unconscious
+   * Antonyms: awake, conscious, alert
+ * aspect
+   * Synonyms: feature, characteristic, facet
+   * Antonyms: No antonyms available.
+ * aspects
+   * Synonyms: features, characteristics, facets
+   * Antonyms: No antonyms available.
+ * aspiration
+   * Synonyms: ambition, goal, desire
+   * Antonyms: apathy, indifference, lack of ambition
+ * aspire
+   * Synonyms: desire, aim for, strive for
+   * Antonyms: be content, settle, renounce
+ * aspirin
+   * No synonyms or antonyms available.
+ * aspiring
+   * Synonyms: ambitious, hopeful, desirous
+   * Antonyms: unambitious, uninspired, apathetic
+ * assail
+   * Synonyms: attack, assault, criticize
+   * Antonyms: defend, protect, praise
+ * assailant
+   * Synonyms: attacker, aggressor, mugger
+   * Antonyms: defender, protector, victim
+ * assassinating
+   * Synonyms: murdering, killing, executing
+   * Antonyms: No antonyms available.
+ * assassination
+   * Synonyms: murder, killing, execution
+   * Antonyms: No antonyms available.
+ * assault
+   * Synonyms: attack, aggression, strike
+   * Antonyms: defense, protection, peace
+ * assaults
+   * Synonyms: attacks, aggressions, strikes
+   * Antonyms: defenses, protections, peace
+ * assemble
+   * Synonyms: gather, collect, build
+   * Antonyms: disperse, scatter, dismantle
+ * assembled
+   * Synonyms: gathered, collected, built
+   * Antonyms: dispersed, scattered, dismantled
+ * assembling
+   * Synonyms: gathering, collecting, building
+   * Antonyms: dispersing, scattering, dismantling
+ * assembly
+   * Synonyms: gathering, meeting, collection
+   * Antonyms: dispersal, separation, scattering
+ * assent
+   * Synonyms: agreement, consent, approval
+   * Antonyms: dissent, disagreement, refusal
+ * assert
+   * Synonyms: state, declare, affirm
+   * Antonyms: deny, contradict, renounce
+ * assertion
+   * Synonyms: declaration, statement, claim
+   * Antonyms: denial, contradiction, retraction
+ * assess
+   * Synonyms: evaluate, appraise, judge
+   * Antonyms: ignore, disregard, overlook
+ * assessing
+   * Synonyms: evaluating, appraising, judging
+   * Antonyms: ignoring, disregarding, overlooking
+ * assessment
+   * Synonyms: evaluation, appraisal, judgment
+   * Antonyms: No antonyms available.
+ * asset
+   * Synonyms: advantage, resource, benefit
+   * Antonyms: liability, drawback, disadvantage
+ * assets
+   * Synonyms: advantages, resources, benefits
+   * Antonyms: liabilities, drawbacks, disadvantages
+ * assiduous
+   * Synonyms: diligent, hardworking, persistent
+   * Antonyms: lazy, careless, negligent
+ * assign
+   * Synonyms: allocate, appoint, delegate
+   * Antonyms: withhold, keep, take back
+ * assigned
+   * Synonyms: allocated, appointed, delegated
+   * Antonyms: unassigned, withheld, taken back
+ * assigning
+   * Synonyms: allocating, appointing, delegating
+   * Antonyms: withholding, keeping, taking back
+ * assignment
+   * Synonyms: task, duty, work
+   * Antonyms: No antonyms available.
+ * assimilate
+   * Synonyms: absorb, integrate, incorporate
+   * Antonyms: reject, exclude, separate
+ * assimilated
+   * Synonyms: absorbed, integrated, incorporated
+   * Antonyms: rejected, excluded, separated
+ * assist
+   * Synonyms: help, aid, support
+   * Antonyms: hinder, obstruct, oppose
+ * assistance
+   * Synonyms: help, aid, support
+   * Antonyms: hindrance, obstruction, opposition
+ * assistant
+   * Synonyms: helper, aide, subordinate
+   * Antonyms: boss, superior, chief
+ * assists
+   * Synonyms: helps, aids, supports
+   * Antonyms: hinders, obstructs, opposes
+ * associate
+   * Synonyms: partner, colleague, connect
+   * Antonyms: dissociate, separate, disconnect
+ * associated
+   * Synonyms: connected, linked, related
+   * Antonyms: dissociated, separate, unrelated
+ * association
+   * Synonyms: organization, group, connection
+   * Antonyms: dissociation, separation, disunion
+ * assorted
+   * Synonyms: various, mixed, miscellaneous
+   * Antonyms: uniform, homogeneous, identical
+ * assortment
+   * Synonyms: variety, collection, mixture
+   * Antonyms: uniformity, homogeneity, lack of variety
+ * assume
+   * Synonyms: suppose, presume, take on
+   * Antonyms: know, prove, abandon
+ * assumedly
+   * Synonyms: supposedly, presumably, allegedly
+   * Antonyms: actually, really, factually
+ * assuming
+   * Synonyms: supposing, presuming, taking on
+   * Antonyms: knowing, proving, abandoning
+ * assumption
+   * Synonyms: supposition, presumption, hypothesis
+   * Antonyms: fact, proof, certainty
+ * assumptions
+   * Synonyms: suppositions, presumptions, hypotheses
+   * Antonyms: facts, proofs, certainties
+ * assurance
+   * Synonyms: guarantee, promise, confidence
+   * Antonyms: doubt, uncertainty, 
