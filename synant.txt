@@ -1959,4 +1959,982 @@
    * Antonyms: facts, proofs, certainties
  * assurance
    * Synonyms: guarantee, promise, confidence
-   * Antonyms: doubt, uncertainty, 
+   * Antonyms: doubt, uncertainty, insecurity
+ * assure
+   * Synonyms: guarantee, promise, convince
+   * Antonyms: doubt, unsettle, worry
+ * assured
+   * Synonyms: guaranteed, promised, confident
+   * Antonyms: doubted, unsettled, worried
+ * assuring
+   * Synonyms: guaranteeing, promising, convincing
+   * Antonyms: doubting, unsettling, worrying
+ * astonish
+   * Synonyms: amaze, astound, surprise
+   * Antonyms: bore, expect, underwhelm
+ * astonishing
+   * Synonyms: amazing, surprising, remarkable
+   * Antonyms: boring, unsurprising, ordinary
+ * astonishment
+   * Synonyms: amazement, surprise, wonder
+   * Antonyms: boredom, indifference, predictability
+ * astound
+   * Synonyms: amaze, astonish, surprise
+   * Antonyms: bore, expect, underwhelm
+ * astray
+   * Synonyms: lost, off course, wandering
+   * Antonyms: on track, on course, guided
+ * astronomer
+   * No synonyms or antonyms available.
+ * astronomical
+   * Synonyms: huge, immense, gigantic
+   * Antonyms: tiny, minuscule, small
+ * astronomy
+   * No synonyms or antonyms available.
+ * asylum
+   * Synonyms: sanctuary, refuge, shelter
+   * Antonyms: No antonyms available.
+ * at
+   * No synonyms or antonyms available.
+ * athlete
+   * Synonyms: sportsman, sportswoman, competitor
+   * Antonyms: No antonyms available.
+ * athletic
+   * Synonyms: sporty, fit, muscular
+   * Antonyms: unathletic, unfit, weak
+ * atlas
+   * Synonyms: map book, collection of maps
+   * Antonyms: No antonyms available.
+ * atmosphere
+   * Synonyms: air, climate, mood
+   * Antonyms: No antonyms available.
+ * atom
+   * Synonyms: particle, element, molecule
+   * Antonyms: No antonyms available.
+ * atomic
+   * Synonyms: nuclear, microscopic, fundamental
+   * Antonyms: No antonyms available.
+ * atoms
+   * Synonyms: particles, elements, molecules
+   * Antonyms: No antonyms available.
+ * atrocity
+   * Synonyms: horror, cruelty, barbarity
+   * Antonyms: kindness, benevolence, humanity
+ * attach
+   * Synonyms: fasten, connect, join
+   * Antonyms: detach, separate, unfasten
+ * attached
+   * Synonyms: fastened, connected, joined
+   * Antonyms: detached, separate, unfastened
+ * attachment
+   * Synonyms: connection, fastening, bond
+   * Antonyms: detachment, separation, disconnection
+ * attack
+   * Synonyms: assault, offensive, strike
+   * Antonyms: defense, protection, resistance
+ * attacking
+   * Synonyms: assaulting, striking, assailing
+   * Antonyms: defending, protecting, resisting
+ * attacks
+   * Synonyms: assaults, strikes, offensives
+   * Antonyms: defenses, protections, resistances
+ * attain
+   * Synonyms: achieve, reach, accomplish
+   * Antonyms: fail, lose, miss
+ * attained
+   * Synonyms: achieved, reached, accomplished
+   * Antonyms: failed, lost, missed
+ * attaining
+   * Synonyms: achieving, reaching, accomplishing
+   * Antonyms: failing, losing, missing
+ * attempt
+   * Synonyms: try, endeavor, effort
+   * Antonyms: give up, abandon, surrender
+ * attempted
+   * Synonyms: tried, endeavored, strove
+   * Antonyms: gave up, abandoned, surrendered
+ * attempts
+   * Synonyms: tries, endeavors, efforts
+   * Antonyms: No antonyms available.
+ * attend
+   * Synonyms: be present at, go to, participate
+   * Antonyms: absent, skip, miss
+ * attendance
+   * Synonyms: presence, participation, turnout
+   * Antonyms: absence, non-attendance
+ * attendant
+   * Synonyms: assistant, helper, companion
+   * Antonyms: No antonyms available.
+ * attending
+   * Synonyms: being present at, going to, participating
+   * Antonyms: being absent from, skipping, missing
+ * attends
+   * Synonyms: is present at, goes to, participates
+   * Antonyms: is absent from, skips, misses
+ * attention
+   * Synonyms: focus, concentration, notice
+   * Antonyms: inattention, distraction, disregard
+ * attentive
+   * Synonyms: alert, focused, heedful
+   * Antonyms: inattentive, distracted, careless
+ * attentively
+   * Synonyms: alertly, carefully, intently
+   * Antonyms: inattentively, carelessly, distractedly
+ * attesting
+   * Synonyms: testifying, verifying, confirming
+   * Antonyms: denying, refuting, contradicting
+ * attic
+   * Synonyms: loft, garret, top floor
+   * Antonyms: basement, cellar
+ * attitude
+   * Synonyms: perspective, mindset, stance
+   * Antonyms: No antonyms available.
+ * attitudes
+   * Synonyms: perspectives, mindsets, stances
+   * Antonyms: No antonyms available.
+ * attorney
+   * Synonyms: lawyer, counsel, solicitor
+   * Antonyms: No antonyms available.
+ * attract
+   * Synonyms: draw, appeal to, allure
+   * Antonyms: repel, deter, discourage
+ * attracting
+   * Synonyms: drawing, appealing to, alluring
+   * Antonyms: repelling, deterring, discouraging
+ * attraction
+   * Synonyms: appeal, charm, allure
+   * Antonyms: repulsion, aversion, dislike
+ * attractive
+   * Synonyms: appealing, charming, beautiful
+   * Antonyms: unattractive, repellent, ugly
+ * attractiveness
+   * Synonyms: appeal, charm, beauty
+   * Antonyms: unattractiveness, repulsiveness, ugliness
+ * attracts
+   * Synonyms: draws, appeals to, allures
+   * Antonyms: repels, deters, discourages
+ * attribute
+   * Synonyms: quality, characteristic, feature
+   * Antonyms: No antonyms available.
+ * attributes
+   * Synonyms: qualities, characteristics, features
+   * Antonyms: No antonyms available.
+ * auction
+   * Synonyms: sale, bidding, sale by public bidding
+   * Antonyms: No antonyms available.
+ * audible
+   * Synonyms: loud enough to be heard, clear, perceptible
+   * Antonyms: inaudible, silent, quiet
+ * audience
+   * Synonyms: spectators, crowd, listeners
+   * Antonyms: No antonyms available.
+ * audio
+   * Synonyms: sound, aural, sonic
+   * Antonyms: visual, silent
+ * audit
+   * Synonyms: inspection, review, examination
+   * Antonyms: No antonyms available.
+ * auditorium
+   * Synonyms: hall, theater, assembly room
+   * Antonyms: No antonyms available.
+ * audits
+   * Synonyms: inspections, reviews, examinations
+   * Antonyms: No antonyms available.
+ * augmentation
+   * Synonyms: increase, enlargement, addition
+   * Antonyms: decrease, reduction, diminution
+ * august
+   * No synonyms or antonyms available.
+ * aunt
+   * No synonyms or antonyms available.
+ * authentic
+   * Synonyms: genuine, real, bona fide
+   * Antonyms: fake, counterfeit, bogus
+ * authentication
+   * Synonyms: verification, validation, confirmation
+   * Antonyms: falsification, denial, invalidation
+ * author
+   * Synonyms: writer, creator, composer
+   * Antonyms: No antonyms available.
+ * authoritative
+   * Synonyms: official, expert, commanding
+   * Antonyms: unofficial, unreliable, subordinate
+ * authoritatively
+   * Synonyms: officially, expertly, commandingly
+   * Antonyms: unofficially, unreliably, weakly
+ * authority
+   * Synonyms: power, control, expertise
+   * Antonyms: powerlessness, subordination, weakness
+ * authorization
+   * Synonyms: permission, approval, license
+   * Antonyms: prohibition, denial, refusal
+ * authorize
+   * Synonyms: permit, approve, license
+   * Antonyms: prohibit, deny, refuse
+ * authorized
+   * Synonyms: permitted, approved, licensed
+   * Antonyms: unauthorized, forbidden, prohibited
+ * auto
+   * Synonyms: car, automobile, motorcar
+   * Antonyms: No antonyms available.
+ * autobiography
+   * Synonyms: memoir, self-story
+   * Antonyms: biography
+ * autographs
+   * Synonyms: signatures, endorsements
+   * Antonyms: No antonyms available.
+ * automate
+   * Synonyms: mechanize, computerize
+   * Antonyms: manualize, humanize
+ * automatic
+   * Synonyms: self-acting, mechanical, effortless
+   * Antonyms: manual, deliberate, conscious
+ * automatically
+   * Synonyms: mechanically, spontaneously, involuntarily
+   * Antonyms: manually, deliberately, consciously
+ * automation
+   * Synonyms: mechanization, computerization, robotics
+   * Antonyms: manual operation
+ * automobile
+   * Synonyms: car, auto, motorcar
+   * Antonyms: No antonyms available.
+ * automotive
+   * Synonyms: motor, vehicle, car
+   * Antonyms: No antonyms available.
+ * autonomous
+   * Synonyms: independent, self-governing, sovereign
+   * Antonyms: dependent, subordinate, controlled
+ * autonomy
+   * Synonyms: independence, self-governance, sovereignty
+   * Antonyms: dependence, subordination, control
+ * autumn
+   * Synonyms: fall, harvest season
+   * Antonyms: spring, summer, winter
+ * auxiliary
+   * Synonyms: supplementary, backup, secondary
+   * Antonyms: primary, main, essential
+ * avail
+   * Synonyms: use, benefit, help
+   * Antonyms: hinder, disadvantage
+ * availability
+   * Synonyms: accessibility, presence, readiness
+   * Antonyms: unavailability, absence, scarcity
+ * available
+   * Synonyms: accessible, ready, obtainable
+   * Antonyms: unavailable, inaccessible, unobtainable
+ * avenge
+   * Synonyms: revenge, retaliate, vindicate
+   * Antonyms: forgive, pardon, excuse
+ * avenue
+   * Synonyms: road, street, path
+   * Antonyms: No antonyms available.
+ * average
+   * Synonyms: typical, normal, mean
+   * Antonyms: unusual, exceptional, extraordinary
+ * averse
+   * Synonyms: opposed, unwilling, reluctant
+   * Antonyms: inclined, willing, eager
+ * aversion
+   * Synonyms: dislike, hatred, distaste
+   * Antonyms: liking, fondness, attraction
+ * aviation
+   * No synonyms or antonyms available.
+ * avid
+   * Synonyms: keen, eager, enthusiastic
+   * Antonyms: apathetic, indifferent, reluctant
+ * avoid
+   * Synonyms: evade, shun, dodge
+   * Antonyms: confront, face, seek out
+ * avoided
+   * Synonyms: evaded, shunned, dodged
+   * Antonyms: confronted, faced, sought out
+ * avoiding
+   * Synonyms: evading, shunning, dodging
+   * Antonyms: confronting, facing, seeking out
+ * await
+   * Synonyms: wait for, anticipate, expect
+   * Antonyms: disregard, ignore, leave
+ * awaiting
+   * Synonyms: waiting for, anticipating, expecting
+   * Antonyms: disregarding, ignoring, leaving
+ * awake
+   * Synonyms: wakeful, conscious, alert
+   * Antonyms: asleep, sleeping, unconscious
+ * awaken
+   * Synonyms: rouse, wake up, stir
+   * Antonyms: sleep, put to sleep, sedate
+ * award
+   * Synonyms: prize, trophy, honor
+   * Antonyms: penalty, punishment, forfeiture
+ * awarded
+   * Synonyms: granted, given, conferred
+   * Antonyms: penalized, denied, refused
+ * aware
+   * Synonyms: conscious, knowledgeable, mindful
+   * Antonyms: unaware, ignorant, oblivious
+ * awareness
+   * Synonyms: consciousness, knowledge, mindfulness
+   * Antonyms: unawareness, ignorance, oblivion
+ * away
+   * Synonyms: absent, gone, from here
+   * Antonyms: here, present, nearby
+ * awayoff
+   * No synonyms or antonyms available.
+ * awe
+   * Synonyms: wonder, reverence, astonishment
+   * Antonyms: contempt, disrespect, indifference
+ * awful
+   * Synonyms: terrible, dreadful, horrible
+   * Antonyms: wonderful, great, excellent
+ * awfully
+   * Synonyms: terribly, dreadfully, horribly
+   * Antonyms: wonderfully, greatly, excellently
+ * awkward
+   * Synonyms: clumsy, ungraceful, difficult
+   * Antonyms: graceful, smooth, easy
+ * awkwardly
+   * Synonyms: clumsily, ungracefully, with difficulty
+   * Antonyms: gracefully, smoothly, easily
+ * ax
+   * Synonyms: axe, hatchet, cut
+   * Antonyms: No antonyms available.
+ * axes
+   * Synonyms: axes, hatchets, lines
+   * Antonyms: No antonyms available.
+ * axis
+   * Synonyms: line, pivot, center
+   * Antonyms: No antonyms available.
+ * axle
+   * No synonyms or antonyms available.
+ * b
+   * No synonyms or antonyms available.
+ * babe
+   * Synonyms: baby, infant, child
+   * Antonyms: adult, elder
+ * baby
+   * Synonyms: infant, babe, newborn
+   * Antonyms: adult, grown-up
+ * baby-sitter
+   * No synonyms or antonyms available.
+ * bachelor
+   * Synonyms: unmarried man, single man
+   * Antonyms: married man, husband
+ * back
+   * Synonyms: rear, behind, return
+   * Antonyms: front, forward, advance
+ * backbone
+   * Synonyms: spine, support, courage
+   * Antonyms: cowardice, weakness, spinelessness
+ * backdrop
+   * Synonyms: background, setting, scene
+   * Antonyms: foreground
+ * background
+   * Synonyms: setting, environment, history
+   * Antonyms: foreground, front, future
+ * backing
+   * Synonyms: support, endorsement, help
+   * Antonyms: opposition, hindrance, resistance
+ * backslide
+   * Synonyms: relapse, regress, revert
+   * Antonyms: progress, advance, improve
+ * backup
+   * Synonyms: support, reserve, alternative
+   * Antonyms: primary, main, original
+ * backward
+   * Synonyms: rearward, regressive, delayed
+   * Antonyms: forward, progressive, advanced
+ * backwards
+   * Synonyms: rearwards, in reverse, back
+   * Antonyms: forwards, ahead
+ * bacon
+   * No synonyms or antonyms available.
+ * bacteria
+   * No synonyms or antonyms available.
+ * bacterium
+   * No synonyms or antonyms available.
+ * bad
+   * Synonyms: poor, awful, terrible
+   * Antonyms: good, excellent, wonderful
+ * bad-tempered
+   * Synonyms: irritable, grumpy, cranky
+   * Antonyms: good-natured, amiable, cheerful
+ * badge
+   * Synonyms: pin, emblem, insignia
+   * Antonyms: No antonyms available.
+ * badly
+   * Synonyms: poorly, terribly, severely
+   * Antonyms: well, excellently, wonderfully
+ * badminton
+   * No synonyms or antonyms available.
+ * baffle
+   * Synonyms: confuse, perplex, mystify
+   * Antonyms: clarify, enlighten, explain
+ * bag
+   * Synonyms: sack, pouch, container
+   * Antonyms: No antonyms available.
+ * baggage
+   * Synonyms: luggage, suitcases, belongings
+   * Antonyms: No antonyms available.
+ * bags
+   * Synonyms: sacks, pouches, containers
+   * Antonyms: No antonyms available.
+ * bail
+   * Synonyms: bond, surety, release on bail
+   * Antonyms: imprison, detain, hold
+ * bait
+   * Synonyms: lure, enticement, decoy
+   * Antonyms: repellent, deterrent
+ * bake
+   * Synonyms: cook, roast, heat
+   * Antonyms: freeze, chill, cool
+ * balance
+   * Synonyms: equilibrium, stability, remainder
+   * Antonyms: imbalance, instability, unevenness
+ * balanced
+   * Synonyms: stable, equalized, harmonious
+   * Antonyms: unbalanced, unstable, uneven
+ * balcony
+   * Synonyms: terrace, veranda, deck
+   * Antonyms: No antonyms available.
+ * bald
+   * Synonyms: hairless, bare, uncovered
+   * Antonyms: hairy, covered, lush
+ * ball
+   * Synonyms: sphere, globe, orb
+   * Antonyms: No antonyms available.
+ * ballet
+   * No synonyms or antonyms available.
+ * balloon
+   * Synonyms: airship, inflate, expand
+   * Antonyms: deflate, shrink, contract
+ * ballot
+   * Synonyms: vote, poll, election
+   * Antonyms: No antonyms available.
+ * balloting
+   * Synonyms: voting, polling, electing
+   * Antonyms: No antonyms available.
+ * ballroom
+   * Synonyms: dance hall, grand hall
+   * Antonyms: No antonyms available.
+ * balls
+   * Synonyms: spheres, globes, orbs
+   * Antonyms: No antonyms available.
+ * bamboo
+   * No synonyms or antonyms available.
+ * ban
+   * Synonyms: prohibit, forbid, outlaw
+   * Antonyms: permit, allow, authorize
+ * band
+   * Synonyms: group, musical group, strap
+   * Antonyms: No antonyms available.
+ * bandage
+   * Synonyms: dressing, wrap, plaster
+   * Antonyms: No antonyms available.
+ * bandwidth
+   * No synonyms or antonyms available.
+ * baneful
+   * Synonyms: harmful, destructive, detrimental
+   * Antonyms: beneficial, helpful, constructive
+ * bang
+   * Synonyms: hit, strike, slam
+   * Antonyms: No antonyms available.
+ * bank
+   * Synonyms: financial institution, shore, riverbank
+   * Antonyms: No antonyms available.
+ * banker
+   * No synonyms or antonyms available.
+ * banking
+   * Synonyms: finance, monetary services
+   * Antonyms: No antonyms available.
+ * bankrupt
+   * Synonyms: insolvent, broke, ruined
+   * Antonyms: solvent, wealthy, prosperous
+ * banner
+   * Synonyms: flag, standard, sign
+   * Antonyms: No antonyms available.
+ * banquet
+   * Synonyms: feast, dinner, gala
+   * Antonyms: No antonyms available.
+ * baptism
+   * No synonyms or antonyms available.
+ * bar
+   * Synonyms: rod, block, obstacle
+   * Antonyms: allow, permit, open
+ * barber
+   * No synonyms or antonyms available.
+ * bare
+   * Synonyms: naked, uncovered, empty
+   * Antonyms: covered, clothed, full
+ * barely
+   * Synonyms: hardly, scarcely, just
+   * Antonyms: completely, fully, easily
+ * bargain
+   * Synonyms: deal, negotiation, good buy
+   * Antonyms: extravagance, rip-off, overcharge
+ * barge
+   * Synonyms: boat, vessel, flat-bottomed boat
+   * Antonyms: No antonyms available.
+ * bark
+   * Synonyms: shout, yelp, tree skin
+   * Antonyms: whisper, mutter
+ * barn
+   * Synonyms: shed, outbuilding, farmhouse
+   * Antonyms: No antonyms available.
+ * barometer
+   * No synonyms or antonyms available.
+ * baron
+   * No synonyms or antonyms available.
+ * barrel
+   * Synonyms: cask, drum, container
+   * Antonyms: No antonyms available.
+ * barren
+   * Synonyms: sterile, desolate, unproductive
+   * Antonyms: fertile, productive, lush
+ * barrier
+   * Synonyms: obstacle, obstruction, fence
+   * Antonyms: opening, passage, gateway
+ * bars
+   * Synonyms: rods, blocks, obstacles
+   * Antonyms: No antonyms available.
+ * barter
+   * Synonyms: trade, exchange, swap
+   * Antonyms: purchase, sell, buy
+ * base
+   * Synonyms: foundation, bottom, headquarters
+   * Antonyms: top, peak, apex
+ * baseball
+   * No synonyms or antonyms available.
+ * based
+   * Synonyms: founded, rooted, derived
+   * Antonyms: unfounded, baseless
+ * basement
+   * Synonyms: cellar, underground floor
+   * Antonyms: attic, loft, top floor
+ * bases
+   * Synonyms: foundations, bottoms, headquarters
+   * Antonyms: tops, peaks, apexes
+ * bashful
+   * Synonyms: shy, timid, reserved
+   * Antonyms: bold, confident, outgoing
+ * basic
+   * Synonyms: fundamental, essential, primary
+   * Antonyms: advanced, complex, secondary
+ * basically
+   * Synonyms: fundamentally, essentially, primarily
+   * Antonyms: superficially, partially
+ * basin
+   * Synonyms: bowl, container, sink
+   * Antonyms: No antonyms available.
+ * basis
+   * Synonyms: foundation, ground, premise
+   * Antonyms: No antonyms available.
+ * basket
+   * Synonyms: container, hamper, bin
+   * Antonyms: No antonyms available.
+ * bass
+   * Synonyms: low, deep, baritone
+   * Antonyms: high, treble, soprano
+ * bat
+   * Synonyms: club, stick, flittermouse
+   * Antonyms: No antonyms available.
+ * bath
+   * Synonyms: tub, wash, shower
+   * Antonyms: No antonyms available.
+ * bathe
+   * Synonyms: wash, clean, submerge
+   * Antonyms: dirty, soil, dry
+ * bathing
+   * Synonyms: washing, cleaning, swimming
+   * Antonyms: No antonyms available.
+ * bathroom
+   * Synonyms: lavatory, restroom, washroom
+   * Antonyms: No antonyms available.
+ * bats
+   * Synonyms: clubs, sticks, flittermice
+   * Antonyms: No antonyms available.
+ * batter
+   * Synonyms: hit, strike, assault
+   * Antonyms: protect, defend, shield
+ * battery
+   * Synonyms: cell, power pack, assault
+   * Antonyms: No antonyms available.
+ * battle
+   * Synonyms: fight, combat, struggle
+   * Antonyms: peace, truce, harmony
+ * battlefield
+   * Synonyms: battleground, war zone, front line
+   * Antonyms: No antonyms available.
+ * bay
+   * Synonyms: cove, inlet, gulf
+   * Antonyms: No antonyms available.
+ * bazaar
+   * Synonyms: market, marketplace, fair
+   * Antonyms: No antonyms available.
+ * be
+   * No synonyms or antonyms available.
+ * beach
+   * Synonyms: shore, coast, seaside
+   * Antonyms: No antonyms available.
+ * bead
+   * Synonyms: pearl, droplet, globule
+   * Antonyms: No antonyms available.
+ * beak
+   * Synonyms: bill, nose, snout
+   * Antonyms: No antonyms available.
+ * beam
+   * Synonyms: ray, shaft, girder
+   * Antonyms: No antonyms available.
+ * bean
+   * No synonyms or antonyms available.
+ * bear
+   * Synonyms: carry, endure, tolerate
+   * Antonyms: drop, release, give up
+ * beard
+   * Synonyms: whiskers, facial hair
+   * Antonyms: clean-shaven
+ * beards
+   * Synonyms: whiskers, facial hair
+   * Antonyms: No antonyms available.
+ * bearer
+   * Synonyms: carrier, holder, messenger
+   * Antonyms: No antonyms available.
+ * bearing
+   * Synonyms: demeanor, posture, relevance
+   * Antonyms: irrelevance, insignificance
+ * beast
+   * Synonyms: animal, creature, monster
+   * Antonyms: human, angel, beauty
+ * beat
+   * Synonyms: hit, strike, defeat
+   * Antonyms: lose, fail, surrender
+ * beating
+   * Synonyms: hitting, striking, defeating
+   * Antonyms: losing, failing, surrendering
+ * beats
+   * Synonyms: hits, strikes, defeats
+   * Antonyms: loses, fails, surrenders
+ * beautifies
+   * Synonyms: decorates, enhances, adorns
+   * Antonyms: disfigures, mars, spoils
+ * beautiful
+   * Synonyms: lovely, pretty, gorgeous
+   * Antonyms: ugly, hideous, plain
+ * beautifully
+   * Synonyms: lovely, exquisitely, gracefully
+   * Antonyms: ugly, hideously, crudely
+ * beautify
+   * Synonyms: adorn, enhance, decorate
+   * Antonyms: disfigure, mar, spoil
+ * beauty
+   * Synonyms: loveliness, attractiveness, prettiness
+   * Antonyms: ugliness, hideousness, plainness
+ * because
+   * Synonyms: since, as, for the reason that
+   * Antonyms: No antonyms available.
+ * become
+   * Synonyms: get, turn into, grow
+   * Antonyms: remain, stay, cease
+ * becoming
+   * Synonyms: turning into, fitting, suitable
+   * Antonyms: No antonyms available.
+ * bed
+   * Synonyms: sleeping place, couch, cot
+   * Antonyms: No antonyms available.
+ * bedding
+   * Synonyms: bedclothes, blankets, sheets
+   * Antonyms: No antonyms available.
+ * bedroom
+   * Synonyms: sleeping room, chamber
+   * Antonyms: No antonyms available.
+ * beech
+   * No synonyms or antonyms available.
+ * beef
+   * No synonyms or antonyms available.
+ * been
+   * No synonyms or antonyms available.
+ * beer
+   * No synonyms or antonyms available.
+ * bees
+   * No synonyms or antonyms available.
+ * befitting
+   * Synonyms: suitable, appropriate, proper
+   * Antonyms: unfitting, inappropriate, improper
+ * before
+   * Synonyms: prior to, earlier than, in front of
+   * Antonyms: after, subsequent to, behind
+ * beforehand
+   * Synonyms: in advance, ahead of time, earlier
+   * Antonyms: afterwards, later, subsequently
+ * beg
+   * Synonyms: plead, implore, entreat
+   * Antonyms: demand, insist, command
+ * begin
+   * Synonyms: start, commence, initiate
+   * Antonyms: end, finish, conclude
+ * beginner
+   * Synonyms: novice, learner, amateur
+   * Antonyms: expert, veteran, master
+ * beginning
+   * Synonyms: start, commencement, outset
+   * Antonyms: end, conclusion, finish
+ * begins
+   * Synonyms: starts, commences, initiates
+   * Antonyms: ends, finishes, concludes
+ * behalf
+   * Synonyms: sake, interest, support
+   * Antonyms: No antonyms available.
+ * behave
+   * Synonyms: act, conduct oneself, deport
+   * Antonyms: misbehave, misconduct
+ * behaved
+   * Synonyms: acted, conducted oneself, deported
+   * Antonyms: misbehaved, misconducted
+ * behavior
+   * Synonyms: conduct, demeanor, actions
+   * Antonyms: No antonyms available.
+ * behaviour
+   * Synonyms: conduct, demeanor, actions
+   * Antonyms: No antonyms available.
+ * behind
+   * Synonyms: at the rear of, after, in back of
+   * Antonyms: in front of, ahead, before
+ * being
+   * Synonyms: existence, entity, living
+   * Antonyms: nonexistence, non-living
+ * beings
+   * Synonyms: entities, creatures, organisms
+   * Antonyms: No antonyms available.
+ * belief
+   * Synonyms: faith, conviction, opinion
+   * Antonyms: disbelief, doubt, skepticism
+ * beliefs
+   * Synonyms: faiths, convictions, opinions
+   * Antonyms: disbeliefs, doubts, skepticism
+ * believe
+   * Synonyms: trust, accept, have faith
+   * Antonyms: doubt, disbelieve, question
+ * believed
+   * Synonyms: trusted, accepted, had faith in
+   * Antonyms: doubted, disbelieved, questioned
+ * believer
+   * Synonyms: follower, adherent, devotee
+   * Antonyms: unbeliever, skeptic, doubter
+ * belittle
+   * Synonyms: criticize, disparage, mock
+   * Antonyms: praise, commend, magnify
+ * bell
+   * Synonyms: chime, signal, ring
+   * Antonyms: No antonyms available.
+ * bellow
+   * Synonyms: shout, roar, holler
+   * Antonyms: whisper, murmur, speak softly
+ * belly
+   * Synonyms: stomach, abdomen, gut
+   * Antonyms: back
+ * belong
+   * Synonyms: be a part of, be owned by, fit in
+   * Antonyms: be excluded, be separate, be an outsider
+ * belonging
+   * Synonyms: membership, association, possession
+   * Antonyms: exclusion, separation, alienation
+ * belongings
+   * Synonyms: possessions, property, effects
+   * Antonyms: No antonyms available.
+ * beloved
+   * Synonyms: dear, cherished, adored
+   * Antonyms: hated, detested, despised
+ * below
+   * Synonyms: under, beneath, lower than
+   * Antonyms: above, over, on top of
+ * belt
+   * Synonyms: strap, sash, girdle
+   * Antonyms: No antonyms available.
+ * bench
+   * Synonyms: seat, pew, workstation
+   * Antonyms: No antonyms available.
+ * benchmark
+   * Synonyms: standard, criterion, yardstick
+   * Antonyms: No antonyms available.
+ * bend
+   * Synonyms: curve, flex, stoop
+   * Antonyms: straighten, unbend, stiffen
+ * bending
+   * Synonyms: curving, flexing, stooping
+   * Antonyms: straightening, unbending, stiffening
+ * bends
+   * Synonyms: curves, flexes, stoops
+   * Antonyms: straightens, unbends, stiffens
+ * beneath
+   * Synonyms: under, below, underneath
+   * Antonyms: above, over, on top of
+ * benefactor
+   * Synonyms: patron, sponsor, donor
+   * Antonyms: opponent, detractor, harmer
+ * beneficent
+   * Synonyms: benevolent, kind, charitable
+   * Antonyms: malevolent, unkind, cruel
+ * beneficial
+   * Synonyms: advantageous, helpful, favorable
+   * Antonyms: detrimental, harmful, disadvantageous
+ * beneficiary
+   * Synonyms: recipient, heir, receiver
+   * Antonyms: benefactor, donor, giver
+ * benefit
+   * Synonyms: advantage, help, profit
+   * Antonyms: disadvantage, harm, loss
+ * benefits
+   * Synonyms: advantages, helps, profits
+   * Antonyms: disadvantages, harms, losses
+ * benevolent
+   * Synonyms: kind, generous, compassionate
+   * Antonyms: malevolent, unkind, cruel
+ * bent
+   * Synonyms: curved, crooked, flexed
+   * Antonyms: straight, unbent, rigid
+ * bequest
+   * Synonyms: legacy, inheritance, endowment
+   * Antonyms: No antonyms available.
+ * berry
+   * No synonyms or antonyms available.
+ * beset
+   * Synonyms: trouble, plague, surround
+   * Antonyms: relieve, free, aid
+ * beside
+   * Synonyms: next to, alongside, by
+   * Antonyms: away from, separate from
+ * besides
+   * Synonyms: in addition to, also, moreover
+   * Antonyms: No antonyms available.
+ * best
+   * Synonyms: finest, excellent, superior
+   * Antonyms: worst, poorest, inferior
+ * bestow
+   * Synonyms: give, grant, confer
+   * Antonyms: withhold, refuse, deny
+ * bet
+   * Synonyms: wager, gamble, speculate
+   * Antonyms: No antonyms available.
+ * betray
+   * Synonyms: deceive, double-cross, backstab
+   * Antonyms: support, be loyal to, be faithful to
+ * betrayal
+   * Synonyms: treachery, disloyalty, deceit
+   * Antonyms: loyalty, faithfulness, allegiance
+ * betrays
+   * Synonyms: deceives, double-crosses, backstabs
+   * Antonyms: supports, is loyal to, is faithful to
+ * better
+   * Synonyms: superior, improved, preferable
+   * Antonyms: worse, inferior, poorer
+ * betting
+   * Synonyms: wagering, gambling, speculating
+   * Antonyms: No antonyms available.
+ * between
+   * Synonyms: among, in the middle of
+   * Antonyms: No antonyms available.
+ * beverage
+   * Synonyms: drink, liquid, refreshment
+   * Antonyms: food
+ * bewilder
+   * Synonyms: confuse, perplex, puzzle
+   * Antonyms: clarify, enlighten, explain
+ * bewildering
+   * Synonyms: confusing, perplexing, puzzling
+   * Antonyms: clear, understandable, simple
+ * beyond
+   * Synonyms: past, outside of, further than
+   * Antonyms: within, inside, here
+ * bias
+   * Synonyms: prejudice, partiality, favoritism
+   * Antonyms: impartiality, fairness, objectivity
+ * biased
+   * Synonyms: prejudiced, partial, one-sided
+   * Antonyms: impartial, fair, objective
+ * bible
+   * No synonyms or antonyms available.
+ * bicycle
+   * Synonyms: bike, two-wheeler, cycle
+   * Antonyms: No antonyms available.
+ * bid
+   * Synonyms: offer, proposal, tender
+   * Antonyms: No antonyms available.
+ * bidder
+   * Synonyms: offerer, contender, prospect
+   * Antonyms: No antonyms available.
+ * big
+   * Synonyms: large, huge, immense
+   * Antonyms: small, tiny, little
+ * bike
+   * Synonyms: bicycle, cycle, two-wheeler
+   * Antonyms: No antonyms available.
+ * bill
+   * Synonyms: invoice, statement, legislation
+   * Antonyms: No antonyms available.
+ * billion
+   * No synonyms or antonyms available.
+ * bills
+   * Synonyms: invoices, statements, legislation
+   * Antonyms: No antonyms available.
+ * bin
+   * Synonyms: container, box, receptacle
+   * Antonyms: No antonyms available.
+ * binary
+   * Synonyms: dual, two-part, dichotomous
+   * Antonyms: singular, monolithic
+ * bind
+   * Synonyms: tie, fasten, obligate
+   * Antonyms: unbind, release, untie
+ * binding
+   * Synonyms: obligatory, restrictive, fastener
+   * Antonyms: non-binding, optional, loose
+ * binds
+   * Synonyms: ties, fastens, obligates
+   * Antonyms: unbinds, releases, unties
+ * biographer
+   * No synonyms or antonyms available.
+ * biographical
+   * No synonyms or antonyms available.
+ * biography
+   * Synonyms: life story, memoir
+   * Antonyms: autobiography
+ * biological
+   * Synonyms: living, organic, natural
+   * Antonyms: inorganic, mechanical, artificial
+ * biologist
+   * No synonyms or antonyms available.
+ * biology
+   * No synonyms or antonyms available.
+ * bird
+   * No synonyms or antonyms available.
+ * birds
+   * No synonyms or antonyms available.
+ * birth
+   * Synonyms: beginning, origin, genesis
+   * Antonyms: death, end, conclusion
+ * birthday
+   * No synonyms or antonyms available.
+ * biscuit
+   * Synonyms: cookie, cracker, scone
+   * Antonyms: No antonyms available.
+ * bishop
+   * No synonyms or antonyms available.
+ * bishop's
+   * No synonyms or antonyms available.
+ * bit
+   * Synonyms: small piece, morsel, a little
+   * Antonyms: whole, lot, entirety
+ * bite
+   * Synonyms: chew, gnaw, sting
+   * Antonyms: No antonyms available.
+ * bits
+   * Synonyms: pieces, fragments, parts
+   * Antonyms: wholes, lots, entireties
+ * bitter
+   * Synonyms: sharp, harsh, acrimonious
+   * Antonyms: sweet, pleasant, amiable
+ * bitterly
+   * Synonyms: harshly, acrimoniously, resentfully
+   * Antonyms: sweetly, pleasantly, amiably
+ * bitterness
+   * Synonyms: sharpness, acrimony, resentment
+   * Antonyms: sweetness, pleasantness, amiability
