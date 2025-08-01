@@ -147,7 +147,6 @@ A:
  * abusing
    * Synonyms: misusing, mistreating, harming
    * Antonyms: caring for, helping, treating well
-Here are words 51-100 from the provided list, along with their synonyms and antonyms:
  * abusive
    * Synonyms: insulting, offensive, cruel
    * Antonyms: kind, complimentary, gentle
@@ -297,3 +296,281 @@ Here are words 51-100 from the provided list, along with their synonyms and anto
  * accused
    * Synonyms: charged, blamed, defendant
    * Antonyms: innocent, absolved, acquitted
+ * acer
+   * No synonyms or antonyms available.
+ * achieve
+   * Synonyms: accomplish, attain, realize
+   * Antonyms: fail, lose, miss
+ * achievement
+   * Synonyms: accomplishment, success, feat
+   * Antonyms: failure, defeat, shortcoming
+ * achievements
+   * Synonyms: accomplishments, successes, feats
+   * Antonyms: failures, defeats, shortcomings
+ * achieving
+   * Synonyms: accomplishing, attaining, realizing
+   * Antonyms: failing, losing, missing
+ * acid
+   * Synonyms: sour, sharp, biting
+   * Antonyms: alkaline, sweet, mild
+ * acknowledge
+   * Synonyms: admit, concede, recognize
+   * Antonyms: deny, refuse, reject
+ * acknowledged
+   * Synonyms: admitted, recognized, confessed
+   * Antonyms: denied, unacknowledged, unrecognized
+ * acknowledging
+   * Synonyms: admitting, recognizing, confessing
+   * Antonyms: denying, rejecting, disavowing
+ * acknowledgment
+   * Synonyms: recognition, admission, concession
+   * Antonyms: denial, refusal, rejection
+ * acorns
+   * No synonyms or antonyms available.
+ * acoustic
+   * Synonyms: auditory, sonic, sound
+   * Antonyms: No antonyms available.
+ * acoustics
+   * No synonyms or antonyms available.
+ * acquaint
+   * Synonyms: familiarize, introduce, inform
+   * Antonyms: unfamiliarize, estrange, conceal
+ * acquaintance
+   * Synonyms: familiarity, knowledge, associate
+   * Antonyms: unfamiliarity, ignorance, stranger
+ * acquainted
+   * Synonyms: familiar, knowledgeable, introduced
+   * Antonyms: unfamiliar, ignorant, unacquainted
+ * acquiesce
+   * Synonyms: consent, agree, comply
+   * Antonyms: object, resist, disagree
+ * acquire
+   * Synonyms: obtain, get, gain
+   * Antonyms: lose, forfeit, surrender
+ * acquired
+   * Synonyms: obtained, gained, learned
+   * Antonyms: lost, forfeited, innate
+ * acquiring
+   * Synonyms: obtaining, gaining, getting
+   * Antonyms: losing, forfeiting, surrendering
+ * acquisition
+   * Synonyms: obtainment, purchase, gain
+   * Antonyms: loss, relinquishment, forfeiture
+ * acquit
+   * Synonyms: absolve, exonerate, clear
+   * Antonyms: convict, condemn, blame
+ * acre
+   * No synonyms or antonyms available.
+ * acrid
+   * Synonyms: bitter, sharp, pungent
+   * Antonyms: savory, pleasant, sweet
+ * acrididae
+   * No synonyms or antonyms available.
+ * acrimonious
+   * Synonyms: bitter, hostile, angry
+   * Antonyms: friendly, harmonious, pleasant
+ * acrobats
+   * No synonyms or antonyms available.
+ * across
+   * Synonyms: over, to the other side of, through
+   * Antonyms: No antonyms available.
+ * act
+   * Synonyms: perform, do, behave
+   * Antonyms: refrain, abstain, cease
+ * acting
+   * Synonyms: performing, doing, behaving
+   * Antonyms: refraining, ceasing, inactive
+ * action
+   * Synonyms: deed, activity, operation
+   * Antonyms: inaction, passivity, idleness
+ * actions
+   * Synonyms: deeds, activities, operations
+   * Antonyms: inactions, passivity, idleness
+ * activate
+   * Synonyms: start, initiate, trigger
+   * Antonyms: deactivate, stop, turn off
+ * activation
+   * Synonyms: initiation, starting, triggering
+   * Antonyms: deactivation, stopping, cessation
+ * active
+   * Synonyms: energetic, busy, lively
+   * Antonyms: inactive, passive, lazy
+ * actively
+   * Synonyms: energetically, busily, vigorously
+   * Antonyms: passively, idly, lazily
+ * activist
+   * Synonyms: advocate, campaigner, protester
+   * Antonyms: No antonyms available.
+ * activities
+   * Synonyms: actions, pursuits, undertakings
+   * Antonyms: inactivities, idleness, leisure
+ * activity
+   * Synonyms: action, motion, movement
+   * Antonyms: inactivity, stillness, idleness
+ * actor
+   * Synonyms: performer, player, thespian
+   * Antonyms: No antonyms available.
+ * actress
+   * Synonyms: female actor, performer, thespian
+   * Antonyms: No antonyms available.
+ * acts
+   * Synonyms: deeds, actions, laws
+   * Antonyms: No antonyms available.
+ * actual
+   * Synonyms: real, genuine, true
+   * Antonyms: false, fictional, hypothetical
+ * actually
+   * Synonyms: really, in fact, truly
+   * Antonyms: supposedly, theoretically, falsely
+ * actuating
+   * Synonyms: motivating, causing, driving
+   * Antonyms: inhibiting, stopping, preventing
+ * acute
+   * Synonyms: sharp, severe, keen
+   * Antonyms: dull, mild, chronic
+ * acutely
+   * Synonyms: sharply, severely, keenly
+   * Antonyms: dully, mildly, faintly
+ * acuteness
+   * Synonyms: sharpness, severity, keenness
+   * Antonyms: dullness, mildness, obtuseness
+ * ad
+   * Synonyms: advertisement, commercial, notice
+   * Antonyms: No antonyms available.
+ * adapt
+   * Synonyms: adjust, modify, conform
+   * Antonyms: maladapt, resist, maintain
+ * adaptable
+   * Synonyms: flexible, versatile, adjustable
+   * Antonyms: inflexible, rigid, unchangeable
+ * adaptation
+   * Synonyms: adjustment, modification, change
+   * Antonyms: maladaptation, persistence, rigidity
+ * add
+   * Synonyms: append, include, increase
+   * Antonyms: subtract, remove, decrease
+ * added
+   * Synonyms: included, appended, increased
+   * Antonyms: subtracted, removed, decreased
+ * addicted
+   * Synonyms: dependent, hooked, devoted
+   * Antonyms: unaddicted, independent, detached
+ * addiction
+   * Synonyms: dependence, habit, craving
+   * Antonyms: independence, detachment, moderation
+ * adding
+   * Synonyms: including, appending, increasing
+   * Antonyms: subtracting, removing, decreasing
+ * addition
+   * Synonyms: supplement, increase, extension
+   * Antonyms: subtraction, decrease, reduction
+ * additional
+   * Synonyms: extra, supplementary, further
+   * Antonyms: primary, main, basic
+ * additionally
+   * Synonyms: furthermore, moreover, in addition
+   * Antonyms: No antonyms available.
+ * additive
+   * Synonyms: supplement, adjunct, component
+   * Antonyms: No antonyms available.
+ * address
+   * Synonyms: speak to, direct to, residence
+   * Antonyms: No antonyms available.
+ * adduce
+   * Synonyms: cite, present, offer
+   * Antonyms: conceal, withhold, suppress
+ * adept
+   * Synonyms: skilled, proficient, expert
+   * Antonyms: unskilled, clumsy, amateur
+ * adequate
+   * Synonyms: sufficient, enough, satisfactory
+   * Antonyms: inadequate, insufficient, lacking
+ * adequately
+   * Synonyms: sufficiently, enough, satisfactorily
+   * Antonyms: inadequately, insufficiently, poorly
+ * adhere
+   * Synonyms: stick, cling, follow
+   * Antonyms: detach, separate, abandon
+ * adhering
+   * Synonyms: sticking, clinging, following
+   * Antonyms: detaching, separating, abandoning
+ * adhesive
+   * Synonyms: sticky, clinging, gum
+   * Antonyms: No antonyms available.
+ * adjacent
+   * Synonyms: next to, adjoining, neighboring
+   * Antonyms: distant, separate, remote
+ * adjoin
+   * Synonyms: connect, border, abut
+   * Antonyms: separate, detach, disconnect
+ * adjoining
+   * Synonyms: connected, bordering, adjacent
+   * Antonyms: separated, detached, distant
+ * adjournment
+   * Synonyms: suspension, postponement, recess
+   * Antonyms: continuation, reconvening, session
+ * adjudged
+   * Synonyms: judged, decided, decreed
+   * Antonyms: No antonyms available.
+ * adjust
+   * Synonyms: modify, adapt, alter
+   * Antonyms: leave alone, fix, dislocate
+ * adjusting
+   * Synonyms: modifying, adapting, altering
+   * Antonyms: leaving alone, fixing, dislocating
+ * adjustment
+   * Synonyms: modification, adaptation, alteration
+   * Antonyms: maladjustment, unsuitability, rigidity
+ * admin
+   * No synonyms or antonyms available.
+ * administer
+   * Synonyms: manage, supervise, govern
+   * Antonyms: mismanage, neglect, resign
+ * administration
+   * Synonyms: management, governance, control
+   * Antonyms: mismanagement, anarchy, disorder
+ * administrative
+   * Synonyms: managerial, executive, supervisory
+   * Antonyms: No antonyms available.
+ * administrator
+   * Synonyms: manager, director, executive
+   * Antonyms: No antonyms available.
+ * admirable
+   * Synonyms: praiseworthy, commendable, excellent
+   * Antonyms: contemptible, deplorable, reprehensible
+ * admiration
+   * Synonyms: respect, esteem, awe
+   * Antonyms: contempt, disdain, scorn
+ * admire
+   * Synonyms: respect, esteem, look up to
+   * Antonyms: despise, scorn, look down on
+ * admired
+   * Synonyms: respected, esteemed, praised
+   * Antonyms: despised, scorned, criticized
+ * admission
+   * Synonyms: entry, admittance, confession
+   * Antonyms: exclusion, denial, rejection
+ * admit
+   * Synonyms: confess, acknowledge, allow
+   * Antonyms: deny, reject, exclude
+ * admits
+   * Synonyms: confesses, acknowledges, allows
+   * Antonyms: denies, rejects, excludes
+ * admittance
+   * Synonyms: entry, access, permission
+   * Antonyms: denial, refusal, exclusion
+ * admitted
+   * Synonyms: confessed, acknowledged, allowed in
+   * Antonyms: denied, rejected, excluded
+ * admittedly
+   * Synonyms: confessedly, undeniably, without doubt
+   * Antonyms: No antonyms available.
+ * admixture
+   * Synonyms: mixture, blend, composite
+   * Antonyms: separation, purification, unmixed
+ * adolescence
+   * Synonyms: youth, teen years, puberty
+   * Antonyms: adulthood, infancy, maturity
+ * adolescent
+   * Synonyms: teenager, young person, juvenile
+   * Antonyms: adult, child, infant
