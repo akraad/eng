@@ -2,40 +2,46 @@
 <html lang="fa" dir="rtl">
 <head>
   <meta charset="UTF-8">
-  <title>تحلیل سطح لغات</title>
+  <title>تحلیل سطح و نوع لغات</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css" rel="stylesheet">
   <style>
     body {
       font-family: 'Vazir', sans-serif;
-      background: #f5f7fa;
-      padding: 20px;
+      margin: 0;
+      background: #e8f0fe;
       color: #333;
+      padding: 15px;
     }
     .container {
-      max-width: 600px;
-      margin: auto;
-      background: #fff;
+      max-width: 100%;
+      background: #ffffff;
       padding: 20px;
       border-radius: 16px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     }
     h2 {
       text-align: center;
-      color: #005f73;
-      margin-bottom: 20px;
+      color: #0a539b;
+      margin-bottom: 25px;
+      font-size: 20px;
     }
     input[type="file"] {
       width: 100%;
-      padding: 10px;
-      margin-bottom: 20px;
+      padding: 12px;
+      font-size: 16px;
+      border-radius: 12px;
       border: 1px solid #ccc;
-      border-radius: 10px;
+      margin-bottom: 20px;
+      box-sizing: border-box;
     }
     .section-title {
-      margin-top: 30px;
       font-weight: bold;
-      font-size: 18px;
-      color: #0a9396;
+      margin-top: 25px;
+      font-size: 17px;
+      color: #11698e;
+      border-bottom: 2px solid #bde0fe;
+      padding-bottom: 4px;
     }
     ul {
       list-style: none;
@@ -43,15 +49,29 @@
       margin-top: 10px;
     }
     li {
-      padding: 8px 12px;
-      background: #f0f9ff;
-      border: 1px solid #d1e9f5;
+      background: #f1f9ff;
+      margin: 6px 0;
+      padding: 10px;
       border-radius: 8px;
-      margin-bottom: 8px;
+      border: 1px solid #d7eefe;
+      font-size: 15px;
+    }
+    .total {
+      font-weight: bold;
+      background: #caf0f8;
+      padding: 12px;
+      border-radius: 10px;
+      text-align: center;
+      font-size: 16px;
+      margin-top: 10px;
+      margin-bottom: 25px;
     }
     @media (max-width: 600px) {
-      .container {
-        padding: 15px;
+      body {
+        padding: 10px;
+      }
+      h2 {
+        font-size: 18px;
       }
     }
   </style>
@@ -59,7 +79,7 @@
 <body>
 
 <div class="container">
-  <h2>تحلیل سطح و نوع کلمات</h2>
+  <h2>تحلیل فایل لغات</h2>
   <input type="file" id="fileInput" accept=".txt">
   <div id="output"></div>
 </div>
@@ -79,6 +99,7 @@ document.getElementById('fileInput').addEventListener('change', function(e) {
 
 function analyzeLines(lines) {
   const total = lines.length;
+
   const levels = ["A1", "A2", "B1", "B2", "C1", "C2"];
   const freqs  = ["XV1", "XV2", "XV3", "XV4", "XV5", "XV6"];
   const types  = ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7", "Q8"];
@@ -91,37 +112,35 @@ function analyzeLines(lines) {
     const parts = line.split(' - ');
     if (parts.length >= 5) {
       const level = parts[1].trim();
-      const freq  = parts[2].trim();
-      const type  = parts[3].trim();
+      const freq = parts[2].trim();
+      const type = parts[3].trim();
 
       if (levelCounts[level] !== undefined) levelCounts[level]++;
-      if (freqCounts[freq]   !== undefined) freqCounts[freq]++;
-      if (typeCounts[type]   !== undefined) typeCounts[type]++;
+      if (freqCounts[freq] !== undefined) freqCounts[freq]++;
+      if (typeCounts[type] !== undefined) typeCounts[type]++;
     }
   });
 
   let html = '';
+  html += `<div class="total">تعداد کل لغات: ${total}</div>`;
 
-  // سطح کلمات
-  html += `<div class="section-title">سطح کلمات:</div><ul>`;
+  html += `<div class="section-title">سطح کلمات (CEFR):</div><ul>`;
   levels.forEach(level => {
     const count = levelCounts[level];
     const percent = ((count / total) * 100).toFixed(1);
-    html += `<li>${level} - ${count} (${percent}%)</li>`;
+    html += `<li>${level}: ${count} لغت (${percent}%)</li>`;
   });
   html += `</ul>`;
 
-  // میزان رایج بودن
-  html += `<div class="section-title">سطح رایج بودن کلمات:</div><ul>`;
+  html += `<div class="section-title">سطح رایج بودن (Frequency):</div><ul>`;
   freqs.forEach(freq => {
     const count = freqCounts[freq];
     const percent = ((count / total) * 100).toFixed(1);
-    html += `<li>${freq} - ${count} (${percent}%)</li>`;
+    html += `<li>${freq}: ${count} لغت (${percent}%)</li>`;
   });
   html += `</ul>`;
 
-  // نوع کلمات
-  html += `<div class="section-title">نوع کلمات:</div><ul>`;
+  html += `<div class="section-title">نوع کلمات (Part of Speech):</div><ul>`;
   const typeLabels = {
     Q1: "اسم (noun)", Q2: "صفت (adjective)", Q3: "ضمیر (pronoun)", Q4: "فعل (verb)",
     Q5: "قید (adverb)", Q6: "حرف اضافه (preposition)", Q7: "حرف ربط (conjunction)", Q8: "حرف ندا (interjection)"
@@ -129,7 +148,7 @@ function analyzeLines(lines) {
   types.forEach(type => {
     const count = typeCounts[type];
     const percent = ((count / total) * 100).toFixed(1);
-    html += `<li>${typeLabels[type]} - ${count} (${percent}%)</li>`;
+    html += `<li>${typeLabels[type]} - ${type}: ${count} لغت (${percent}%)</li>`;
   });
   html += `</ul>`;
 
