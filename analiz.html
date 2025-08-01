@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>تحلیل فایل لغات انگلیسی</title>
+  <style>
+    body { font-family: sans-serif; direction: rtl; padding: 20px; background: #f9f9f9; }
+    textarea { width: 100%; height: 200px; }
+    .result { margin-top: 20px; background: #fff; padding: 10px; border: 1px solid #ccc; }
+  </style>
+</head>
+<body>
+
+<h2>آپلود فایل لغات متنی (.txt)</h2>
+<input type="file" id="fileInput" accept=".txt">
+<div class="result" id="output"></div>
+
+<script>
+  // دیتابیس تستی اولیه (کاملش کن)
+  const wordData = {
+    "go":       { level: "A1", freq: "XV1", type: "Q4" },
+    "come":     { level: "A1", freq: "XV1", type: "Q4" },
+    "want":     { level: "A1", freq: "XV1", type: "Q4" },
+    "good":     { level: "A1", freq: "XV1", type: "Q2" },
+    "travel":   { level: "A2", freq: "XV2", type: "Q4" },
+    "explain":  { level: "B1", freq: "XV2", type: "Q4" },
+    "important":{ level: "B1", freq: "XV2", type: "Q2" },
+    "increase": { level: "B2", freq: "XV3", type: "Q4" },
+    "policy":   { level: "B2", freq: "XV3", type: "Q1" },
+    "assume":   { level: "C1", freq: "XV4", type: "Q4" },
+    "algorithm":{ level: "C2", freq: "XV6", type: "Q1" }
+  };
+
+  document.getElementById('fileInput').addEventListener('change', function(e) {
+    const file = e.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = function(event) {
+      const text = event.target.result;
+      const words = [...new Set(text.toLowerCase().split(/\W+/).filter(Boolean))];
+      analyzeWords(words);
+    };
+    reader.readAsText(file);
+  });
+
+  function analyzeWords(words) {
+    const levels = { A1:0, A2:0, B1:0, B2:0, C1:0, C2:0 };
+    const freqs  = { XV1:0, XV2:0, XV3:0, XV4:0, XV5:0, XV6:0 };
+    const types  = { Q1:0, Q2:0, Q3:0, Q4:0, Q5:0, Q6:0, Q7:0, Q8:0 };
+
+    let unknown = [];
+
+    words.forEach(word => {
+      const info = wordData[word];
+      if (info) {
+        if (levels[info.level]) levels[info.level]++;
+        else levels[info.level] = 1;
+
+        if (freqs[info.freq]) freqs[info.freq]++;
+        else freqs[info.freq] = 1;
+
+        if (types[info.type]) types[info.type]++;
+        else types[info.type] = 1;
+      } else {
+        unknown.push(word);
+      }
+    });
+
+    let html = `<h3>تحلیل فایل</h3>`;
+    html += `<b>تعداد کل کلمات: ${words.length}</b><br><br>`;
+
+    html += `<b>تعداد کلمات بر اساس سطح:</b><ul>`;
+    for (let level in levels) {
+      html += `<li>${level}: ${levels[level]}</li>`;
+    }
+    html += `</ul>`;
+
+    html += `<b>تعداد کلمات بر اساس میزان رایج بودن:</b><ul>`;
+    for (let f in freqs) {
+      html += `<li>${f}: ${freqs[f]}</li>`;
+    }
+    html += `</ul>`;
+
+    html += `<b>تعداد کلمات بر اساس نوع:</b><ul>`;
+    for (let t in types) {
+      html += `<li>${t}: ${types[t]}</li>`;
+    }
+    html += `</ul>`;
+
+    html += `<b>کلمات ناشناخته (${unknown.length}):</b><br>${unknown.join(', ')}`;
+
+    document.getElementById('output').innerHTML = html;
+  }
+</script>
+
+</body>
+</html>
