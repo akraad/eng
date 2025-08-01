@@ -598,3 +598,605 @@ Examples:
    کودک از مردی که سگش را آزار می‌داد، می‌ترسید.
  * Abusing the hospitality of others is not a good thing.
    سوء استفاده از مهمان‌نوازی دیگران کار خوبی نیست.
+ID: ID51 (IDTX: 49) - C1 - XV5 - Q2 - abusive (توهین‌آمیز، پرخاشگر)
+Examples:
+ * The manager was fired for his abusive behavior toward his employees.
+   مدیر به دلیل رفتار توهین‌آمیز با کارمندانش اخراج شد.
+ * She left her partner because of his abusive words.
+   او به دلیل کلمات توهین‌آمیز همسرش، او را ترک کرد.
+ * The witness described the abusive language used by the suspect.
+   شاهد، زبان توهین‌آمیزی که توسط مظنون استفاده شده بود را توصیف کرد.
+ * An abusive relationship is harmful to one's mental health.
+   یک رابطه پرخاشگرانه برای سلامت روان مضر است.
+ * We have a zero-tolerance policy for abusive conduct.
+   ما یک سیاست تحمل صفر برای رفتارهای توهین‌آمیز داریم.
+ID: ID52 (IDTX: 52) - B2 - XV3 - Q2 - academic (دانشگاهی، آکادمیک)
+Examples:
+ * He has a strong academic background in science.
+   او یک پیشینه آکادمیک قوی در علم دارد.
+ * The university has a good reputation for its academic programs.
+   دانشگاه به خاطر برنامه‌های آکادمیکش شهرت خوبی دارد.
+ * The research paper was published in a prestigious academic journal.
+   مقاله تحقیقاتی در یک مجله آکادمیک معتبر منتشر شد.
+ * She is focusing on her academic career.
+   او روی شغل آکادمیکش تمرکز کرده است.
+ * We discussed the topic from a purely academic perspective.
+   ما در مورد موضوع از یک دیدگاه کاملاً آکادمیک بحث کردیم.
+ID: ID53 (IDTX: 52) - C2 - XV6 - Q1 - academicals (لباس دانشگاهی، لباس فارغ‌التحصیلی)
+Examples:
+ * The graduates were all dressed in their academicals.
+   فارغ‌التحصیلان همه لباس‌های دانشگاهی خود را پوشیده بودند.
+ * Wearing academicals is a long-standing tradition at this university.
+   پوشیدن لباس‌های دانشگاهی یک سنت دیرینه در این دانشگاه است.
+ * The professor put on his academicals before the ceremony.
+   استاد قبل از مراسم لباس دانشگاهی خود را پوشید.
+ * The students had to hire their academicals for the graduation day.
+   دانشجویان مجبور بودند لباس‌های دانشگاهی خود را برای روز فارغ‌التحصیلی اجاره کنند.
+ * The collection of old photographs showed students in their traditional academicals.
+   مجموعه عکس‌های قدیمی دانشجویان را با لباس‌های دانشگاهی سنتی‌شان نشان می‌داد.
+ID: ID54 (IDTX: 54) - B1 - XV2 - Q1 - academy (آکادمی، فرهنگستان)
+Examples:
+ * She is a student at the Royal Academy of Music.
+   او دانش‌آموز آکادمی سلطنتی موسیقی است.
+ * The film was nominated for an Academy Award.
+   این فیلم نامزد جایزه آکادمی شد.
+ * The police academy trains new officers.
+   آکادمی پلیس افسران جدید را آموزش می‌دهد.
+ * He was elected to the National Academy of Sciences.
+   او به عضویت فرهنگستان ملی علوم درآمد.
+ * The art academy is hosting a special exhibition.
+   آکادمی هنر در حال برگزاری یک نمایشگاه ویژه است.
+ID: ID55 (IDTX: 55) - C2 - XV6 - Q4 - accede (موافقت کردن، به سلطنت رسیدن)
+Examples:
+ * The government will not accede to the protesters' demands.
+   دولت با خواسته‌های معترضین موافقت نخواهد کرد.
+ * The prince will accede to the throne after the death of the king.
+   شاهزاده پس از مرگ پادشاه به سلطنت خواهد رسید.
+ * He was forced to accede to the terms of the treaty.
+   او مجبور شد با شرایط پیمان موافقت کند.
+ * The committee will accede to the request for more funding.
+   کمیته با درخواست بودجه بیشتر موافقت خواهد کرد.
+ * The queen acceded to power at a young age.
+   ملکه در سن جوانی به قدرت رسید.
+ID: ID56 (IDTX: 56) - B2 - XV4 - Q4 - accelerate (شتاب دادن، تسریع کردن)
+Examples:
+ * The car accelerated as it entered the highway.
+   ماشین هنگام ورود به بزرگراه شتاب گرفت.
+ * We need to accelerate the process to meet the deadline.
+   ما باید فرآیند را تسریع کنیم تا به موعد مقرر برسیم.
+ * The new policy is designed to accelerate economic growth.
+   سیاست جدید برای تسریع رشد اقتصادی طراحی شده است.
+ * The rocket continued to accelerate into space.
+   موشک به شتاب گرفتن به سمت فضا ادامه داد.
+ * Learning a new language can be accelerated with daily practice.
+   یادگیری یک زبان جدید را می‌توان با تمرین روزانه تسریع کرد.
+ID: ID57 (IDTX: 56) - B2 - XV4 - Q1 - acceleration (شتاب)
+Examples:
+ * The sports car has a powerful acceleration.
+   ماشین اسپورت شتاب قدرتمندی دارد.
+ * The acceleration of the ball is due to gravity.
+   شتاب توپ به دلیل گرانش است.
+ * The new economic plan is aimed at an acceleration of growth.
+   طرح اقتصادی جدید با هدف شتاب دادن به رشد است.
+ * We measured the acceleration of the object in the experiment.
+   ما شتاب شیء را در آزمایش اندازه‌گیری کردیم.
+ * He pressed the pedal to increase the car's acceleration.
+   او پدال را فشار داد تا شتاب ماشین را افزایش دهد.
+ID: ID58 (IDTX: 58) - B1 - XV3 - Q1 - accent (لهجه، تأکید)
+Examples:
+ * She speaks English with a beautiful French accent.
+   او با یک لهجه فرانسوی زیبا انگلیسی صحبت می‌کند.
+ * The word has an accent on the first syllable.
+   این کلمه در هجای اول تأکید دارد.
+ * His accent was so strong that it was hard to understand him.
+   لهجه او آنقدر قوی بود که درک او دشوار بود.
+ * You can tell where he's from by his accent.
+   می‌توانید از روی لهجه‌اش بفهمید که اهل کجاست.
+ * The teacher used a foreign accent to make the students laugh.
+   معلم از یک لهجه خارجی استفاده کرد تا دانش‌آموزان را بخنداند.
+ID: ID59 (IDTX: 59) - A2 - XV1 - Q4 - accept (پذیرفتن، قبول کردن)
+Examples:
+ * I accept your apology.
+   من عذرخواهی شما را می‌پذیرم.
+ * She accepted the job offer without hesitation.
+   او پیشنهاد شغلی را بدون تردید پذیرفت.
+ * Please accept this gift as a token of my gratitude.
+   لطفاً این هدیه را به عنوان نشانه‌ای از قدردانی من بپذیرید.
+ * It's sometimes hard to accept change.
+   گاهی اوقات پذیرفتن تغییر دشوار است.
+ * The school will accept new students in September.
+   مدرسه در ماه سپتامبر دانش‌آموزان جدید می‌پذیرد.
+ID: ID60 (IDTX: 59) - B2 - XV3 - Q2 - acceptable (قابل قبول)
+Examples:
+ * The quality of the product is not acceptable.
+   کیفیت محصول قابل قبول نیست.
+ * Your behavior is not acceptable in this office.
+   رفتار شما در این اداره قابل قبول نیست.
+ * Is this an acceptable solution to the problem?
+   آیا این یک راه‌حل قابل قبول برای مشکل است؟
+ * We need to find a compromise that is acceptable to both parties.
+   ما باید یک راه‌حل میانه پیدا کنیم که برای هر دو طرف قابل قبول باشد.
+ * The food was just barely acceptable.
+   غذا به سختی قابل قبول بود.
+ID: ID61 (IDTX: 59) - B2 - XV3 - Q1 - acceptance (پذیرش، قبولی)
+Examples:
+ * We are still waiting for his acceptance of the offer.
+   ما هنوز منتظر پذیرش او از پیشنهاد هستیم.
+ * The new policy has gained widespread acceptance.
+   سیاست جدید پذیرش گسترده‌ای به دست آورده است.
+ * Her acceptance into the medical school was a dream come true.
+   قبولی او در دانشکده پزشکی یک رویای محقق شده بود.
+ * The team's acceptance of the challenge was a sign of their courage.
+   پذیرش چالش توسط تیم نشانه‌ای از شجاعت آنها بود.
+ * He is looking for acceptance from his peers.
+   او به دنبال پذیرش از سوی همتایان خود است.
+ID: ID62 (IDTX: 59) - A2 - XV1 - Q4 - accepted (پذیرفته شده، قبول شده)
+Examples:
+ * He accepted the gift with a smile.
+   او هدیه را با لبخند پذیرفت.
+ * The theory is widely accepted in the scientific community.
+   این نظریه به طور گسترده‌ای در جامعه علمی پذیرفته شده است.
+ * The invitation was accepted by everyone.
+   دعوت توسط همه پذیرفته شد.
+ * The offer was accepted after a long negotiation.
+   پیشنهاد پس از یک مذاکره طولانی پذیرفته شد.
+ * This method is an accepted practice in the industry.
+   این روش یک عمل پذیرفته شده در صنعت است.
+ID: ID63 (IDTX: 59) - A2 - XV1 - Q4 - accepting (در حال پذیرفتن، قبول کردن)
+Examples:
+ * He is accepting new patients now.
+   او اکنون بیماران جدید می‌پذیرد.
+ * Accepting criticism is an important part of personal growth.
+   پذیرش انتقاد بخش مهمی از رشد فردی است.
+ * We are not accepting any excuses for being late.
+   ما هیچ بهانه‌ای برای دیر آمدن نمی‌پذیریم.
+ * She is a very accepting person and never judges others.
+   او یک فرد بسیار پذیرا است و هرگز دیگران را قضاوت نمی‌کند.
+ * Accepting help can be a sign of strength, not weakness.
+   پذیرش کمک می‌تواند نشانه قدرت باشد، نه ضعف.
+ID: ID64 (IDTX: 64) - A2 - XV2 - Q1 - access (دسترسی)
+Examples:
+ * All employees have access to the company's network.
+   همه کارمندان به شبکه شرکت دسترسی دارند.
+ * The key card gives you access to the building.
+   کارت کلید به شما دسترسی به ساختمان می‌دهد.
+ * We need to gain access to the secure area.
+   ما باید به منطقه امن دسترسی پیدا کنیم.
+ * The village has limited access to clean water.
+   روستا دسترسی محدودی به آب تمیز دارد.
+ * The website provides free access to educational materials.
+   وب‌سایت دسترسی رایگان به مواد آموزشی فراهم می‌کند.
+ID: ID65 (IDTX: 64) - B2 - XV3 - Q2 - accessible (قابل دسترس، دسترسی‌پذیر)
+Examples:
+ * The information should be accessible to everyone.
+   اطلاعات باید برای همه قابل دسترس باشد.
+ * The library is easily accessible by public transport.
+   کتابخانه به راحتی با حمل و نقل عمومی قابل دسترس است.
+ * We need to make the website more accessible for people with disabilities.
+   ما باید وب‌سایت را برای افراد با معلولیت دسترسی‌پذیرتر کنیم.
+ * The mountain peak is only accessible by a difficult trail.
+   قله کوه فقط از طریق یک مسیر دشوار قابل دسترس است.
+ * Her friendly nature makes her very accessible to others.
+   طبیعت دوستانه او باعث می‌شود که برای دیگران بسیار دسترسی‌پذیر باشد.
+ID: ID66 (IDTX: 66) - B2 - XV4 - Q1 - accessories (تجهیزات جانبی، لوازم جانبی)
+Examples:
+ * I bought a new phone and some accessories for it.
+   من یک گوشی جدید و چند لوازم جانبی برای آن خریدم.
+ * The car comes with a full set of accessories.
+   ماشین با یک مجموعه کامل از لوازم جانبی عرضه می‌شود.
+ * She loves fashion accessories like scarves and jewelry.
+   او عاشق لوازم جانبی مد مانند شال و جواهرات است.
+ * The camera store sells various photographic accessories.
+   فروشگاه دوربین لوازم جانبی عکاسی مختلفی را می‌فروشد.
+ * The robot needs a special set of accessories to perform that task.
+   ربات برای انجام آن کار به یک مجموعه خاص از تجهیزات جانبی نیاز دارد.
+ID: ID67 (IDTX: 66) - B2 - XV4 - Q1 - accessory (لوازم جانبی)
+Examples:
+ * A purse is a common accessory for women.
+   کیف یک لوازم جانبی رایج برای زنان است.
+ * The laptop came with a free accessory.
+   لپ‌تاپ با یک لوازم جانبی رایگان عرضه شد.
+ * The crime was committed by the main suspect and his accessory.
+   جرم توسط مظنون اصلی و همدستش انجام شد.
+ * He was charged as an accessory to the crime.
+   او به عنوان همدست جرم متهم شد.
+ * The necklace was the perfect accessory for her dress.
+   گردنبند لوازم جانبی عالی برای لباس او بود.
+ID: ID68 (IDTX: 68) - A2 - XV2 - Q1 - accident (حادثه، تصادف)
+Examples:
+ * He was in a car accident yesterday.
+   او دیروز در یک تصادف رانندگی بود.
+ * The accident happened on a busy street.
+   حادثه در یک خیابان شلوغ اتفاق افتاد.
+ * It was a tragic accident, and no one was to blame.
+   این یک حادثه غم‌انگیز بود و هیچکس مقصر نبود.
+ * We should always be careful to avoid accidents at work.
+   ما همیشه باید مراقب باشیم تا از حوادث در محل کار جلوگیری کنیم.
+ * The police are investigating the cause of the accident.
+   پلیس در حال بررسی علت حادثه است.
+ID: ID69 (IDTX: 68) - B2 - XV3 - Q2 - accidental (تصادفی، اتفاقی)
+Examples:
+ * Our meeting was completely accidental.
+   ملاقات ما کاملاً تصادفی بود.
+ * He was injured by an accidental gunshot.
+   او بر اثر یک شلیک گلوله تصادفی مجروح شد.
+ * The fire was caused by an accidental spark.
+   آتش‌سوزی بر اثر یک جرقه اتفاقی رخ داد.
+ * There was an accidental omission of a name from the list.
+   یک نام به طور تصادفی از لیست جا افتاده بود.
+ * The scientist discovered the new compound through an accidental discovery.
+   دانشمند این ترکیب جدید را از طریق یک کشف اتفاقی کشف کرد.
+ID: ID70 (IDTX: 68) - B1 - XV2 - Q5 - accidentally (به طور تصادفی)
+Examples:
+ * I accidentally dropped my phone.
+   من به طور تصادفی گوشی‌ام را انداختم.
+ * She accidentally deleted the important file.
+   او به طور تصادفی فایل مهم را حذف کرد.
+ * I met my old friend accidentally at the supermarket.
+   من به طور تصادفی دوستم را در سوپرمارکت دیدم.
+ * The vase was accidentally knocked over by the cat.
+   گلدان به طور تصادفی توسط گربه واژگون شد.
+ * We accidentally found the treasure map.
+   ما به طور تصادفی نقشه گنج را پیدا کردیم.
+ID: ID71 (IDTX: 71) - C1 - XV5 - Q4 - acclaim (تحسین کردن، مورد ستایش قرار دادن)
+Examples:
+ * The new movie was acclaimed by critics.
+   فیلم جدید مورد تحسین منتقدان قرار گرفت.
+ * The hero received great public acclaim for his bravery.
+   قهرمان به خاطر شجاعتش تحسین عمومی زیادی دریافت کرد.
+ * Her latest novel has won international acclaim.
+   آخرین رمان او تحسین بین‌المللی را به دست آورده است.
+ * The performance was greeted with loud acclaim from the audience.
+   اجرا با تحسین پر سر و صدای تماشاچیان مواجه شد.
+ * He deserves every bit of the acclaim he has received.
+   او شایسته تمام تحسین‌هایی است که دریافت کرده است.
+ID: ID72 (IDTX: 72) - B2 - XV4 - Q4 - accommodate (جا دادن، فراهم کردن)
+Examples:
+ * The hotel can accommodate up to 500 guests.
+   این هتل می‌تواند تا ۵۰۰ مهمان را جا دهد.
+ * We need to accommodate the needs of all our students.
+   ما باید نیازهای همه دانش‌آموزانمان را فراهم کنیم.
+ * The new building was designed to accommodate a large number of offices.
+   ساختمان جدید برای جا دادن تعداد زیادی از دفاتر طراحی شده است.
+ * Can you accommodate my request for a vegetarian meal?
+   می‌توانید درخواست من برای یک وعده غذایی گیاهی را فراهم کنید؟
+ * The new sofa will accommodate all of us.
+   مبل جدید همه ما را جا می‌دهد.
+ID: ID73 (IDTX: 72) - B2 - XV3 - Q1 - accommodation (اقامتگاه، اسکان)
+Examples:
+ * We are looking for accommodation for the night.
+   ما به دنبال اقامتگاه برای شب هستیم.
+ * The price includes flights and accommodation.
+   قیمت شامل پروازها و اقامتگاه است.
+ * The university provides accommodation for all first-year students.
+   دانشگاه برای تمام دانشجویان سال اول اقامتگاه فراهم می‌کند.
+ * There is plenty of accommodation available in the city center.
+   اقامتگاه‌های زیادی در مرکز شهر در دسترس است.
+ * We need to book our accommodation in advance.
+   ما باید اقامتگاه خود را از قبل رزرو کنیم.
+ID: ID74 (IDTX: 74) - B2 - XV3 - Q2 - accompanied (همراهی شده، همراه)
+Examples:
+ * She was accompanied by her two children.
+   او توسط دو فرزندش همراهی می‌شد.
+ * The meal was accompanied by a fine wine.
+   غذا با یک شراب خوب همراه بود.
+ * The singer was accompanied by a guitarist on stage.
+   خواننده توسط یک گیتاریست روی صحنه همراهی می‌شد.
+ * The severe weather was accompanied by strong winds and rain.
+   آب و هوای شدید با بادهای قوی و باران همراه بود.
+ * The letter was accompanied by a detailed report.
+   نامه با یک گزارش دقیق همراه بود.
+ID: ID75 (IDTX: 74) - C2 - XV6 - Q1 - accompaniment (همراهی، همراهی موسیقی)
+Examples:
+ * The song was a simple melody with piano accompaniment.
+   این آهنگ یک ملودی ساده با همراهی پیانو بود.
+ * He sang the folk song without any musical accompaniment.
+   او آواز محلی را بدون هیچ همراهی موسیقی خواند.
+ * The cheese plate was served with an accompaniment of fruit.
+   بشقاب پنیر با همراهی میوه سرو شد.
+ * She played the violin with her mother's accompaniment on the piano.
+   او ویولن را با همراهی مادرش روی پیانو نواخت.
+ * The dramatic story was written with an accompaniment of illustrations.
+   داستان دراماتیک با همراهی تصاویر نوشته شده بود.
+ID: ID76 (IDTX: 74) - B1 - XV2 - Q4 - accompany (همراهی کردن)
+Examples:
+ * I will accompany you to the station.
+   من شما را تا ایستگاه همراهی خواهم کرد.
+ * The thunder was accompanied by a heavy downpour.
+   رعد و برق با یک بارش شدید همراه بود.
+ * Would you like me to accompany you on your journey?
+   آیا دوست دارید در سفرتان شما را همراهی کنم؟
+ * The report must be accompanied by a letter of recommendation.
+   گزارش باید با یک نامه توصیه همراهی شود.
+ * The music will accompany the dance performance.
+   موسیقی، اجرای رقص را همراهی خواهد کرد.
+ID: ID77 (IDTX: 74) - C1 - XV4 - Q4 - accompanying (همراه)
+Examples:
+ * Please fill out the form and return it with the accompanying documents.
+   لطفاً فرم را پر کنید و آن را به همراه مدارک همراه بازگردانید.
+ * The book comes with an accompanying CD.
+   این کتاب با یک سی‌دی همراه عرضه می‌شود.
+ * The lecture covered the main topic and several accompanying issues.
+   سخنرانی موضوع اصلی و چندین مسئله همراه را پوشش داد.
+ * The storm and the accompanying heavy rain caused a lot of damage.
+   طوفان و باران شدید همراه آن آسیب زیادی ایجاد کردند.
+ * The artist explained the meaning of the painting and its accompanying notes.
+   هنرمند معنی نقاشی و یادداشت‌های همراه آن را توضیح داد.
+ID: ID78 (IDTX: 78) - B2 - XV3 - Q4 - accomplish (انجام دادن، به پایان رساندن)
+Examples:
+ * We need to work together to accomplish this goal.
+   ما باید با هم کار کنیم تا این هدف را انجام دهیم.
+ * He was able to accomplish the task in record time.
+   او توانست کار را در زمان بی‌سابقه‌ای به پایان برساند.
+ * What do you hope to accomplish by the end of the year?
+   امیدوارید تا پایان سال چه چیزی را انجام دهید؟
+ * With enough effort, you can accomplish anything.
+   با تلاش کافی، می‌توانید هر چیزی را انجام دهید.
+ * She was determined to accomplish her mission.
+   او مصمم بود که مأموریت خود را به پایان برساند.
+ID: ID79 (IDTX: 78) - B2 - XV3 - Q2 - accomplished (بااستعداد، ماهر، انجام شده)
+Examples:
+ * She is an accomplished pianist and artist.
+   او یک پیانیست و هنرمند ماهر است.
+ * The mission was accomplished successfully.
+   مأموریت با موفقیت انجام شد.
+ * He is a highly accomplished professional in his field.
+   او یک حرفه‌ای بسیار بااستعداد در زمینه خود است.
+ * The task was accomplished ahead of schedule.
+   کار زودتر از موعد مقرر انجام شد.
+ * He felt a sense of pride in all he had accomplished.
+   او از تمام کارهایی که انجام داده بود احساس غرور می‌کرد.
+ID: ID80 (IDTX: 78) - B2 - XV3 - Q1 - accomplishment (دستاورد، موفقیت)
+Examples:
+ * Winning the championship was a great accomplishment for the team.
+   بردن قهرمانی یک دستاورد بزرگ برای تیم بود.
+ * His scientific accomplishments were recognized worldwide.
+   دستاوردهای علمی او در سراسر جهان به رسمیت شناخته شد.
+ * We should celebrate every small accomplishment.
+   ما باید هر موفقیت کوچک را جشن بگیریم.
+ * It's a great feeling of accomplishment when you finish a difficult project.
+   وقتی یک پروژه دشوار را تمام می‌کنی، احساس موفقیت بزرگی است.
+ * He listed all his accomplishments on his resume.
+   او تمام دستاوردهای خود را در رزومه‌اش لیست کرد.
+ID: ID81 (IDTX: 81) - B2 - XV4 - Q4 - accord (توافق کردن، هماهنگ بودن)
+Examples:
+ * His actions do not accord with his words.
+   اعمال او با کلماتش هماهنگ نیست.
+ * The two sides were able to reach an accord.
+   دو طرف توانستند به یک توافق برسند.
+ * The treaty was signed in accord with international law.
+   پیمان در هماهنگی با قوانین بین‌المللی امضا شد.
+ * The committee will accord with the majority decision.
+   کمیته با تصمیم اکثریت توافق خواهد کرد.
+ * They acted in perfect accord with their leader.
+   آنها در هماهنگی کامل با رهبر خود عمل کردند.
+ID: ID82 (IDTX: 81) - C1 - XV4 - Q1 - accordance (مطابقت، توافق)
+Examples:
+ * The project was completed in accordance with the original plan.
+   پروژه در مطابقت با طرح اصلی به پایان رسید.
+ * You must act in accordance with the rules and regulations.
+   شما باید در مطابقت با قوانین و مقررات عمل کنید.
+ * The decision was made in accordance with the company policy.
+   تصمیم در مطابقت با سیاست شرکت گرفته شد.
+ * He was paid a bonus in accordance with his performance.
+   او پاداشی در مطابقت با عملکردش دریافت کرد.
+ * The contract was terminated in accordance with the terms agreed upon.
+   قرارداد در مطابقت با شرایط توافق شده فسخ شد.
+ID: ID83 (IDTX: 81) - C2 - XV6 - Q2 - accordant (هماهنگ، مطابق)
+Examples:
+ * His views are accordant with the company's philosophy.
+   دیدگاه‌های او با فلسفه شرکت هماهنگ است.
+ * The final product was accordant with the customer's expectations.
+   محصول نهایی با انتظارات مشتری مطابق بود.
+ * We need to find a solution that is accordant with our budget.
+   ما باید راه‌حلی پیدا کنیم که با بودجه ما هماهنگ باشد.
+ * Her testimony was accordant with the evidence presented.
+   شهادت او با شواهد ارائه شده مطابق بود.
+ * The new regulations are accordant with international standards.
+   مقررات جدید با استانداردهای بین‌المللی هماهنگ است.
+ID: ID84 (IDTX: 81) - A2 - XV1 - Q6 - according (بر اساس، به گفته)
+Examples:
+ * According to the weather forecast, it will rain tomorrow.
+   بر اساس پیش‌بینی هوا، فردا باران خواهد بارید.
+ * According to the rules, we cannot enter.
+   بر اساس قوانین، ما نمی‌توانیم وارد شویم.
+ * Everything went according to plan.
+   همه چیز بر اساس برنامه پیش رفت.
+ * According to my father, he used to live here.
+   به گفته پدرم، او قبلاً اینجا زندگی می‌کرده است.
+ * The grade was given according to your performance in the exam.
+   نمره بر اساس عملکرد شما در امتحان داده شد.
+ID: ID85 (IDTX: 81) - B2 - XV4 - Q5 - accordingly (بر این اساس، بنابراین)
+Examples:
+ * The plan has changed, so we must act accordingly.
+   برنامه تغییر کرده است، بنابراین ما باید بر این اساس عمل کنیم.
+ * The job requires special skills, and you will be paid accordingly.
+   این شغل به مهارت‌های خاصی نیاز دارد، و شما بر این اساس حقوق دریافت خواهید کرد.
+ * He was late, and accordingly, he missed the train.
+   او دیر کرده بود، و بنابراین، قطار را از دست داد.
+ * The weather is getting colder; you should dress accordingly.
+   هوا سردتر می‌شود؛ شما باید بر این اساس لباس بپوشید.
+ * The police found new evidence and are accordingly reopening the case.
+   پلیس مدارک جدیدی پیدا کرد و بر این اساس پرونده را دوباره باز می‌کند.
+ID: ID86 (IDTX: 86) - B1 - XV2 - Q1 - account (حساب، گزارش، دلیل)
+Examples:
+ * Please pay the money into my bank account.
+   لطفاً پول را به حساب بانکی من واریز کنید.
+ * He gave a detailed account of what happened.
+   او یک گزارش مفصل از آنچه اتفاق افتاده بود، ارائه داد.
+ * The accident happened on his account.
+   حادثه به دلیل او اتفاق افتاد.
+ * You must take into account the costs.
+   شما باید هزینه‌ها را در نظر بگیرید.
+ * By all accounts, she is a wonderful person.
+   به گفته همه، او یک فرد فوق‌العاده است.
+ID: ID87 (IDTX: 86) - C1 - XV4 - Q1 - accountability (مسئولیت‌پذیری)
+Examples:
+ * The new law aims to improve corporate accountability.
+   قانون جدید با هدف بهبود مسئولیت‌پذیری شرکت‌ها است.
+ * There is a lack of accountability in the government.
+   کمبود مسئولیت‌پذیری در دولت وجود دارد.
+ * We need to create a culture of accountability in our team.
+   ما باید یک فرهنگ مسئولیت‌پذیری در تیممان ایجاد کنیم.
+ * He was praised for his strong sense of accountability.
+   او به دلیل حس قوی مسئولیت‌پذیری‌اش مورد تحسین قرار گرفت.
+ * Public accountability is important for a democracy.
+   مسئولیت‌پذیری عمومی برای یک دموکراسی مهم است.
+ID: ID88 (IDTX: 86) - C1 - XV4 - Q2 - accountable (مسئول، پاسخگو)
+Examples:
+ * Every employee is accountable for their own work.
+   هر کارمند مسئول کار خود است.
+ * The manager is accountable to the board of directors.
+   مدیر در برابر هیئت مدیره پاسخگو است.
+ * You will be held accountable for any damage.
+   شما مسئول هرگونه خسارت خواهید بود.
+ * The government should be accountable to the people.
+   دولت باید در برابر مردم پاسخگو باشد.
+ * He was made accountable for his mistakes.
+   او مسئول اشتباهاتش شناخته شد.
+ID: ID89 (IDTX: 86) - A2 - XV2 - Q1 - accountant (حسابدار)
+Examples:
+ * I need to hire an accountant to do my taxes.
+   من برای انجام مالیات‌هایم به یک حسابدار نیاز دارم.
+ * My sister works as an accountant at a large firm.
+   خواهرم به عنوان یک حسابدار در یک شرکت بزرگ کار می‌کند.
+ * The accountant reviewed all the financial records.
+   حسابدار تمام سوابق مالی را بررسی کرد.
+ * A good accountant can save you a lot of money.
+   یک حسابدار خوب می‌تواند پول زیادی برای شما صرفه‌جویی کند.
+ * He decided to study to become a certified public accountant.
+   او تصمیم گرفت برای تبدیل شدن به یک حسابدار عمومی گواهی‌دار تحصیل کند.
+ID: ID90 (IDTX: 86) - B1 - XV3 - Q1 - accounting (حسابداری)
+Examples:
+ * He is studying accounting at the university.
+   او در حال تحصیل حسابداری در دانشگاه است.
+ * I need to get better at accounting for my business.
+   من باید در حسابداری برای کسب و کارم بهتر شوم.
+ * The company's accounting department is responsible for managing finances.
+   بخش حسابداری شرکت مسئول مدیریت امور مالی است.
+ * We hired a new firm to handle our accounting.
+   ما یک شرکت جدید را برای رسیدگی به حسابداری خود استخدام کردیم.
+ * The accounting software made it easy to track expenses.
+   نرم‌افزار حسابداری ردیابی هزینه‌ها را آسان کرد.
+ID: ID91 (IDTX: 86) - A2 - XV2 - Q1 - accounts (حساب‌ها، گزارش‌ها)
+Examples:
+ * The company's accounts show a profit this year.
+   حساب‌های شرکت امسال سود نشان می‌دهد.
+ * He has several bank accounts.
+   او چندین حساب بانکی دارد.
+ * We need to settle the accounts with our suppliers.
+   ما باید حساب‌ها را با تأمین‌کنندگان خود تسویه کنیم.
+ * The newspaper published conflicting accounts of the event.
+   روزنامه گزارش‌های متناقضی از این رویداد منتشر کرد.
+ * The company's annual accounts were audited by an external firm.
+   حساب‌های سالانه شرکت توسط یک شرکت خارجی حسابرسی شد.
+ID: ID92 (IDTX: 92) - C2 - XV5 - Q4 - accrue (تجمع یافتن، افزایش یافتن)
+Examples:
+ * The interest on the loan will accrue over time.
+   سود وام با گذشت زمان تجمع خواهد یافت.
+ * Benefits accrue from hard work and dedication.
+   مزایا از کار سخت و تعهد به دست می‌آید.
+ * The company is hoping to accrue more profit this quarter.
+   شرکت امیدوار است در این سه‌ماهه سود بیشتری به دست آورد.
+ * Vacation days will accrue with each month of service.
+   روزهای تعطیل با هر ماه خدمت تجمع خواهند یافت.
+ * The knowledge I accrued over the years helped me in my career.
+   دانشی که در طول سال‌ها به دست آوردم به من در شغلم کمک کرد.
+ID: ID93 (IDTX: 93) - C1 - XV4 - Q4 - accumulate (انباشته شدن، جمع کردن)
+Examples:
+ * Dust tends to accumulate in the corners of the room.
+   گرد و غبار تمایل به انباشته شدن در گوشه‌های اتاق دارد.
+ * He has managed to accumulate a large amount of wealth.
+   او توانسته مقدار زیادی ثروت جمع کند.
+ * The snow began to accumulate on the rooftops.
+   برف شروع به انباشته شدن روی پشت بام‌ها کرد.
+ * It's easy to accumulate junk if you don't clean regularly.
+   اگر به طور منظم تمیز نکنید، جمع کردن آشغال آسان است.
+ * They have been accumulating data for a long time.
+   آنها برای مدت طولانی داده‌ها را جمع می‌کردند.
+ID: ID94 (IDTX: 93) - C1 - XV4 - Q1 - accumulation (انباشت، تجمع)
+Examples:
+ * The accumulation of snow blocked the road.
+   انباشت برف جاده را مسدود کرد.
+ * The accumulation of debt can be a serious problem.
+   تجمع بدهی می‌تواند یک مشکل جدی باشد.
+ * His wealth was the result of a lifetime of accumulation.
+   ثروت او نتیجه یک عمر انباشت بود.
+ * We need to prevent the accumulation of waste in the environment.
+   ما باید از انباشت زباله در محیط زیست جلوگیری کنیم.
+ * The accumulation of knowledge is a continuous process.
+   تجمع دانش یک فرآیند مداوم است.
+ID: ID95 (IDTX: 95) - B2 - XV3 - Q1 - accuracy (دقت، صحت)
+Examples:
+ * We need to check the accuracy of the data.
+   ما باید دقت داده‌ها را بررسی کنیم.
+ * The machine is known for its high degree of accuracy.
+   این ماشین به خاطر درجه دقت بالایش شناخته شده است.
+ * He questioned the accuracy of the report.
+   او صحت گزارش را زیر سوال برد.
+ * The experiment requires a high level of accuracy.
+   آزمایش به سطح بالایی از دقت نیاز دارد.
+ * The survey was done with great accuracy and care.
+   نظرسنجی با دقت و مراقبت زیادی انجام شد.
+ID: ID96 (IDTX: 95) - B1 - XV2 - Q2 - accurate (دقیق، صحیح)
+Examples:
+ * We need to get accurate measurements for the project.
+   ما باید اندازه‌گیری‌های دقیقی برای پروژه به دست آوریم.
+ * Is this information accurate?
+   آیا این اطلاعات صحیح است؟
+ * The clock is very accurate and never loses time.
+   ساعت بسیار دقیق است و هرگز زمان را از دست نمی‌دهد.
+ * The weather forecast was surprisingly accurate.
+   پیش‌بینی هوا به طور شگفت‌انگیزی دقیق بود.
+ * An accurate diagnosis is crucial for effective treatment.
+   یک تشخیص دقیق برای درمان مؤثر حیاتی است.
+ID: ID97 (IDTX: 95) - B2 - XV3 - Q5 - accurately (با دقت، به درستی)
+Examples:
+ * The machine measures the temperature very accurately.
+   دستگاه دما را بسیار با دقت اندازه‌گیری می‌کند.
+ * He was able to predict the outcome of the game accurately.
+   او توانست نتیجه بازی را به درستی پیش‌بینی کند.
+ * Can you tell me accurately what happened?
+   می‌توانی به درستی به من بگویی چه اتفاقی افتاد؟
+ * The report accurately reflects the current situation.
+   گزارش به درستی وضعیت فعلی را منعکس می‌کند.
+ * The new system is designed to track data more accurately.
+   سیستم جدید برای ردیابی داده‌ها با دقت بیشتر طراحی شده است.
+ID: ID98 (IDTX: 98) - C1 - XV4 - Q1 - accusation (اتهام)
+Examples:
+ * He denied the accusation of theft.
+   او اتهام سرقت را تکذیب کرد.
+ * The accusation came as a complete shock to everyone.
+   این اتهام برای همه یک شوک کامل بود.
+ * We need to see the evidence before making any accusation.
+   ما باید قبل از هرگونه اتهام، شواهد را ببینیم.
+ * The accusation against the politician was widely reported.
+   اتهام علیه سیاستمدار به طور گسترده‌ای گزارش شد.
+ * It's a serious accusation and must be investigated thoroughly.
+   این یک اتهام جدی است و باید به طور کامل بررسی شود.
+ID: ID99 (IDTX: 98) - B2 - XV3 - Q4 - accuse (متهم کردن)
+Examples:
+ * The police accused him of a crime.
+   پلیس او را به یک جرم متهم کرد.
+ * She accused him of lying.
+   او را به دروغگویی متهم کرد.
+ * It's not fair to accuse someone without any proof.
+   عادلانه نیست که کسی را بدون هیچ مدرکی متهم کنی.
+ * He accused the company of unfair business practices.
+   او شرکت را به اقدامات تجاری ناعادلانه متهم کرد.
+ * The newspaper was accused of spreading false information.
+   روزنامه متهم به انتشار اطلاعات نادرست شد.
+ID: ID100 (IDTX: 98) - B2 - XV3 - Q4 - accused (متهم کردن، متهم)
+Examples:
+ * The accused maintained his innocence throughout the trial.
+   متهم در طول محاکمه بر بی‌گناهی خود اصرار داشت.
+ * He accused his coworker of stealing his idea.
+   او همکارش را به دزدیدن ایده‌اش متهم کرد.
+ * The man accused of the crime was released on bail.
+   مردی که به جرم متهم شده بود، با قید وثیقه آزاد شد.
+ * She was accused of cheating on the exam.
+   او به تقلب در امتحان متهم شد.
+ * The police are searching for the accused.
+   پلیس در حال جستجوی متهم است.
+
+
