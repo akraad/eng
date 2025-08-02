@@ -56,23 +56,28 @@
 
         .search-box {
             display: flex;
-            align-items: center;
-            gap: 10px;
             flex-direction: column;
+            gap: 10px;
+            position: relative;
+        }
+
+        .search-input-wrapper {
+            display: flex;
+            width: 100%;
             position: relative;
         }
 
         #searchInput {
-            width: 100%;
+            flex-grow: 1;
             padding: 12px 15px;
             border: 1px solid var(--border-color);
             border-radius: 10px;
             font-size: 1rem;
             transition: border-color 0.3s;
             text-align: right;
-            font-family: inherit;
+            font-family: 'Roboto', sans-serif;
         }
-
+        
         #searchInput:focus {
             outline: none;
             border-color: var(--primary-color);
@@ -94,26 +99,32 @@
         #searchButton:hover {
             background-color: #0056b3;
         }
-
+        
         #suggestions {
             position: absolute;
-            top: 100%;
+            top: calc(100% + 5px);
             left: 0;
             right: 0;
             background-color: var(--card-background);
             border: 1px solid var(--border-color);
-            border-top: none;
-            border-radius: 0 0 10px 10px;
+            border-radius: 10px;
             z-index: 10;
             max-height: 200px;
             overflow-y: auto;
             display: none;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
 
         #suggestions div {
             padding: 10px 15px;
             cursor: pointer;
-            border-bottom: 1px solid var(--border-color);
+            border-bottom: 1px solid #eee;
+            font-size: 0.9rem;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        #suggestions div:last-child {
+            border-bottom: none;
         }
 
         #suggestions div:hover {
@@ -121,7 +132,7 @@
         }
 
         #results {
-            margin-top: 20px;
+            margin-top: 15px;
             padding: 15px;
             background: #f9f9f9;
             border-radius: 10px;
@@ -131,12 +142,9 @@
             gap: 10px;
         }
 
-        .result-item {
-            font-size: 14px;
-        }
-        
-        .result-item-synonym-antonym {
-            font-size: 14px;
+        .word-info p, .synonyms-antonyms p {
+            font-size: 0.9rem;
+            margin: 0;
         }
 
         .result-item strong {
@@ -146,7 +154,7 @@
 
         .word-info h2 {
             font-size: 1.2rem;
-            margin-bottom: 5px;
+            margin-bottom: 8px;
             display: flex;
             align-items: center;
             justify-content: space-between;
@@ -170,17 +178,17 @@
             transition: background 0.3s;
             flex-shrink: 0;
         }
-
-        #pronounceButton svg {
-            fill: var(--primary-color);
-            width: 20px;
-            height: 20px;
-        }
         
         #pronounceButton:hover {
             background: #e0e0e0;
         }
         
+        #pronounceButton svg {
+            fill: var(--primary-color);
+            width: 20px;
+            height: 20px;
+        }
+
         #loadingMessage, #errorMessage {
             text-align: center;
             padding: 10px;
@@ -206,7 +214,9 @@
 <div class="container">
     <h1>جستجوگر لغات</h1>
     <div class="search-box">
-        <input type="text" id="searchInput" placeholder="کلمه مورد نظر را وارد کنید...">
+        <div class="search-input-wrapper">
+            <input type="text" id="searchInput" placeholder="کلمه انگلیسی مورد نظر را وارد کنید...">
+        </div>
         <div id="suggestions"></div>
         <button id="searchButton">جستجو</button>
     </div>
@@ -214,19 +224,19 @@
     <div id="results">
         <div class="word-info">
             <h2 id="wordTitle"></h2>
-            <p><strong id="wordLevel"></strong></p>
-            <p><strong id="wordUsage"></strong></p>
-            <p><strong id="wordType"></strong></p>
+            <p><strong class="result-item">سطح:</strong> <span id="wordLevel"></span></p>
+            <p><strong class="result-item">کاربرد:</strong> <span id="wordUsage"></span></p>
+            <p><strong class="result-item">نوع:</strong> <span id="wordType"></span></p>
         </div>
         <hr>
         <div class="synonyms-antonyms">
-            <p class="result-item-synonym-antonym"><strong class="result-item">مترادف‌ها:</strong> <span id="synonyms"></span></p>
-            <p class="result-item-synonym-antonym"><strong class="result-item">متضاد‌ها:</strong> <span id="antonyms"></span></p>
+            <p class="result-item"><strong class="result-item">مترادف‌ها:</strong> <span id="synonyms"></span></p>
+            <p class="result-item"><strong class="result-item">متضاد‌ها:</strong> <span id="antonyms"></span></p>
         </div>
     </div>
 
-    <div id="loadingMessage" style="text-align: center; display: none;">درحال بارگذاری اطلاعات...</div>
-    <div id="errorMessage" style="text-align: center; color: red; display: none;"></div>
+    <div id="loadingMessage" style="display: none;">درحال بارگذاری اطلاعات...</div>
+    <div id="errorMessage" style="display: none;"></div>
 </div>
 
 <script>
@@ -248,8 +258,20 @@
         let projectsourceData = {};
         let saData = {};
         let projectsourceWords = [];
+        
+        const levelMap = {
+            'A1': 'A1: مبتدی', 'A2': 'A2: مقدماتی', 'B1': 'B1: متوسط', 
+            'B2': 'B2: متوسط رو به بالا', 'C1': 'C1: پیشرفته', 'C2': 'C2: مسلط'
+        };
+        const usageMap = {
+            'XV1': 'خیلی پرکاربرد', 'XV2': 'پرکاربرد', 'XV3': 'رایج',
+            'XV4': 'نیمه‌ پیشرفته', 'XV5': 'کم‌کاربرد', 'XV6': 'نادر یا تخصصی'
+        };
+        const typeMap = {
+            'Q1': 'اسم', 'Q2': 'صفت', 'Q3': 'ضمیر', 'Q4': 'فعل',
+            'Q5': 'قید', 'Q6': 'حرف اضافه', 'Q7': 'حرف ربط', 'Q8': 'صوت'
+        };
 
-        // Helper function to show messages
         const showMessage = (element, message, color = 'red') => {
             element.textContent = message;
             element.style.color = color;
@@ -260,16 +282,11 @@
             element.style.display = 'none';
         };
 
-        const escapeRegExp = (string) => {
-            return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        };
-
-        // Fetch and process data files
         const loadData = async () => {
             hideMessage(errorMessage);
             showMessage(loadingMessage, 'درحال بارگذاری اطلاعات...', 'gray');
             try {
-                // Fetch projectsource.txt
+                // Fetch and parse projectsource.txt
                 const projectsourceResponse = await fetch('projectsource.txt');
                 const projectsourceText = await projectsourceResponse.text();
                 const projectsourceLines = projectsourceText.split('\n');
@@ -291,32 +308,30 @@
                 });
                 projectsourceWords.sort();
 
-                // Fetch sa.txt
+                // Fetch and parse sa.txt
                 const saResponse = await fetch('sa.txt');
                 const saText = await saResponse.text();
                 
-                // Using regex to handle various synonym/antonym formats more reliably
                 const entries = saText.split(/\r?\n(?=\* Synonyms:)/).filter(Boolean);
                 
                 entries.forEach(entry => {
                     const lines = entry.trim().split('\n');
-                    const wordLine = lines.shift();
-                    const wordMatch = wordLine.match(/^\*\s(.+)/);
+                    const wordMatch = lines[0].match(/^\*\s(.+)/);
                     if (wordMatch) {
                         const word = wordMatch[1].trim().toLowerCase();
                         let synonyms = 'موردی یافت نشد.';
                         let antonyms = 'موردی یافت نشد.';
+                        
+                        const synonymsLine = lines.find(line => line.includes('Synonyms:'));
+                        if (synonymsLine) {
+                            synonyms = synonymsLine.replace('* Synonyms:', '').trim();
+                            if (synonyms === '—') synonyms = 'موردی یافت نشد.';
+                        }
 
-                        for (const line of lines) {
-                            if (line.includes('Synonyms:')) {
-                                synonyms = line.replace('Synonyms:', '').trim();
-                            }
-                            if (line.includes('Antonyms:')) {
-                                antonyms = line.replace('Antonyms:', '').trim();
-                                if (antonyms === '—') {
-                                    antonyms = 'موردی یافت نشد.';
-                                }
-                            }
+                        const antonymsLine = lines.find(line => line.includes('Antonyms:'));
+                        if (antonymsLine) {
+                            antonyms = antonymsLine.replace('* Antonyms:', '').trim();
+                            if (antonyms === '—') antonyms = 'موردی یافت نشد.';
                         }
                         saData[word] = { synonyms, antonyms };
                     }
@@ -331,35 +346,7 @@
             }
         };
 
-        // Live search and suggestion functionality
-        searchInput.addEventListener('input', () => {
-            const searchTerm = searchInput.value.trim().toLowerCase();
-            suggestionsDiv.innerHTML = '';
-            if (searchTerm.length > 0) {
-                const matches = projectsourceWords.filter(word => word.startsWith(searchTerm)).slice(0, 15);
-                if (matches.length > 0) {
-                    matches.forEach(word => {
-                        const suggestionItem = document.createElement('div');
-                        suggestionItem.textContent = word;
-                        suggestionItem.addEventListener('click', () => {
-                            searchInput.value = word;
-                            suggestionsDiv.style.display = 'none';
-                            findWord();
-                        });
-                        suggestionsDiv.appendChild(suggestionItem);
-                    });
-                    suggestionsDiv.style.display = 'block';
-                } else {
-                    suggestionsDiv.style.display = 'none';
-                }
-            } else {
-                suggestionsDiv.style.display = 'none';
-            }
-        });
-
-        // Function to find the word and display its information
-        const findWord = () => {
-            const searchTerm = searchInput.value.trim().toLowerCase();
+        const findWord = (searchTerm) => {
             if (!searchTerm) {
                 showMessage(errorMessage, 'لطفا کلمه مورد نظر را وارد کنید.', 'red');
                 resultsDiv.style.display = 'none';
@@ -371,34 +358,24 @@
             const saInfo = saData[searchTerm];
             
             if (wordInfo) {
-                // Map codes to human-readable text
-                const levelMap = {
-                    'A1': 'A1: مبتدی', 'A2': 'A2: مقدماتی', 'B1': 'B1: متوسط', 
-                    'B2': 'B2: متوسط رو به بالا', 'C1': 'C1: پیشرفته', 'C2': 'C2: مسلط'
-                };
-                const usageMap = {
-                    'XV1': 'خیلی پرکاربرد', 'XV2': 'پرکاربرد', 'XV3': 'رایج',
-                    'XV4': 'نیمه‌ پیشرفته', 'XV5': 'کم‌کاربرد', 'XV6': 'نادر یا تخصصی'
-                };
-                const typeMap = {
-                    'Q1': 'اسم', 'Q2': 'صفت', 'Q3': 'ضمیر', 'Q4': 'فعل',
-                    'Q5': 'قید', 'Q6': 'حرف اضافه', 'Q7': 'حرف ربط', 'Q8': 'صوت'
-                };
-
                 const [word, persianTranslation] = wordInfo.fullWord.split(' (');
                 
                 wordTitle.innerHTML = `<span style="font-family: 'Roboto', sans-serif;">${word}</span> (${persianTranslation.replace(')', '')}) <button id="pronounceButton"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M12 14c-1.66 0-3-1.34-3-3V5c0-1.66 1.34-3 3-3s3 1.34 3 3v6c0 1.66-1.34 3-3 3zm5.4-3c0 3.03-2.43 5.5-5.4 5.5s-5.4-2.47-5.4-5.5H5.5c0 3.53 2.61 6.43 6 6.92V21h1v-4.08c3.39-.49 6-3.39 6-6.92h-1.6z"/></svg></button>`;
-                wordLevel.textContent = `سطح: ${levelMap[wordInfo.level] || 'نامشخص'}`;
-                wordUsage.textContent = `کاربرد: ${usageMap[wordInfo.usage] || 'نامشخص'}`;
-                wordType.textContent = `نوع: ${typeMap[wordInfo.type] || 'نامشخص'}`;
+                wordLevel.textContent = levelMap[wordInfo.level] || 'نامشخص';
+                wordUsage.textContent = usageMap[wordInfo.usage] || 'نامشخص';
+                wordType.textContent = typeMap[wordInfo.type] || 'نامشخص';
                 
-                // Display synonyms and antonyms
-                synonymsSpan.textContent = saInfo ? saInfo.synonyms : 'موردی یافت نشد.';
-                antonymsSpan.textContent = saInfo ? saInfo.antonyms : 'موردی یافت نشد.';
+                // Check if saInfo exists before trying to access properties
+                if (saInfo) {
+                    synonymsSpan.textContent = saInfo.synonyms;
+                    antonymsSpan.textContent = saInfo.antonyms;
+                } else {
+                    synonymsSpan.textContent = 'موردی یافت نشد.';
+                    antonymsSpan.textContent = 'موردی یافت نشد.';
+                }
                 
                 resultsDiv.style.display = 'flex';
 
-                // Add event listener for the new pronounce button
                 const pronounceButton = document.getElementById('pronounceButton');
                 if (pronounceButton) {
                     pronounceButton.onclick = () => {
@@ -412,34 +389,61 @@
             }
         };
 
-        // Function to pronounce the word
         const speak = (text) => {
             if ('speechSynthesis' in window) {
                 const utterance = new SpeechSynthesisUtterance(text);
-                utterance.lang = 'en-US'; // Assuming English words for pronunciation
+                utterance.lang = 'en-US';
                 window.speechSynthesis.speak(utterance);
             } else {
                 alert('مرورگر شما از قابلیت تلفظ پشتیبانی نمی‌کند.');
             }
         };
 
-        // Event listeners
-        searchButton.addEventListener('click', findWord);
-        searchInput.addEventListener('keypress', (e) => {
-            if (e.key === 'Enter') {
-                findWord();
+        searchInput.addEventListener('input', () => {
+            const searchTerm = searchInput.value.trim().toLowerCase();
+            suggestionsDiv.innerHTML = '';
+            if (searchTerm.length > 0) {
+                const matches = projectsourceWords.filter(word => word.startsWith(searchTerm)).slice(0, 15);
+                if (matches.length > 0) {
+                    matches.forEach(word => {
+                        const suggestionItem = document.createElement('div');
+                        suggestionItem.textContent = word;
+                        suggestionItem.addEventListener('click', () => {
+                            searchInput.value = word;
+                            suggestionsDiv.style.display = 'none';
+                            findWord(word);
+                        });
+                        suggestionsDiv.appendChild(suggestionItem);
+                    });
+                    suggestionsDiv.style.display = 'block';
+                } else {
+                    suggestionsDiv.style.display = 'none';
+                }
+            } else {
                 suggestionsDiv.style.display = 'none';
             }
         });
 
-        // Hide suggestions when clicking outside
+        searchButton.addEventListener('click', () => {
+            const searchTerm = searchInput.value.trim().toLowerCase();
+            findWord(searchTerm);
+            suggestionsDiv.style.display = 'none';
+        });
+
+        searchInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                const searchTerm = searchInput.value.trim().toLowerCase();
+                findWord(searchTerm);
+                suggestionsDiv.style.display = 'none';
+            }
+        });
+
         document.addEventListener('click', (event) => {
             if (!searchInput.contains(event.target) && !suggestionsDiv.contains(event.target)) {
                 suggestionsDiv.style.display = 'none';
             }
         });
 
-        // Initial data load
         loadData();
     });
 </script>
