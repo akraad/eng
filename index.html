@@ -1,41 +1,56 @@
-<!-- index.html -->
-<!DOCTYPE html>
-<html lang="fa">
+<!DOCTYPE html><html lang="fa">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>دیکشنری موبایل</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>دیکشنری هوشمند</title>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
+    * { box-sizing: border-box; }
     body {
-      font-family: 'Vazirmatn', sans-serif;
-      background: #f0f2f5;
-      direction: rtl;
       margin: 0;
       padding: 0;
+      font-family: 'Vazirmatn', sans-serif;
+      background-color: #ffffff;
+      color: #333;
+      direction: rtl;
       transition: background 0.3s, color 0.3s;
     }
-    body.dark { background: #121212; color: #f0f0f0; }
-    .container {
-      max-width: 480px;
-      margin: auto;
+    body.dark {
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+    .app {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
       padding: 20px;
     }
-    input {
+    header {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+    .search-container {
+      position: relative;
+    }
+    input[type="text"] {
       width: 100%;
       padding: 12px;
-      font-size: 16px;
-      border-radius: 10px;
+      font-size: 1rem;
       border: none;
-      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     }
     #suggestions {
-      background: white;
+      position: absolute;
+      top: 100%;
+      width: 100%;
+      background: #fff;
       max-height: 200px;
       overflow-y: auto;
-      border-radius: 0 0 10px 10px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      position: relative;
+      border-radius: 0 0 12px 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
       z-index: 2;
     }
     #suggestions div {
@@ -43,39 +58,57 @@
       border-bottom: 1px solid #eee;
       cursor: pointer;
     }
-    .result-card {
-      background: white;
+    .result {
+      flex-grow: 1;
+      overflow-y: auto;
       margin-top: 20px;
-      padding: 20px;
+      background: #f9f9f9;
       border-radius: 12px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      padding: 20px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
     }
-    .dark .result-card { background: #1e1e1e; }
-    .label { font-weight: bold; margin-top: 10px; }
-    .value { margin-bottom: 8px; }
+    .dark .result {
+      background: #1e1e1e;
+    }
+    .label {
+      font-weight: bold;
+      margin-top: 15px;
+    }
+    .value {
+      margin: 5px 0 10px;
+    }
+    .footer-controls {
+      margin-top: auto;
+      display: flex;
+      justify-content: space-between;
+    }
     .btn {
-      display: inline-block;
-      padding: 8px 14px;
-      margin-top: 10px;
+      flex: 1;
+      padding: 10px;
+      margin: 5px;
       border: none;
-      border-radius: 8px;
-      font-size: 14px;
+      border-radius: 10px;
+      font-size: 0.9rem;
       cursor: pointer;
     }
-    .play-btn { background: #007bff; color: white; }
-    .mode-btn { background: #444; color: white; width: 100%; margin-top: 15px; }
+    .btn-dark { background: #444; color: white; }
+    .btn-audio { background: #007bff; color: white; }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h2>📘 دیکشنری موبایل</h2>
-    <input id="searchInput" type="text" placeholder="کلمه یا معنی را وارد کنید..." oninput="showSuggestions()" />
-    <div id="suggestions"></div>
-    <div id="result" class="result-card" style="display:none;"></div>
-    <button class="btn mode-btn" onclick="toggleMode()">🌙 تغییر حالت شب/روز</button>
-  </div>
+  <div class="app">
+    <header>📘 دیکشنری هوشمند</header><div class="search-container">
+  <input id="searchInput" type="text" placeholder="جستجوی واژه یا معنی..." oninput="showSuggestions()">
+  <div id="suggestions"></div>
+</div>
 
-  <script>
+<div id="result" class="result" style="display:none"></div>
+
+<div class="footer-controls">
+  <button class="btn btn-dark" onclick="toggleMode()">🌓 حالت شب</button>
+</div>
+
+  </div>  <script>
     let wordsData = {}, synonymsData = {};
 
     async function loadFiles() {
@@ -84,12 +117,11 @@
         fetch('sa.txt').then(r => r.text())
       ]);
 
-      // Parse projectsource.txt
       sourceText.split('\n').forEach(line => {
         const parts = line.split(' - ');
         if (parts.length >= 5) {
           const rest = parts.slice(4).join(' - ').trim();
-          const match = rest.match(/^(.+?)\s*\(([^)]+)\)/);
+          const match = rest.match(/^(.+?)\s*([^)]+)/);
           if (match) {
             const word = match[1].toLowerCase();
             const meaning = match[2];
@@ -103,7 +135,6 @@
         }
       });
 
-      // Parse sa.txt (even without blank lines)
       const lines = saText.split('\n');
       let currentWord = '';
       for (let i = 0; i < lines.length; i++) {
@@ -111,7 +142,7 @@
         if (!line) continue;
         if (/^[a-zA-Z][a-zA-Z \-]*$/.test(line)) {
           currentWord = line.toLowerCase();
-          if (!synonymsData[currentWord]) synonymsData[currentWord] = { synonyms: '', antonyms: '' };
+          synonymsData[currentWord] = { synonyms: '', antonyms: '' };
         } else if (/^synonyms\s*:/i.test(line)) {
           synonymsData[currentWord].synonyms = line.split(':')[1]?.trim() || '';
         } else if (/^antonyms\s*:/i.test(line)) {
@@ -121,50 +152,46 @@
     }
 
     function showSuggestions() {
-      const val = document.getElementById('searchInput').value.toLowerCase().trim();
-      const suggestions = document.getElementById('suggestions');
-      if (!val) return suggestions.innerHTML = '';
+      const input = document.getElementById('searchInput').value.trim().toLowerCase();
+      const box = document.getElementById('suggestions');
+      if (!input) return box.innerHTML = '';
 
-      const isPersian = /[آ-ی]/.test(val);
-      let matched = [];
-
+      const isPersian = /[آ-ی]/.test(input);
+      let matches = [];
       if (isPersian) {
-        matched = Object.entries(wordsData)
-          .filter(([w, info]) => info.meaning.includes(val))
-          .map(([w]) => w)
-          .slice(0, 15);
+        matches = Object.entries(wordsData)
+          .filter(([w, info]) => info.meaning.includes(input))
+          .map(([w]) => w).slice(0, 15);
       } else {
-        matched = Object.keys(wordsData)
-          .filter(w => w.startsWith(val))
-          .slice(0, 15);
+        matches = Object.keys(wordsData).filter(w => w.startsWith(input)).slice(0, 15);
       }
 
-      suggestions.innerHTML = matched.map(w => `<div onclick="selectWord('${w}')">${w}</div>`).join('');
+      box.innerHTML = matches.map(w => `<div onclick=\"selectWord('${w}')\">${w}</div>`).join('');
     }
 
     function selectWord(word) {
       document.getElementById('searchInput').value = word;
       document.getElementById('suggestions').innerHTML = '';
-      showResult(word);
+      showWord(word);
     }
 
-    function showResult(word) {
-      const data = wordsData[word];
+    function showWord(word) {
+      const info = wordsData[word];
       const extra = synonymsData[word] || {};
-      if (!data) return;
+      if (!info) return;
 
       let html = `<div style='font-size:20px;font-weight:bold;'>🔤 ${word}</div>`;
-      html += `<div class='label'>📘 معنی:</div><div class='value'>${data.meaning}</div>`;
-      html += `<div class='label'>🎯 سطح:</div><div class='value'>${data.level}</div>`;
-      html += `<div class='label'>⭐ رایج بودن:</div><div class='value'>${data.freq}</div>`;
-      html += `<div class='label'>🧠 نوع:</div><div class='value'>${data.type}</div>`;
+      html += `<div class='label'>📘 معنی:</div><div class='value'>${info.meaning}</div>`;
+      html += `<div class='label'>🎯 سطح:</div><div class='value'>${info.level}</div>`;
+      html += `<div class='label'>⭐ میزان رایج بودن:</div><div class='value'>${info.freq}</div>`;
+      html += `<div class='label'>🧠 نوع کلمه:</div><div class='value'>${info.type}</div>`;
       if (extra.synonyms) html += `<div class='label'>🔁 مترادف:</div><div class='value'>${extra.synonyms}</div>`;
       if (extra.antonyms) html += `<div class='label'>🚫 متضاد:</div><div class='value'>${extra.antonyms}</div>`;
-      html += `<button class='btn play-btn' onclick="speak('${word}')">🔊 تلفظ</button>`;
+      html += `<button class='btn btn-audio' onclick=\"speak('${word}')\">🔊 تلفظ</button>`;
 
-      const result = document.getElementById('result');
-      result.innerHTML = html;
-      result.style.display = 'block';
+      const resultBox = document.getElementById('result');
+      resultBox.innerHTML = html;
+      resultBox.style.display = 'block';
     }
 
     function speak(word) {
@@ -178,6 +205,5 @@
     }
 
     loadFiles();
-  </script>
-</body>
+  </script></body>
 </html>
