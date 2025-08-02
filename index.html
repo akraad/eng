@@ -79,7 +79,7 @@
 <body>
   <div class="container">
     <h2>📘 دیکشنری موبایل</h2>
-    <input id="searchInput" type="text" placeholder="کلمه را وارد کنید..." oninput="showSuggestions()" />
+    <input id="searchInput" type="text" placeholder="کلمه یا معنی را وارد کنید..." oninput="showSuggestions()" />
     <div id="suggestions"></div>
     <div id="result" class="result-card" style="display:none;"></div>
     <button class="btn mode-btn" onclick="toggleMode()">🌙 تغییر حالت شب/روز</button>
@@ -136,8 +136,24 @@
       const val = document.getElementById('searchInput').value.toLowerCase().trim();
       const suggestions = document.getElementById('suggestions');
       if (!val) return suggestions.innerHTML = '';
-      const matches = Object.keys(wordsData).filter(w => w.startsWith(val)).slice(0, 15);
-      suggestions.innerHTML = matches.map(w => `<div onclick="selectWord('${w}')">${w}</div>`).join('');
+
+      let matched = [];
+
+      // اگر ورودی فارسی است (حداقل یک حرف فارسی دارد)
+      const isPersian = /[آ-ی]/.test(val);
+
+      if (isPersian) {
+        matched = Object.entries(wordsData)
+          .filter(([w, info]) => info.meaning.includes(val))
+          .map(([w]) => w)
+          .slice(0, 15);
+      } else {
+        matched = Object.keys(wordsData)
+          .filter(w => w.startsWith(val))
+          .slice(0, 15);
+      }
+
+      suggestions.innerHTML = matched.map(w => `<div onclick="selectWord('${w}')">${w}</div>`).join('');
     }
 
     function selectWord(word) {
