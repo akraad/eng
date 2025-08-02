@@ -1,0 +1,73 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Word Example Viewer</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    #wordList { margin-top: 20px; max-height: 400px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px; }
+    .word-item { cursor: pointer; color: blue; margin: 5px 0; }
+    .word-item:hover { text-decoration: underline; }
+    #examples { margin-top: 20px; border-top: 1px solid #ccc; padding-top: 10px; }
+    #searchBox { width: 100%; padding: 10px; font-size: 16px; }
+  </style>
+</head>
+<body>
+  <h1>Word Example Viewer</h1>
+  <input type="file" id="fileInput" accept=".txt">
+  <input type="text" id="searchBox" placeholder="Search for a word...">
+  <div id="wordList"></div>
+  <div id="examples"></div>  <script>
+    let wordData = [];
+    let filteredWords = [];
+
+    function getRandomExamples(word, count = 5) {
+      const templates = [
+        `I saw a ${word} in the park. /// من یک ${word} در پارک دیدم.`,
+        `She uses the ${word} every day. /// او هر روز از ${word} استفاده می‌کند.`,
+        `Can I borrow your ${word}? /// می‌تونم ${word} شما رو قرض بگیرم؟`,
+        `He lost his favorite ${word}. /// او ${word} مورد علاقه‌اش را گم کرد.`,
+        `The ${word} is very useful. /// ${word} بسیار مفید است.`
+      ];
+      return templates.sort(() => 0.5 - Math.random()).slice(0, count);
+    }
+
+    document.getElementById('fileInput').addEventListener('change', function(e) {
+      const file = e.target.files[0];
+      const reader = new FileReader();
+      reader.onload = function() {
+        const lines = reader.result.split('\n');
+        wordData = lines.map(line => {
+          const match = line.match(/- Q\d - (\w+) \(/);
+          return match ? match[1] : null;
+        }).filter(Boolean);
+        filteredWords = [...wordData];
+        displayWords();
+      };
+      reader.readAsText(file);
+    });
+
+    document.getElementById('searchBox').addEventListener('input', function(e) {
+      const query = e.target.value.toLowerCase();
+      filteredWords = wordData.filter(word => word.toLowerCase().includes(query));
+      displayWords();
+    });
+
+    function displayWords() {
+      const container = document.getElementById('wordList');
+      container.innerHTML = '';
+      filteredWords.forEach(word => {
+        const div = document.createElement('div');
+        div.className = 'word-item';
+        div.textContent = word;
+        div.addEventListener('click', () => showExamples(word));
+        container.appendChild(div);
+      });
+    }
+
+    function showExamples(word) {
+      const exDiv = document.getElementById('examples');
+      const examples = getRandomExamples(word);
+      exDiv.innerHTML = `<h2>Examples for: ${word}</h2>` + examples.map(e => `<p>${e}</p>`).join('');
+    }
+  </script></body>
+</html>
