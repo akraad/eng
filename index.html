@@ -95,11 +95,11 @@
       ]);
 
       // Load words
-      sourceText.split('\\n').forEach(line => {
+      sourceText.split('\n').forEach(line => {
         const parts = line.split(' - ');
         if (parts.length >= 5) {
           const rest = parts.slice(4).join(' - ').trim();
-          const match = rest.match(/^(.+?)\\s*\\(([^)]+)\\)/);
+          const match = rest.match(/^(.+?)\s*\(([^)]+)\)/);
           if (match) {
             const word = match[1].toLowerCase();
             const meaning = match[2];
@@ -114,12 +114,12 @@
       });
 
       // Load synonyms and antonyms
-      const lines = saText.split('\\n');
+      const lines = saText.split('\n');
       let currentWord = '', syn = '', ant = '';
       for (let line of lines) {
         line = line.trim();
         if (!line) continue;
-        if (/^[a-zA-Z\\-\\s]+$/.test(line)) {
+        if (/^[a-zA-Z\- ]+$/.test(line)) {
           if (currentWord) synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
           currentWord = line.toLowerCase();
           syn = ''; ant = '';
@@ -145,6 +145,14 @@
       document.getElementById('suggestions').innerHTML = '';
       showResult(word);
     }
+
+    document.getElementById('searchInput').addEventListener('keydown', e => {
+      if (e.key === 'Enter') {
+        const word = e.target.value.trim().toLowerCase();
+        showResult(word);
+        document.getElementById('suggestions').innerHTML = '';
+      }
+    });
 
     function showResult(word) {
       const data = wordsData[word];
