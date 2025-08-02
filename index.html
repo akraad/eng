@@ -1,7 +1,8 @@
-<!DOCTYPE html><html lang="fa">
+<!DOCTYPE html>
+<html lang="fa">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>دیکشنری موبایل</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap');
@@ -15,48 +16,42 @@
     }
     body.dark {
       background: #121212;
-      color: #f5f5f5;
+      color: #f0f0f0;
     }
     .container {
       max-width: 480px;
       margin: auto;
       padding: 20px;
     }
-    h2 {
-      text-align: center;
-    }
     input {
       width: 100%;
       padding: 12px;
       font-size: 16px;
-      border: none;
       border-radius: 10px;
-      box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+      border: none;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+      box-sizing: border-box;
     }
     #suggestions {
-      background: #fff;
-      border-radius: 0 0 10px 10px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      background: white;
       max-height: 200px;
       overflow-y: auto;
-      margin-top: 2px;
+      border-radius: 0 0 10px 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
       position: relative;
-      z-index: 10;
+      z-index: 2;
     }
     #suggestions div {
       padding: 10px;
       border-bottom: 1px solid #eee;
       cursor: pointer;
     }
-    #suggestions div:hover {
-      background: #f9f9f9;
-    }
     .result-card {
-      background: #fff;
-      border-radius: 12px;
       margin-top: 20px;
+      background: white;
+      border-radius: 12px;
       padding: 20px;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     }
     .dark .result-card {
       background: #1e1e1e;
@@ -68,81 +63,81 @@
     .value {
       margin-bottom: 8px;
     }
-    button {
+    .btn {
+      display: inline-block;
       padding: 8px 14px;
+      margin-top: 10px;
       border: none;
       border-radius: 8px;
-      margin-top: 10px;
       font-size: 14px;
       cursor: pointer;
     }
-    .mode-btn {
-      background: #444;
-      color: #fff;
-      width: 100%;
-    }
-    .play-btn {
-      background: #007bff;
-      color: #fff;
-    }
+    .play-btn { background: #007bff; color: white; }
+    .mode-btn { background: #444; color: white; width: 100%; margin-top: 15px; }
   </style>
 </head>
 <body>
   <div class="container">
     <h2>📘 دیکشنری موبایل</h2>
-    <input type="text" id="searchInput" placeholder="کلمه‌ای وارد کنید..." oninput="showSuggestions()">
+    <input id="searchInput" type="text" placeholder="کلمه را وارد کنید..." oninput="showSuggestions()" />
     <div id="suggestions"></div>
     <div id="result" class="result-card" style="display:none;"></div>
-    <button class="mode-btn" onclick="toggleMode()">🌙 تغییر حالت شب/روز</button>
-  </div>  <script>
+    <button class="btn mode-btn" onclick="toggleMode()">🌙 تغییر حالت شب/روز</button>
+  </div>
+
+  <script>
     let wordsData = {}, synonymsData = {};
 
     async function loadFiles() {
-      try {
-        const [source, sa] = await Promise.all([
-          fetch('projectsource.txt').then(res => res.text()),
-          fetch('sa.txt').then(res => res.text())
-        ]);
+      const [sourceText, saText] = await Promise.all([
+        fetch('projectsource.txt').then(r => r.text()),
+        fetch('sa.txt').then(r => r.text())
+      ]);
 
-        source.split('\n').forEach(line => {
-          const parts = line.split(' - ');
-          if (parts.length >= 5) {
-            const level = parts[1].trim();
-            const freq = parts[2].trim();
-            const type = parts[3].trim();
-            const rest = parts.slice(4).join(' - ').trim();
-            const match = rest.match(/^([a-zA-Z\-]+)\s*([^)]+)/);
-            if (match) {
-              const word = match[1].toLowerCase();
-              const meaning = match[2];
-              wordsData[word] = { level, freq, type, meaning };
-            }
+      // Load words
+      sourceText.split('\\n').forEach(line => {
+        const parts = line.split(' - ');
+        if (parts.length >= 5) {
+          const rest = parts.slice(4).join(' - ').trim();
+          const match = rest.match(/^(.+?)\\s*\\(([^)]+)\\)/);
+          if (match) {
+            const word = match[1].toLowerCase();
+            const meaning = match[2];
+            wordsData[word] = {
+              level: parts[1],
+              freq: parts[2],
+              type: parts[3],
+              meaning: meaning
+            };
           }
-        });
-
-        const lines = sa.trim().split('\n');
-        let current = '', syn = '', ant = '';
-        for (let line of lines) {
-          line = line.trim();
-          if (!line) continue;
-          if (/^[a-zA-Z\-]+$/.test(line)) {
-            if (current) synonymsData[current] = { synonyms: syn, antonyms: ant };
-            current = line.toLowerCase(); syn = ''; ant = '';
-          } else if (line.toLowerCase().startsWith('synonyms:')) syn = line.split(':')[1]?.trim() || '';
-          else if (line.toLowerCase().startsWith('antonyms:')) ant = line.split(':')[1]?.trim() || '';
         }
-        if (current) synonymsData[current] = { synonyms: syn, antonyms: ant };
-      } catch (e) {
-        console.error('خطا در بارگذاری فایل‌ها:', e);
+      });
+
+      // Load synonyms and antonyms
+      const lines = saText.split('\\n');
+      let currentWord = '', syn = '', ant = '';
+      for (let line of lines) {
+        line = line.trim();
+        if (!line) continue;
+        if (/^[a-zA-Z\\-\\s]+$/.test(line)) {
+          if (currentWord) synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
+          currentWord = line.toLowerCase();
+          syn = ''; ant = '';
+        } else if (line.toLowerCase().startsWith('synonyms:')) {
+          syn = line.split(':')[1]?.trim();
+        } else if (line.toLowerCase().startsWith('antonyms:')) {
+          ant = line.split(':')[1]?.trim();
+        }
       }
+      if (currentWord) synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
     }
 
     function showSuggestions() {
-      const input = document.getElementById('searchInput').value.trim().toLowerCase();
-      const box = document.getElementById('suggestions');
-      if (!input) return box.innerHTML = '';
-      const matched = Object.keys(wordsData).filter(w => w.startsWith(input)).slice(0, 15);
-      box.innerHTML = matched.map(w => `<div onclick="selectWord('${w}')">${w}</div>`).join('');
+      const val = document.getElementById('searchInput').value.toLowerCase().trim();
+      const suggestions = document.getElementById('suggestions');
+      if (!val) return suggestions.innerHTML = '';
+      const matches = Object.keys(wordsData).filter(w => w.startsWith(val)).slice(0, 15);
+      suggestions.innerHTML = matches.map(w => `<div onclick="selectWord('${w}')">${w}</div>`).join('');
     }
 
     function selectWord(word) {
@@ -151,35 +146,29 @@
       showResult(word);
     }
 
-    document.getElementById('searchInput').addEventListener('keydown', e => {
-      if (e.key === 'Enter') {
-        const word = e.target.value.trim().toLowerCase();
-        showResult(word);
-        document.getElementById('suggestions').innerHTML = '';
-      }
-    });
-
     function showResult(word) {
-      const info = wordsData[word];
-      if (!info) return;
-      const sa = synonymsData[word] || {};
+      const data = wordsData[word];
+      const extra = synonymsData[word] || {};
+      if (!data) return;
+
       let html = `<div style='font-size:20px;font-weight:bold;'>🔤 ${word}</div>`;
-      html += `<div class='label'>📘 معنی:</div><div class='value'>${info.meaning}</div>`;
-      html += `<div class='label'>🎯 سطح:</div><div class='value'>${info.level}</div>`;
-      html += `<div class='label'>⭐ میزان رایج بودن:</div><div class='value'>${info.freq}</div>`;
-      html += `<div class='label'>🧠 نوع کلمه:</div><div class='value'>${info.type}</div>`;
-      html += `<button class='play-btn' onclick='playWord("${word}")'>🔊 پخش تلفظ</button>`;
-      if (sa.synonyms) html += `<div class='label'>🔁 مترادف‌ها:</div><div class='value'>${sa.synonyms}</div>`;
-      if (sa.antonyms) html += `<div class='label'>🚫 متضادها:</div><div class='value'>${sa.antonyms}</div>`;
+      html += `<div class='label'>📘 معنی:</div><div class='value'>${data.meaning}</div>`;
+      html += `<div class='label'>🎯 سطح:</div><div class='value'>${data.level}</div>`;
+      html += `<div class='label'>⭐ رایج بودن:</div><div class='value'>${data.freq}</div>`;
+      html += `<div class='label'>🧠 نوع:</div><div class='value'>${data.type}</div>`;
+      if (extra.synonyms) html += `<div class='label'>🔁 مترادف:</div><div class='value'>${extra.synonyms}</div>`;
+      if (extra.antonyms) html += `<div class='label'>🚫 متضاد:</div><div class='value'>${extra.antonyms}</div>`;
+      html += `<button class='btn play-btn' onclick="speak('${word}')">🔊 تلفظ</button>`;
+
       const result = document.getElementById('result');
       result.innerHTML = html;
       result.style.display = 'block';
     }
 
-    function playWord(word) {
-      const u = new SpeechSynthesisUtterance(word);
-      u.lang = 'en-US';
-      speechSynthesis.speak(u);
+    function speak(word) {
+      const utterance = new SpeechSynthesisUtterance(word);
+      utterance.lang = 'en-US';
+      speechSynthesis.speak(utterance);
     }
 
     function toggleMode() {
@@ -187,5 +176,6 @@
     }
 
     loadFiles();
-  </script></body>
+  </script>
+</body>
 </html>
