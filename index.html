@@ -321,17 +321,16 @@
                         const word = wordMatch[1].trim().toLowerCase();
                         let synonyms = 'موردی یافت نشد.';
                         let antonyms = 'موردی یافت نشد.';
-                        
-                        const synonymsLine = lines.find(line => line.includes('Synonyms:'));
-                        if (synonymsLine) {
-                            synonyms = synonymsLine.replace('* Synonyms:', '').trim();
-                            if (synonyms === '—') synonyms = 'موردی یافت نشد.';
-                        }
 
-                        const antonymsLine = lines.find(line => line.includes('Antonyms:'));
-                        if (antonymsLine) {
-                            antonyms = antonymsLine.replace('* Antonyms:', '').trim();
-                            if (antonyms === '—') antonyms = 'موردی یافت نشد.';
+                        for (const line of lines) {
+                            if (line.includes('Synonyms:')) {
+                                synonyms = line.replace('* Synonyms:', '').trim();
+                                if (synonyms === '—' || !synonyms) synonyms = 'موردی یافت نشد.';
+                            }
+                            if (line.includes('Antonyms:')) {
+                                antonyms = line.replace('* Antonyms:', '').trim();
+                                if (antonyms === '—' || !antonyms) antonyms = 'موردی یافت نشد.';
+                            }
                         }
                         saData[word] = { synonyms, antonyms };
                     }
@@ -365,7 +364,6 @@
                 wordUsage.textContent = usageMap[wordInfo.usage] || 'نامشخص';
                 wordType.textContent = typeMap[wordInfo.type] || 'نامشخص';
                 
-                // Check if saInfo exists before trying to access properties
                 if (saInfo) {
                     synonymsSpan.textContent = saInfo.synonyms;
                     antonymsSpan.textContent = saInfo.antonyms;
