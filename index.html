@@ -1,450 +1,147 @@
-<!DOCTYPE html>
-<html lang="fa" dir="rtl">
+<!DOCTYPE html><html lang="fa" dir="rtl">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>جستجوگر لغات</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
-        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
-        :root {
-            --primary-color: #007bff;
-            --background-color: #f0f2f5;
-            --card-background: #ffffff;
-            --text-color: #333333;
-            --secondary-text-color: #666666;
-            --border-color: #e0e0e0;
-            --box-shadow-light: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
-            font-family: 'Vazirmatn', 'Roboto', sans-serif;
-            background-color: var(--background-color);
-            color: var(--text-color);
-            line-height: 1.6;
-            padding: 20px;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            min-height: 100vh;
-        }
-
-        .container {
-            width: 100%;
-            max-width: 600px;
-            background: var(--card-background);
-            border-radius: 15px;
-            box-shadow: var(--box-shadow-light);
-            padding: 25px;
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-        }
-
-        h1 {
-            text-align: center;
-            font-size: 1.8rem;
-            color: var(--primary-color);
-        }
-
-        .search-box {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-            position: relative;
-        }
-
-        .search-input-wrapper {
-            display: flex;
-            width: 100%;
-            position: relative;
-        }
-
-        #searchInput {
-            flex-grow: 1;
-            padding: 12px 15px;
-            border: 1px solid var(--border-color);
-            border-radius: 10px;
-            font-size: 1rem;
-            transition: border-color 0.3s;
-            text-align: right;
-            font-family: 'Roboto', sans-serif;
-        }
-        
-        #searchInput:focus {
-            outline: none;
-            border-color: var(--primary-color);
-        }
-        
-        #searchButton {
-            width: 100%;
-            padding: 12px 20px;
-            background-color: var(--primary-color);
-            color: #fff;
-            border: none;
-            border-radius: 10px;
-            cursor: pointer;
-            font-size: 1rem;
-            font-family: inherit;
-            transition: background-color 0.3s;
-        }
-
-        #searchButton:hover {
-            background-color: #0056b3;
-        }
-        
-        #suggestions {
-            position: absolute;
-            top: calc(100% + 5px);
-            left: 0;
-            right: 0;
-            background-color: var(--card-background);
-            border: 1px solid var(--border-color);
-            border-radius: 10px;
-            z-index: 10;
-            max-height: 200px;
-            overflow-y: auto;
-            display: none;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-
-        #suggestions div {
-            padding: 10px 15px;
-            cursor: pointer;
-            border-bottom: 1px solid #eee;
-            font-size: 0.9rem;
-            font-family: 'Roboto', sans-serif;
-        }
-
-        #suggestions div:last-child {
-            border-bottom: none;
-        }
-
-        #suggestions div:hover {
-            background-color: #f0f0f0;
-        }
-
-        #results {
-            margin-top: 15px;
-            padding: 15px;
-            background: #f9f9f9;
-            border-radius: 10px;
-            border: 1px solid var(--border-color);
-            display: none;
-            flex-direction: column;
-            gap: 10px;
-        }
-
-        .word-info p, .synonyms-antonyms p {
-            font-size: 0.9rem;
-            margin: 0;
-        }
-
-        .result-item strong {
-            color: var(--primary-color);
-            font-weight: 700;
-        }
-
-        .word-info h2 {
-            font-size: 1.2rem;
-            margin-bottom: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-
-        .word-info h2 span {
-            font-family: 'Roboto', sans-serif;
-            font-size: 1.2rem;
-        }
-
-        #pronounceButton {
-            background: #f0f0f0;
-            border: none;
-            border-radius: 50%;
-            width: 35px;
-            height: 35px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: background 0.3s;
-            flex-shrink: 0;
-        }
-        
-        #pronounceButton:hover {
-            background: #e0e0e0;
-        }
-        
-        #pronounceButton svg {
-            fill: var(--primary-color);
-            width: 20px;
-            height: 20px;
-        }
-
-        #loadingMessage, #errorMessage {
-            text-align: center;
-            padding: 10px;
-            margin-top: 20px;
-            font-size: 1rem;
-        }
-        
-        @media (max-width: 480px) {
-            body {
-                padding: 10px;
-            }
-            .container {
-                padding: 15px;
-            }
-            h1 {
-                font-size: 1.5rem;
-            }
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فرهنگ لغت هوشمند</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif, 'Vazir', 'Tahoma';
+      background-color: #fdfdfd;
+      color: #222;
+      direction: rtl;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+      font-size: 1.5rem;
+    }
+    .search-container {
+      padding: 1rem;
+      background-color: #eee;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 0.75rem;
+      font-size: 1rem;
+      border: none;
+      border-radius: 5px;
+      outline: none;
+    }
+    .results {
+      padding: 1rem;
+    }
+    .word-box {
+      margin-bottom: 1.5rem;
+      padding: 1rem;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .word-box h2 {
+      margin: 0 0 0.5rem 0;
+      font-size: 1.25rem;
+      color: #333;
+    }
+    .word-box p {
+      margin: 0.2rem 0;
+      font-size: 0.95rem;
+    }
+    .highlight {
+      color: #4CAF50;
+      font-weight: bold;
+    }
+  </style>
 </head>
 <body>
+  <header>فرهنگ لغت هوشمند</header>
+  <div class="search-container">
+    <input type="text" id="search" placeholder="جستجوی فارسی یا انگلیسی...">
+  </div>
+  <div class="results" id="results"></div>  <script>
+    let sourceData = ``;
+    let saData = ``;
 
-<div class="container">
-    <h1>جستجوگر لغات</h1>
-    <div class="search-box">
-        <div class="search-input-wrapper">
-            <input type="text" id="searchInput" placeholder="کلمه انگلیسی مورد نظر را وارد کنید...">
-        </div>
-        <div id="suggestions"></div>
-        <button id="searchButton">جستجو</button>
-    </div>
-    
-    <div id="results">
-        <div class="word-info">
-            <h2 id="wordTitle"></h2>
-            <p><strong class="result-item">سطح:</strong> <span id="wordLevel"></span></p>
-            <p><strong class="result-item">کاربرد:</strong> <span id="wordUsage"></span></p>
-            <p><strong class="result-item">نوع:</strong> <span id="wordType"></span></p>
-        </div>
-        <hr>
-        <div class="synonyms-antonyms">
-            <p class="result-item"><strong class="result-item">مترادف‌ها:</strong> <span id="synonyms"></span></p>
-            <p class="result-item"><strong class="result-item">متضاد‌ها:</strong> <span id="antonyms"></span></p>
-        </div>
-    </div>
+    async function loadFiles() {
+      const [project, sa] = await Promise.all([
+        fetch('projectsource.txt').then(r => r.text()),
+        fetch('sa.txt').then(r => r.text())
+      ]);
+      sourceData = project;
+      saData = sa;
+    }
 
-    <div id="loadingMessage" style="display: none;">درحال بارگذاری اطلاعات...</div>
-    <div id="errorMessage" style="display: none;"></div>
-</div>
+    function normalize(text) {
+      return text.trim().toLowerCase();
+    }
 
-<script>
-    document.addEventListener('DOMContentLoaded', () => {
-        const searchInput = document.getElementById('searchInput');
-        const searchButton = document.getElementById('searchButton');
-        const resultsDiv = document.getElementById('results');
-        const suggestionsDiv = document.getElementById('suggestions');
-        const loadingMessage = document.getElementById('loadingMessage');
-        const errorMessage = document.getElementById('errorMessage');
-
-        const wordTitle = document.getElementById('wordTitle');
-        const wordLevel = document.getElementById('wordLevel');
-        const wordUsage = document.getElementById('wordUsage');
-        const wordType = document.getElementById('wordType');
-        const synonymsSpan = document.getElementById('synonyms');
-        const antonymsSpan = document.getElementById('antonyms');
-
-        let projectsourceData = {};
-        let saData = {};
-        let projectsourceWords = [];
-        
-        const levelMap = {
-            'A1': 'A1: مبتدی', 'A2': 'A2: مقدماتی', 'B1': 'B1: متوسط', 
-            'B2': 'B2: متوسط رو به بالا', 'C1': 'C1: پیشرفته', 'C2': 'C2: مسلط'
-        };
-        const usageMap = {
-            'XV1': 'خیلی پرکاربرد', 'XV2': 'پرکاربرد', 'XV3': 'رایج',
-            'XV4': 'نیمه‌ پیشرفته', 'XV5': 'کم‌کاربرد', 'XV6': 'نادر یا تخصصی'
-        };
-        const typeMap = {
-            'Q1': 'اسم', 'Q2': 'صفت', 'Q3': 'ضمیر', 'Q4': 'فعل',
-            'Q5': 'قید', 'Q6': 'حرف اضافه', 'Q7': 'حرف ربط', 'Q8': 'صوت'
-        };
-
-        const showMessage = (element, message, color = 'red') => {
-            element.textContent = message;
-            element.style.color = color;
-            element.style.display = 'block';
-        };
-
-        const hideMessage = (element) => {
-            element.style.display = 'none';
-        };
-
-        const loadData = async () => {
-            hideMessage(errorMessage);
-            showMessage(loadingMessage, 'درحال بارگذاری اطلاعات...', 'gray');
-            try {
-                // Fetch and parse projectsource.txt
-                const projectsourceResponse = await fetch('projectsource.txt');
-                const projectsourceText = await projectsourceResponse.text();
-                const projectsourceLines = projectsourceText.split('\n');
-                
-                projectsourceLines.forEach(line => {
-                    const match = line.match(/^ID: ID(\d+) - (A1|A2|B1|B2|C1|C2) - (XV\d) - (Q\d) - (.+)\s\(.+\)$/);
-                    if (match) {
-                        const wordWithTranslation = match[5].trim();
-                        const word = wordWithTranslation.split(' ')[0].trim();
-                        projectsourceData[word.toLowerCase()] = {
-                            id: match[1],
-                            level: match[2],
-                            usage: match[3],
-                            type: match[4],
-                            fullWord: wordWithTranslation
-                        };
-                        projectsourceWords.push(word.toLowerCase());
-                    }
-                });
-                projectsourceWords.sort();
-
-                // Fetch and parse sa.txt
-                const saResponse = await fetch('sa.txt');
-                const saText = await saResponse.text();
-                
-                const entries = saText.split(/\r?\n(?=\* Synonyms:)/).filter(Boolean);
-                
-                entries.forEach(entry => {
-                    const lines = entry.trim().split('\n');
-                    const wordMatch = lines[0].match(/^\*\s(.+)/);
-                    if (wordMatch) {
-                        const word = wordMatch[1].trim().toLowerCase();
-                        let synonyms = 'موردی یافت نشد.';
-                        let antonyms = 'موردی یافت نشد.';
-
-                        for (const line of lines) {
-                            if (line.includes('Synonyms:')) {
-                                synonyms = line.replace('* Synonyms:', '').trim();
-                                if (synonyms === '—' || !synonyms) synonyms = 'موردی یافت نشد.';
-                            }
-                            if (line.includes('Antonyms:')) {
-                                antonyms = line.replace('* Antonyms:', '').trim();
-                                if (antonyms === '—' || !antonyms) antonyms = 'موردی یافت نشد.';
-                            }
-                        }
-                        saData[word] = { synonyms, antonyms };
-                    }
-                });
-
-                hideMessage(loadingMessage);
-                console.log('Data loaded successfully!');
-            } catch (error) {
-                console.error('Error loading data:', error);
-                hideMessage(loadingMessage);
-                showMessage(errorMessage, 'خطا در بارگذاری فایل‌ها. لطفا فایل‌ها را بررسی کنید.', 'red');
+    function searchWords(term) {
+      const normalizedTerm = normalize(term);
+      const lines = sourceData.split('\n');
+      const result = [];
+      for (const line of lines) {
+        if (line.includes('-')) {
+          const match = line.match(/ID: (ID\d+) - (A\d|B\d|C\d) - (XV\d) - (Q\d) - (.*?) (.*?)/);
+          if (match) {
+            const [_, id, level, freq, type, word, meaning] = match;
+            if (normalize(word).includes(normalizedTerm) || normalize(meaning).includes(normalizedTerm)) {
+              const syns = getSynonyms(word);
+              const ants = getAntonyms(word);
+              result.push({id, level, freq, type, word, meaning, syns, ants});
+              if (result.length >= 50) break;
             }
-        };
+          }
+        }
+      }
+      return result;
+    }
 
-        const findWord = (searchTerm) => {
-            if (!searchTerm) {
-                showMessage(errorMessage, 'لطفا کلمه مورد نظر را وارد کنید.', 'red');
-                resultsDiv.style.display = 'none';
-                return;
-            }
-            
-            hideMessage(errorMessage);
-            const wordInfo = projectsourceData[searchTerm];
-            const saInfo = saData[searchTerm];
-            
-            if (wordInfo) {
-                const [word, persianTranslation] = wordInfo.fullWord.split(' (');
-                
-                wordTitle.innerHTML = `<span style="font-family: 'Roboto', sans-serif;">${word}</span> (${persianTranslation.replace(')', '')}) <button id="pronounceButton"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M12 14c-1.66 0-3-1.34-3-3V5c0-1.66 1.34-3 3-3s3 1.34 3 3v6c0 1.66-1.34 3-3 3zm5.4-3c0 3.03-2.43 5.5-5.4 5.5s-5.4-2.47-5.4-5.5H5.5c0 3.53 2.61 6.43 6 6.92V21h1v-4.08c3.39-.49 6-3.39 6-6.92h-1.6z"/></svg></button>`;
-                wordLevel.textContent = levelMap[wordInfo.level] || 'نامشخص';
-                wordUsage.textContent = usageMap[wordInfo.usage] || 'نامشخص';
-                wordType.textContent = typeMap[wordInfo.type] || 'نامشخص';
-                
-                if (saInfo) {
-                    synonymsSpan.textContent = saInfo.synonyms;
-                    antonymsSpan.textContent = saInfo.antonyms;
-                } else {
-                    synonymsSpan.textContent = 'موردی یافت نشد.';
-                    antonymsSpan.textContent = 'موردی یافت نشد.';
-                }
-                
-                resultsDiv.style.display = 'flex';
+    function getSynonyms(word) {
+      const blocks = saData.split(/\n(?=\w)/);
+      for (const block of blocks) {
+        const [header, ...rest] = block.split('\n');
+        if (normalize(header) === normalize(word)) {
+          const synLine = rest.find(l => l.includes('Synonyms:')) || '';
+          return synLine.replace('* Synonyms:', '').trim();
+        }
+      }
+      return '—';
+    }
 
-                const pronounceButton = document.getElementById('pronounceButton');
-                if (pronounceButton) {
-                    pronounceButton.onclick = () => {
-                        speak(word);
-                    };
-                }
+    function getAntonyms(word) {
+      const blocks = saData.split(/\n(?=\w)/);
+      for (const block of blocks) {
+        const [header, ...rest] = block.split('\n');
+        if (normalize(header) === normalize(word)) {
+          const antLine = rest.find(l => l.includes('Antonyms:')) || '';
+          return antLine.replace('* Antonyms:', '').trim();
+        }
+      }
+      return '—';
+    }
 
-            } else {
-                showMessage(errorMessage, `کلمه "${searchTerm}" در مخزن یافت نشد.`);
-                resultsDiv.style.display = 'none';
-            }
-        };
-
-        const speak = (text) => {
-            if ('speechSynthesis' in window) {
-                const utterance = new SpeechSynthesisUtterance(text);
-                utterance.lang = 'en-US';
-                window.speechSynthesis.speak(utterance);
-            } else {
-                alert('مرورگر شما از قابلیت تلفظ پشتیبانی نمی‌کند.');
-            }
-        };
-
-        searchInput.addEventListener('input', () => {
-            const searchTerm = searchInput.value.trim().toLowerCase();
-            suggestionsDiv.innerHTML = '';
-            if (searchTerm.length > 0) {
-                const matches = projectsourceWords.filter(word => word.startsWith(searchTerm)).slice(0, 15);
-                if (matches.length > 0) {
-                    matches.forEach(word => {
-                        const suggestionItem = document.createElement('div');
-                        suggestionItem.textContent = word;
-                        suggestionItem.addEventListener('click', () => {
-                            searchInput.value = word;
-                            suggestionsDiv.style.display = 'none';
-                            findWord(word);
-                        });
-                        suggestionsDiv.appendChild(suggestionItem);
-                    });
-                    suggestionsDiv.style.display = 'block';
-                } else {
-                    suggestionsDiv.style.display = 'none';
-                }
-            } else {
-                suggestionsDiv.style.display = 'none';
-            }
-        });
-
-        searchButton.addEventListener('click', () => {
-            const searchTerm = searchInput.value.trim().toLowerCase();
-            findWord(searchTerm);
-            suggestionsDiv.style.display = 'none';
-        });
-
-        searchInput.addEventListener('keypress', (e) => {
-            if (e.key === 'Enter') {
-                const searchTerm = searchInput.value.trim().toLowerCase();
-                findWord(searchTerm);
-                suggestionsDiv.style.display = 'none';
-            }
-        });
-
-        document.addEventListener('click', (event) => {
-            if (!searchInput.contains(event.target) && !suggestionsDiv.contains(event.target)) {
-                suggestionsDiv.style.display = 'none';
-            }
-        });
-
-        loadData();
+    document.getElementById('search').addEventListener('input', function () {
+      const term = this.value;
+      const results = searchWords(term);
+      const container = document.getElementById('results');
+      container.innerHTML = '';
+      results.forEach(({word, meaning, level, freq, type, syns, ants}) => {
+        container.innerHTML += `
+          <div class="word-box">
+            <h2>${word}</h2>
+            <p><span class="highlight">معنی:</span> ${meaning}</p>
+            <p><span class="highlight">سطح:</span> ${level}</p>
+            <p><span class="highlight">رایج بودن:</span> ${freq}</p>
+            <p><span class="highlight">نوع:</span> ${type}</p>
+            <p><span class="highlight">مترادف‌ها:</span> ${syns}</p>
+            <p><span class="highlight">متضادها:</span> ${ants}</p>
+          </div>
+        `;
+      });
     });
-</script>
 
-</body>
+    loadFiles();
+  </script></body>
 </html>
