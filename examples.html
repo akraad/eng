@@ -1,37 +1,88 @@
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Word Example Viewer</title>
   <style>
-    body { font-family: Arial, sans-serif; padding: 20px; }
-    #wordList { margin-top: 20px; max-height: 400px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px; }
-    .word-item { cursor: pointer; color: blue; margin: 5px 0; }
-    .word-item:hover { text-decoration: underline; }
-    #examples { margin-top: 20px; border-top: 1px solid #ccc; padding-top: 10px; }
-    #searchBox { width: 100%; padding: 10px; font-size: 16px; }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #2196f3;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      font-size: 1.5em;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    main {
+      padding: 15px;
+    }
+    .section {
+      background: white;
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 15px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    input[type="file"], input[type="text"] {
+      display: block;
+      margin-bottom: 10px;
+      padding: 10px;
+      width: 100%;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      font-size: 1em;
+    }
+    .word-item {
+      padding: 10px;
+      border-bottom: 1px solid #eee;
+      cursor: pointer;
+    }
+    .word-item:hover {
+      background-color: #f0f0f0;
+    }
+    #wordList {
+      max-height: 300px;
+      overflow-y: auto;
+    }
+    #examples {
+      margin-top: 10px;
+    }
+    .example-box {
+      background: #e3f2fd;
+      padding: 10px;
+      border-radius: 5px;
+      margin-bottom: 5px;
+    }
   </style>
 </head>
 <body>
-  <h1>Word Example Viewer</h1>
-  <input type="file" id="fileInput" accept=".txt">
-  <input type="text" id="searchBox" placeholder="Search for a word...">
+  <header>📘 Word Example Viewer</header>
+  <main>
+    <div class="section">
+      <label><strong>Upload Word File:</strong></label>
+      <input type="file" id="wordFile" accept=".txt">
+      <label><strong>Upload Example File:</strong></label>
+      <input type="file" id="exampleFile" accept=".txt">
+    </div><div class="section">
+  <input type="text" id="searchBox" placeholder="🔍 Search for a word...">
   <div id="wordList"></div>
-  <div id="examples"></div>  <script>
+</div>
+
+<div class="section" id="examples">
+  <p style="color: #888">Select a word to view its examples.</p>
+</div>
+
+  </main>  <script>
     let wordData = [];
     let filteredWords = [];
+    let examplesMap = {};
 
-    function getRandomExamples(word, count = 5) {
-      const templates = [
-        `I saw a ${word} in the park. /// من یک ${word} در پارک دیدم.`,
-        `She uses the ${word} every day. /// او هر روز از ${word} استفاده می‌کند.`,
-        `Can I borrow your ${word}? /// می‌تونم ${word} شما رو قرض بگیرم؟`,
-        `He lost his favorite ${word}. /// او ${word} مورد علاقه‌اش را گم کرد.`,
-        `The ${word} is very useful. /// ${word} بسیار مفید است.`
-      ];
-      return templates.sort(() => 0.5 - Math.random()).slice(0, count);
-    }
-
-    document.getElementById('fileInput').addEventListener('change', function(e) {
+    document.getElementById('wordFile').addEventListener('change', function(e) {
       const file = e.target.files[0];
       const reader = new FileReader();
       reader.onload = function() {
@@ -42,6 +93,26 @@
         }).filter(Boolean);
         filteredWords = [...wordData];
         displayWords();
+      };
+      reader.readAsText(file);
+    });
+
+    document.getElementById('exampleFile').addEventListener('change', function(e) {
+      const file = e.target.files[0];
+      const reader = new FileReader();
+      reader.onload = function() {
+        const lines = reader.result.split('\n');
+        lines.forEach(line => {
+          const [_, eng, fa] = line.match(/^\d+\.\s+(.+?)\s+\/\/\/\s+(.+)$/) || [];
+          if (!eng || !fa) return;
+          const words = eng.toLowerCase().match(/\b\w+\b/g);
+          if (words) {
+            words.forEach(w => {
+              if (!examplesMap[w]) examplesMap[w] = [];
+              examplesMap[w].push(`${eng} /// ${fa}`);
+            });
+          }
+        });
       };
       reader.readAsText(file);
     });
@@ -66,8 +137,14 @@
 
     function showExamples(word) {
       const exDiv = document.getElementById('examples');
-      const examples = getRandomExamples(word);
-      exDiv.innerHTML = `<h2>Examples for: ${word}</h2>` + examples.map(e => `<p>${e}</p>`).join('');
+      const key = word.toLowerCase();
+      const examples = examplesMap[key] || [];
+      if (examples.length === 0) {
+        exDiv.innerHTML = `<h3>Examples for: ${word}</h3><p>No examples found.</p>`;
+      } else {
+        const shown = examples.sort(() => 0.5 - Math.random()).slice(0, 5);
+        exDiv.innerHTML = `<h3>Examples for: ${word}</h3>` + shown.map(e => `<div class="example-box">${e}</div>`).join('');
+      }
     }
   </script></body>
 </html>
