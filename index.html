@@ -78,7 +78,6 @@
       cursor: pointer;
     }
     .play-btn { background: #007bff; color: white; }
-    .fav-btn { background: #28a745; color: white; margin-right: 8px; }
     .mode-btn { background: #444; color: white; margin-top: 10px; width: 100%; }
   </style>
 </head>
@@ -103,36 +102,45 @@
           fetch('sa.txt').then(res => res.text())
         ]);
 
-        sourceText.split('\n').forEach(line => {
-          const match = line.match(/ID\d+\s*-\s*(\w+)\s*-\s*(XV\d)\s*-\s*(Q\d)\s*-\s*([a-zA-Z]+)/);
-          if (match) {
-            const word = match[5].toLowerCase();
-            const meaning = line.match(/([^)]+)/);
-            wordsData[word] = {
-              level: match[1],
-              freq: match[2],
-              type: match[3],
-              meaning: meaning ? meaning[1] : ''
-            };
+        const lines = sourceText.trim().split('\n');
+        for (let line of lines) {
+          const parts = line.split(' - ');
+          if (parts.length >= 5) {
+            const level = parts[1].trim();
+            const freq = parts[2].trim();
+            const type = parts[3].trim();
+            const rest = parts.slice(4).join(' - ').trim();
+            const wordMatch = rest.match(/^(\S+)\s*([^)]+)/);
+            if (wordMatch) {
+              const word = wordMatch[1].toLowerCase();
+              const meaning = wordMatch[2];
+              wordsData[word] = { level, freq, type, meaning };
+            }
           }
-        });
+        }
 
-        const lines = saText.trim().split('\n');
+        const lines2 = saText.trim().split('\n');
         let currentWord = '', syn = '', ant = '';
-        lines.forEach(line => {
+        for (let line of lines2) {
           line = line.trim();
-          if (!line) return;
+          if (!line) continue;
           if (/^[a-zA-Z\-]+$/.test(line)) {
             if (currentWord) synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
             currentWord = line.toLowerCase();
             syn = '';
             ant = '';
-          } else if (/^Synonyms\s*:/i.test(line)) syn = line.split(':')[1]?.trim() || '';
-          else if (/^Antonyms\s*:/i.test(line)) ant = line.split(':')[1]?.trim() || '';
-        });
+          } else if (/^Synonyms\s*:/i.test(line)) {
+            syn = line.split(':')[1]?.trim() || '';
+          } else if (/^Antonyms\s*:/i.test(line)) {
+            ant = line.split(':')[1]?.trim() || '';
+          }
+        }
         if (currentWord) synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
-      } catch (e) {
-        console.error("خطا در بارگذاری فایل‌ها:", e);
+
+        console.log('✅ فایل‌ها بارگذاری شدند:', Object.keys(wordsData).length, 'کلمه');
+      } catch (error) {
+        console.error('❌ خطا در بارگذاری فایل‌ها:', error);
+        alert('خطا در بارگذاری فایل‌ها. لطفاً مسیر یا ساختار فایل‌ها را بررسی کنید.');
       }
     }
 
