@@ -59,6 +59,7 @@
       margin-top: 20px;
       padding: 20px;
       box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      display: none;
     }
     .label {
       font-weight: bold;
@@ -90,10 +91,10 @@
 
     <div class="search-box">
       <input type="text" id="searchInput" placeholder="کلمه‌ای وارد کنید..." oninput="showSuggestions()" />
-      <div id="suggestions" style="display: none;"></div>
+      <div id="suggestions"></div>
     </div>
 
-    <div id="result" class="result-card" style="display:none;"></div>
+    <div id="result" class="result-card"></div>
   </div>
 
   <script>
@@ -107,7 +108,7 @@
           fetch('sa.txt').then(res => res.text())
         ]);
 
-        // پردازش فایل کلمات
+        // Parse projectsource.txt
         const lines = sourceText.split('\n');
         for (let line of lines) {
           const match = line.match(/ID\d+\s*-\s*(\w+)\s*-\s*(XV\d)\s*-\s*(Q\d)\s*-\s*(\w+)\s*\(([^)]+)\)/);
@@ -122,23 +123,41 @@
           }
         }
 
-        // پردازش فایل مترادف/متضاد
-        const blocks = saText.split('\n\n');
-        for (let block of blocks) {
-          const lines = block.trim().split('\n');
-          const word = lines[0]?.trim().toLowerCase();
-          if (word) {
-            let syn = '', ant = '';
-            for (let line of lines.slice(1)) {
-              if (line.startsWith('Synonyms:')) syn = line.replace('Synonyms:', '').trim();
-              if (line.startsWith('Antonyms:')) ant = line.replace('Antonyms:', '').trim();
+        // Parse sa.txt (نسخه منعطف)
+        const saLines = saText.trim().split('\n');
+        let currentWord = '';
+        let syn = '';
+        let ant = '';
+
+        for (let i = 0; i < saLines.length; i++) {
+          const line = saLines[i].trim();
+          if (!line) continue;
+
+          if (/^[a-zA-Z\-]+$/.test(line)) {
+            if (currentWord) {
+              synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
             }
-            synonymsData[word] = { synonyms: syn, antonyms: ant };
+            currentWord = line.toLowerCase();
+            syn = '';
+            ant = '';
+          }
+
+          if (/^Synonyms\s*:/i.test(line)) {
+            syn = line.replace(/Synonyms\s*:/i, '').trim();
+          }
+          if (/^Antonyms\s*:/i.test(line)) {
+            ant = line.replace(/Antonyms\s*:/i, '').trim();
           }
         }
+
+        if (currentWord) {
+          synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
+        }
+
         console.log("✅ فایل‌ها بارگذاری شدند.");
       } catch (err) {
-        document.getElementById('result').innerHTML = "❌ خطا در بارگذاری فایل‌ها.";
+        console.error("❌ خطا در بارگذاری:", err);
+        document.getElementById('result').innerText = 'خطا در بارگذاری فایل‌ها';
       }
     }
 
@@ -179,21 +198,29 @@
       let html = '';
 
       if (!info) {
-        resultBox.style.display = 'block';
         resultBox.innerHTML = '❌ کلمه‌ای یافت نشد.';
+        resultBox.style.display = 'block';
         return;
       }
 
-      html += `<div class="label">کلمه:</div><div class="value">${input}</div>`;
-      html += `<div class="label">معنی:</div><div class="value">${info.meaning}</div>`;
-      html += `<div class="label">سطح:</div><div class="value">${info.level}</div>`;
-      html += `<div class="label">رایج بودن:</div><div class="value">${info.freq}</div>`;
-      html += `<div class="label">نوع کلمه:</div><div class="value">${info.type}</div>`;
-      html += `<button class="play-btn" onclick="speak('${input}')">🔊 پخش تلفظ</button>`;
+      html += `
+        <div style="font-size: 20px; font-weight: bold; color: #333;">🔤 ${input}</div>
+        <div class="label">📘 معنی:</div><div class="value">${info.meaning}</div>
+        <div class="label">🎯 سطح:</div><div class="value">${info.level}</div>
+        <div class="label">⭐ رایج بودن:</div><div class="value">${info.freq}</div>
+        <div class="label">🧠 نوع کلمه:</div><div class="value">${info.type}</div>
+        <button class="play-btn" onclick="speak('${input}')">🔊 پخش تلفظ</button>
+      `;
 
-      if (sa) {
-        if (sa.synonyms) html += `<div class="label">مترادف‌ها:</div><div class="value">${sa.synonyms}</div>`;
-        if (sa.antonyms) html += `<div class="label">متضادها:</div><div class="value">${sa.antonyms}</div>`;
+      if (sa && (sa.synonyms || sa.antonyms)) {
+        html += `<div style="margin-top: 15px;">`;
+        if (sa.synonyms) {
+          html += `<div class="label">🔁 مترادف‌ها:</div><div class="value">${sa.synonyms}</div>`;
+        }
+        if (sa.antonyms) {
+          html += `<div class="label">🚫 متضادها:</div><div class="value">${sa.antonyms}</div>`;
+        }
+        html += `</div>`;
       }
 
       resultBox.innerHTML = html;
