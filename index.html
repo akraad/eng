@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>دیکشنری موبایل</title>
+  <style>
+    body {
+      font-family: "Vazir", sans-serif;
+      direction: rtl;
+      padding: 15px;
+      background-color: #f9f9f9;
+    }
+    input, button {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      font-size: 16px;
+    }
+    .word-box {
+      background: white;
+      border-radius: 8px;
+      padding: 15px;
+      margin-top: 10px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    .title { font-weight: bold; margin-top: 5px; }
+  </style>
+</head>
+<body>
+
+  <h2>دیکشنری زبان انگلیسی</h2>
+
+  <input type="text" id="searchInput" placeholder="کلمه مورد نظر را وارد کنید">
+  <button onclick="searchWord()">جستجو</button>
+
+  <div id="result" class="word-box"></div>
+
+  <script>
+    let wordsData = {};
+    let synonymsData = {};
+
+    async function loadFiles() {
+      try {
+        const [sourceText, saText] = await Promise.all([
+          fetch('projectsource.txt').then(res => res.text()),
+          fetch('sa.txt').then(res => res.text())
+        ]);
+
+        // پردازش projectsource.txt
+        const lines = sourceText.split('\n');
+        for (let line of lines) {
+          const match = line.match(/ID\d+\s*-\s*(\w+)\s*-\s*(XV\d)\s*-\s*(Q\d)\s*-\s*(\w+)\s*\(([^)]+)\)/);
+          if (match) {
+            const word = match[4].toLowerCase();
+            wordsData[word] = {
+              level: match[1],
+              freq: match[2],
+              type: match[3],
+              meaning: match[5]
+            };
+          }
+        }
+
+        // پردازش sa.txt
+        const blocks = saText.split('\n\n');
+        for (let block of blocks) {
+          const lines = block.trim().split('\n');
+          const word = lines[0]?.trim().toLowerCase();
+          if (word) {
+            let syn = '', ant = '';
+            for (let line of lines.slice(1)) {
+              if (line.startsWith('Synonyms:')) syn = line.replace('Synonyms:', '').trim();
+              if (line.startsWith('Antonyms:')) ant = line.replace('Antonyms:', '').trim();
+            }
+            synonymsData[word] = { synonyms: syn, antonyms: ant };
+          }
+        }
+
+        console.log('فایل‌ها بارگذاری شدند.');
+      } catch (error) {
+        console.error('خطا در بارگذاری فایل‌ها:', error);
+        document.getElementById('result').innerText = 'خطا در بارگذاری فایل‌ها';
+      }
+    }
+
+    function searchWord() {
+      const input = document.getElementById('searchInput').value.trim().toLowerCase();
+      const info = wordsData[input];
+      const sa = synonymsData[input];
+      let html = '';
+
+      if (!info) {
+        html = 'کلمه‌ای یافت نشد.';
+      } else {
+        html += `<div class="title">کلمه:</div> ${input}`;
+        html += `<div class="title">معنی:</div> ${info.meaning}`;
+        html += `<div class="title">سطح:</div> ${info.level}`;
+        html += `<div class="title">میزان رایج بودن:</div> ${info.freq}`;
+        html += `<div class="title">نوع:</div> ${info.type}`;
+        html += `<div class="title">تلفظ:</div><button onclick="speak('${input}')">🔊 پخش</button>`;
+
+        if (sa) {
+          if (sa.synonyms)
+            html += `<div class="title">مترادف‌ها:</div> ${sa.synonyms}`;
+          if (sa.antonyms)
+            html += `<div class="title">متضادها:</div> ${sa.antonyms}`;
+        }
+      }
+
+      document.getElementById('result').innerHTML = html;
+    }
+
+    function speak(text) {
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = 'en-US';
+      speechSynthesis.speak(utterance);
+    }
+
+    // بارگذاری خودکار فایل‌ها هنگام اجرای صفحه
+    loadFiles();
+  </script>
+
+  <!-- فونت فارسی -->
+  <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/font-face.css" rel="stylesheet" type="text/css" />
+
+</body>
+</html>
