@@ -3,50 +3,98 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>دیکشنری انگلیسی</title>
+  <title>دیکشنری موبایل</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
     body {
-      font-family: 'Vazir', sans-serif;
-      background: #f9f9f9;
+      font-family: 'Vazirmatn', sans-serif;
+      background-color: #f0f2f5;
+      margin: 0;
+      padding: 0;
       direction: rtl;
+    }
+    .container {
+      max-width: 480px;
+      margin: auto;
       padding: 20px;
     }
-    input, button {
+    h2 {
+      text-align: center;
+      color: #333;
+    }
+    .search-box {
+      position: relative;
+      margin-top: 20px;
+    }
+    input {
       width: 100%;
-      padding: 12px;
-      margin-top: 10px;
+      padding: 14px;
       font-size: 16px;
+      border: none;
+      border-radius: 12px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
       box-sizing: border-box;
     }
-    .word-box {
+    #suggestions {
+      position: absolute;
+      width: 100%;
       background: #fff;
-      border-radius: 10px;
-      padding: 15px;
-      margin-top: 15px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    .title {
-      font-weight: bold;
-      margin-top: 10px;
+      border-radius: 0 0 12px 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      z-index: 99;
+      max-height: 240px;
+      overflow-y: auto;
     }
     #suggestions div {
-      padding: 8px;
-      border-bottom: 1px solid #eee;
+      padding: 10px;
       cursor: pointer;
+      border-bottom: 1px solid #f1f1f1;
     }
     #suggestions div:hover {
-      background-color: #f0f0f0;
+      background-color: #f9f9f9;
+    }
+    .result-card {
+      background: #fff;
+      border-radius: 14px;
+      margin-top: 20px;
+      padding: 20px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .label {
+      font-weight: bold;
+      margin-top: 10px;
+      color: #555;
+    }
+    .value {
+      color: #111;
+      margin-bottom: 5px;
+    }
+    button.play-btn {
+      margin-top: 10px;
+      padding: 6px 14px;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    button.play-btn:hover {
+      background: #0056b3;
     }
   </style>
-  <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/font-face.css" rel="stylesheet" />
 </head>
 <body>
+  <div class="container">
+    <h2>📘 دیکشنری انگلیسی موبایل</h2>
 
-  <h2>دیکشنری موبایل انگلیسی</h2>
-  <input type="text" id="searchInput" placeholder="کلمه را وارد کنید..." oninput="showSuggestions()" />
-  <div id="suggestions" class="word-box" style="display: none;"></div>
-  <button onclick="searchWord()">جستجو</button>
-  <div id="result" class="word-box"></div>
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="کلمه‌ای وارد کنید..." oninput="showSuggestions()" />
+      <div id="suggestions" style="display: none;"></div>
+    </div>
+
+    <div id="result" class="result-card" style="display:none;"></div>
+  </div>
 
   <script>
     let wordsData = {};
@@ -59,7 +107,7 @@
           fetch('sa.txt').then(res => res.text())
         ]);
 
-        // Parse projectsource.txt
+        // پردازش فایل کلمات
         const lines = sourceText.split('\n');
         for (let line of lines) {
           const match = line.match(/ID\d+\s*-\s*(\w+)\s*-\s*(XV\d)\s*-\s*(Q\d)\s*-\s*(\w+)\s*\(([^)]+)\)/);
@@ -74,7 +122,7 @@
           }
         }
 
-        // Parse sa.txt
+        // پردازش فایل مترادف/متضاد
         const blocks = saText.split('\n\n');
         for (let block of blocks) {
           const lines = block.trim().split('\n');
@@ -88,28 +136,31 @@
             synonymsData[word] = { synonyms: syn, antonyms: ant };
           }
         }
-
-        console.log("📥 فایل‌ها با موفقیت بارگذاری شدند.");
+        console.log("✅ فایل‌ها بارگذاری شدند.");
       } catch (err) {
-        console.error("❌ خطا در بارگذاری فایل‌ها:", err);
-        document.getElementById('result').innerText = 'خطا در بارگذاری فایل‌ها';
+        document.getElementById('result').innerHTML = "❌ خطا در بارگذاری فایل‌ها.";
       }
     }
 
     function showSuggestions() {
       const input = document.getElementById('searchInput').value.trim().toLowerCase();
       const suggestionBox = document.getElementById('suggestions');
+      const resultBox = document.getElementById('result');
+      resultBox.style.display = 'none';
+
       if (!input) {
         suggestionBox.style.display = 'none';
         suggestionBox.innerHTML = '';
         return;
       }
-      const matched = Object.keys(wordsData).filter(w => w.startsWith(input)).slice(0, 10);
+
+      const allWords = Object.keys(wordsData);
+      const matched = allWords.filter(w => w.startsWith(input)).slice(0, 15);
       if (matched.length === 0) {
         suggestionBox.style.display = 'none';
-        suggestionBox.innerHTML = '';
         return;
       }
+
       suggestionBox.innerHTML = matched.map(word => `<div onclick="selectSuggestion('${word}')">${word}</div>`).join('');
       suggestionBox.style.display = 'block';
     }
@@ -124,25 +175,29 @@
       const input = document.getElementById('searchInput').value.trim().toLowerCase();
       const info = wordsData[input];
       const sa = synonymsData[input];
+      const resultBox = document.getElementById('result');
       let html = '';
 
       if (!info) {
-        html = '❌ کلمه‌ای یافت نشد.';
-      } else {
-        html += `<div class="title">کلمه:</div> ${input}`;
-        html += `<div class="title">معنی:</div> ${info.meaning}`;
-        html += `<div class="title">سطح:</div> ${info.level}`;
-        html += `<div class="title">میزان رایج بودن:</div> ${info.freq}`;
-        html += `<div class="title">نوع:</div> ${info.type}`;
-        html += `<div class="title">تلفظ:</div> <button onclick="speak('${input}')">🔊 پخش</button>`;
-
-        if (sa) {
-          if (sa.synonyms) html += `<div class="title">مترادف‌ها:</div> ${sa.synonyms}`;
-          if (sa.antonyms) html += `<div class="title">متضادها:</div> ${sa.antonyms}`;
-        }
+        resultBox.style.display = 'block';
+        resultBox.innerHTML = '❌ کلمه‌ای یافت نشد.';
+        return;
       }
 
-      document.getElementById('result').innerHTML = html;
+      html += `<div class="label">کلمه:</div><div class="value">${input}</div>`;
+      html += `<div class="label">معنی:</div><div class="value">${info.meaning}</div>`;
+      html += `<div class="label">سطح:</div><div class="value">${info.level}</div>`;
+      html += `<div class="label">رایج بودن:</div><div class="value">${info.freq}</div>`;
+      html += `<div class="label">نوع کلمه:</div><div class="value">${info.type}</div>`;
+      html += `<button class="play-btn" onclick="speak('${input}')">🔊 پخش تلفظ</button>`;
+
+      if (sa) {
+        if (sa.synonyms) html += `<div class="label">مترادف‌ها:</div><div class="value">${sa.synonyms}</div>`;
+        if (sa.antonyms) html += `<div class="label">متضادها:</div><div class="value">${sa.antonyms}</div>`;
+      }
+
+      resultBox.innerHTML = html;
+      resultBox.style.display = 'block';
     }
 
     function speak(word) {
@@ -151,7 +206,7 @@
       speechSynthesis.speak(utterance);
     }
 
-    loadFiles(); // Run on page load
+    loadFiles();
   </script>
 </body>
 </html>
