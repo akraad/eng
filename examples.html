@@ -4,25 +4,51 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Word Example Viewer</title>
   <style>
+    :root {
+      --bg: #f4f4f4;
+      --text: #333;
+      --box: white;
+      --header: #2196f3;
+      --example: #e3f2fd;
+    }
+    body.dark {
+      --bg: #121212;
+      --text: #eee;
+      --box: #1e1e1e;
+      --header: #0d47a1;
+      --example: #263238;
+    }
     body {
       margin: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: #f4f4f4;
-      color: #333;
+      background: var(--bg);
+      color: var(--text);
     }
     header {
-      background-color: #2196f3;
+      background-color: var(--header);
       color: white;
       padding: 15px;
       text-align: center;
       font-size: 1.5em;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+      position: relative;
+    }
+    #toggleDark {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: transparent;
+      border: 1px solid white;
+      border-radius: 5px;
+      color: white;
+      padding: 5px 10px;
+      cursor: pointer;
     }
     main {
       padding: 15px;
     }
     .section {
-      background: white;
+      background: var(--box);
       border-radius: 8px;
       padding: 15px;
       margin-bottom: 15px;
@@ -36,6 +62,8 @@
       border-radius: 5px;
       border: 1px solid #ccc;
       font-size: 1em;
+      background: var(--bg);
+      color: var(--text);
     }
     .word-item {
       padding: 10px;
@@ -43,7 +71,7 @@
       cursor: pointer;
     }
     .word-item:hover {
-      background-color: #f0f0f0;
+      background-color: rgba(0, 0, 0, 0.05);
     }
     #wordList {
       max-height: 300px;
@@ -53,7 +81,7 @@
       margin-top: 10px;
     }
     .example-box {
-      background: #e3f2fd;
+      background: var(--example);
       padding: 10px;
       border-radius: 5px;
       margin-bottom: 5px;
@@ -61,7 +89,9 @@
   </style>
 </head>
 <body>
-  <header>📘 Word Example Viewer</header>
+  <header>📘 Word Example Viewer
+    <button id="toggleDark">🌓</button>
+  </header>
   <main>
     <div class="section">
       <label><strong>Upload Word File:</strong></label>
@@ -74,13 +104,38 @@
 </div>
 
 <div class="section" id="examples">
-  <p style="color: #888">Select a word to view its examples.</p>
+  <p style="color: gray">Select a word to view its examples.</p>
 </div>
 
   </main>  <script>
     let wordData = [];
     let filteredWords = [];
     let examplesMap = {};
+    let wordMeta = {};
+
+    const posTags = {
+      Q1: "اسم (Noun)",
+      Q2: "صفت (Adjective)",
+      Q3: "ضمیر (Pronoun)",
+      Q4: "فعل (Verb)",
+      Q5: "قید (Adverb)",
+      Q6: "حرف اضافه (Preposition)",
+      Q7: "حرف ربط (Conjunction)",
+      Q8: "صوت (Interjection)"
+    };
+
+    const levelMap = {
+      A1: "مبتدی (A1)",
+      A2: "ابتدایی (A2)",
+      B1: "متوسط (B1)",
+      B2: "بالای متوسط (B2)",
+      C1: "پیشرفته (C1)",
+      C2: "ماهر (C2)"
+    };
+
+    document.getElementById('toggleDark').addEventListener('click', () => {
+      document.body.classList.toggle('dark');
+    });
 
     document.getElementById('wordFile').addEventListener('change', function(e) {
       const file = e.target.files[0];
@@ -88,8 +143,15 @@
       reader.onload = function() {
         const lines = reader.result.split('\n');
         wordData = lines.map(line => {
-          const match = line.match(/- Q\d - (\w+) \(/);
-          return match ? match[1] : null;
+          const match = line.match(/- (A\d|B\d|C\d) - XV\d - (Q\d) - (\w+) \(/);
+          if (match) {
+            const level = match[1];
+            const pos = match[2];
+            const word = match[3];
+            wordMeta[word.toLowerCase()] = { level, pos };
+            return word;
+          }
+          return null;
         }).filter(Boolean);
         filteredWords = [...wordData];
         displayWords();
@@ -138,12 +200,20 @@
     function showExamples(word) {
       const exDiv = document.getElementById('examples');
       const key = word.toLowerCase();
-      const examples = examplesMap[key] || [];
-      if (examples.length === 0) {
-        exDiv.innerHTML = `<h3>Examples for: ${word}</h3><p>No examples found.</p>`;
+      const meta = wordMeta[key] || {};
+      const level = levelMap[meta.level] || 'نامشخص';
+      const type = posTags[meta.pos] || 'نامشخص';
+      const allExamples = examplesMap[key] || [];
+      const audio = new SpeechSynthesisUtterance(word);
+      window.speechSynthesis.cancel();
+      window.speechSynthesis.speak(audio);
+
+      if (allExamples.length === 0) {
+        exDiv.innerHTML = `<h3>${word}</h3><p>سطح: ${level}</p><p>نوع: ${type}</p><p>No examples found.</p>`;
       } else {
-        const shown = examples.sort(() => 0.5 - Math.random()).slice(0, 5);
-        exDiv.innerHTML = `<h3>Examples for: ${word}</h3>` + shown.map(e => `<div class="example-box">${e}</div>`).join('');
+        const shown = allExamples.sort(() => 0.5 - Math.random()).slice(0, 10);
+        exDiv.innerHTML = `<h3>${word}</h3><p>سطح: ${level}</p><p>نوع: ${type}</p>` +
+          shown.map(e => `<div class="example-box">${e}</div>`).join('');
       }
     }
   </script></body>
