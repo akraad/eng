@@ -95,56 +95,45 @@
   </div>  <script>
     let wordsData = {};
     let synonymsData = {};
-    let examplesData = {};
 
     async function loadFiles() {
-      const [sourceText, saText, exText] = await Promise.all([
-        fetch('projectsource.txt').then(res => res.text()),
-        fetch('sa.txt').then(res => res.text()),
-        fetch('examples.txt').then(res => res.text())
-      ]);
+      try {
+        const [sourceText, saText] = await Promise.all([
+          fetch('projectsource.txt').then(res => res.text()),
+          fetch('sa.txt').then(res => res.text())
+        ]);
 
-      // projectsource
-      sourceText.split('\n').forEach(line => {
-        const match = line.match(/ID\d+\s*-\s*(\w+)\s*-\s*(XV\d)\s*-\s*(Q\d)\s*-\s*(\w+)\s*([^)]+)/);
-        if (match) {
-          const word = match[4].toLowerCase();
-          wordsData[word] = {
-            level: match[1],
-            freq: match[2],
-            type: match[3],
-            meaning: match[5]
-          };
-        }
-      });
+        sourceText.split('\n').forEach(line => {
+          const match = line.match(/ID\d+\s*-\s*(\w+)\s*-\s*(XV\d)\s*-\s*(Q\d)\s*-\s*([a-zA-Z]+)/);
+          if (match) {
+            const word = match[5].toLowerCase();
+            const meaning = line.match(/([^)]+)/);
+            wordsData[word] = {
+              level: match[1],
+              freq: match[2],
+              type: match[3],
+              meaning: meaning ? meaning[1] : ''
+            };
+          }
+        });
 
-      // sa.txt (flexible)
-      const lines = saText.trim().split('\n');
-      let currentWord = '', syn = '', ant = '';
-      lines.forEach(line => {
-        line = line.trim();
-        if (!line) return;
-        if (/^[a-zA-Z\-]+$/.test(line)) {
-          if (currentWord) synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
-          currentWord = line.toLowerCase();
-          syn = '';
-          ant = '';
-        } else if (/^Synonyms\s*:/i.test(line)) syn = line.split(':')[1]?.trim() || '';
-        else if (/^Antonyms\s*:/i.test(line)) ant = line.split(':')[1]?.trim() || '';
-      });
-      if (currentWord) synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
-
-      // examples.txt
-      const exampleLines = exText.trim().split('\n');
-      let currentExWord = '';
-      exampleLines.forEach(line => {
-        if (!line.includes(' - ')) {
-          currentExWord = line.trim().toLowerCase();
-          examplesData[currentExWord] = [];
-        } else if (currentExWord) {
-          examplesData[currentExWord].push(line.trim());
-        }
-      });
+        const lines = saText.trim().split('\n');
+        let currentWord = '', syn = '', ant = '';
+        lines.forEach(line => {
+          line = line.trim();
+          if (!line) return;
+          if (/^[a-zA-Z\-]+$/.test(line)) {
+            if (currentWord) synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
+            currentWord = line.toLowerCase();
+            syn = '';
+            ant = '';
+          } else if (/^Synonyms\s*:/i.test(line)) syn = line.split(':')[1]?.trim() || '';
+          else if (/^Antonyms\s*:/i.test(line)) ant = line.split(':')[1]?.trim() || '';
+        });
+        if (currentWord) synonymsData[currentWord] = { synonyms: syn, antonyms: ant };
+      } catch (e) {
+        console.error("خطا در بارگذاری فایل‌ها:", e);
+      }
     }
 
     function showSuggestions() {
@@ -161,13 +150,18 @@
       showWord(word);
     }
 
+    document.getElementById("searchInput").addEventListener("keydown", function(e) {
+      if (e.key === "Enter") {
+        const word = e.target.value.trim().toLowerCase();
+        showWord(word);
+        document.getElementById("suggestions").innerHTML = '';
+      }
+    });
+
     function showWord(word) {
       const info = wordsData[word];
       const sa = synonymsData[word] || {};
-      const ex = examplesData[word] || [];
       if (!info) return;
-      const favs = JSON.parse(localStorage.getItem('favorites') || '[]');
-      const isFav = favs.includes(word);
       let html = `
         <div style='font-size:20px;font-weight:bold;'>🔤 ${word}</div>
         <div class='label'>📘 معنی:</div><div class='value'>${info.meaning}</div>
@@ -175,17 +169,9 @@
         <div class='label'>⭐ رایج بودن:</div><div class='value'>${info.freq}</div>
         <div class='label'>🧠 نوع:</div><div class='value'>${info.type}</div>
         <button class='btn play-btn' onclick='speak("${word}")'>🔊 پخش</button>
-        <button class='btn fav-btn' onclick='toggleFavorite("${word}")'>${isFav ? '💔 حذف علاقه‌مندی' : '❤️ افزودن به علاقه‌مندی'}</button>
       `;
       if (sa.synonyms) html += `<div class='label'>🔁 مترادف‌ها:</div><div class='value'>${sa.synonyms}</div>`;
       if (sa.antonyms) html += `<div class='label'>🚫 متضادها:</div><div class='value'>${sa.antonyms}</div>`;
-      if (ex.length > 0) {
-        html += `<div class='label'>✏️ مثال‌ها:</div>`;
-        ex.slice(0, 5).forEach(e => {
-          const [en, fa] = e.split(' - ');
-          html += `<div class='value'>${en}<br/><span style='color:gray;'>${fa}</span></div>`;
-        });
-      }
       const resultBox = document.getElementById('result');
       resultBox.innerHTML = html;
       resultBox.style.display = 'block';
@@ -195,17 +181,6 @@
       const utterance = new SpeechSynthesisUtterance(word);
       utterance.lang = 'en-US';
       speechSynthesis.speak(utterance);
-    }
-
-    function toggleFavorite(word) {
-      let favs = JSON.parse(localStorage.getItem('favorites') || '[]');
-      if (favs.includes(word)) {
-        favs = favs.filter(w => w !== word);
-      } else {
-        favs.push(word);
-      }
-      localStorage.setItem('favorites', JSON.stringify(favs));
-      showWord(word);
     }
 
     function toggleMode() {
