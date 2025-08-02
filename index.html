@@ -1,3 +1,4 @@
+<!-- index.html -->
 <!DOCTYPE html>
 <html lang="fa">
 <head>
@@ -83,7 +84,7 @@
         fetch('sa.txt').then(r => r.text())
       ]);
 
-      // بارگذاری projectsource.txt
+      // Parse projectsource.txt
       sourceText.split('\n').forEach(line => {
         const parts = line.split(' - ');
         if (parts.length >= 5) {
@@ -102,16 +103,15 @@
         }
       });
 
-      // بارگذاری sa.txt با فرمت آزادتر
+      // Parse sa.txt (even without blank lines)
       const lines = saText.split('\n');
       let currentWord = '';
       for (let i = 0; i < lines.length; i++) {
         const line = lines[i].trim();
         if (!line) continue;
-
-        if (/^[a-zA-Z\- ]+$/.test(line)) {
+        if (/^[a-zA-Z][a-zA-Z \-]*$/.test(line)) {
           currentWord = line.toLowerCase();
-          synonymsData[currentWord] = { synonyms: '', antonyms: '' };
+          if (!synonymsData[currentWord]) synonymsData[currentWord] = { synonyms: '', antonyms: '' };
         } else if (/^synonyms\s*:/i.test(line)) {
           synonymsData[currentWord].synonyms = line.split(':')[1]?.trim() || '';
         } else if (/^antonyms\s*:/i.test(line)) {
@@ -147,14 +147,6 @@
       document.getElementById('suggestions').innerHTML = '';
       showResult(word);
     }
-
-    document.getElementById('searchInput').addEventListener('keydown', e => {
-      if (e.key === 'Enter') {
-        const word = e.target.value.trim().toLowerCase();
-        showResult(word);
-        document.getElementById('suggestions').innerHTML = '';
-      }
-    });
 
     function showResult(word) {
       const data = wordsData[word];
