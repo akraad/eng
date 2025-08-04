@@ -1,0 +1,2499 @@
+ID: ID1
+Word: a
+Meanings: یک، یک عدد
+Examples:
+1. I saw a cat in the garden.
+   یک گربه در باغ دیدم.
+2. She wants to buy a car.
+   او می‌خواهد یک ماشین بخرد.
+3. He is reading a book.
+   او در حال خواندن یک کتاب است.
+4. There’s a pencil on the table.
+   یک مداد روی میز است.
+5. A bird flew over the house.
+   یک پرنده از بالای خانه پرواز کرد.
+6. I need a glass of water.
+   من به یک لیوان آب نیاز دارم.
+7. He gave me a gift.
+   او یک هدیه به من داد.
+8. Do you have a pen?
+   آیا یک خودکار داری؟
+9. She saw a mouse in the kitchen.
+   او یک موش در آشپزخانه دید.
+10. We stayed in a hotel.
+   ما در یک هتل اقامت کردیم.
+
+ID: ID2
+Word: abandon
+Meanings: رها کردن، ترک کردن
+Examples:
+1. He decided to abandon the project.
+   او تصمیم گرفت پروژه را رها کند.
+2. The crew had to abandon the ship.
+   خدمه مجبور شدند کشتی را ترک کنند.
+3. She abandoned her child at the hospital.
+   او فرزندش را در بیمارستان رها کرد.
+4. We must not abandon our responsibilities.
+   ما نباید مسئولیت‌هایمان را رها کنیم.
+5. He abandoned his dreams after the failure.
+   او پس از شکست، رؤیاهایش را کنار گذاشت.
+6. They abandoned the plan due to lack of funds.
+   آن‌ها به خاطر کمبود بودجه، برنامه را کنار گذاشتند.
+7. She abandoned her studies to get married.
+   او تحصیلش را رها کرد تا ازدواج کند.
+8. The town was abandoned after the war.
+   شهر پس از جنگ رها شد.
+9. Don't abandon hope.
+   امیدت را از دست نده.
+10. The soldier abandoned his post.
+   سرباز پست خود را ترک کرد.
+
+ID: ID3
+Word: abandoned
+Meanings: رها شده، متروکه
+Examples:
+1. They found an abandoned house in the woods.
+   آن‌ها خانه‌ای متروکه در جنگل پیدا کردند.
+2. The dog looked abandoned and hungry.
+   سگ رهاشده و گرسنه به نظر می‌رسید.
+3. The abandoned car blocked the road.
+   ماشین رها شده راه را بند آورده بود.
+4. The factory has been abandoned for years.
+   آن کارخانه سال‌هاست رها شده است.
+5. She felt like an abandoned child.
+   او احساس می‌کرد مثل کودکی رها شده است.
+6. We explored an abandoned village.
+   ما یک روستای متروکه را کاوش کردیم.
+7. He lived in an abandoned warehouse.
+   او در یک انبار متروکه زندگی می‌کرد.
+8. The baby was found abandoned in a basket.
+   نوزاد رهاشده در یک سبد پیدا شد.
+9. The project was abandoned halfway.
+   پروژه در نیمه راه رها شد.
+10. There was an eerie silence in the abandoned building.
+   در ساختمان متروکه سکوتی ترسناک حاکم بود.
+
+ID: ID4
+Word: abandonment
+Meanings: ترک، رها کردن، دست کشیدن
+Examples:
+1. His abandonment of the mission shocked everyone.
+   ترک مأموریت توسط او همه را شوکه کرد.
+2. The abandonment of the child was a crime.
+   رها کردن کودک یک جرم بود.
+3. Fear of abandonment haunted her.
+   ترس از رها شدن او را آزار می‌داد.
+4. The city faced total abandonment.
+   شهر با ترک کامل مواجه شد.
+5. He spoke about the abandonment of traditional values.
+   او درباره رها کردن ارزش‌های سنتی صحبت کرد.
+6. The abandonment of the plan saved money.
+   کنار گذاشتن برنامه باعث صرفه‌جویی شد.
+7. She felt pain after her father’s abandonment.
+   او پس از ترک پدرش احساس درد می‌کرد.
+8. Economic abandonment led to poverty.
+   ترک اقتصادی باعث فقر شد.
+9. Their abandonment of the cause was disappointing.
+   رها کردن آن هدف، ناامیدکننده بود.
+10. Abandonment issues can affect relationships.
+   مشکلات ناشی از ترک شدن می‌تواند روابط را تحت تأثیر قرار دهد.
+
+ID: ID5
+Word: abashed
+Meanings: خجالت‌زده، شرمنده
+Examples:
+1. He looked abashed when caught lying.
+   وقتی در حال دروغ گفتن گیر افتاد، خجالت‌زده شد.
+2. She gave an abashed smile.
+   او لبخندی شرمگینانه زد.
+3. I was abashed by my mistake.
+   از اشتباهم خجالت‌زده شدم.
+4. He stood abashed in front of the crowd.
+   او جلوی جمع شرمنده ایستاده بود.
+5. Her abashed reaction was understandable.
+   واکنش خجالت‌زده‌اش قابل درک بود.
+6. They felt abashed after being scolded.
+   آن‌ها پس از توبیخ شدن، شرمنده شدند.
+7. He gave an abashed nod.
+   او با شرمندگی سر تکان داد.
+8. She seemed abashed by the attention.
+   توجه زیاد باعث شرمندگی او شد.
+9. I was abashed when I forgot her name.
+   وقتی اسمش را فراموش کردم، شرمنده شدم.
+10. The child looked abashed after breaking the vase.
+   کودک پس از شکستن گلدان، خجالت‌زده به نظر می‌رسید.
+
+ID: ID6
+Word: abbreviation
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abbreviation'.
+   این مثال 1 برای کلمه 'abbreviation' است.
+2. This is example 2 for the word 'abbreviation'.
+   این مثال 2 برای کلمه 'abbreviation' است.
+3. This is example 3 for the word 'abbreviation'.
+   این مثال 3 برای کلمه 'abbreviation' است.
+4. This is example 4 for the word 'abbreviation'.
+   این مثال 4 برای کلمه 'abbreviation' است.
+5. This is example 5 for the word 'abbreviation'.
+   این مثال 5 برای کلمه 'abbreviation' است.
+6. This is example 6 for the word 'abbreviation'.
+   این مثال 6 برای کلمه 'abbreviation' است.
+7. This is example 7 for the word 'abbreviation'.
+   این مثال 7 برای کلمه 'abbreviation' است.
+8. This is example 8 for the word 'abbreviation'.
+   این مثال 8 برای کلمه 'abbreviation' است.
+9. This is example 9 for the word 'abbreviation'.
+   این مثال 9 برای کلمه 'abbreviation' است.
+10. This is example 10 for the word 'abbreviation'.
+   این مثال 10 برای کلمه 'abbreviation' است.
+
+ID: ID7
+Word: abdomen
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abdomen'.
+   این مثال 1 برای کلمه 'abdomen' است.
+2. This is example 2 for the word 'abdomen'.
+   این مثال 2 برای کلمه 'abdomen' است.
+3. This is example 3 for the word 'abdomen'.
+   این مثال 3 برای کلمه 'abdomen' است.
+4. This is example 4 for the word 'abdomen'.
+   این مثال 4 برای کلمه 'abdomen' است.
+5. This is example 5 for the word 'abdomen'.
+   این مثال 5 برای کلمه 'abdomen' است.
+6. This is example 6 for the word 'abdomen'.
+   این مثال 6 برای کلمه 'abdomen' است.
+7. This is example 7 for the word 'abdomen'.
+   این مثال 7 برای کلمه 'abdomen' است.
+8. This is example 8 for the word 'abdomen'.
+   این مثال 8 برای کلمه 'abdomen' است.
+9. This is example 9 for the word 'abdomen'.
+   این مثال 9 برای کلمه 'abdomen' است.
+10. This is example 10 for the word 'abdomen'.
+   این مثال 10 برای کلمه 'abdomen' است.
+
+ID: ID8
+Word: abeyance
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abeyance'.
+   این مثال 1 برای کلمه 'abeyance' است.
+2. This is example 2 for the word 'abeyance'.
+   این مثال 2 برای کلمه 'abeyance' است.
+3. This is example 3 for the word 'abeyance'.
+   این مثال 3 برای کلمه 'abeyance' است.
+4. This is example 4 for the word 'abeyance'.
+   این مثال 4 برای کلمه 'abeyance' است.
+5. This is example 5 for the word 'abeyance'.
+   این مثال 5 برای کلمه 'abeyance' است.
+6. This is example 6 for the word 'abeyance'.
+   این مثال 6 برای کلمه 'abeyance' است.
+7. This is example 7 for the word 'abeyance'.
+   این مثال 7 برای کلمه 'abeyance' است.
+8. This is example 8 for the word 'abeyance'.
+   این مثال 8 برای کلمه 'abeyance' است.
+9. This is example 9 for the word 'abeyance'.
+   این مثال 9 برای کلمه 'abeyance' است.
+10. This is example 10 for the word 'abeyance'.
+   این مثال 10 برای کلمه 'abeyance' است.
+
+ID: ID9
+Word: abide
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abide'.
+   این مثال 1 برای کلمه 'abide' است.
+2. This is example 2 for the word 'abide'.
+   این مثال 2 برای کلمه 'abide' است.
+3. This is example 3 for the word 'abide'.
+   این مثال 3 برای کلمه 'abide' است.
+4. This is example 4 for the word 'abide'.
+   این مثال 4 برای کلمه 'abide' است.
+5. This is example 5 for the word 'abide'.
+   این مثال 5 برای کلمه 'abide' است.
+6. This is example 6 for the word 'abide'.
+   این مثال 6 برای کلمه 'abide' است.
+7. This is example 7 for the word 'abide'.
+   این مثال 7 برای کلمه 'abide' است.
+8. This is example 8 for the word 'abide'.
+   این مثال 8 برای کلمه 'abide' است.
+9. This is example 9 for the word 'abide'.
+   این مثال 9 برای کلمه 'abide' است.
+10. This is example 10 for the word 'abide'.
+   این مثال 10 برای کلمه 'abide' است.
+
+ID: ID10
+Word: abies
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abies'.
+   این مثال 1 برای کلمه 'abies' است.
+2. This is example 2 for the word 'abies'.
+   این مثال 2 برای کلمه 'abies' است.
+3. This is example 3 for the word 'abies'.
+   این مثال 3 برای کلمه 'abies' است.
+4. This is example 4 for the word 'abies'.
+   این مثال 4 برای کلمه 'abies' است.
+5. This is example 5 for the word 'abies'.
+   این مثال 5 برای کلمه 'abies' است.
+6. This is example 6 for the word 'abies'.
+   این مثال 6 برای کلمه 'abies' است.
+7. This is example 7 for the word 'abies'.
+   این مثال 7 برای کلمه 'abies' است.
+8. This is example 8 for the word 'abies'.
+   این مثال 8 برای کلمه 'abies' است.
+9. This is example 9 for the word 'abies'.
+   این مثال 9 برای کلمه 'abies' است.
+10. This is example 10 for the word 'abies'.
+   این مثال 10 برای کلمه 'abies' است.
+
+ID: ID11
+Word: abilities
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abilities'.
+   این مثال 1 برای کلمه 'abilities' است.
+2. This is example 2 for the word 'abilities'.
+   این مثال 2 برای کلمه 'abilities' است.
+3. This is example 3 for the word 'abilities'.
+   این مثال 3 برای کلمه 'abilities' است.
+4. This is example 4 for the word 'abilities'.
+   این مثال 4 برای کلمه 'abilities' است.
+5. This is example 5 for the word 'abilities'.
+   این مثال 5 برای کلمه 'abilities' است.
+6. This is example 6 for the word 'abilities'.
+   این مثال 6 برای کلمه 'abilities' است.
+7. This is example 7 for the word 'abilities'.
+   این مثال 7 برای کلمه 'abilities' است.
+8. This is example 8 for the word 'abilities'.
+   این مثال 8 برای کلمه 'abilities' است.
+9. This is example 9 for the word 'abilities'.
+   این مثال 9 برای کلمه 'abilities' است.
+10. This is example 10 for the word 'abilities'.
+   این مثال 10 برای کلمه 'abilities' است.
+
+ID: ID12
+Word: ability
+Meanings: —
+Examples:
+1. This is example 1 for the word 'ability'.
+   این مثال 1 برای کلمه 'ability' است.
+2. This is example 2 for the word 'ability'.
+   این مثال 2 برای کلمه 'ability' است.
+3. This is example 3 for the word 'ability'.
+   این مثال 3 برای کلمه 'ability' است.
+4. This is example 4 for the word 'ability'.
+   این مثال 4 برای کلمه 'ability' است.
+5. This is example 5 for the word 'ability'.
+   این مثال 5 برای کلمه 'ability' است.
+6. This is example 6 for the word 'ability'.
+   این مثال 6 برای کلمه 'ability' است.
+7. This is example 7 for the word 'ability'.
+   این مثال 7 برای کلمه 'ability' است.
+8. This is example 8 for the word 'ability'.
+   این مثال 8 برای کلمه 'ability' است.
+9. This is example 9 for the word 'ability'.
+   این مثال 9 برای کلمه 'ability' است.
+10. This is example 10 for the word 'ability'.
+   این مثال 10 برای کلمه 'ability' است.
+
+ID: ID13
+Word: able
+Meanings: —
+Examples:
+1. This is example 1 for the word 'able'.
+   این مثال 1 برای کلمه 'able' است.
+2. This is example 2 for the word 'able'.
+   این مثال 2 برای کلمه 'able' است.
+3. This is example 3 for the word 'able'.
+   این مثال 3 برای کلمه 'able' است.
+4. This is example 4 for the word 'able'.
+   این مثال 4 برای کلمه 'able' است.
+5. This is example 5 for the word 'able'.
+   این مثال 5 برای کلمه 'able' است.
+6. This is example 6 for the word 'able'.
+   این مثال 6 برای کلمه 'able' است.
+7. This is example 7 for the word 'able'.
+   این مثال 7 برای کلمه 'able' است.
+8. This is example 8 for the word 'able'.
+   این مثال 8 برای کلمه 'able' است.
+9. This is example 9 for the word 'able'.
+   این مثال 9 برای کلمه 'able' است.
+10. This is example 10 for the word 'able'.
+   این مثال 10 برای کلمه 'able' است.
+
+ID: ID14
+Word: abnormal
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abnormal'.
+   این مثال 1 برای کلمه 'abnormal' است.
+2. This is example 2 for the word 'abnormal'.
+   این مثال 2 برای کلمه 'abnormal' است.
+3. This is example 3 for the word 'abnormal'.
+   این مثال 3 برای کلمه 'abnormal' است.
+4. This is example 4 for the word 'abnormal'.
+   این مثال 4 برای کلمه 'abnormal' است.
+5. This is example 5 for the word 'abnormal'.
+   این مثال 5 برای کلمه 'abnormal' است.
+6. This is example 6 for the word 'abnormal'.
+   این مثال 6 برای کلمه 'abnormal' است.
+7. This is example 7 for the word 'abnormal'.
+   این مثال 7 برای کلمه 'abnormal' است.
+8. This is example 8 for the word 'abnormal'.
+   این مثال 8 برای کلمه 'abnormal' است.
+9. This is example 9 for the word 'abnormal'.
+   این مثال 9 برای کلمه 'abnormal' است.
+10. This is example 10 for the word 'abnormal'.
+   این مثال 10 برای کلمه 'abnormal' است.
+
+ID: ID15
+Word: abnormally
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abnormally'.
+   این مثال 1 برای کلمه 'abnormally' است.
+2. This is example 2 for the word 'abnormally'.
+   این مثال 2 برای کلمه 'abnormally' است.
+3. This is example 3 for the word 'abnormally'.
+   این مثال 3 برای کلمه 'abnormally' است.
+4. This is example 4 for the word 'abnormally'.
+   این مثال 4 برای کلمه 'abnormally' است.
+5. This is example 5 for the word 'abnormally'.
+   این مثال 5 برای کلمه 'abnormally' است.
+6. This is example 6 for the word 'abnormally'.
+   این مثال 6 برای کلمه 'abnormally' است.
+7. This is example 7 for the word 'abnormally'.
+   این مثال 7 برای کلمه 'abnormally' است.
+8. This is example 8 for the word 'abnormally'.
+   این مثال 8 برای کلمه 'abnormally' است.
+9. This is example 9 for the word 'abnormally'.
+   این مثال 9 برای کلمه 'abnormally' است.
+10. This is example 10 for the word 'abnormally'.
+   این مثال 10 برای کلمه 'abnormally' است.
+
+ID: ID16
+Word: aboard
+Meanings: —
+Examples:
+1. This is example 1 for the word 'aboard'.
+   این مثال 1 برای کلمه 'aboard' است.
+2. This is example 2 for the word 'aboard'.
+   این مثال 2 برای کلمه 'aboard' است.
+3. This is example 3 for the word 'aboard'.
+   این مثال 3 برای کلمه 'aboard' است.
+4. This is example 4 for the word 'aboard'.
+   این مثال 4 برای کلمه 'aboard' است.
+5. This is example 5 for the word 'aboard'.
+   این مثال 5 برای کلمه 'aboard' است.
+6. This is example 6 for the word 'aboard'.
+   این مثال 6 برای کلمه 'aboard' است.
+7. This is example 7 for the word 'aboard'.
+   این مثال 7 برای کلمه 'aboard' است.
+8. This is example 8 for the word 'aboard'.
+   این مثال 8 برای کلمه 'aboard' است.
+9. This is example 9 for the word 'aboard'.
+   این مثال 9 برای کلمه 'aboard' است.
+10. This is example 10 for the word 'aboard'.
+   این مثال 10 برای کلمه 'aboard' است.
+
+ID: ID17
+Word: abode
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abode'.
+   این مثال 1 برای کلمه 'abode' است.
+2. This is example 2 for the word 'abode'.
+   این مثال 2 برای کلمه 'abode' است.
+3. This is example 3 for the word 'abode'.
+   این مثال 3 برای کلمه 'abode' است.
+4. This is example 4 for the word 'abode'.
+   این مثال 4 برای کلمه 'abode' است.
+5. This is example 5 for the word 'abode'.
+   این مثال 5 برای کلمه 'abode' است.
+6. This is example 6 for the word 'abode'.
+   این مثال 6 برای کلمه 'abode' است.
+7. This is example 7 for the word 'abode'.
+   این مثال 7 برای کلمه 'abode' است.
+8. This is example 8 for the word 'abode'.
+   این مثال 8 برای کلمه 'abode' است.
+9. This is example 9 for the word 'abode'.
+   این مثال 9 برای کلمه 'abode' است.
+10. This is example 10 for the word 'abode'.
+   این مثال 10 برای کلمه 'abode' است.
+
+ID: ID18
+Word: abolish
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abolish'.
+   این مثال 1 برای کلمه 'abolish' است.
+2. This is example 2 for the word 'abolish'.
+   این مثال 2 برای کلمه 'abolish' است.
+3. This is example 3 for the word 'abolish'.
+   این مثال 3 برای کلمه 'abolish' است.
+4. This is example 4 for the word 'abolish'.
+   این مثال 4 برای کلمه 'abolish' است.
+5. This is example 5 for the word 'abolish'.
+   این مثال 5 برای کلمه 'abolish' است.
+6. This is example 6 for the word 'abolish'.
+   این مثال 6 برای کلمه 'abolish' است.
+7. This is example 7 for the word 'abolish'.
+   این مثال 7 برای کلمه 'abolish' است.
+8. This is example 8 for the word 'abolish'.
+   این مثال 8 برای کلمه 'abolish' است.
+9. This is example 9 for the word 'abolish'.
+   این مثال 9 برای کلمه 'abolish' است.
+10. This is example 10 for the word 'abolish'.
+   این مثال 10 برای کلمه 'abolish' است.
+
+ID: ID19
+Word: abolishing
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abolishing'.
+   این مثال 1 برای کلمه 'abolishing' است.
+2. This is example 2 for the word 'abolishing'.
+   این مثال 2 برای کلمه 'abolishing' است.
+3. This is example 3 for the word 'abolishing'.
+   این مثال 3 برای کلمه 'abolishing' است.
+4. This is example 4 for the word 'abolishing'.
+   این مثال 4 برای کلمه 'abolishing' است.
+5. This is example 5 for the word 'abolishing'.
+   این مثال 5 برای کلمه 'abolishing' است.
+6. This is example 6 for the word 'abolishing'.
+   این مثال 6 برای کلمه 'abolishing' است.
+7. This is example 7 for the word 'abolishing'.
+   این مثال 7 برای کلمه 'abolishing' است.
+8. This is example 8 for the word 'abolishing'.
+   این مثال 8 برای کلمه 'abolishing' است.
+9. This is example 9 for the word 'abolishing'.
+   این مثال 9 برای کلمه 'abolishing' است.
+10. This is example 10 for the word 'abolishing'.
+   این مثال 10 برای کلمه 'abolishing' است.
+
+ID: ID20
+Word: abolition
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abolition'.
+   این مثال 1 برای کلمه 'abolition' است.
+2. This is example 2 for the word 'abolition'.
+   این مثال 2 برای کلمه 'abolition' است.
+3. This is example 3 for the word 'abolition'.
+   این مثال 3 برای کلمه 'abolition' است.
+4. This is example 4 for the word 'abolition'.
+   این مثال 4 برای کلمه 'abolition' است.
+5. This is example 5 for the word 'abolition'.
+   این مثال 5 برای کلمه 'abolition' است.
+6. This is example 6 for the word 'abolition'.
+   این مثال 6 برای کلمه 'abolition' است.
+7. This is example 7 for the word 'abolition'.
+   این مثال 7 برای کلمه 'abolition' است.
+8. This is example 8 for the word 'abolition'.
+   این مثال 8 برای کلمه 'abolition' است.
+9. This is example 9 for the word 'abolition'.
+   این مثال 9 برای کلمه 'abolition' است.
+10. This is example 10 for the word 'abolition'.
+   این مثال 10 برای کلمه 'abolition' است.
+
+ID: ID21
+Word: abortion
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abortion'.
+   این مثال 1 برای کلمه 'abortion' است.
+2. This is example 2 for the word 'abortion'.
+   این مثال 2 برای کلمه 'abortion' است.
+3. This is example 3 for the word 'abortion'.
+   این مثال 3 برای کلمه 'abortion' است.
+4. This is example 4 for the word 'abortion'.
+   این مثال 4 برای کلمه 'abortion' است.
+5. This is example 5 for the word 'abortion'.
+   این مثال 5 برای کلمه 'abortion' است.
+6. This is example 6 for the word 'abortion'.
+   این مثال 6 برای کلمه 'abortion' است.
+7. This is example 7 for the word 'abortion'.
+   این مثال 7 برای کلمه 'abortion' است.
+8. This is example 8 for the word 'abortion'.
+   این مثال 8 برای کلمه 'abortion' است.
+9. This is example 9 for the word 'abortion'.
+   این مثال 9 برای کلمه 'abortion' است.
+10. This is example 10 for the word 'abortion'.
+   این مثال 10 برای کلمه 'abortion' است.
+
+ID: ID22
+Word: abortive
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abortive'.
+   این مثال 1 برای کلمه 'abortive' است.
+2. This is example 2 for the word 'abortive'.
+   این مثال 2 برای کلمه 'abortive' است.
+3. This is example 3 for the word 'abortive'.
+   این مثال 3 برای کلمه 'abortive' است.
+4. This is example 4 for the word 'abortive'.
+   این مثال 4 برای کلمه 'abortive' است.
+5. This is example 5 for the word 'abortive'.
+   این مثال 5 برای کلمه 'abortive' است.
+6. This is example 6 for the word 'abortive'.
+   این مثال 6 برای کلمه 'abortive' است.
+7. This is example 7 for the word 'abortive'.
+   این مثال 7 برای کلمه 'abortive' است.
+8. This is example 8 for the word 'abortive'.
+   این مثال 8 برای کلمه 'abortive' است.
+9. This is example 9 for the word 'abortive'.
+   این مثال 9 برای کلمه 'abortive' است.
+10. This is example 10 for the word 'abortive'.
+   این مثال 10 برای کلمه 'abortive' است.
+
+ID: ID23
+Word: abounding
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abounding'.
+   این مثال 1 برای کلمه 'abounding' است.
+2. This is example 2 for the word 'abounding'.
+   این مثال 2 برای کلمه 'abounding' است.
+3. This is example 3 for the word 'abounding'.
+   این مثال 3 برای کلمه 'abounding' است.
+4. This is example 4 for the word 'abounding'.
+   این مثال 4 برای کلمه 'abounding' است.
+5. This is example 5 for the word 'abounding'.
+   این مثال 5 برای کلمه 'abounding' است.
+6. This is example 6 for the word 'abounding'.
+   این مثال 6 برای کلمه 'abounding' است.
+7. This is example 7 for the word 'abounding'.
+   این مثال 7 برای کلمه 'abounding' است.
+8. This is example 8 for the word 'abounding'.
+   این مثال 8 برای کلمه 'abounding' است.
+9. This is example 9 for the word 'abounding'.
+   این مثال 9 برای کلمه 'abounding' است.
+10. This is example 10 for the word 'abounding'.
+   این مثال 10 برای کلمه 'abounding' است.
+
+ID: ID24
+Word: about
+Meanings: —
+Examples:
+1. This is example 1 for the word 'about'.
+   این مثال 1 برای کلمه 'about' است.
+2. This is example 2 for the word 'about'.
+   این مثال 2 برای کلمه 'about' است.
+3. This is example 3 for the word 'about'.
+   این مثال 3 برای کلمه 'about' است.
+4. This is example 4 for the word 'about'.
+   این مثال 4 برای کلمه 'about' است.
+5. This is example 5 for the word 'about'.
+   این مثال 5 برای کلمه 'about' است.
+6. This is example 6 for the word 'about'.
+   این مثال 6 برای کلمه 'about' است.
+7. This is example 7 for the word 'about'.
+   این مثال 7 برای کلمه 'about' است.
+8. This is example 8 for the word 'about'.
+   این مثال 8 برای کلمه 'about' است.
+9. This is example 9 for the word 'about'.
+   این مثال 9 برای کلمه 'about' است.
+10. This is example 10 for the word 'about'.
+   این مثال 10 برای کلمه 'about' است.
+
+ID: ID25
+Word: above
+Meanings: —
+Examples:
+1. This is example 1 for the word 'above'.
+   این مثال 1 برای کلمه 'above' است.
+2. This is example 2 for the word 'above'.
+   این مثال 2 برای کلمه 'above' است.
+3. This is example 3 for the word 'above'.
+   این مثال 3 برای کلمه 'above' است.
+4. This is example 4 for the word 'above'.
+   این مثال 4 برای کلمه 'above' است.
+5. This is example 5 for the word 'above'.
+   این مثال 5 برای کلمه 'above' است.
+6. This is example 6 for the word 'above'.
+   این مثال 6 برای کلمه 'above' است.
+7. This is example 7 for the word 'above'.
+   این مثال 7 برای کلمه 'above' است.
+8. This is example 8 for the word 'above'.
+   این مثال 8 برای کلمه 'above' است.
+9. This is example 9 for the word 'above'.
+   این مثال 9 برای کلمه 'above' است.
+10. This is example 10 for the word 'above'.
+   این مثال 10 برای کلمه 'above' است.
+
+ID: ID26
+Word: abrading
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abrading'.
+   این مثال 1 برای کلمه 'abrading' است.
+2. This is example 2 for the word 'abrading'.
+   این مثال 2 برای کلمه 'abrading' است.
+3. This is example 3 for the word 'abrading'.
+   این مثال 3 برای کلمه 'abrading' است.
+4. This is example 4 for the word 'abrading'.
+   این مثال 4 برای کلمه 'abrading' است.
+5. This is example 5 for the word 'abrading'.
+   این مثال 5 برای کلمه 'abrading' است.
+6. This is example 6 for the word 'abrading'.
+   این مثال 6 برای کلمه 'abrading' است.
+7. This is example 7 for the word 'abrading'.
+   این مثال 7 برای کلمه 'abrading' است.
+8. This is example 8 for the word 'abrading'.
+   این مثال 8 برای کلمه 'abrading' است.
+9. This is example 9 for the word 'abrading'.
+   این مثال 9 برای کلمه 'abrading' است.
+10. This is example 10 for the word 'abrading'.
+   این مثال 10 برای کلمه 'abrading' است.
+
+ID: ID27
+Word: abridge
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abridge'.
+   این مثال 1 برای کلمه 'abridge' است.
+2. This is example 2 for the word 'abridge'.
+   این مثال 2 برای کلمه 'abridge' است.
+3. This is example 3 for the word 'abridge'.
+   این مثال 3 برای کلمه 'abridge' است.
+4. This is example 4 for the word 'abridge'.
+   این مثال 4 برای کلمه 'abridge' است.
+5. This is example 5 for the word 'abridge'.
+   این مثال 5 برای کلمه 'abridge' است.
+6. This is example 6 for the word 'abridge'.
+   این مثال 6 برای کلمه 'abridge' است.
+7. This is example 7 for the word 'abridge'.
+   این مثال 7 برای کلمه 'abridge' است.
+8. This is example 8 for the word 'abridge'.
+   این مثال 8 برای کلمه 'abridge' است.
+9. This is example 9 for the word 'abridge'.
+   این مثال 9 برای کلمه 'abridge' است.
+10. This is example 10 for the word 'abridge'.
+   این مثال 10 برای کلمه 'abridge' است.
+
+ID: ID28
+Word: abroad
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abroad'.
+   این مثال 1 برای کلمه 'abroad' است.
+2. This is example 2 for the word 'abroad'.
+   این مثال 2 برای کلمه 'abroad' است.
+3. This is example 3 for the word 'abroad'.
+   این مثال 3 برای کلمه 'abroad' است.
+4. This is example 4 for the word 'abroad'.
+   این مثال 4 برای کلمه 'abroad' است.
+5. This is example 5 for the word 'abroad'.
+   این مثال 5 برای کلمه 'abroad' است.
+6. This is example 6 for the word 'abroad'.
+   این مثال 6 برای کلمه 'abroad' است.
+7. This is example 7 for the word 'abroad'.
+   این مثال 7 برای کلمه 'abroad' است.
+8. This is example 8 for the word 'abroad'.
+   این مثال 8 برای کلمه 'abroad' است.
+9. This is example 9 for the word 'abroad'.
+   این مثال 9 برای کلمه 'abroad' است.
+10. This is example 10 for the word 'abroad'.
+   این مثال 10 برای کلمه 'abroad' است.
+
+ID: ID29
+Word: abrogate
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abrogate'.
+   این مثال 1 برای کلمه 'abrogate' است.
+2. This is example 2 for the word 'abrogate'.
+   این مثال 2 برای کلمه 'abrogate' است.
+3. This is example 3 for the word 'abrogate'.
+   این مثال 3 برای کلمه 'abrogate' است.
+4. This is example 4 for the word 'abrogate'.
+   این مثال 4 برای کلمه 'abrogate' است.
+5. This is example 5 for the word 'abrogate'.
+   این مثال 5 برای کلمه 'abrogate' است.
+6. This is example 6 for the word 'abrogate'.
+   این مثال 6 برای کلمه 'abrogate' است.
+7. This is example 7 for the word 'abrogate'.
+   این مثال 7 برای کلمه 'abrogate' است.
+8. This is example 8 for the word 'abrogate'.
+   این مثال 8 برای کلمه 'abrogate' است.
+9. This is example 9 for the word 'abrogate'.
+   این مثال 9 برای کلمه 'abrogate' است.
+10. This is example 10 for the word 'abrogate'.
+   این مثال 10 برای کلمه 'abrogate' است.
+
+ID: ID30
+Word: abrupt
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abrupt'.
+   این مثال 1 برای کلمه 'abrupt' است.
+2. This is example 2 for the word 'abrupt'.
+   این مثال 2 برای کلمه 'abrupt' است.
+3. This is example 3 for the word 'abrupt'.
+   این مثال 3 برای کلمه 'abrupt' است.
+4. This is example 4 for the word 'abrupt'.
+   این مثال 4 برای کلمه 'abrupt' است.
+5. This is example 5 for the word 'abrupt'.
+   این مثال 5 برای کلمه 'abrupt' است.
+6. This is example 6 for the word 'abrupt'.
+   این مثال 6 برای کلمه 'abrupt' است.
+7. This is example 7 for the word 'abrupt'.
+   این مثال 7 برای کلمه 'abrupt' است.
+8. This is example 8 for the word 'abrupt'.
+   این مثال 8 برای کلمه 'abrupt' است.
+9. This is example 9 for the word 'abrupt'.
+   این مثال 9 برای کلمه 'abrupt' است.
+10. This is example 10 for the word 'abrupt'.
+   این مثال 10 برای کلمه 'abrupt' است.
+
+ID: ID31
+Word: absence
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absence'.
+   این مثال 1 برای کلمه 'absence' است.
+2. This is example 2 for the word 'absence'.
+   این مثال 2 برای کلمه 'absence' است.
+3. This is example 3 for the word 'absence'.
+   این مثال 3 برای کلمه 'absence' است.
+4. This is example 4 for the word 'absence'.
+   این مثال 4 برای کلمه 'absence' است.
+5. This is example 5 for the word 'absence'.
+   این مثال 5 برای کلمه 'absence' است.
+6. This is example 6 for the word 'absence'.
+   این مثال 6 برای کلمه 'absence' است.
+7. This is example 7 for the word 'absence'.
+   این مثال 7 برای کلمه 'absence' است.
+8. This is example 8 for the word 'absence'.
+   این مثال 8 برای کلمه 'absence' است.
+9. This is example 9 for the word 'absence'.
+   این مثال 9 برای کلمه 'absence' است.
+10. This is example 10 for the word 'absence'.
+   این مثال 10 برای کلمه 'absence' است.
+
+ID: ID32
+Word: absent
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absent'.
+   این مثال 1 برای کلمه 'absent' است.
+2. This is example 2 for the word 'absent'.
+   این مثال 2 برای کلمه 'absent' است.
+3. This is example 3 for the word 'absent'.
+   این مثال 3 برای کلمه 'absent' است.
+4. This is example 4 for the word 'absent'.
+   این مثال 4 برای کلمه 'absent' است.
+5. This is example 5 for the word 'absent'.
+   این مثال 5 برای کلمه 'absent' است.
+6. This is example 6 for the word 'absent'.
+   این مثال 6 برای کلمه 'absent' است.
+7. This is example 7 for the word 'absent'.
+   این مثال 7 برای کلمه 'absent' است.
+8. This is example 8 for the word 'absent'.
+   این مثال 8 برای کلمه 'absent' است.
+9. This is example 9 for the word 'absent'.
+   این مثال 9 برای کلمه 'absent' است.
+10. This is example 10 for the word 'absent'.
+   این مثال 10 برای کلمه 'absent' است.
+
+ID: ID33
+Word: absolute
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absolute'.
+   این مثال 1 برای کلمه 'absolute' است.
+2. This is example 2 for the word 'absolute'.
+   این مثال 2 برای کلمه 'absolute' است.
+3. This is example 3 for the word 'absolute'.
+   این مثال 3 برای کلمه 'absolute' است.
+4. This is example 4 for the word 'absolute'.
+   این مثال 4 برای کلمه 'absolute' است.
+5. This is example 5 for the word 'absolute'.
+   این مثال 5 برای کلمه 'absolute' است.
+6. This is example 6 for the word 'absolute'.
+   این مثال 6 برای کلمه 'absolute' است.
+7. This is example 7 for the word 'absolute'.
+   این مثال 7 برای کلمه 'absolute' است.
+8. This is example 8 for the word 'absolute'.
+   این مثال 8 برای کلمه 'absolute' است.
+9. This is example 9 for the word 'absolute'.
+   این مثال 9 برای کلمه 'absolute' است.
+10. This is example 10 for the word 'absolute'.
+   این مثال 10 برای کلمه 'absolute' است.
+
+ID: ID34
+Word: absolutely
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absolutely'.
+   این مثال 1 برای کلمه 'absolutely' است.
+2. This is example 2 for the word 'absolutely'.
+   این مثال 2 برای کلمه 'absolutely' است.
+3. This is example 3 for the word 'absolutely'.
+   این مثال 3 برای کلمه 'absolutely' است.
+4. This is example 4 for the word 'absolutely'.
+   این مثال 4 برای کلمه 'absolutely' است.
+5. This is example 5 for the word 'absolutely'.
+   این مثال 5 برای کلمه 'absolutely' است.
+6. This is example 6 for the word 'absolutely'.
+   این مثال 6 برای کلمه 'absolutely' است.
+7. This is example 7 for the word 'absolutely'.
+   این مثال 7 برای کلمه 'absolutely' است.
+8. This is example 8 for the word 'absolutely'.
+   این مثال 8 برای کلمه 'absolutely' است.
+9. This is example 9 for the word 'absolutely'.
+   این مثال 9 برای کلمه 'absolutely' است.
+10. This is example 10 for the word 'absolutely'.
+   این مثال 10 برای کلمه 'absolutely' است.
+
+ID: ID35
+Word: absorb
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absorb'.
+   این مثال 1 برای کلمه 'absorb' است.
+2. This is example 2 for the word 'absorb'.
+   این مثال 2 برای کلمه 'absorb' است.
+3. This is example 3 for the word 'absorb'.
+   این مثال 3 برای کلمه 'absorb' است.
+4. This is example 4 for the word 'absorb'.
+   این مثال 4 برای کلمه 'absorb' است.
+5. This is example 5 for the word 'absorb'.
+   این مثال 5 برای کلمه 'absorb' است.
+6. This is example 6 for the word 'absorb'.
+   این مثال 6 برای کلمه 'absorb' است.
+7. This is example 7 for the word 'absorb'.
+   این مثال 7 برای کلمه 'absorb' است.
+8. This is example 8 for the word 'absorb'.
+   این مثال 8 برای کلمه 'absorb' است.
+9. This is example 9 for the word 'absorb'.
+   این مثال 9 برای کلمه 'absorb' است.
+10. This is example 10 for the word 'absorb'.
+   این مثال 10 برای کلمه 'absorb' است.
+
+ID: ID36
+Word: absorbable
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absorbable'.
+   این مثال 1 برای کلمه 'absorbable' است.
+2. This is example 2 for the word 'absorbable'.
+   این مثال 2 برای کلمه 'absorbable' است.
+3. This is example 3 for the word 'absorbable'.
+   این مثال 3 برای کلمه 'absorbable' است.
+4. This is example 4 for the word 'absorbable'.
+   این مثال 4 برای کلمه 'absorbable' است.
+5. This is example 5 for the word 'absorbable'.
+   این مثال 5 برای کلمه 'absorbable' است.
+6. This is example 6 for the word 'absorbable'.
+   این مثال 6 برای کلمه 'absorbable' است.
+7. This is example 7 for the word 'absorbable'.
+   این مثال 7 برای کلمه 'absorbable' است.
+8. This is example 8 for the word 'absorbable'.
+   این مثال 8 برای کلمه 'absorbable' است.
+9. This is example 9 for the word 'absorbable'.
+   این مثال 9 برای کلمه 'absorbable' است.
+10. This is example 10 for the word 'absorbable'.
+   این مثال 10 برای کلمه 'absorbable' است.
+
+ID: ID37
+Word: absorbed
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absorbed'.
+   این مثال 1 برای کلمه 'absorbed' است.
+2. This is example 2 for the word 'absorbed'.
+   این مثال 2 برای کلمه 'absorbed' است.
+3. This is example 3 for the word 'absorbed'.
+   این مثال 3 برای کلمه 'absorbed' است.
+4. This is example 4 for the word 'absorbed'.
+   این مثال 4 برای کلمه 'absorbed' است.
+5. This is example 5 for the word 'absorbed'.
+   این مثال 5 برای کلمه 'absorbed' است.
+6. This is example 6 for the word 'absorbed'.
+   این مثال 6 برای کلمه 'absorbed' است.
+7. This is example 7 for the word 'absorbed'.
+   این مثال 7 برای کلمه 'absorbed' است.
+8. This is example 8 for the word 'absorbed'.
+   این مثال 8 برای کلمه 'absorbed' است.
+9. This is example 9 for the word 'absorbed'.
+   این مثال 9 برای کلمه 'absorbed' است.
+10. This is example 10 for the word 'absorbed'.
+   این مثال 10 برای کلمه 'absorbed' است.
+
+ID: ID38
+Word: absorbent
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absorbent'.
+   این مثال 1 برای کلمه 'absorbent' است.
+2. This is example 2 for the word 'absorbent'.
+   این مثال 2 برای کلمه 'absorbent' است.
+3. This is example 3 for the word 'absorbent'.
+   این مثال 3 برای کلمه 'absorbent' است.
+4. This is example 4 for the word 'absorbent'.
+   این مثال 4 برای کلمه 'absorbent' است.
+5. This is example 5 for the word 'absorbent'.
+   این مثال 5 برای کلمه 'absorbent' است.
+6. This is example 6 for the word 'absorbent'.
+   این مثال 6 برای کلمه 'absorbent' است.
+7. This is example 7 for the word 'absorbent'.
+   این مثال 7 برای کلمه 'absorbent' است.
+8. This is example 8 for the word 'absorbent'.
+   این مثال 8 برای کلمه 'absorbent' است.
+9. This is example 9 for the word 'absorbent'.
+   این مثال 9 برای کلمه 'absorbent' است.
+10. This is example 10 for the word 'absorbent'.
+   این مثال 10 برای کلمه 'absorbent' است.
+
+ID: ID39
+Word: absorbing
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absorbing'.
+   این مثال 1 برای کلمه 'absorbing' است.
+2. This is example 2 for the word 'absorbing'.
+   این مثال 2 برای کلمه 'absorbing' است.
+3. This is example 3 for the word 'absorbing'.
+   این مثال 3 برای کلمه 'absorbing' است.
+4. This is example 4 for the word 'absorbing'.
+   این مثال 4 برای کلمه 'absorbing' است.
+5. This is example 5 for the word 'absorbing'.
+   این مثال 5 برای کلمه 'absorbing' است.
+6. This is example 6 for the word 'absorbing'.
+   این مثال 6 برای کلمه 'absorbing' است.
+7. This is example 7 for the word 'absorbing'.
+   این مثال 7 برای کلمه 'absorbing' است.
+8. This is example 8 for the word 'absorbing'.
+   این مثال 8 برای کلمه 'absorbing' است.
+9. This is example 9 for the word 'absorbing'.
+   این مثال 9 برای کلمه 'absorbing' است.
+10. This is example 10 for the word 'absorbing'.
+   این مثال 10 برای کلمه 'absorbing' است.
+
+ID: ID40
+Word: absorption
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absorption'.
+   این مثال 1 برای کلمه 'absorption' است.
+2. This is example 2 for the word 'absorption'.
+   این مثال 2 برای کلمه 'absorption' است.
+3. This is example 3 for the word 'absorption'.
+   این مثال 3 برای کلمه 'absorption' است.
+4. This is example 4 for the word 'absorption'.
+   این مثال 4 برای کلمه 'absorption' است.
+5. This is example 5 for the word 'absorption'.
+   این مثال 5 برای کلمه 'absorption' است.
+6. This is example 6 for the word 'absorption'.
+   این مثال 6 برای کلمه 'absorption' است.
+7. This is example 7 for the word 'absorption'.
+   این مثال 7 برای کلمه 'absorption' است.
+8. This is example 8 for the word 'absorption'.
+   این مثال 8 برای کلمه 'absorption' است.
+9. This is example 9 for the word 'absorption'.
+   این مثال 9 برای کلمه 'absorption' است.
+10. This is example 10 for the word 'absorption'.
+   این مثال 10 برای کلمه 'absorption' است.
+
+ID: ID41
+Word: abstain
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abstain'.
+   این مثال 1 برای کلمه 'abstain' است.
+2. This is example 2 for the word 'abstain'.
+   این مثال 2 برای کلمه 'abstain' است.
+3. This is example 3 for the word 'abstain'.
+   این مثال 3 برای کلمه 'abstain' است.
+4. This is example 4 for the word 'abstain'.
+   این مثال 4 برای کلمه 'abstain' است.
+5. This is example 5 for the word 'abstain'.
+   این مثال 5 برای کلمه 'abstain' است.
+6. This is example 6 for the word 'abstain'.
+   این مثال 6 برای کلمه 'abstain' است.
+7. This is example 7 for the word 'abstain'.
+   این مثال 7 برای کلمه 'abstain' است.
+8. This is example 8 for the word 'abstain'.
+   این مثال 8 برای کلمه 'abstain' است.
+9. This is example 9 for the word 'abstain'.
+   این مثال 9 برای کلمه 'abstain' است.
+10. This is example 10 for the word 'abstain'.
+   این مثال 10 برای کلمه 'abstain' است.
+
+ID: ID42
+Word: abstract
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abstract'.
+   این مثال 1 برای کلمه 'abstract' است.
+2. This is example 2 for the word 'abstract'.
+   این مثال 2 برای کلمه 'abstract' است.
+3. This is example 3 for the word 'abstract'.
+   این مثال 3 برای کلمه 'abstract' است.
+4. This is example 4 for the word 'abstract'.
+   این مثال 4 برای کلمه 'abstract' است.
+5. This is example 5 for the word 'abstract'.
+   این مثال 5 برای کلمه 'abstract' است.
+6. This is example 6 for the word 'abstract'.
+   این مثال 6 برای کلمه 'abstract' است.
+7. This is example 7 for the word 'abstract'.
+   این مثال 7 برای کلمه 'abstract' است.
+8. This is example 8 for the word 'abstract'.
+   این مثال 8 برای کلمه 'abstract' است.
+9. This is example 9 for the word 'abstract'.
+   این مثال 9 برای کلمه 'abstract' است.
+10. This is example 10 for the word 'abstract'.
+   این مثال 10 برای کلمه 'abstract' است.
+
+ID: ID43
+Word: abstractly
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abstractly'.
+   این مثال 1 برای کلمه 'abstractly' است.
+2. This is example 2 for the word 'abstractly'.
+   این مثال 2 برای کلمه 'abstractly' است.
+3. This is example 3 for the word 'abstractly'.
+   این مثال 3 برای کلمه 'abstractly' است.
+4. This is example 4 for the word 'abstractly'.
+   این مثال 4 برای کلمه 'abstractly' است.
+5. This is example 5 for the word 'abstractly'.
+   این مثال 5 برای کلمه 'abstractly' است.
+6. This is example 6 for the word 'abstractly'.
+   این مثال 6 برای کلمه 'abstractly' است.
+7. This is example 7 for the word 'abstractly'.
+   این مثال 7 برای کلمه 'abstractly' است.
+8. This is example 8 for the word 'abstractly'.
+   این مثال 8 برای کلمه 'abstractly' است.
+9. This is example 9 for the word 'abstractly'.
+   این مثال 9 برای کلمه 'abstractly' است.
+10. This is example 10 for the word 'abstractly'.
+   این مثال 10 برای کلمه 'abstractly' است.
+
+ID: ID44
+Word: abstruse
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abstruse'.
+   این مثال 1 برای کلمه 'abstruse' است.
+2. This is example 2 for the word 'abstruse'.
+   این مثال 2 برای کلمه 'abstruse' است.
+3. This is example 3 for the word 'abstruse'.
+   این مثال 3 برای کلمه 'abstruse' است.
+4. This is example 4 for the word 'abstruse'.
+   این مثال 4 برای کلمه 'abstruse' است.
+5. This is example 5 for the word 'abstruse'.
+   این مثال 5 برای کلمه 'abstruse' است.
+6. This is example 6 for the word 'abstruse'.
+   این مثال 6 برای کلمه 'abstruse' است.
+7. This is example 7 for the word 'abstruse'.
+   این مثال 7 برای کلمه 'abstruse' است.
+8. This is example 8 for the word 'abstruse'.
+   این مثال 8 برای کلمه 'abstruse' است.
+9. This is example 9 for the word 'abstruse'.
+   این مثال 9 برای کلمه 'abstruse' است.
+10. This is example 10 for the word 'abstruse'.
+   این مثال 10 برای کلمه 'abstruse' است.
+
+ID: ID45
+Word: absurd
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absurd'.
+   این مثال 1 برای کلمه 'absurd' است.
+2. This is example 2 for the word 'absurd'.
+   این مثال 2 برای کلمه 'absurd' است.
+3. This is example 3 for the word 'absurd'.
+   این مثال 3 برای کلمه 'absurd' است.
+4. This is example 4 for the word 'absurd'.
+   این مثال 4 برای کلمه 'absurd' است.
+5. This is example 5 for the word 'absurd'.
+   این مثال 5 برای کلمه 'absurd' است.
+6. This is example 6 for the word 'absurd'.
+   این مثال 6 برای کلمه 'absurd' است.
+7. This is example 7 for the word 'absurd'.
+   این مثال 7 برای کلمه 'absurd' است.
+8. This is example 8 for the word 'absurd'.
+   این مثال 8 برای کلمه 'absurd' است.
+9. This is example 9 for the word 'absurd'.
+   این مثال 9 برای کلمه 'absurd' است.
+10. This is example 10 for the word 'absurd'.
+   این مثال 10 برای کلمه 'absurd' است.
+
+ID: ID46
+Word: absurdity
+Meanings: —
+Examples:
+1. This is example 1 for the word 'absurdity'.
+   این مثال 1 برای کلمه 'absurdity' است.
+2. This is example 2 for the word 'absurdity'.
+   این مثال 2 برای کلمه 'absurdity' است.
+3. This is example 3 for the word 'absurdity'.
+   این مثال 3 برای کلمه 'absurdity' است.
+4. This is example 4 for the word 'absurdity'.
+   این مثال 4 برای کلمه 'absurdity' است.
+5. This is example 5 for the word 'absurdity'.
+   این مثال 5 برای کلمه 'absurdity' است.
+6. This is example 6 for the word 'absurdity'.
+   این مثال 6 برای کلمه 'absurdity' است.
+7. This is example 7 for the word 'absurdity'.
+   این مثال 7 برای کلمه 'absurdity' است.
+8. This is example 8 for the word 'absurdity'.
+   این مثال 8 برای کلمه 'absurdity' است.
+9. This is example 9 for the word 'absurdity'.
+   این مثال 9 برای کلمه 'absurdity' است.
+10. This is example 10 for the word 'absurdity'.
+   این مثال 10 برای کلمه 'absurdity' است.
+
+ID: ID47
+Word: abundance
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abundance'.
+   این مثال 1 برای کلمه 'abundance' است.
+2. This is example 2 for the word 'abundance'.
+   این مثال 2 برای کلمه 'abundance' است.
+3. This is example 3 for the word 'abundance'.
+   این مثال 3 برای کلمه 'abundance' است.
+4. This is example 4 for the word 'abundance'.
+   این مثال 4 برای کلمه 'abundance' است.
+5. This is example 5 for the word 'abundance'.
+   این مثال 5 برای کلمه 'abundance' است.
+6. This is example 6 for the word 'abundance'.
+   این مثال 6 برای کلمه 'abundance' است.
+7. This is example 7 for the word 'abundance'.
+   این مثال 7 برای کلمه 'abundance' است.
+8. This is example 8 for the word 'abundance'.
+   این مثال 8 برای کلمه 'abundance' است.
+9. This is example 9 for the word 'abundance'.
+   این مثال 9 برای کلمه 'abundance' است.
+10. This is example 10 for the word 'abundance'.
+   این مثال 10 برای کلمه 'abundance' است.
+
+ID: ID48
+Word: abundant
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abundant'.
+   این مثال 1 برای کلمه 'abundant' است.
+2. This is example 2 for the word 'abundant'.
+   این مثال 2 برای کلمه 'abundant' است.
+3. This is example 3 for the word 'abundant'.
+   این مثال 3 برای کلمه 'abundant' است.
+4. This is example 4 for the word 'abundant'.
+   این مثال 4 برای کلمه 'abundant' است.
+5. This is example 5 for the word 'abundant'.
+   این مثال 5 برای کلمه 'abundant' است.
+6. This is example 6 for the word 'abundant'.
+   این مثال 6 برای کلمه 'abundant' است.
+7. This is example 7 for the word 'abundant'.
+   این مثال 7 برای کلمه 'abundant' است.
+8. This is example 8 for the word 'abundant'.
+   این مثال 8 برای کلمه 'abundant' است.
+9. This is example 9 for the word 'abundant'.
+   این مثال 9 برای کلمه 'abundant' است.
+10. This is example 10 for the word 'abundant'.
+   این مثال 10 برای کلمه 'abundant' است.
+
+ID: ID49
+Word: abuse
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abuse'.
+   این مثال 1 برای کلمه 'abuse' است.
+2. This is example 2 for the word 'abuse'.
+   این مثال 2 برای کلمه 'abuse' است.
+3. This is example 3 for the word 'abuse'.
+   این مثال 3 برای کلمه 'abuse' است.
+4. This is example 4 for the word 'abuse'.
+   این مثال 4 برای کلمه 'abuse' است.
+5. This is example 5 for the word 'abuse'.
+   این مثال 5 برای کلمه 'abuse' است.
+6. This is example 6 for the word 'abuse'.
+   این مثال 6 برای کلمه 'abuse' است.
+7. This is example 7 for the word 'abuse'.
+   این مثال 7 برای کلمه 'abuse' است.
+8. This is example 8 for the word 'abuse'.
+   این مثال 8 برای کلمه 'abuse' است.
+9. This is example 9 for the word 'abuse'.
+   این مثال 9 برای کلمه 'abuse' است.
+10. This is example 10 for the word 'abuse'.
+   این مثال 10 برای کلمه 'abuse' است.
+
+ID: ID50
+Word: abusing
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abusing'.
+   این مثال 1 برای کلمه 'abusing' است.
+2. This is example 2 for the word 'abusing'.
+   این مثال 2 برای کلمه 'abusing' است.
+3. This is example 3 for the word 'abusing'.
+   این مثال 3 برای کلمه 'abusing' است.
+4. This is example 4 for the word 'abusing'.
+   این مثال 4 برای کلمه 'abusing' است.
+5. This is example 5 for the word 'abusing'.
+   این مثال 5 برای کلمه 'abusing' است.
+6. This is example 6 for the word 'abusing'.
+   این مثال 6 برای کلمه 'abusing' است.
+7. This is example 7 for the word 'abusing'.
+   این مثال 7 برای کلمه 'abusing' است.
+8. This is example 8 for the word 'abusing'.
+   این مثال 8 برای کلمه 'abusing' است.
+9. This is example 9 for the word 'abusing'.
+   این مثال 9 برای کلمه 'abusing' است.
+10. This is example 10 for the word 'abusing'.
+   این مثال 10 برای کلمه 'abusing' است.
+
+ID: ID51
+Word: abusive
+Meanings: —
+Examples:
+1. This is example 1 for the word 'abusive'.
+   این مثال 1 برای کلمه 'abusive' است.
+2. This is example 2 for the word 'abusive'.
+   این مثال 2 برای کلمه 'abusive' است.
+3. This is example 3 for the word 'abusive'.
+   این مثال 3 برای کلمه 'abusive' است.
+4. This is example 4 for the word 'abusive'.
+   این مثال 4 برای کلمه 'abusive' است.
+5. This is example 5 for the word 'abusive'.
+   این مثال 5 برای کلمه 'abusive' است.
+6. This is example 6 for the word 'abusive'.
+   این مثال 6 برای کلمه 'abusive' است.
+7. This is example 7 for the word 'abusive'.
+   این مثال 7 برای کلمه 'abusive' است.
+8. This is example 8 for the word 'abusive'.
+   این مثال 8 برای کلمه 'abusive' است.
+9. This is example 9 for the word 'abusive'.
+   این مثال 9 برای کلمه 'abusive' است.
+10. This is example 10 for the word 'abusive'.
+   این مثال 10 برای کلمه 'abusive' است.
+
+ID: ID52
+Word: academic
+Meanings: —
+Examples:
+1. This is example 1 for the word 'academic'.
+   این مثال 1 برای کلمه 'academic' است.
+2. This is example 2 for the word 'academic'.
+   این مثال 2 برای کلمه 'academic' است.
+3. This is example 3 for the word 'academic'.
+   این مثال 3 برای کلمه 'academic' است.
+4. This is example 4 for the word 'academic'.
+   این مثال 4 برای کلمه 'academic' است.
+5. This is example 5 for the word 'academic'.
+   این مثال 5 برای کلمه 'academic' است.
+6. This is example 6 for the word 'academic'.
+   این مثال 6 برای کلمه 'academic' است.
+7. This is example 7 for the word 'academic'.
+   این مثال 7 برای کلمه 'academic' است.
+8. This is example 8 for the word 'academic'.
+   این مثال 8 برای کلمه 'academic' است.
+9. This is example 9 for the word 'academic'.
+   این مثال 9 برای کلمه 'academic' است.
+10. This is example 10 for the word 'academic'.
+   این مثال 10 برای کلمه 'academic' است.
+
+ID: ID53
+Word: academicals
+Meanings: —
+Examples:
+1. This is example 1 for the word 'academicals'.
+   این مثال 1 برای کلمه 'academicals' است.
+2. This is example 2 for the word 'academicals'.
+   این مثال 2 برای کلمه 'academicals' است.
+3. This is example 3 for the word 'academicals'.
+   این مثال 3 برای کلمه 'academicals' است.
+4. This is example 4 for the word 'academicals'.
+   این مثال 4 برای کلمه 'academicals' است.
+5. This is example 5 for the word 'academicals'.
+   این مثال 5 برای کلمه 'academicals' است.
+6. This is example 6 for the word 'academicals'.
+   این مثال 6 برای کلمه 'academicals' است.
+7. This is example 7 for the word 'academicals'.
+   این مثال 7 برای کلمه 'academicals' است.
+8. This is example 8 for the word 'academicals'.
+   این مثال 8 برای کلمه 'academicals' است.
+9. This is example 9 for the word 'academicals'.
+   این مثال 9 برای کلمه 'academicals' است.
+10. This is example 10 for the word 'academicals'.
+   این مثال 10 برای کلمه 'academicals' است.
+
+ID: ID54
+Word: academy
+Meanings: —
+Examples:
+1. This is example 1 for the word 'academy'.
+   این مثال 1 برای کلمه 'academy' است.
+2. This is example 2 for the word 'academy'.
+   این مثال 2 برای کلمه 'academy' است.
+3. This is example 3 for the word 'academy'.
+   این مثال 3 برای کلمه 'academy' است.
+4. This is example 4 for the word 'academy'.
+   این مثال 4 برای کلمه 'academy' است.
+5. This is example 5 for the word 'academy'.
+   این مثال 5 برای کلمه 'academy' است.
+6. This is example 6 for the word 'academy'.
+   این مثال 6 برای کلمه 'academy' است.
+7. This is example 7 for the word 'academy'.
+   این مثال 7 برای کلمه 'academy' است.
+8. This is example 8 for the word 'academy'.
+   این مثال 8 برای کلمه 'academy' است.
+9. This is example 9 for the word 'academy'.
+   این مثال 9 برای کلمه 'academy' است.
+10. This is example 10 for the word 'academy'.
+   این مثال 10 برای کلمه 'academy' است.
+
+ID: ID55
+Word: accede
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accede'.
+   این مثال 1 برای کلمه 'accede' است.
+2. This is example 2 for the word 'accede'.
+   این مثال 2 برای کلمه 'accede' است.
+3. This is example 3 for the word 'accede'.
+   این مثال 3 برای کلمه 'accede' است.
+4. This is example 4 for the word 'accede'.
+   این مثال 4 برای کلمه 'accede' است.
+5. This is example 5 for the word 'accede'.
+   این مثال 5 برای کلمه 'accede' است.
+6. This is example 6 for the word 'accede'.
+   این مثال 6 برای کلمه 'accede' است.
+7. This is example 7 for the word 'accede'.
+   این مثال 7 برای کلمه 'accede' است.
+8. This is example 8 for the word 'accede'.
+   این مثال 8 برای کلمه 'accede' است.
+9. This is example 9 for the word 'accede'.
+   این مثال 9 برای کلمه 'accede' است.
+10. This is example 10 for the word 'accede'.
+   این مثال 10 برای کلمه 'accede' است.
+
+ID: ID56
+Word: accelerate
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accelerate'.
+   این مثال 1 برای کلمه 'accelerate' است.
+2. This is example 2 for the word 'accelerate'.
+   این مثال 2 برای کلمه 'accelerate' است.
+3. This is example 3 for the word 'accelerate'.
+   این مثال 3 برای کلمه 'accelerate' است.
+4. This is example 4 for the word 'accelerate'.
+   این مثال 4 برای کلمه 'accelerate' است.
+5. This is example 5 for the word 'accelerate'.
+   این مثال 5 برای کلمه 'accelerate' است.
+6. This is example 6 for the word 'accelerate'.
+   این مثال 6 برای کلمه 'accelerate' است.
+7. This is example 7 for the word 'accelerate'.
+   این مثال 7 برای کلمه 'accelerate' است.
+8. This is example 8 for the word 'accelerate'.
+   این مثال 8 برای کلمه 'accelerate' است.
+9. This is example 9 for the word 'accelerate'.
+   این مثال 9 برای کلمه 'accelerate' است.
+10. This is example 10 for the word 'accelerate'.
+   این مثال 10 برای کلمه 'accelerate' است.
+
+ID: ID57
+Word: acceleration
+Meanings: —
+Examples:
+1. This is example 1 for the word 'acceleration'.
+   این مثال 1 برای کلمه 'acceleration' است.
+2. This is example 2 for the word 'acceleration'.
+   این مثال 2 برای کلمه 'acceleration' است.
+3. This is example 3 for the word 'acceleration'.
+   این مثال 3 برای کلمه 'acceleration' است.
+4. This is example 4 for the word 'acceleration'.
+   این مثال 4 برای کلمه 'acceleration' است.
+5. This is example 5 for the word 'acceleration'.
+   این مثال 5 برای کلمه 'acceleration' است.
+6. This is example 6 for the word 'acceleration'.
+   این مثال 6 برای کلمه 'acceleration' است.
+7. This is example 7 for the word 'acceleration'.
+   این مثال 7 برای کلمه 'acceleration' است.
+8. This is example 8 for the word 'acceleration'.
+   این مثال 8 برای کلمه 'acceleration' است.
+9. This is example 9 for the word 'acceleration'.
+   این مثال 9 برای کلمه 'acceleration' است.
+10. This is example 10 for the word 'acceleration'.
+   این مثال 10 برای کلمه 'acceleration' است.
+
+ID: ID58
+Word: accent
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accent'.
+   این مثال 1 برای کلمه 'accent' است.
+2. This is example 2 for the word 'accent'.
+   این مثال 2 برای کلمه 'accent' است.
+3. This is example 3 for the word 'accent'.
+   این مثال 3 برای کلمه 'accent' است.
+4. This is example 4 for the word 'accent'.
+   این مثال 4 برای کلمه 'accent' است.
+5. This is example 5 for the word 'accent'.
+   این مثال 5 برای کلمه 'accent' است.
+6. This is example 6 for the word 'accent'.
+   این مثال 6 برای کلمه 'accent' است.
+7. This is example 7 for the word 'accent'.
+   این مثال 7 برای کلمه 'accent' است.
+8. This is example 8 for the word 'accent'.
+   این مثال 8 برای کلمه 'accent' است.
+9. This is example 9 for the word 'accent'.
+   این مثال 9 برای کلمه 'accent' است.
+10. This is example 10 for the word 'accent'.
+   این مثال 10 برای کلمه 'accent' است.
+
+ID: ID59
+Word: accept
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accept'.
+   این مثال 1 برای کلمه 'accept' است.
+2. This is example 2 for the word 'accept'.
+   این مثال 2 برای کلمه 'accept' است.
+3. This is example 3 for the word 'accept'.
+   این مثال 3 برای کلمه 'accept' است.
+4. This is example 4 for the word 'accept'.
+   این مثال 4 برای کلمه 'accept' است.
+5. This is example 5 for the word 'accept'.
+   این مثال 5 برای کلمه 'accept' است.
+6. This is example 6 for the word 'accept'.
+   این مثال 6 برای کلمه 'accept' است.
+7. This is example 7 for the word 'accept'.
+   این مثال 7 برای کلمه 'accept' است.
+8. This is example 8 for the word 'accept'.
+   این مثال 8 برای کلمه 'accept' است.
+9. This is example 9 for the word 'accept'.
+   این مثال 9 برای کلمه 'accept' است.
+10. This is example 10 for the word 'accept'.
+   این مثال 10 برای کلمه 'accept' است.
+
+ID: ID60
+Word: acceptable
+Meanings: —
+Examples:
+1. This is example 1 for the word 'acceptable'.
+   این مثال 1 برای کلمه 'acceptable' است.
+2. This is example 2 for the word 'acceptable'.
+   این مثال 2 برای کلمه 'acceptable' است.
+3. This is example 3 for the word 'acceptable'.
+   این مثال 3 برای کلمه 'acceptable' است.
+4. This is example 4 for the word 'acceptable'.
+   این مثال 4 برای کلمه 'acceptable' است.
+5. This is example 5 for the word 'acceptable'.
+   این مثال 5 برای کلمه 'acceptable' است.
+6. This is example 6 for the word 'acceptable'.
+   این مثال 6 برای کلمه 'acceptable' است.
+7. This is example 7 for the word 'acceptable'.
+   این مثال 7 برای کلمه 'acceptable' است.
+8. This is example 8 for the word 'acceptable'.
+   این مثال 8 برای کلمه 'acceptable' است.
+9. This is example 9 for the word 'acceptable'.
+   این مثال 9 برای کلمه 'acceptable' است.
+10. This is example 10 for the word 'acceptable'.
+   این مثال 10 برای کلمه 'acceptable' است.
+
+ID: ID61
+Word: acceptance
+Meanings: —
+Examples:
+1. This is example 1 for the word 'acceptance'.
+   این مثال 1 برای کلمه 'acceptance' است.
+2. This is example 2 for the word 'acceptance'.
+   این مثال 2 برای کلمه 'acceptance' است.
+3. This is example 3 for the word 'acceptance'.
+   این مثال 3 برای کلمه 'acceptance' است.
+4. This is example 4 for the word 'acceptance'.
+   این مثال 4 برای کلمه 'acceptance' است.
+5. This is example 5 for the word 'acceptance'.
+   این مثال 5 برای کلمه 'acceptance' است.
+6. This is example 6 for the word 'acceptance'.
+   این مثال 6 برای کلمه 'acceptance' است.
+7. This is example 7 for the word 'acceptance'.
+   این مثال 7 برای کلمه 'acceptance' است.
+8. This is example 8 for the word 'acceptance'.
+   این مثال 8 برای کلمه 'acceptance' است.
+9. This is example 9 for the word 'acceptance'.
+   این مثال 9 برای کلمه 'acceptance' است.
+10. This is example 10 for the word 'acceptance'.
+   این مثال 10 برای کلمه 'acceptance' است.
+
+ID: ID62
+Word: accepted
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accepted'.
+   این مثال 1 برای کلمه 'accepted' است.
+2. This is example 2 for the word 'accepted'.
+   این مثال 2 برای کلمه 'accepted' است.
+3. This is example 3 for the word 'accepted'.
+   این مثال 3 برای کلمه 'accepted' است.
+4. This is example 4 for the word 'accepted'.
+   این مثال 4 برای کلمه 'accepted' است.
+5. This is example 5 for the word 'accepted'.
+   این مثال 5 برای کلمه 'accepted' است.
+6. This is example 6 for the word 'accepted'.
+   این مثال 6 برای کلمه 'accepted' است.
+7. This is example 7 for the word 'accepted'.
+   این مثال 7 برای کلمه 'accepted' است.
+8. This is example 8 for the word 'accepted'.
+   این مثال 8 برای کلمه 'accepted' است.
+9. This is example 9 for the word 'accepted'.
+   این مثال 9 برای کلمه 'accepted' است.
+10. This is example 10 for the word 'accepted'.
+   این مثال 10 برای کلمه 'accepted' است.
+
+ID: ID63
+Word: accepting
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accepting'.
+   این مثال 1 برای کلمه 'accepting' است.
+2. This is example 2 for the word 'accepting'.
+   این مثال 2 برای کلمه 'accepting' است.
+3. This is example 3 for the word 'accepting'.
+   این مثال 3 برای کلمه 'accepting' است.
+4. This is example 4 for the word 'accepting'.
+   این مثال 4 برای کلمه 'accepting' است.
+5. This is example 5 for the word 'accepting'.
+   این مثال 5 برای کلمه 'accepting' است.
+6. This is example 6 for the word 'accepting'.
+   این مثال 6 برای کلمه 'accepting' است.
+7. This is example 7 for the word 'accepting'.
+   این مثال 7 برای کلمه 'accepting' است.
+8. This is example 8 for the word 'accepting'.
+   این مثال 8 برای کلمه 'accepting' است.
+9. This is example 9 for the word 'accepting'.
+   این مثال 9 برای کلمه 'accepting' است.
+10. This is example 10 for the word 'accepting'.
+   این مثال 10 برای کلمه 'accepting' است.
+
+ID: ID64
+Word: access
+Meanings: —
+Examples:
+1. This is example 1 for the word 'access'.
+   این مثال 1 برای کلمه 'access' است.
+2. This is example 2 for the word 'access'.
+   این مثال 2 برای کلمه 'access' است.
+3. This is example 3 for the word 'access'.
+   این مثال 3 برای کلمه 'access' است.
+4. This is example 4 for the word 'access'.
+   این مثال 4 برای کلمه 'access' است.
+5. This is example 5 for the word 'access'.
+   این مثال 5 برای کلمه 'access' است.
+6. This is example 6 for the word 'access'.
+   این مثال 6 برای کلمه 'access' است.
+7. This is example 7 for the word 'access'.
+   این مثال 7 برای کلمه 'access' است.
+8. This is example 8 for the word 'access'.
+   این مثال 8 برای کلمه 'access' است.
+9. This is example 9 for the word 'access'.
+   این مثال 9 برای کلمه 'access' است.
+10. This is example 10 for the word 'access'.
+   این مثال 10 برای کلمه 'access' است.
+
+ID: ID65
+Word: accessible
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accessible'.
+   این مثال 1 برای کلمه 'accessible' است.
+2. This is example 2 for the word 'accessible'.
+   این مثال 2 برای کلمه 'accessible' است.
+3. This is example 3 for the word 'accessible'.
+   این مثال 3 برای کلمه 'accessible' است.
+4. This is example 4 for the word 'accessible'.
+   این مثال 4 برای کلمه 'accessible' است.
+5. This is example 5 for the word 'accessible'.
+   این مثال 5 برای کلمه 'accessible' است.
+6. This is example 6 for the word 'accessible'.
+   این مثال 6 برای کلمه 'accessible' است.
+7. This is example 7 for the word 'accessible'.
+   این مثال 7 برای کلمه 'accessible' است.
+8. This is example 8 for the word 'accessible'.
+   این مثال 8 برای کلمه 'accessible' است.
+9. This is example 9 for the word 'accessible'.
+   این مثال 9 برای کلمه 'accessible' است.
+10. This is example 10 for the word 'accessible'.
+   این مثال 10 برای کلمه 'accessible' است.
+
+ID: ID66
+Word: accessories
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accessories'.
+   این مثال 1 برای کلمه 'accessories' است.
+2. This is example 2 for the word 'accessories'.
+   این مثال 2 برای کلمه 'accessories' است.
+3. This is example 3 for the word 'accessories'.
+   این مثال 3 برای کلمه 'accessories' است.
+4. This is example 4 for the word 'accessories'.
+   این مثال 4 برای کلمه 'accessories' است.
+5. This is example 5 for the word 'accessories'.
+   این مثال 5 برای کلمه 'accessories' است.
+6. This is example 6 for the word 'accessories'.
+   این مثال 6 برای کلمه 'accessories' است.
+7. This is example 7 for the word 'accessories'.
+   این مثال 7 برای کلمه 'accessories' است.
+8. This is example 8 for the word 'accessories'.
+   این مثال 8 برای کلمه 'accessories' است.
+9. This is example 9 for the word 'accessories'.
+   این مثال 9 برای کلمه 'accessories' است.
+10. This is example 10 for the word 'accessories'.
+   این مثال 10 برای کلمه 'accessories' است.
+
+ID: ID67
+Word: accessory
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accessory'.
+   این مثال 1 برای کلمه 'accessory' است.
+2. This is example 2 for the word 'accessory'.
+   این مثال 2 برای کلمه 'accessory' است.
+3. This is example 3 for the word 'accessory'.
+   این مثال 3 برای کلمه 'accessory' است.
+4. This is example 4 for the word 'accessory'.
+   این مثال 4 برای کلمه 'accessory' است.
+5. This is example 5 for the word 'accessory'.
+   این مثال 5 برای کلمه 'accessory' است.
+6. This is example 6 for the word 'accessory'.
+   این مثال 6 برای کلمه 'accessory' است.
+7. This is example 7 for the word 'accessory'.
+   این مثال 7 برای کلمه 'accessory' است.
+8. This is example 8 for the word 'accessory'.
+   این مثال 8 برای کلمه 'accessory' است.
+9. This is example 9 for the word 'accessory'.
+   این مثال 9 برای کلمه 'accessory' است.
+10. This is example 10 for the word 'accessory'.
+   این مثال 10 برای کلمه 'accessory' است.
+
+ID: ID68
+Word: accident
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accident'.
+   این مثال 1 برای کلمه 'accident' است.
+2. This is example 2 for the word 'accident'.
+   این مثال 2 برای کلمه 'accident' است.
+3. This is example 3 for the word 'accident'.
+   این مثال 3 برای کلمه 'accident' است.
+4. This is example 4 for the word 'accident'.
+   این مثال 4 برای کلمه 'accident' است.
+5. This is example 5 for the word 'accident'.
+   این مثال 5 برای کلمه 'accident' است.
+6. This is example 6 for the word 'accident'.
+   این مثال 6 برای کلمه 'accident' است.
+7. This is example 7 for the word 'accident'.
+   این مثال 7 برای کلمه 'accident' است.
+8. This is example 8 for the word 'accident'.
+   این مثال 8 برای کلمه 'accident' است.
+9. This is example 9 for the word 'accident'.
+   این مثال 9 برای کلمه 'accident' است.
+10. This is example 10 for the word 'accident'.
+   این مثال 10 برای کلمه 'accident' است.
+
+ID: ID69
+Word: accidental
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accidental'.
+   این مثال 1 برای کلمه 'accidental' است.
+2. This is example 2 for the word 'accidental'.
+   این مثال 2 برای کلمه 'accidental' است.
+3. This is example 3 for the word 'accidental'.
+   این مثال 3 برای کلمه 'accidental' است.
+4. This is example 4 for the word 'accidental'.
+   این مثال 4 برای کلمه 'accidental' است.
+5. This is example 5 for the word 'accidental'.
+   این مثال 5 برای کلمه 'accidental' است.
+6. This is example 6 for the word 'accidental'.
+   این مثال 6 برای کلمه 'accidental' است.
+7. This is example 7 for the word 'accidental'.
+   این مثال 7 برای کلمه 'accidental' است.
+8. This is example 8 for the word 'accidental'.
+   این مثال 8 برای کلمه 'accidental' است.
+9. This is example 9 for the word 'accidental'.
+   این مثال 9 برای کلمه 'accidental' است.
+10. This is example 10 for the word 'accidental'.
+   این مثال 10 برای کلمه 'accidental' است.
+
+ID: ID70
+Word: accidentally
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accidentally'.
+   این مثال 1 برای کلمه 'accidentally' است.
+2. This is example 2 for the word 'accidentally'.
+   این مثال 2 برای کلمه 'accidentally' است.
+3. This is example 3 for the word 'accidentally'.
+   این مثال 3 برای کلمه 'accidentally' است.
+4. This is example 4 for the word 'accidentally'.
+   این مثال 4 برای کلمه 'accidentally' است.
+5. This is example 5 for the word 'accidentally'.
+   این مثال 5 برای کلمه 'accidentally' است.
+6. This is example 6 for the word 'accidentally'.
+   این مثال 6 برای کلمه 'accidentally' است.
+7. This is example 7 for the word 'accidentally'.
+   این مثال 7 برای کلمه 'accidentally' است.
+8. This is example 8 for the word 'accidentally'.
+   این مثال 8 برای کلمه 'accidentally' است.
+9. This is example 9 for the word 'accidentally'.
+   این مثال 9 برای کلمه 'accidentally' است.
+10. This is example 10 for the word 'accidentally'.
+   این مثال 10 برای کلمه 'accidentally' است.
+
+ID: ID71
+Word: acclaim
+Meanings: —
+Examples:
+1. This is example 1 for the word 'acclaim'.
+   این مثال 1 برای کلمه 'acclaim' است.
+2. This is example 2 for the word 'acclaim'.
+   این مثال 2 برای کلمه 'acclaim' است.
+3. This is example 3 for the word 'acclaim'.
+   این مثال 3 برای کلمه 'acclaim' است.
+4. This is example 4 for the word 'acclaim'.
+   این مثال 4 برای کلمه 'acclaim' است.
+5. This is example 5 for the word 'acclaim'.
+   این مثال 5 برای کلمه 'acclaim' است.
+6. This is example 6 for the word 'acclaim'.
+   این مثال 6 برای کلمه 'acclaim' است.
+7. This is example 7 for the word 'acclaim'.
+   این مثال 7 برای کلمه 'acclaim' است.
+8. This is example 8 for the word 'acclaim'.
+   این مثال 8 برای کلمه 'acclaim' است.
+9. This is example 9 for the word 'acclaim'.
+   این مثال 9 برای کلمه 'acclaim' است.
+10. This is example 10 for the word 'acclaim'.
+   این مثال 10 برای کلمه 'acclaim' است.
+
+ID: ID72
+Word: accommodate
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accommodate'.
+   این مثال 1 برای کلمه 'accommodate' است.
+2. This is example 2 for the word 'accommodate'.
+   این مثال 2 برای کلمه 'accommodate' است.
+3. This is example 3 for the word 'accommodate'.
+   این مثال 3 برای کلمه 'accommodate' است.
+4. This is example 4 for the word 'accommodate'.
+   این مثال 4 برای کلمه 'accommodate' است.
+5. This is example 5 for the word 'accommodate'.
+   این مثال 5 برای کلمه 'accommodate' است.
+6. This is example 6 for the word 'accommodate'.
+   این مثال 6 برای کلمه 'accommodate' است.
+7. This is example 7 for the word 'accommodate'.
+   این مثال 7 برای کلمه 'accommodate' است.
+8. This is example 8 for the word 'accommodate'.
+   این مثال 8 برای کلمه 'accommodate' است.
+9. This is example 9 for the word 'accommodate'.
+   این مثال 9 برای کلمه 'accommodate' است.
+10. This is example 10 for the word 'accommodate'.
+   این مثال 10 برای کلمه 'accommodate' است.
+
+ID: ID73
+Word: accommodation
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accommodation'.
+   این مثال 1 برای کلمه 'accommodation' است.
+2. This is example 2 for the word 'accommodation'.
+   این مثال 2 برای کلمه 'accommodation' است.
+3. This is example 3 for the word 'accommodation'.
+   این مثال 3 برای کلمه 'accommodation' است.
+4. This is example 4 for the word 'accommodation'.
+   این مثال 4 برای کلمه 'accommodation' است.
+5. This is example 5 for the word 'accommodation'.
+   این مثال 5 برای کلمه 'accommodation' است.
+6. This is example 6 for the word 'accommodation'.
+   این مثال 6 برای کلمه 'accommodation' است.
+7. This is example 7 for the word 'accommodation'.
+   این مثال 7 برای کلمه 'accommodation' است.
+8. This is example 8 for the word 'accommodation'.
+   این مثال 8 برای کلمه 'accommodation' است.
+9. This is example 9 for the word 'accommodation'.
+   این مثال 9 برای کلمه 'accommodation' است.
+10. This is example 10 for the word 'accommodation'.
+   این مثال 10 برای کلمه 'accommodation' است.
+
+ID: ID74
+Word: accompanied
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accompanied'.
+   این مثال 1 برای کلمه 'accompanied' است.
+2. This is example 2 for the word 'accompanied'.
+   این مثال 2 برای کلمه 'accompanied' است.
+3. This is example 3 for the word 'accompanied'.
+   این مثال 3 برای کلمه 'accompanied' است.
+4. This is example 4 for the word 'accompanied'.
+   این مثال 4 برای کلمه 'accompanied' است.
+5. This is example 5 for the word 'accompanied'.
+   این مثال 5 برای کلمه 'accompanied' است.
+6. This is example 6 for the word 'accompanied'.
+   این مثال 6 برای کلمه 'accompanied' است.
+7. This is example 7 for the word 'accompanied'.
+   این مثال 7 برای کلمه 'accompanied' است.
+8. This is example 8 for the word 'accompanied'.
+   این مثال 8 برای کلمه 'accompanied' است.
+9. This is example 9 for the word 'accompanied'.
+   این مثال 9 برای کلمه 'accompanied' است.
+10. This is example 10 for the word 'accompanied'.
+   این مثال 10 برای کلمه 'accompanied' است.
+
+ID: ID75
+Word: accompaniment
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accompaniment'.
+   این مثال 1 برای کلمه 'accompaniment' است.
+2. This is example 2 for the word 'accompaniment'.
+   این مثال 2 برای کلمه 'accompaniment' است.
+3. This is example 3 for the word 'accompaniment'.
+   این مثال 3 برای کلمه 'accompaniment' است.
+4. This is example 4 for the word 'accompaniment'.
+   این مثال 4 برای کلمه 'accompaniment' است.
+5. This is example 5 for the word 'accompaniment'.
+   این مثال 5 برای کلمه 'accompaniment' است.
+6. This is example 6 for the word 'accompaniment'.
+   این مثال 6 برای کلمه 'accompaniment' است.
+7. This is example 7 for the word 'accompaniment'.
+   این مثال 7 برای کلمه 'accompaniment' است.
+8. This is example 8 for the word 'accompaniment'.
+   این مثال 8 برای کلمه 'accompaniment' است.
+9. This is example 9 for the word 'accompaniment'.
+   این مثال 9 برای کلمه 'accompaniment' است.
+10. This is example 10 for the word 'accompaniment'.
+   این مثال 10 برای کلمه 'accompaniment' است.
+
+ID: ID76
+Word: accompany
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accompany'.
+   این مثال 1 برای کلمه 'accompany' است.
+2. This is example 2 for the word 'accompany'.
+   این مثال 2 برای کلمه 'accompany' است.
+3. This is example 3 for the word 'accompany'.
+   این مثال 3 برای کلمه 'accompany' است.
+4. This is example 4 for the word 'accompany'.
+   این مثال 4 برای کلمه 'accompany' است.
+5. This is example 5 for the word 'accompany'.
+   این مثال 5 برای کلمه 'accompany' است.
+6. This is example 6 for the word 'accompany'.
+   این مثال 6 برای کلمه 'accompany' است.
+7. This is example 7 for the word 'accompany'.
+   این مثال 7 برای کلمه 'accompany' است.
+8. This is example 8 for the word 'accompany'.
+   این مثال 8 برای کلمه 'accompany' است.
+9. This is example 9 for the word 'accompany'.
+   این مثال 9 برای کلمه 'accompany' است.
+10. This is example 10 for the word 'accompany'.
+   این مثال 10 برای کلمه 'accompany' است.
+
+ID: ID77
+Word: accompanying
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accompanying'.
+   این مثال 1 برای کلمه 'accompanying' است.
+2. This is example 2 for the word 'accompanying'.
+   این مثال 2 برای کلمه 'accompanying' است.
+3. This is example 3 for the word 'accompanying'.
+   این مثال 3 برای کلمه 'accompanying' است.
+4. This is example 4 for the word 'accompanying'.
+   این مثال 4 برای کلمه 'accompanying' است.
+5. This is example 5 for the word 'accompanying'.
+   این مثال 5 برای کلمه 'accompanying' است.
+6. This is example 6 for the word 'accompanying'.
+   این مثال 6 برای کلمه 'accompanying' است.
+7. This is example 7 for the word 'accompanying'.
+   این مثال 7 برای کلمه 'accompanying' است.
+8. This is example 8 for the word 'accompanying'.
+   این مثال 8 برای کلمه 'accompanying' است.
+9. This is example 9 for the word 'accompanying'.
+   این مثال 9 برای کلمه 'accompanying' است.
+10. This is example 10 for the word 'accompanying'.
+   این مثال 10 برای کلمه 'accompanying' است.
+
+ID: ID78
+Word: accomplish
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accomplish'.
+   این مثال 1 برای کلمه 'accomplish' است.
+2. This is example 2 for the word 'accomplish'.
+   این مثال 2 برای کلمه 'accomplish' است.
+3. This is example 3 for the word 'accomplish'.
+   این مثال 3 برای کلمه 'accomplish' است.
+4. This is example 4 for the word 'accomplish'.
+   این مثال 4 برای کلمه 'accomplish' است.
+5. This is example 5 for the word 'accomplish'.
+   این مثال 5 برای کلمه 'accomplish' است.
+6. This is example 6 for the word 'accomplish'.
+   این مثال 6 برای کلمه 'accomplish' است.
+7. This is example 7 for the word 'accomplish'.
+   این مثال 7 برای کلمه 'accomplish' است.
+8. This is example 8 for the word 'accomplish'.
+   این مثال 8 برای کلمه 'accomplish' است.
+9. This is example 9 for the word 'accomplish'.
+   این مثال 9 برای کلمه 'accomplish' است.
+10. This is example 10 for the word 'accomplish'.
+   این مثال 10 برای کلمه 'accomplish' است.
+
+ID: ID79
+Word: accomplished
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accomplished'.
+   این مثال 1 برای کلمه 'accomplished' است.
+2. This is example 2 for the word 'accomplished'.
+   این مثال 2 برای کلمه 'accomplished' است.
+3. This is example 3 for the word 'accomplished'.
+   این مثال 3 برای کلمه 'accomplished' است.
+4. This is example 4 for the word 'accomplished'.
+   این مثال 4 برای کلمه 'accomplished' است.
+5. This is example 5 for the word 'accomplished'.
+   این مثال 5 برای کلمه 'accomplished' است.
+6. This is example 6 for the word 'accomplished'.
+   این مثال 6 برای کلمه 'accomplished' است.
+7. This is example 7 for the word 'accomplished'.
+   این مثال 7 برای کلمه 'accomplished' است.
+8. This is example 8 for the word 'accomplished'.
+   این مثال 8 برای کلمه 'accomplished' است.
+9. This is example 9 for the word 'accomplished'.
+   این مثال 9 برای کلمه 'accomplished' است.
+10. This is example 10 for the word 'accomplished'.
+   این مثال 10 برای کلمه 'accomplished' است.
+
+ID: ID80
+Word: accomplishment
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accomplishment'.
+   این مثال 1 برای کلمه 'accomplishment' است.
+2. This is example 2 for the word 'accomplishment'.
+   این مثال 2 برای کلمه 'accomplishment' است.
+3. This is example 3 for the word 'accomplishment'.
+   این مثال 3 برای کلمه 'accomplishment' است.
+4. This is example 4 for the word 'accomplishment'.
+   این مثال 4 برای کلمه 'accomplishment' است.
+5. This is example 5 for the word 'accomplishment'.
+   این مثال 5 برای کلمه 'accomplishment' است.
+6. This is example 6 for the word 'accomplishment'.
+   این مثال 6 برای کلمه 'accomplishment' است.
+7. This is example 7 for the word 'accomplishment'.
+   این مثال 7 برای کلمه 'accomplishment' است.
+8. This is example 8 for the word 'accomplishment'.
+   این مثال 8 برای کلمه 'accomplishment' است.
+9. This is example 9 for the word 'accomplishment'.
+   این مثال 9 برای کلمه 'accomplishment' است.
+10. This is example 10 for the word 'accomplishment'.
+   این مثال 10 برای کلمه 'accomplishment' است.
+
+ID: ID81
+Word: accord
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accord'.
+   این مثال 1 برای کلمه 'accord' است.
+2. This is example 2 for the word 'accord'.
+   این مثال 2 برای کلمه 'accord' است.
+3. This is example 3 for the word 'accord'.
+   این مثال 3 برای کلمه 'accord' است.
+4. This is example 4 for the word 'accord'.
+   این مثال 4 برای کلمه 'accord' است.
+5. This is example 5 for the word 'accord'.
+   این مثال 5 برای کلمه 'accord' است.
+6. This is example 6 for the word 'accord'.
+   این مثال 6 برای کلمه 'accord' است.
+7. This is example 7 for the word 'accord'.
+   این مثال 7 برای کلمه 'accord' است.
+8. This is example 8 for the word 'accord'.
+   این مثال 8 برای کلمه 'accord' است.
+9. This is example 9 for the word 'accord'.
+   این مثال 9 برای کلمه 'accord' است.
+10. This is example 10 for the word 'accord'.
+   این مثال 10 برای کلمه 'accord' است.
+
+ID: ID82
+Word: accordance
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accordance'.
+   این مثال 1 برای کلمه 'accordance' است.
+2. This is example 2 for the word 'accordance'.
+   این مثال 2 برای کلمه 'accordance' است.
+3. This is example 3 for the word 'accordance'.
+   این مثال 3 برای کلمه 'accordance' است.
+4. This is example 4 for the word 'accordance'.
+   این مثال 4 برای کلمه 'accordance' است.
+5. This is example 5 for the word 'accordance'.
+   این مثال 5 برای کلمه 'accordance' است.
+6. This is example 6 for the word 'accordance'.
+   این مثال 6 برای کلمه 'accordance' است.
+7. This is example 7 for the word 'accordance'.
+   این مثال 7 برای کلمه 'accordance' است.
+8. This is example 8 for the word 'accordance'.
+   این مثال 8 برای کلمه 'accordance' است.
+9. This is example 9 for the word 'accordance'.
+   این مثال 9 برای کلمه 'accordance' است.
+10. This is example 10 for the word 'accordance'.
+   این مثال 10 برای کلمه 'accordance' است.
+
+ID: ID83
+Word: accordant
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accordant'.
+   این مثال 1 برای کلمه 'accordant' است.
+2. This is example 2 for the word 'accordant'.
+   این مثال 2 برای کلمه 'accordant' است.
+3. This is example 3 for the word 'accordant'.
+   این مثال 3 برای کلمه 'accordant' است.
+4. This is example 4 for the word 'accordant'.
+   این مثال 4 برای کلمه 'accordant' است.
+5. This is example 5 for the word 'accordant'.
+   این مثال 5 برای کلمه 'accordant' است.
+6. This is example 6 for the word 'accordant'.
+   این مثال 6 برای کلمه 'accordant' است.
+7. This is example 7 for the word 'accordant'.
+   این مثال 7 برای کلمه 'accordant' است.
+8. This is example 8 for the word 'accordant'.
+   این مثال 8 برای کلمه 'accordant' است.
+9. This is example 9 for the word 'accordant'.
+   این مثال 9 برای کلمه 'accordant' است.
+10. This is example 10 for the word 'accordant'.
+   این مثال 10 برای کلمه 'accordant' است.
+
+ID: ID84
+Word: according
+Meanings: —
+Examples:
+1. This is example 1 for the word 'according'.
+   این مثال 1 برای کلمه 'according' است.
+2. This is example 2 for the word 'according'.
+   این مثال 2 برای کلمه 'according' است.
+3. This is example 3 for the word 'according'.
+   این مثال 3 برای کلمه 'according' است.
+4. This is example 4 for the word 'according'.
+   این مثال 4 برای کلمه 'according' است.
+5. This is example 5 for the word 'according'.
+   این مثال 5 برای کلمه 'according' است.
+6. This is example 6 for the word 'according'.
+   این مثال 6 برای کلمه 'according' است.
+7. This is example 7 for the word 'according'.
+   این مثال 7 برای کلمه 'according' است.
+8. This is example 8 for the word 'according'.
+   این مثال 8 برای کلمه 'according' است.
+9. This is example 9 for the word 'according'.
+   این مثال 9 برای کلمه 'according' است.
+10. This is example 10 for the word 'according'.
+   این مثال 10 برای کلمه 'according' است.
+
+ID: ID85
+Word: accordingly
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accordingly'.
+   این مثال 1 برای کلمه 'accordingly' است.
+2. This is example 2 for the word 'accordingly'.
+   این مثال 2 برای کلمه 'accordingly' است.
+3. This is example 3 for the word 'accordingly'.
+   این مثال 3 برای کلمه 'accordingly' است.
+4. This is example 4 for the word 'accordingly'.
+   این مثال 4 برای کلمه 'accordingly' است.
+5. This is example 5 for the word 'accordingly'.
+   این مثال 5 برای کلمه 'accordingly' است.
+6. This is example 6 for the word 'accordingly'.
+   این مثال 6 برای کلمه 'accordingly' است.
+7. This is example 7 for the word 'accordingly'.
+   این مثال 7 برای کلمه 'accordingly' است.
+8. This is example 8 for the word 'accordingly'.
+   این مثال 8 برای کلمه 'accordingly' است.
+9. This is example 9 for the word 'accordingly'.
+   این مثال 9 برای کلمه 'accordingly' است.
+10. This is example 10 for the word 'accordingly'.
+   این مثال 10 برای کلمه 'accordingly' است.
+
+ID: ID86
+Word: account
+Meanings: —
+Examples:
+1. This is example 1 for the word 'account'.
+   این مثال 1 برای کلمه 'account' است.
+2. This is example 2 for the word 'account'.
+   این مثال 2 برای کلمه 'account' است.
+3. This is example 3 for the word 'account'.
+   این مثال 3 برای کلمه 'account' است.
+4. This is example 4 for the word 'account'.
+   این مثال 4 برای کلمه 'account' است.
+5. This is example 5 for the word 'account'.
+   این مثال 5 برای کلمه 'account' است.
+6. This is example 6 for the word 'account'.
+   این مثال 6 برای کلمه 'account' است.
+7. This is example 7 for the word 'account'.
+   این مثال 7 برای کلمه 'account' است.
+8. This is example 8 for the word 'account'.
+   این مثال 8 برای کلمه 'account' است.
+9. This is example 9 for the word 'account'.
+   این مثال 9 برای کلمه 'account' است.
+10. This is example 10 for the word 'account'.
+   این مثال 10 برای کلمه 'account' است.
+
+ID: ID87
+Word: accountability
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accountability'.
+   این مثال 1 برای کلمه 'accountability' است.
+2. This is example 2 for the word 'accountability'.
+   این مثال 2 برای کلمه 'accountability' است.
+3. This is example 3 for the word 'accountability'.
+   این مثال 3 برای کلمه 'accountability' است.
+4. This is example 4 for the word 'accountability'.
+   این مثال 4 برای کلمه 'accountability' است.
+5. This is example 5 for the word 'accountability'.
+   این مثال 5 برای کلمه 'accountability' است.
+6. This is example 6 for the word 'accountability'.
+   این مثال 6 برای کلمه 'accountability' است.
+7. This is example 7 for the word 'accountability'.
+   این مثال 7 برای کلمه 'accountability' است.
+8. This is example 8 for the word 'accountability'.
+   این مثال 8 برای کلمه 'accountability' است.
+9. This is example 9 for the word 'accountability'.
+   این مثال 9 برای کلمه 'accountability' است.
+10. This is example 10 for the word 'accountability'.
+   این مثال 10 برای کلمه 'accountability' است.
+
+ID: ID88
+Word: accountable
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accountable'.
+   این مثال 1 برای کلمه 'accountable' است.
+2. This is example 2 for the word 'accountable'.
+   این مثال 2 برای کلمه 'accountable' است.
+3. This is example 3 for the word 'accountable'.
+   این مثال 3 برای کلمه 'accountable' است.
+4. This is example 4 for the word 'accountable'.
+   این مثال 4 برای کلمه 'accountable' است.
+5. This is example 5 for the word 'accountable'.
+   این مثال 5 برای کلمه 'accountable' است.
+6. This is example 6 for the word 'accountable'.
+   این مثال 6 برای کلمه 'accountable' است.
+7. This is example 7 for the word 'accountable'.
+   این مثال 7 برای کلمه 'accountable' است.
+8. This is example 8 for the word 'accountable'.
+   این مثال 8 برای کلمه 'accountable' است.
+9. This is example 9 for the word 'accountable'.
+   این مثال 9 برای کلمه 'accountable' است.
+10. This is example 10 for the word 'accountable'.
+   این مثال 10 برای کلمه 'accountable' است.
+
+ID: ID89
+Word: accountant
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accountant'.
+   این مثال 1 برای کلمه 'accountant' است.
+2. This is example 2 for the word 'accountant'.
+   این مثال 2 برای کلمه 'accountant' است.
+3. This is example 3 for the word 'accountant'.
+   این مثال 3 برای کلمه 'accountant' است.
+4. This is example 4 for the word 'accountant'.
+   این مثال 4 برای کلمه 'accountant' است.
+5. This is example 5 for the word 'accountant'.
+   این مثال 5 برای کلمه 'accountant' است.
+6. This is example 6 for the word 'accountant'.
+   این مثال 6 برای کلمه 'accountant' است.
+7. This is example 7 for the word 'accountant'.
+   این مثال 7 برای کلمه 'accountant' است.
+8. This is example 8 for the word 'accountant'.
+   این مثال 8 برای کلمه 'accountant' است.
+9. This is example 9 for the word 'accountant'.
+   این مثال 9 برای کلمه 'accountant' است.
+10. This is example 10 for the word 'accountant'.
+   این مثال 10 برای کلمه 'accountant' است.
+
+ID: ID90
+Word: accounting
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accounting'.
+   این مثال 1 برای کلمه 'accounting' است.
+2. This is example 2 for the word 'accounting'.
+   این مثال 2 برای کلمه 'accounting' است.
+3. This is example 3 for the word 'accounting'.
+   این مثال 3 برای کلمه 'accounting' است.
+4. This is example 4 for the word 'accounting'.
+   این مثال 4 برای کلمه 'accounting' است.
+5. This is example 5 for the word 'accounting'.
+   این مثال 5 برای کلمه 'accounting' است.
+6. This is example 6 for the word 'accounting'.
+   این مثال 6 برای کلمه 'accounting' است.
+7. This is example 7 for the word 'accounting'.
+   این مثال 7 برای کلمه 'accounting' است.
+8. This is example 8 for the word 'accounting'.
+   این مثال 8 برای کلمه 'accounting' است.
+9. This is example 9 for the word 'accounting'.
+   این مثال 9 برای کلمه 'accounting' است.
+10. This is example 10 for the word 'accounting'.
+   این مثال 10 برای کلمه 'accounting' است.
+
+ID: ID91
+Word: accounts
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accounts'.
+   این مثال 1 برای کلمه 'accounts' است.
+2. This is example 2 for the word 'accounts'.
+   این مثال 2 برای کلمه 'accounts' است.
+3. This is example 3 for the word 'accounts'.
+   این مثال 3 برای کلمه 'accounts' است.
+4. This is example 4 for the word 'accounts'.
+   این مثال 4 برای کلمه 'accounts' است.
+5. This is example 5 for the word 'accounts'.
+   این مثال 5 برای کلمه 'accounts' است.
+6. This is example 6 for the word 'accounts'.
+   این مثال 6 برای کلمه 'accounts' است.
+7. This is example 7 for the word 'accounts'.
+   این مثال 7 برای کلمه 'accounts' است.
+8. This is example 8 for the word 'accounts'.
+   این مثال 8 برای کلمه 'accounts' است.
+9. This is example 9 for the word 'accounts'.
+   این مثال 9 برای کلمه 'accounts' است.
+10. This is example 10 for the word 'accounts'.
+   این مثال 10 برای کلمه 'accounts' است.
+
+ID: ID92
+Word: accrue
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accrue'.
+   این مثال 1 برای کلمه 'accrue' است.
+2. This is example 2 for the word 'accrue'.
+   این مثال 2 برای کلمه 'accrue' است.
+3. This is example 3 for the word 'accrue'.
+   این مثال 3 برای کلمه 'accrue' است.
+4. This is example 4 for the word 'accrue'.
+   این مثال 4 برای کلمه 'accrue' است.
+5. This is example 5 for the word 'accrue'.
+   این مثال 5 برای کلمه 'accrue' است.
+6. This is example 6 for the word 'accrue'.
+   این مثال 6 برای کلمه 'accrue' است.
+7. This is example 7 for the word 'accrue'.
+   این مثال 7 برای کلمه 'accrue' است.
+8. This is example 8 for the word 'accrue'.
+   این مثال 8 برای کلمه 'accrue' است.
+9. This is example 9 for the word 'accrue'.
+   این مثال 9 برای کلمه 'accrue' است.
+10. This is example 10 for the word 'accrue'.
+   این مثال 10 برای کلمه 'accrue' است.
+
+ID: ID93
+Word: accumulate
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accumulate'.
+   این مثال 1 برای کلمه 'accumulate' است.
+2. This is example 2 for the word 'accumulate'.
+   این مثال 2 برای کلمه 'accumulate' است.
+3. This is example 3 for the word 'accumulate'.
+   این مثال 3 برای کلمه 'accumulate' است.
+4. This is example 4 for the word 'accumulate'.
+   این مثال 4 برای کلمه 'accumulate' است.
+5. This is example 5 for the word 'accumulate'.
+   این مثال 5 برای کلمه 'accumulate' است.
+6. This is example 6 for the word 'accumulate'.
+   این مثال 6 برای کلمه 'accumulate' است.
+7. This is example 7 for the word 'accumulate'.
+   این مثال 7 برای کلمه 'accumulate' است.
+8. This is example 8 for the word 'accumulate'.
+   این مثال 8 برای کلمه 'accumulate' است.
+9. This is example 9 for the word 'accumulate'.
+   این مثال 9 برای کلمه 'accumulate' است.
+10. This is example 10 for the word 'accumulate'.
+   این مثال 10 برای کلمه 'accumulate' است.
+
+ID: ID94
+Word: accumulation
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accumulation'.
+   این مثال 1 برای کلمه 'accumulation' است.
+2. This is example 2 for the word 'accumulation'.
+   این مثال 2 برای کلمه 'accumulation' است.
+3. This is example 3 for the word 'accumulation'.
+   این مثال 3 برای کلمه 'accumulation' است.
+4. This is example 4 for the word 'accumulation'.
+   این مثال 4 برای کلمه 'accumulation' است.
+5. This is example 5 for the word 'accumulation'.
+   این مثال 5 برای کلمه 'accumulation' است.
+6. This is example 6 for the word 'accumulation'.
+   این مثال 6 برای کلمه 'accumulation' است.
+7. This is example 7 for the word 'accumulation'.
+   این مثال 7 برای کلمه 'accumulation' است.
+8. This is example 8 for the word 'accumulation'.
+   این مثال 8 برای کلمه 'accumulation' است.
+9. This is example 9 for the word 'accumulation'.
+   این مثال 9 برای کلمه 'accumulation' است.
+10. This is example 10 for the word 'accumulation'.
+   این مثال 10 برای کلمه 'accumulation' است.
+
+ID: ID95
+Word: accuracy
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accuracy'.
+   این مثال 1 برای کلمه 'accuracy' است.
+2. This is example 2 for the word 'accuracy'.
+   این مثال 2 برای کلمه 'accuracy' است.
+3. This is example 3 for the word 'accuracy'.
+   این مثال 3 برای کلمه 'accuracy' است.
+4. This is example 4 for the word 'accuracy'.
+   این مثال 4 برای کلمه 'accuracy' است.
+5. This is example 5 for the word 'accuracy'.
+   این مثال 5 برای کلمه 'accuracy' است.
+6. This is example 6 for the word 'accuracy'.
+   این مثال 6 برای کلمه 'accuracy' است.
+7. This is example 7 for the word 'accuracy'.
+   این مثال 7 برای کلمه 'accuracy' است.
+8. This is example 8 for the word 'accuracy'.
+   این مثال 8 برای کلمه 'accuracy' است.
+9. This is example 9 for the word 'accuracy'.
+   این مثال 9 برای کلمه 'accuracy' است.
+10. This is example 10 for the word 'accuracy'.
+   این مثال 10 برای کلمه 'accuracy' است.
+
+ID: ID96
+Word: accurate
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accurate'.
+   این مثال 1 برای کلمه 'accurate' است.
+2. This is example 2 for the word 'accurate'.
+   این مثال 2 برای کلمه 'accurate' است.
+3. This is example 3 for the word 'accurate'.
+   این مثال 3 برای کلمه 'accurate' است.
+4. This is example 4 for the word 'accurate'.
+   این مثال 4 برای کلمه 'accurate' است.
+5. This is example 5 for the word 'accurate'.
+   این مثال 5 برای کلمه 'accurate' است.
+6. This is example 6 for the word 'accurate'.
+   این مثال 6 برای کلمه 'accurate' است.
+7. This is example 7 for the word 'accurate'.
+   این مثال 7 برای کلمه 'accurate' است.
+8. This is example 8 for the word 'accurate'.
+   این مثال 8 برای کلمه 'accurate' است.
+9. This is example 9 for the word 'accurate'.
+   این مثال 9 برای کلمه 'accurate' است.
+10. This is example 10 for the word 'accurate'.
+   این مثال 10 برای کلمه 'accurate' است.
+
+ID: ID97
+Word: accurately
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accurately'.
+   این مثال 1 برای کلمه 'accurately' است.
+2. This is example 2 for the word 'accurately'.
+   این مثال 2 برای کلمه 'accurately' است.
+3. This is example 3 for the word 'accurately'.
+   این مثال 3 برای کلمه 'accurately' است.
+4. This is example 4 for the word 'accurately'.
+   این مثال 4 برای کلمه 'accurately' است.
+5. This is example 5 for the word 'accurately'.
+   این مثال 5 برای کلمه 'accurately' است.
+6. This is example 6 for the word 'accurately'.
+   این مثال 6 برای کلمه 'accurately' است.
+7. This is example 7 for the word 'accurately'.
+   این مثال 7 برای کلمه 'accurately' است.
+8. This is example 8 for the word 'accurately'.
+   این مثال 8 برای کلمه 'accurately' است.
+9. This is example 9 for the word 'accurately'.
+   این مثال 9 برای کلمه 'accurately' است.
+10. This is example 10 for the word 'accurately'.
+   این مثال 10 برای کلمه 'accurately' است.
+
+ID: ID98
+Word: accusation
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accusation'.
+   این مثال 1 برای کلمه 'accusation' است.
+2. This is example 2 for the word 'accusation'.
+   این مثال 2 برای کلمه 'accusation' است.
+3. This is example 3 for the word 'accusation'.
+   این مثال 3 برای کلمه 'accusation' است.
+4. This is example 4 for the word 'accusation'.
+   این مثال 4 برای کلمه 'accusation' است.
+5. This is example 5 for the word 'accusation'.
+   این مثال 5 برای کلمه 'accusation' است.
+6. This is example 6 for the word 'accusation'.
+   این مثال 6 برای کلمه 'accusation' است.
+7. This is example 7 for the word 'accusation'.
+   این مثال 7 برای کلمه 'accusation' است.
+8. This is example 8 for the word 'accusation'.
+   این مثال 8 برای کلمه 'accusation' است.
+9. This is example 9 for the word 'accusation'.
+   این مثال 9 برای کلمه 'accusation' است.
+10. This is example 10 for the word 'accusation'.
+   این مثال 10 برای کلمه 'accusation' است.
+
+ID: ID99
+Word: accuse
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accuse'.
+   این مثال 1 برای کلمه 'accuse' است.
+2. This is example 2 for the word 'accuse'.
+   این مثال 2 برای کلمه 'accuse' است.
+3. This is example 3 for the word 'accuse'.
+   این مثال 3 برای کلمه 'accuse' است.
+4. This is example 4 for the word 'accuse'.
+   این مثال 4 برای کلمه 'accuse' است.
+5. This is example 5 for the word 'accuse'.
+   این مثال 5 برای کلمه 'accuse' است.
+6. This is example 6 for the word 'accuse'.
+   این مثال 6 برای کلمه 'accuse' است.
+7. This is example 7 for the word 'accuse'.
+   این مثال 7 برای کلمه 'accuse' است.
+8. This is example 8 for the word 'accuse'.
+   این مثال 8 برای کلمه 'accuse' است.
+9. This is example 9 for the word 'accuse'.
+   این مثال 9 برای کلمه 'accuse' است.
+10. This is example 10 for the word 'accuse'.
+   این مثال 10 برای کلمه 'accuse' است.
+
+ID: ID100
+Word: accused
+Meanings: —
+Examples:
+1. This is example 1 for the word 'accused'.
+   این مثال 1 برای کلمه 'accused' است.
+2. This is example 2 for the word 'accused'.
+   این مثال 2 برای کلمه 'accused' است.
+3. This is example 3 for the word 'accused'.
+   این مثال 3 برای کلمه 'accused' است.
+4. This is example 4 for the word 'accused'.
+   این مثال 4 برای کلمه 'accused' است.
+5. This is example 5 for the word 'accused'.
+   این مثال 5 برای کلمه 'accused' است.
+6. This is example 6 for the word 'accused'.
+   این مثال 6 برای کلمه 'accused' است.
+7. This is example 7 for the word 'accused'.
+   این مثال 7 برای کلمه 'accused' است.
+8. This is example 8 for the word 'accused'.
+   این مثال 8 برای کلمه 'accused' است.
+9. This is example 9 for the word 'accused'.
+   این مثال 9 برای کلمه 'accused' است.
+10. This is example 10 for the word 'accused'.
+   این مثال 10 برای کلمه 'accused' است.
