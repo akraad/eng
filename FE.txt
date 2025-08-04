@@ -1,0 +1,675 @@
+ID: ID1
+Word: a
+Meanings: یک، یک عدد
+Examples:
+1. I saw a cat in the garden.
+   یک گربه در باغ دیدم.
+2. She wants to buy a car.
+   او می‌خواهد یک ماشین بخرد.
+3. He is reading a book.
+   او در حال خواندن یک کتاب است.
+4. There’s a pencil on the table.
+   یک مداد روی میز است.
+5. A bird flew over the house.
+   یک پرنده از بالای خانه پرواز کرد.
+6. I need a glass of water.
+   من به یک لیوان آب نیاز دارم.
+7. He gave me a gift.
+   او یک هدیه به من داد.
+8. Do you have a pen?
+   آیا یک خودکار داری؟
+9. She saw a mouse in the kitchen.
+   او یک موش در آشپزخانه دید.
+10. We stayed in a hotel.
+    ما در یک هتل اقامت کردیم.
+
+---
+
+ID: ID2
+Word: abandon
+Meanings: رها کردن، ترک کردن
+Examples:
+1. He decided to abandon the project.
+   او تصمیم گرفت پروژه را رها کند.
+2. The crew had to abandon the ship.
+   خدمه مجبور شدند کشتی را ترک کنند.
+3. She abandoned her child at the hospital.
+   او فرزندش را در بیمارستان رها کرد.
+4. We must not abandon our responsibilities.
+   ما نباید مسئولیت‌هایمان را رها کنیم.
+5. He abandoned his dreams after the failure.
+   او پس از شکست، رؤیاهایش را کنار گذاشت.
+6. They abandoned the plan due to lack of funds.
+   آن‌ها به خاطر کمبود بودجه، برنامه را کنار گذاشتند.
+7. She abandoned her studies to get married.
+   او تحصیلش را رها کرد تا ازدواج کند.
+8. The town was abandoned after the war.
+   شهر پس از جنگ رها شد.
+9. Don't abandon hope.
+   امیدت را از دست نده.
+10. The soldier abandoned his post.
+    سرباز پست خود را ترک کرد.
+
+---
+
+ID: ID3
+Word: abandoned
+Meanings: رها شده، متروکه
+Examples:
+1. They found an abandoned house in the woods.
+   آن‌ها خانه‌ای متروکه در جنگل پیدا کردند.
+2. The dog looked abandoned and hungry.
+   سگ رهاشده و گرسنه به نظر می‌رسید.
+3. The abandoned car blocked the road.
+   ماشین رها شده راه را بند آورده بود.
+4. The factory has been abandoned for years.
+   آن کارخانه سال‌هاست رها شده است.
+5. She felt like an abandoned child.
+   او احساس می‌کرد مثل کودکی رها شده است.
+6. We explored an abandoned village.
+   ما یک روستای متروکه را کاوش کردیم.
+7. He lived in an abandoned warehouse.
+   او در یک انبار متروکه زندگی می‌کرد.
+8. The baby was found abandoned in a basket.
+   نوزاد رهاشده در یک سبد پیدا شد.
+9. The project was abandoned halfway.
+   پروژه در نیمه راه رها شد.
+10. There was an eerie silence in the abandoned building.
+    در ساختمان متروکه سکوتی ترسناک حاکم بود.
+
+---
+
+ID: ID4
+Word: abandonment
+Meanings: ترک، رها کردن، دست کشیدن
+Examples:
+1. His abandonment of the mission shocked everyone.
+   ترک مأموریت توسط او همه را شوکه کرد.
+2. The abandonment of the child was a crime.
+   رها کردن کودک یک جرم بود.
+3. Fear of abandonment haunted her.
+   ترس از رها شدن او را آزار می‌داد.
+4. The city faced total abandonment.
+   شهر با ترک کامل مواجه شد.
+5. He spoke about the abandonment of traditional values.
+   او درباره رها کردن ارزش‌های سنتی صحبت کرد.
+6. The abandonment of the plan saved money.
+   کنار گذاشتن برنامه باعث صرفه‌جویی شد.
+7. She felt pain after her father’s abandonment.
+   او پس از ترک پدرش احساس درد می‌کرد.
+8. Economic abandonment led to poverty.
+   ترک اقتصادی باعث فقر شد.
+9. Their abandonment of the cause was disappointing.
+   رها کردن آن هدف، ناامیدکننده بود.
+10. Abandonment issues can affect relationships.
+    مشکلات ناشی از ترک شدن می‌تواند روابط را تحت تأثیر قرار دهد.
+
+---
+
+ID: ID5
+Word: abashed
+Meanings: خجالت‌زده، شرمنده
+Examples:
+1. He looked abashed when caught lying.
+   وقتی در حال دروغ گفتن گیر افتاد، خجالت‌زده شد.
+2. She gave an abashed smile.
+   او لبخندی شرمگینانه زد.
+3. I was abashed by my mistake.
+   از اشتباهم خجالت‌زده شدم.
+4. He stood abashed in front of the crowd.
+   او جلوی جمع شرمنده ایستاده بود.
+5. Her abashed reaction was understandable.
+   واکنش خجالت‌زده‌اش قابل درک بود.
+6. They felt abashed after being scolded.
+   آن‌ها پس از توبیخ شدن، شرمنده شدند.
+7. He gave an abashed nod.
+   او با شرمندگی سر تکان داد.
+8. She seemed abashed by the attention.
+   توجه زیاد باعث شرمندگی او شد.
+9. I was abashed when I forgot her name.
+   وقتی اسمش را فراموش کردم، شرمنده شدم.
+10. The child looked abashed after breaking the vase.
+    کودک پس از شکستن گلدان، خجالت‌زده به نظر می‌رسید.
+
+---
+
+ID: ID6
+Word: abbreviation
+Meanings: مخفف، کوته‌نوشت
+Examples:
+1. USA is the abbreviation for United States of America.
+   USA مخفف United States of America است.
+2. The abbreviation "etc." means "and so on".
+   مخفف "etc." یعنی "و غیره".
+3. What’s the abbreviation for "department"?
+   مخفف "department" چیست؟
+4. You should explain every abbreviation in your report.
+   باید هر مخففی را در گزارشت توضیح دهی.
+5. "Dr." is an abbreviation for "Doctor".
+   "Dr." مخفف کلمه "Doctor" است.
+6. Abbreviations are commonly used in technical writing.
+   مخفف‌ها در نوشتار فنی رایج هستند.
+7. That abbreviation is not recognized internationally.
+   آن مخفف به‌صورت بین‌المللی شناخته‌شده نیست.
+8. Please avoid unknown abbreviations in the document.
+   لطفاً از مخفف‌های ناشناخته در سند استفاده نکنید.
+9. She asked about the abbreviation used on the label.
+   او درباره مخفف روی برچسب پرسید.
+10. Each abbreviation must be defined at first use.
+    هر مخفف باید در اولین استفاده تعریف شود.
+
+---
+
+ID: ID7
+Word: abdomen
+Meanings: شکم
+Examples:
+1. He felt pain in his lower abdomen.
+   او در قسمت پایین شکمش احساس درد داشت.
+2. The doctor examined her swollen abdomen.
+   پزشک شکم متورم او را معاینه کرد.
+3. He was hit in the abdomen during the fight.
+   در طول درگیری ضربه‌ای به شکمش خورد.
+4. Abdominal exercises strengthen the muscles of the abdomen.
+   تمرینات شکمی عضلات شکم را تقویت می‌کنند.
+5. She had a scar on her abdomen.
+   او جای زخمی روی شکمش داشت.
+6. The bullet entered through his abdomen.
+   گلوله از طریق شکمش وارد شد.
+7. He held his abdomen and screamed in pain.
+   او شکمش را گرفت و با درد فریاد زد.
+8. A strong core includes a strong abdomen.
+   یک مرکز بدن قوی شامل شکم قوی نیز هست.
+9. The nurse applied pressure to the abdomen.
+   پرستار به شکم بیمار فشار وارد کرد.
+10. His abdomen looked unusually large.
+    شکمش غیرعادی بزرگ به نظر می‌رسید.
+
+---
+
+ID: ID8
+Word: abeyance
+Meanings: تعلیق، حالت انتظار
+Examples:
+1. The case was held in abeyance for months.
+   این پرونده ماه‌ها در حالت تعلیق بود.
+2. Construction is in abeyance due to funding issues.
+   ساخت‌وساز به دلیل مشکلات مالی متوقف شده است.
+3. His promotion is currently in abeyance.
+   ارتقاء او فعلاً در حالت تعلیق است.
+4. The law remains in abeyance until further notice.
+   قانون تا اطلاع ثانوی معلق است.
+5. Plans for expansion are in abeyance.
+   برنامه‌های گسترش در حالت انتظار هستند.
+6. Negotiations were put in abeyance.
+   مذاکرات به حالت تعلیق درآمد.
+7. The agreement is in legal abeyance.
+   توافق در وضعیت تعلیق حقوقی است.
+8. Her application was left in abeyance.
+   درخواست او در حالت بلاتکلیف باقی ماند.
+9. Traditions fell into abeyance over time.
+   سنت‌ها با گذشت زمان از بین رفتند.
+10. Their rights are not in abeyance.
+    حقوق آن‌ها در حالت تعلیق نیست.
+
+---
+
+ID: ID9
+Word: abide
+Meanings: اقامت کردن، تحمل کردن
+Examples:
+1. I cannot abide his arrogance.
+   من نمی‌توانم غرور او را تحمل کنم.
+2. They must abide by the rules.
+   آن‌ها باید از قوانین پیروی کنند.
+3. She abides in the countryside.
+   او در روستا زندگی می‌کند.
+4. You must abide by your promise.
+   باید به قولت پایبند باشی.
+5. We must abide by the court’s decision.
+   ما باید از تصمیم دادگاه تبعیت کنیم.
+6. He could not abide injustice.
+   او نمی‌توانست بی‌عدالتی را تحمل کند.
+7. I can’t abide people who lie.
+   من از دروغگوها بدم می‌آید.
+8. They chose to abide in peace.
+   آن‌ها تصمیم گرفتند در آرامش زندگی کنند.
+9. You have to abide by the law.
+   باید از قانون پیروی کنی.
+10. She abides in a small cottage.
+    او در کلبه‌ای کوچک زندگی می‌کند.
+
+---
+
+ID: ID10
+Word: abies
+Meanings: سرده‌ای از درختان کاج، صنوبر
+Examples:
+1. The forest was full of tall abies trees.
+   جنگل پر از درختان صنوبر بلند بود.
+2. Abies are often used as Christmas trees.
+   از درختان صنوبر اغلب برای کریسمس استفاده می‌شود.
+3. The botanist studied the abies species.
+   گیاه‌شناس گونه‌های صنوبر را مطالعه کرد.
+4. Abies leaves are needle-like and evergreen.
+   برگ‌های صنوبر سوزنی‌شکل و همیشه‌سبز هستند.
+5. The scent of abies filled the air.
+   بوی صنوبر فضای اطراف را پر کرده بود.
+6. They planted abies in their garden.
+   آن‌ها صنوبر در باغ خود کاشتند.
+7. Abies wood is commonly used in construction.
+   چوب صنوبر در ساخت‌وساز رایج است.
+8. The mountain slopes were covered with abies.
+   دامنه‌های کوه با صنوبر پوشیده شده بودند.
+9. Abies grow well in cold climates.
+   صنوبرها در آب و هوای سرد به خوبی رشد می‌کنند.
+10. A rare abies was discovered in the valley.
+    یک صنوبر نادر در دره کشف شد.
+
+---
+
+ID: ID11
+Word: abilities
+Meanings: توانایی‌ها، قابلیت‌ها
+Examples:
+1. She has great leadership abilities.
+   او توانایی‌های رهبری فوق‌العاده‌ای دارد.
+2. His mental abilities are impressive.
+   توانایی‌های ذهنی او تحسین‌برانگیز است.
+3. Different students have different abilities.
+   دانش‌آموزان توانایی‌های متفاوتی دارند.
+4. These tasks require special abilities.
+   این کارها نیازمند توانایی‌های خاصی هستند.
+5. They tested the children's physical abilities.
+   آن‌ها توانایی‌های بدنی کودکان را آزمایش کردند.
+6. Your abilities will improve with practice.
+   توانایی‌های تو با تمرین بهتر خواهند شد.
+7. He doubted his own abilities.
+   او به توانایی‌های خودش شک داشت.
+8. She's confident in her musical abilities.
+   او به توانایی‌های موسیقیایی‌اش اعتماد دارد.
+9. These abilities can be developed over time.
+   این توانایی‌ها با گذشت زمان قابل توسعه‌اند.
+10. We must recognize each person's abilities.
+    ما باید توانایی‌های هر فرد را بشناسیم.
+
+---
+
+ID: ID12
+Word: ability
+Meanings: توانایی، استعداد
+Examples:
+1. She has the ability to learn quickly.
+   او توانایی یادگیری سریع دارد.
+2. His ability to speak five languages is amazing.
+   توانایی او در صحبت کردن به پنج زبان شگفت‌انگیز است.
+3. I have full confidence in your ability.
+   من کاملاً به توانایی تو اعتماد دارم.
+4. Physical ability declines with age.
+   توانایی بدنی با افزایش سن کاهش می‌یابد.
+5. The test measures reading ability.
+   این آزمون توانایی خواندن را می‌سنجد.
+6. She lacks the ability to focus.
+   او توانایی تمرکز ندارد.
+7. Your ability to adapt is important.
+   توانایی تو برای تطبیق بسیار مهم است.
+8. They questioned his ability to lead.
+   آن‌ها توانایی رهبری او را زیر سوال بردند.
+9. I admire her ability to stay calm.
+   من به توانایی او در آرام ماندن احترام می‌گذارم.
+10. Ability and effort both matter.
+    هم توانایی و هم تلاش اهمیت دارند.
+
+---
+
+ID: ID13
+Word: able
+Meanings: قادر، توانا
+Examples:
+1. He is able to swim very well.
+   او می‌تواند خیلی خوب شنا کند.
+2. Are you able to help me?
+   آیا می‌توانی به من کمک کنی؟
+3. She was finally able to walk again.
+   او بالاخره توانست دوباره راه برود.
+4. I’m not able to attend the meeting.
+   من نمی‌توانم در جلسه شرکت کنم.
+5. We were able to finish on time.
+   ما توانستیم به موقع تمام کنیم.
+6. Will they be able to handle it?
+   آیا آن‌ها قادر خواهند بود از پسش برآیند؟
+7. He’s able to fix almost anything.
+   او تقریباً همه چیز را می‌تواند تعمیر کند.
+8. You’ll be able to understand it better soon.
+   به زودی قادر خواهی بود آن را بهتر بفهمی.
+9. She wasn’t able to answer the question.
+   او نتوانست به سوال پاسخ دهد.
+10. I’d like to be able to travel more.
+    دوست دارم بتوانم بیشتر سفر کنم.
+
+---
+
+ID: ID14
+Word: abnormal
+Meanings: غیرعادی، نابهنجار
+Examples:
+1. The results show an abnormal growth.
+   نتایج نشان‌دهنده رشد غیرعادی است.
+2. He has an abnormal heart rhythm.
+   او دچار ضربان قلب غیرعادی است.
+3. That’s an abnormal reaction.
+   این یک واکنش نابهنجار است.
+4. The weather has been abnormal lately.
+   اخیراً هوا غیرعادی بوده است.
+5. An abnormal number of students were absent.
+   تعداد غیرعادی‌ای از دانش‌آموزان غایب بودند.
+6. This behavior seems abnormal.
+   این رفتار غیرعادی به نظر می‌رسد.
+7. Doctors are investigating the abnormal test.
+   پزشکان در حال بررسی آزمایش غیرعادی هستند.
+8. She showed signs of abnormal stress.
+   او علائم استرس غیرعادی نشان داد.
+9. The engine made an abnormal sound.
+   موتور صدای غیرعادی می‌داد.
+10. Abnormal cells were detected.
+    سلول‌های غیرعادی شناسایی شدند.
+
+---
+
+ID: ID15
+Word: abnormally
+Meanings: به طور غیرعادی
+Examples:
+1. The baby was abnormally quiet.
+   نوزاد به‌طور غیرعادی ساکت بود.
+2. He is abnormally tall for his age.
+   او نسبت به سنش به‌طور غیرعادی قد بلند است.
+3. The water level rose abnormally fast.
+   سطح آب به‌شکل غیرعادی سریع بالا رفت.
+4. She’s behaving abnormally today.
+   او امروز به‌طور غیرعادی رفتار می‌کند.
+5. The results are abnormally high.
+   نتایج به‌طور غیرعادی بالا هستند.
+6. He was sweating abnormally.
+   او به‌شکل غیرعادی عرق می‌کرد.
+7. Abnormally low temperatures were recorded.
+   دماهای به‌طور غیرعادی پایین ثبت شدند.
+8. The machine is running abnormally.
+   دستگاه به‌طور غیرعادی کار می‌کند.
+9. His heartbeat is abnormally slow.
+   ضربان قلبش به‌طور غیرعادی کند است.
+10. The prices increased abnormally last month.
+    قیمت‌ها ماه گذشته به شکل غیرعادی افزایش یافتند.
+
+---
+
+ID: ID16
+Word: aboard
+Meanings: سوار، در کشتی یا هواپیما
+Examples:
+1. Welcome aboard!
+   خوش آمدید به داخل (کشتی/هواپیما)!
+2. All passengers are now aboard the plane.
+   همه مسافران اکنون سوار هواپیما هستند.
+3. He climbed aboard the ship.
+   او سوار کشتی شد.
+4. I dropped my phone aboard the bus.
+   گوشیم را در اتوبوس انداختم.
+5. She stayed aboard for two weeks.
+   او دو هفته در کشتی ماند.
+6. They were already aboard when I arrived.
+   وقتی رسیدم، آن‌ها قبلاً سوار شده بودند.
+7. I met him aboard a train.
+   او را در قطار دیدم.
+8. We ate dinner aboard the cruise.
+   شام را در کشتی تفریحی خوردیم.
+9. Aboard the aircraft, everyone was silent.
+   داخل هواپیما همه ساکت بودند.
+10. He felt seasick aboard the boat.
+    او روی قایق دچار دریازدگی شد.
+
+---
+
+ID: ID17
+Word: abode
+Meanings: مسکن، اقامتگاه
+Examples:
+1. This cottage is my humble abode.
+   این کلبه، اقامتگاه محقر من است.
+2. He returned to his old abode.
+   او به اقامتگاه قدیمی‌اش بازگشت.
+3. They built a new abode by the lake.
+   آن‌ها اقامتگاهی جدید کنار دریاچه ساختند.
+4. The monks live in a peaceful abode.
+   راهبان در اقامتگاهی آرام زندگی می‌کنند.
+5. Her abode is near the mountains.
+   محل اقامت او نزدیک کوه‌هاست.
+6. The cave was once a human abode.
+   غار زمانی محل سکونت انسان بود.
+7. We visited his summer abode.
+   ما از اقامتگاه تابستانی او بازدید کردیم.
+8. Their abode was decorated simply.
+   اقامتگاه آن‌ها به سادگی تزئین شده بود.
+9. This old house has been our abode for years.
+   این خانه قدیمی سال‌هاست اقامتگاه ما بوده است.
+10. He made a temporary abode in the city.
+    او اقامتگاهی موقت در شهر ساخت.
+
+---
+
+ID: ID18
+Word: abolish
+Meanings: برانداختن، منسوخ کردن
+Examples:
+1. The government plans to abolish the death penalty.
+   دولت قصد دارد مجازات اعدام را لغو کند.
+2. They worked to abolish slavery.
+   آن‌ها برای براندازی برده‌داری تلاش کردند.
+3. Many countries have abolished child labor.
+   بسیاری از کشورها کار کودکان را لغو کرده‌اند.
+4. The new law will abolish unfair taxes.
+   قانون جدید مالیات‌های ناعادلانه را منسوخ خواهد کرد.
+5. We must abolish outdated traditions.
+   باید سنت‌های منسوخ‌شده را کنار بگذاریم.
+6. The practice was abolished decades ago.
+   این عمل چند دهه پیش منسوخ شد.
+7. They are trying to abolish uniforms in schools.
+   آن‌ها در تلاشند یونیفرم مدارس را حذف کنند.
+8. Abolishing corruption is not easy.
+   ریشه‌کن کردن فساد کار آسانی نیست.
+9. He supports efforts to abolish poverty.
+   او از تلاش‌ها برای از بین بردن فقر حمایت می‌کند.
+10. The rule was abolished after public protests.
+    این قانون پس از اعتراضات عمومی لغو شد.
+
+---
+
+ID: ID19
+Word: abolishing
+Meanings: برانداختن، منسوخ کردن
+Examples:
+1. Abolishing the fee made education accessible.
+   حذف هزینه باعث دسترسی به آموزش شد.
+2. They talked about abolishing the monarchy.
+   آن‌ها درباره براندازی نظام سلطنتی صحبت کردند.
+3. Abolishing the rule brought freedom.
+   لغو آن قانون آزادی به ارمغان آورد.
+4. The group is focused on abolishing violence.
+   این گروه بر حذف خشونت تمرکز دارد.
+5. Abolishing the tax helped small businesses.
+   حذف مالیات به کسب‌وکارهای کوچک کمک کرد.
+6. The idea of abolishing homework is popular.
+   ایده حذف مشق شب محبوب است.
+7. She campaigned for abolishing animal testing.
+   او برای حذف آزمایش حیوانی کمپین برگزار کرد.
+8. They support abolishing outdated laws.
+   آن‌ها از حذف قوانین منسوخ حمایت می‌کنند.
+9. Abolishing exams isn't realistic.
+   لغو امتحانات واقع‌بینانه نیست.
+10. The country succeeded in abolishing illiteracy.
+    کشور در ریشه‌کن کردن بی‌سوادی موفق بود.
+
+---
+
+ID: ID20
+Word: abolition
+Meanings: لغو، انحلال، نسخ
+Examples:
+1. The abolition of slavery was a major victory.
+   لغو برده‌داری پیروزی بزرگی بود.
+2. He supported the abolition of the monarchy.
+   او از لغو سلطنت حمایت کرد.
+3. The abolition of the law took years.
+   لغو آن قانون سال‌ها طول کشید.
+4. We demand the abolition of censorship.
+   ما خواهان لغو سانسور هستیم.
+5. The movement led to the abolition of child labor.
+   این جنبش منجر به لغو کار کودک شد.
+6. Abolition of fees increased enrollment.
+   لغو هزینه‌ها باعث افزایش ثبت‌نام شد.
+7. The country celebrated the abolition of apartheid.
+   کشور لغو آپارتاید را جشن گرفت.
+8. They discussed the abolition of the tax.
+   آن‌ها درباره لغو مالیات بحث کردند.
+9. The abolition of the death penalty saved lives.
+   لغو مجازات اعدام جان انسان‌ها را نجات داد.
+10. Abolition took time but was worth it.
+    لغو زمان‌بر بود اما ارزشش را داشت.
+
+---
+
+ID: ID21
+Word: abortion
+Meanings: سقط جنین
+Examples:
+1. She chose to have an abortion.
+   او تصمیم گرفت سقط جنین کند.
+2. The law prohibits late-term abortions.
+   قانون سقط جنین در مراحل پایانی را ممنوع می‌کند.
+3. Abortion is a sensitive topic.
+   سقط جنین موضوعی حساس است.
+4. They protested against abortion rights.
+   آن‌ها علیه حقوق سقط جنین اعتراض کردند.
+5. The clinic provides safe abortions.
+   کلینیک سقط جنین ایمن ارائه می‌دهد.
+6. He supports legal abortion.
+   او از سقط جنین قانونی حمایت می‌کند.
+7. Abortion laws vary by country.
+   قوانین سقط جنین در هر کشور متفاوت است.
+8. The abortion was done for medical reasons.
+   سقط جنین به دلایل پزشکی انجام شد.
+9. She regretted her abortion.
+   او از سقط جنین خود پشیمان بود.
+10. Access to abortion is a basic right.
+    دسترسی به سقط جنین یک حق اساسی است.
+
+---
+
+ID: ID22
+Word: abortive
+Meanings: بی‌نتیجه، عقیم
+Examples:
+1. Their attempt to escape was abortive.
+   تلاش آن‌ها برای فرار بی‌نتیجه بود.
+2. The mission ended in an abortive effort.
+   مأموریت با تلاشی بی‌ثمر پایان یافت.
+3. It was an abortive negotiation.
+   این یک مذاکره ناکام بود.
+4. The operation was abortive due to technical issues.
+   عملیات به دلیل مشکلات فنی بی‌نتیجه ماند.
+5. His plan proved abortive.
+   نقشه‌اش بی‌نتیجه از آب درآمد.
+6. The revolt was abortive and quickly suppressed.
+   شورش بی‌ثمر بود و سریعاً سرکوب شد.
+7. Their abortive proposal was rejected.
+   پیشنهاد بی‌نتیجه آن‌ها رد شد.
+8. The project turned out to be abortive.
+   پروژه بی‌نتیجه از کار درآمد.
+9. She made an abortive attempt to contact him.
+   او تلاشی ناموفق برای تماس با او انجام داد.
+10. All efforts to fix the system were abortive.
+    تمام تلاش‌ها برای رفع سیستم بی‌ثمر بود.
+
+---
+
+ID: ID23
+Word: abounding
+Meanings: فراوان، سرشار
+Examples:
+1. The forest was abounding in wildlife.
+   جنگل از حیات وحش سرشار بود.
+2. He lived in a place abounding with beauty.
+   او در مکانی سرشار از زیبایی زندگی می‌کرد.
+3. Their hearts were abounding with joy.
+   دل‌های آن‌ها از شادی لبریز بود.
+4. The garden was abounding in flowers.
+   باغ پر از گل بود.
+5. Opportunities are abounding in this field.
+   در این حوزه فرصت‌ها فراوان است.
+6. The lake was abounding with fish.
+   دریاچه از ماهی سرشار بود.
+7. She has abounding energy.
+   او انرژی بی‌پایانی دارد.
+8. The story is abounding in mystery.
+   داستان پر از رمز و راز است.
+9. His writings are abounding in wisdom.
+   نوشته‌هایش از خرد سرشار است.
+10. Abounding love filled the room.
+    عشق فراوان فضا را پر کرده بود.
+
+---
+
+ID: ID24
+Word: about
+Meanings: درباره، حدوداً
+Examples:
+1. We talked about the movie.
+   درباره فیلم صحبت کردیم.
+2. What’s the book about?
+   این کتاب درباره چیست؟
+3. He was about to leave.
+   او داشت می‌رفت.
+4. She’s about 25 years old.
+   او حدود ۲۵ سال دارد.
+5. I’m not sure about that.
+   در مورد آن مطمئن نیستم.
+6. Let’s think about the problem.
+   بیایید درباره مشکل فکر کنیم.
+7. Tell me about your trip.
+   درباره سفرت بگو.
+8. The news is about politics.
+   اخبار درباره سیاست است.
+9. He cares about you.
+   او برایت اهمیت قائل است.
+10. I’ll be there in about 10 minutes.
+    حدود ۱۰ دقیقه دیگر آنجا خواهم بود.
+
+---
+
+ID: ID25
+Word: above
+Meanings: بالا، بالاتر از
+Examples:
+1. The sun rose above the mountains.
+   خورشید بالای کوه‌ها طلوع کرد.
+2. The temperature is above normal.
+   دما بالاتر از حد معمول است.
+3. Look above the door.
+   بالای در را نگاه کن.
+4. She lives on the floor above.
+   او در طبقه بالا زندگی می‌کند.
+5. The clouds hovered above the city.
+   ابرها بالای شهر معلق بودند.
+6. His performance was above average.
+   عملکرد او بالاتر از میانگین بود.
+7. The airplane flew above the clouds.
+   هواپیما بالای ابرها پرواز کرد.
+8. Prices above this limit are not allowed.
+   قیمت‌های بالاتر از این حد مجاز نیستند.
+9. Put the books above the shelf.
+   کتاب‌ها را بالای قفسه بگذار.
+10. Her rank is above mine.
+    رتبه او بالاتر از من است.
+
+---
+
