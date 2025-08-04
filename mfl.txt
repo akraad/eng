@@ -1,0 +1,186 @@
+با توجه به فایل ارائه شده و درخواست شما برای کدگذاری ۱۰۰ کلمه اول با جزئیات بیشتر، من سیستم کدگذاری MFL را با زیرشاخه‌های دقیق‌تر برای هر کلمه آماده کردم. در این لیست، هر کلمه انگلیسی به همراه کد (یا کدهایی) که بهترین توصیف را برای معنا و کاربرد آن ارائه می‌دهد، آورده شده است.
+سیستم کدگذاری MFL (تفکیک‌شده)
+ * MFL-100: انسان، جامعه و روابط
+   * MFL-110: افراد و نقش‌ها
+     * MFL-111: اعضای خانواده
+     * MFL-113: مشاغل حرفه‌ای
+     * MFL-115: نقش‌های اجتماعی
+     * MFL-116: افراد در سیستم حقوقی
+   * MFL-120: گروه‌ها و سازمان‌ها
+   * MFL-130: صفات شخصیتی
+   * MFL-140: احساسات و حالات
+     * MFL-141: احساسات مثبت
+     * MFL-142: احساسات منفی
+   * MFL-150: ویژگی‌های جسمانی
+     * MFL-152: توانایی
+     * MFL-153: اعضای بدن
+ * MFL-200: مکان‌ها و جغرافیا
+   * MFL-210: مکان‌های شهری
+     * MFL-211: ساختمان‌ها
+   * MFL-230: موقعیت و جهت‌ها
+     * MFL-232: موقعیت نسبی
+ * MFL-300: اشیاء و ابزار
+   * MFL-310: لوازم خانگی
+   * MFL-340: پوشاک و زیورآلات
+     * MFL-341: لباس
+     * MFL-344: لوازم جانبی
+ * MFL-400: غذا و نوشیدنی
+   * MFL-410: میوه‌ها و سبزیجات
+ * MFL-500: اقدامات و افعال
+   * MFL-510: حرکات فیزیکی
+     * MFL-511: حرکت بدن
+     * MFL-514: جذب و نگهداری
+     * MFL-515: اعمال خشونت‌آمیز
+     * MFL-516: حرکت و سرعت
+     * MFL-517: دسترسی و ارتباط
+     * MFL-518: فراهم کردن
+     * MFL-519: همراهی و پشتیبانی
+   * MFL-520: افعال ذهنی
+     * MFL-521: تفکر
+     * MFL-524: خودداری و کنترل
+     * MFL-525: توافق و پذیرش
+     * MFL-526: موفقیت و انجام کار
+     * MFL-527: جمع‌آوری و انباشت
+   * MFL-530: افعال گفتاری
+     * MFL-533: ویژگی‌های گفتاری
+     * MFL-534: تحسین و تمجید
+ * MFL-600: مفاهیم انتزاعی
+   * MFL-610: مفاهیم انتزاعی
+   * MFL-613: حوادث و وقایع
+   * MFL-614: مسئولیت‌پذیری
+   * MFL-615: دقت و صحت
+   * MFL-630: صفات کیفی
+     * MFL-631: مثبت
+     * MFL-632: منفی
+   * MFL-640: صفات فیزیکی
+     * MFL-645: خواص مواد
+ * MFL-700: علم و فناوری
+   * MFL-710: علوم پایه
+     * MFL-713: شیمی
+     * MFL-714: مفاهیم آموزشی
+   * MFL-720: اقتصاد و مالی
+     * MFL-724: حسابداری و مالی
+ * MFL-800: هنر و فرهنگ
+   * MFL-810: موسیقی
+     * MFL-813: مفاهیم موسیقی
+ * MFL-900: ضمایر و حروف
+   * MFL-910: ضمایر و حروف تعریف
+     * MFL-913: حروف تعریف
+   * MFL-920: حروف اضافه و ربط
+     * MFL-921: حروف اضافه مکانی
+     * MFL-922: حروف ربط
+     * MFL-923: حروف اضافه عمومی
+   * MFL-930: قیدها
+     * MFL-933: قیدهای عمومی
+ * MFL-B00: موجودات زنده
+   * MFL-B10: گیاهان
+     * MFL-B11: درختان
+   * MFL-B20: حیوانات
+     * MFL-B21: حشرات
+ * MFL-C00: سیاست و قانون
+   * MFL-C10: حقوقی و قانونی
+     * MFL-C11: افعال حقوقی/قانونی
+     * MFL-C12: اسامی حقوقی/قانونی
+ * MFL-D00: واحد‌های اندازه‌گیری
+   * MFL-D10: مساحت
+کدگذاری ۱۰۰ کلمه اول:
+ * a: MFL-913
+ * abandon: MFL-511
+ * abandoned: MFL-632
+ * abandonment: MFL-610
+ * abashed: MFL-142
+ * abbreviation: MFL-714
+ * abdomen: MFL-153
+ * abeyance: MFL-610
+ * abide: MFL-525
+ * abies: MFL-B11
+ * abilities: MFL-152
+ * ability: MFL-152
+ * able: MFL-152
+ * abnormal: MFL-632
+ * abnormally: MFL-933
+ * aboard: MFL-232
+ * abode: MFL-211
+ * abolish: MFL-C11
+ * abolishing: MFL-C11
+ * abolition: MFL-C12
+ * abortion: MFL-116
+ * abortive: MFL-632
+ * abounding: MFL-631
+ * about: MFL-923
+ * above: MFL-921
+ * abrading: MFL-511
+ * abridge: MFL-511
+ * abroad: MFL-933
+ * abrogate: MFL-C11
+ * abrupt: MFL-632
+ * absence: MFL-610
+ * absent: MFL-632
+ * absolute: MFL-631
+ * absolutely: MFL-933
+ * absorb: MFL-514
+ * absorbable: MFL-645
+ * absorbed: MFL-514
+ * absorbent: MFL-645
+ * absorbing: MFL-514, MFL-631
+ * absorption: MFL-514
+ * abstain: MFL-524
+ * abstract: MFL-610, MFL-631
+ * abstractly: MFL-933
+ * abstruse: MFL-632
+ * absurd: MFL-632
+ * absurdity: MFL-610
+ * abundance: MFL-610
+ * abundant: MFL-631
+ * abuse: MFL-515, MFL-142
+ * abusing: MFL-515
+ * abusive: MFL-132
+ * academic: MFL-714
+ * academicals: MFL-341
+ * academy: MFL-211
+ * accede: MFL-525
+ * accelerate: MFL-516
+ * acceleration: MFL-516
+ * accent: MFL-533
+ * accept: MFL-525
+ * acceptable: MFL-631
+ * acceptance: MFL-525
+ * accepted: MFL-525
+ * accepting: MFL-525
+ * access: MFL-517
+ * accessible: MFL-631
+ * accessories: MFL-344
+ * accessory: MFL-344
+ * accident: MFL-613
+ * accidental: MFL-613
+ * accidentally: MFL-933
+ * acclaim: MFL-534, MFL-141
+ * accommodate: MFL-518
+ * accommodation: MFL-211
+ * accompanied: MFL-519
+ * accompaniment: MFL-813
+ * accompany: MFL-519
+ * accompanying: MFL-519
+ * accomplish: MFL-526
+ * accomplished: MFL-131
+ * accomplishment: MFL-526
+ * accord: MFL-525
+ * accordance: MFL-525
+ * accordant: MFL-525
+ * according: MFL-923
+ * accordingly: MFL-933
+ * account: MFL-724, MFL-610
+ * accountability: MFL-614
+ * accountable: MFL-614
+ * accountant: MFL-113
+ * accounting: MFL-724
+ * accounts: MFL-724
+ * accrue: MFL-724
+ * accumulate: MFL-527
+ * accumulation: MFL-527
+ * accuracy: MFL-615
+ * accurate: MFL-615
+ * accurately: MFL-933
+ * accusation: MFL-C12
+ * accuse: MFL-C11
+ * accused: MFL-C11, MFL-116
