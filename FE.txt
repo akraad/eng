@@ -673,3 +673,501 @@ Examples:
 
 ---
 
+ID: ID26
+Word: abrade
+Meanings: ساییدن، خراشیدن
+Examples:
+1. Sand can abrade the surface of glass.
+   شن می‌تواند سطح شیشه را بساید.
+2. His skin was abraded by the rough cloth.
+   پوست او توسط پارچه زبر ساییده شد.
+3. Continuous friction will abrade the material.
+   اصطکاک مداوم باعث ساییدگی ماده می‌شود.
+4. The rocks abraded the tires.
+   سنگ‌ها لاستیک‌ها را خراش دادند.
+5. The metal was abraded over time.
+   فلز با گذشت زمان ساییده شد.
+6. He used a tool to abrade the paint.
+   او از ابزاری برای سایش رنگ استفاده کرد.
+7. Sharp particles can abrade delicate surfaces.
+   ذرات تیز می‌توانند سطوح حساس را خراش دهند.
+8. Walking on sand can abrade your feet.
+   راه رفتن روی شن ممکن است پاها را بساید.
+9. The floor was badly abraded.
+   کف زمین به‌شدت ساییده شده بود.
+10. She abraded the rust off the pipe.
+    او زنگ‌زدگی را از لوله سابید.
+
+---
+
+ID: ID27
+Word: abrasion
+Meanings: سایش، خراش
+Examples:
+1. He suffered a minor abrasion on his knee.
+   او دچار خراش کوچکی روی زانویش شد.
+2. Abrasion can occur due to rough surfaces.
+   سایش ممکن است به دلیل سطوح زبر رخ دهد.
+3. The metal showed signs of abrasion.
+   فلز علائم سایش را نشان داد.
+4. The abrasion was cleaned and bandaged.
+   خراش تمیز شده و پانسمان شد.
+5. Constant use caused abrasion on the shoes.
+   استفاده مداوم باعث ساییدگی کفش شد.
+6. The rock's surface was smooth from abrasion.
+   سطح سنگ از سایش صاف شده بود.
+7. She had abrasions on both hands.
+   او روی هر دو دستش خراش‌هایی داشت.
+8. This material resists abrasion well.
+   این ماده در برابر سایش مقاومت خوبی دارد.
+9. The wound was just a surface abrasion.
+   زخم فقط یک خراش سطحی بود.
+10. Abrasion protection is important in sports gear.
+    محافظت در برابر سایش در تجهیزات ورزشی مهم است.
+
+---
+
+ID: ID28
+Word: abrasive
+Meanings: زبر، ساینده؛ زننده (رفتار)
+Examples:
+1. He used an abrasive pad to clean the pan.
+   او از پد زبر برای تمیز کردن قابلمه استفاده کرد.
+2. Her abrasive tone offended many people.
+   لحن زننده‌اش بسیاری را رنجاند.
+3. The cleaner contains abrasive particles.
+   این تمیزکننده حاوی ذرات ساینده است.
+4. His abrasive behavior caused tension.
+   رفتار زننده‌اش باعث تنش شد.
+5. This abrasive surface can scratch glass.
+   این سطح زبر می‌تواند شیشه را خراش دهد.
+6. Don't be so abrasive with your words.
+   با حرف‌هایت این‌قدر زننده نباش.
+7. Use abrasive paper for polishing wood.
+   از کاغذ سنباده برای صیقل دادن چوب استفاده کن.
+8. She found his style abrasive and rude.
+   او سبک او را زننده و بی‌ادبانه یافت.
+9. Abrasive materials are used in factories.
+   مواد ساینده در کارخانه‌ها استفاده می‌شوند.
+10. The boss had an abrasive personality.
+    رئیس شخصیتی تند و زننده داشت.
+
+---
+
+ID: ID29
+Word: abreast
+Meanings: کنار هم، همگام؛ مطلع از
+Examples:
+1. They walked two abreast down the path.
+   آن‌ها دوتایی کنار هم در مسیر راه می‌رفتند.
+2. Keep abreast of current events.
+   از رویدادهای جاری مطلع بمان.
+3. He ran abreast with his friend.
+   او همگام با دوستش دوید.
+4. The soldiers stood abreast in line.
+   سربازان در یک صف کنار هم ایستادند.
+5. She stayed abreast of new technologies.
+   او در جریان فناوری‌های نوین ماند.
+6. Cars were parked two abreast.
+   ماشین‌ها دوتایی در کنار هم پارک شده بودند.
+7. They kept abreast during the hike.
+   در طول پیاده‌روی هم‌قدم بودند.
+8. I try to stay abreast of the news.
+   سعی می‌کنم از اخبار مطلع بمانم.
+9. The children walked three abreast.
+   بچه‌ها سه‌تایی کنار هم راه می‌رفتند.
+10. Journalists must remain abreast of developments.
+    روزنامه‌نگاران باید در جریان تحولات بمانند.
+
+---
+
+ID: ID30
+Word: abridge
+Meanings: خلاصه کردن، کوتاه کردن
+Examples:
+1. The editor abridged the long article.
+   ویراستار مقاله بلند را خلاصه کرد.
+2. They plan to abridge the novel.
+   آن‌ها قصد دارند رمان را خلاصه کنند.
+3. The film was an abridged version of the book.
+   فیلم نسخه‌ای خلاصه‌شده از کتاب بود.
+4. This dictionary is an abridged edition.
+   این واژه‌نامه نسخه‌ای خلاصه‌شده است.
+5. The text was abridged for younger readers.
+   متن برای خوانندگان جوان‌تر خلاصه شد.
+6. She abridged her speech due to time limits.
+   او سخنرانی‌اش را به‌خاطر محدودیت زمانی کوتاه کرد.
+7. Abridging the report saved time.
+   خلاصه کردن گزارش باعث صرفه‌جویی در زمان شد.
+8. His rights must not be abridged.
+   حقوق او نباید محدود شود.
+9. They released an abridged audio version.
+   آن‌ها نسخه‌ای صوتی و خلاصه منتشر کردند.
+10. Abridging content requires careful selection.
+    خلاصه‌سازی محتوا نیازمند انتخاب دقیق است.
+
+---
+
+ID: ID31
+Word: abroad
+Meanings: خارج از کشور
+Examples:
+1. She studied abroad for two years.
+   او دو سال در خارج از کشور تحصیل کرد.
+2. I want to travel abroad next summer.
+   می‌خواهم تابستان آینده به خارج سفر کنم.
+3. Many people live and work abroad.
+   بسیاری از مردم در خارج زندگی و کار می‌کنند.
+4. He moved abroad after graduation.
+   او پس از فارغ‌التحصیلی به خارج رفت.
+5. Their son works abroad as a doctor.
+   پسرشان به‌عنوان پزشک در خارج کار می‌کند.
+6. News of the event spread abroad quickly.
+   خبر رویداد سریعاً در خارج منتشر شد.
+7. She sent money to her family abroad.
+   او برای خانواده‌اش در خارج پول فرستاد.
+8. The company expanded its business abroad.
+   شرکت کسب‌وکارش را در خارج گسترش داد.
+9. He always dreamed of living abroad.
+   او همیشه رؤیای زندگی در خارج را داشت.
+10. I made many friends while living abroad.
+    هنگام زندگی در خارج دوستان زیادی پیدا کردم.
+
+---
+
+ID: ID32
+Word: abrogate
+Meanings: لغو کردن، باطل کردن (رسمی)
+Examples:
+1. The new law will abrogate old regulations.
+   قانون جدید مقررات قدیمی را لغو خواهد کرد.
+2. They tried to abrogate the agreement.
+   آن‌ها تلاش کردند توافق را لغو کنند.
+3. The court abrogated the unjust policy.
+   دادگاه سیاست ناعادلانه را باطل کرد.
+4. The king abrogated the ancient laws.
+   پادشاه قوانین باستانی را لغو کرد.
+5. Parliament moved to abrogate the bill.
+   پارلمان برای لغو لایحه اقدام کرد.
+6. Treaties can’t be abrogated unilaterally.
+   معاهده‌ها را نمی‌توان یک‌جانبه لغو کرد.
+7. The company abrogated its responsibilities.
+   شرکت مسئولیت‌هایش را لغو کرد.
+8. He argued for abrogating outdated rules.
+   او برای لغو قوانین منسوخ استدلال کرد.
+9. The president abrogated certain powers.
+   رئیس‌جمهور برخی اختیارات را لغو کرد.
+10. They seek to abrogate the tax law.
+    آن‌ها به دنبال لغو قانون مالیات هستند.
+
+---
+
+ID: ID33
+Word: abrupt
+Meanings: ناگهانی، تند
+Examples:
+1. His departure was abrupt and surprising.
+   رفتن او ناگهانی و غافلگیرکننده بود.
+2. She made an abrupt decision.
+   او تصمیمی ناگهانی گرفت.
+3. The meeting ended abruptly.
+   جلسه ناگهانی تمام شد.
+4. He gave an abrupt reply.
+   او پاسخ تندی داد.
+5. The car came to an abrupt stop.
+   ماشین ناگهان توقف کرد.
+6. Their relationship ended abruptly.
+   رابطه آن‌ها ناگهان تمام شد.
+7. An abrupt change in weather occurred.
+   تغییر ناگهانی در هوا رخ داد.
+8. Her tone was abrupt and rude.
+   لحنش تند و بی‌ادبانه بود.
+9. The movie had an abrupt ending.
+   فیلم پایان ناگهانی داشت.
+10. His behavior was abrupt and confusing.
+    رفتارش تند و گیج‌کننده بود.
+
+---
+
+بسیار خوب! در ادامه، ۱۰ جمله واقعی همراه با ترجمه فارسی برای هر یک از کلمات ID34 تا ID49 (یعنی ۱۶ واژه بعدی) در قالب قابل کپی ارائه می‌شود.
+
+
+---
+
+✅ واژگان:
+
+abruptly – abs – absence – absent – absentee – absolute – absolutely – absorb – absorbed – absorbing – absorption – abstain – abstract – abstraction – absurd – absurdity
+
+
+---
+
+ID: ID34
+Word: abruptly
+Meanings: به طور ناگهانی
+Examples:
+1. He left the room abruptly.
+   او به طور ناگهانی اتاق را ترک کرد.
+2. The conversation ended abruptly.
+   گفتگو به طور ناگهانی پایان یافت.
+3. She stood up abruptly and walked away.
+   او ناگهان بلند شد و رفت.
+4. The car stopped abruptly.
+   ماشین ناگهان ایستاد.
+5. The weather changed abruptly.
+   هوا ناگهان تغییر کرد.
+6. He hung up the phone abruptly.
+   او تلفن را ناگهان قطع کرد.
+7. The party ended abruptly after the fight.
+   مهمانی پس از دعوا ناگهان تمام شد.
+8. She turned around abruptly.
+   او ناگهان برگشت.
+9. Their friendship ended abruptly.
+   دوستی آن‌ها ناگهان تمام شد.
+10. The music stopped abruptly.
+    موسیقی ناگهان قطع شد.
+
+---
+
+ID: ID35
+Word: abs
+Meanings: عضلات شکم (مخفف abdominal muscles)
+Examples:
+1. He works out daily to strengthen his abs.
+   او هر روز تمرین می‌کند تا عضلات شکمش را قوی کند.
+2. Her abs are clearly defined.
+   عضلات شکمش به‌وضوح مشخص‌اند.
+3. I did 50 crunches to train my abs.
+   برای تمرین شکم ۵۰ درازنشست رفتم.
+4. Abs are important for core strength.
+   عضلات شکم برای قدرت مرکزی مهم هستند.
+5. He’s proud of his six-pack abs.
+   او به شکم شش‌تکه‌اش افتخار می‌کند.
+6. Tight abs help with posture.
+   عضلات شکم سفت به وضعیت بدن کمک می‌کند.
+7. She injured her abs during a workout.
+   او هنگام تمرین به عضلات شکمش آسیب زد.
+8. Abs exercises can reduce belly fat.
+   تمرینات شکمی می‌توانند چربی شکم را کاهش دهند.
+9. Stretch your abs after intense training.
+   پس از تمرین شدید، عضلات شکم را بکش.
+10. He flexed his abs in the mirror.
+    او در آینه عضلات شکمش را منقبض کرد.
+
+---
+
+ID: ID36
+Word: absence
+Meanings: غیبت، نبود
+Examples:
+1. His absence was noticed by everyone.
+   غیبت او توسط همه احساس شد.
+2. In her absence, I took charge.
+   در نبود او، من مسئولیت را بر عهده گرفتم.
+3. The meeting was canceled due to his absence.
+   جلسه به دلیل غیبت او لغو شد.
+4. There was a strange silence in the absence of noise.
+   در نبود صدا، سکوت عجیبی حاکم بود.
+5. His prolonged absence worried us.
+   غیبت طولانی‌اش ما را نگران کرد.
+6. The teacher marked his absence.
+   معلم غیبت او را ثبت کرد.
+7. Absence of evidence is not evidence of absence.
+   نبود مدرک به معنای نبود واقعیت نیست.
+8. Her absence left a void in the team.
+   غیبت او خلائی در تیم ایجاد کرد.
+9. The cat’s absence was immediately noticed.
+   نبود گربه فوراً احساس شد.
+10. In the absence of rain, the crops died.
+    در نبود باران، محصولات خشک شدند.
+
+---
+
+ID: ID37
+Word: absent
+Meanings: غایب، نبودن
+Examples:
+1. He was absent from school yesterday.
+   او دیروز در مدرسه غایب بود.
+2. She looked absent and distracted.
+   او غایب و حواس‌پرت به نظر می‌رسید.
+3. Mark is absent today due to illness.
+   مارک امروز به خاطر بیماری غایب است.
+4. He had an absent expression on his face.
+   حالت چهره‌اش حاکی از نبود ذهنی بود.
+5. Students who are absent must provide a note.
+   دانش‌آموزان غایب باید برگه‌ای بیاورند.
+6. I was absent during the meeting.
+   من در جلسه حضور نداشتم.
+7. Her absent father never called.
+   پدر غایبش هیچ‌گاه تماس نگرفت.
+8. Don’t be absent without notice.
+   بدون اطلاع غایب نشو.
+9. His mind was absent during the conversation.
+   ذهنش در طول گفتگو جای دیگری بود.
+10. She’s often absent for no reason.
+    او اغلب بی‌دلیل غایب است.
+
+---
+
+ID: ID38
+Word: absentee
+Meanings: غایب، غایب مزمن
+Examples:
+1. The teacher called out the absentee’s name.
+   معلم نام دانش‌آموز غایب را خواند.
+2. Absentees will miss important material.
+   غایبان مطالب مهمی را از دست خواهند داد.
+3. He’s a frequent absentee.
+   او زیاد غیبت می‌کند.
+4. Absentee voting is allowed in some countries.
+   رأی‌گیری غیابی در برخی کشورها مجاز است.
+5. The list of absentees was long.
+   فهرست غایبان بلند بود.
+6. She’s known as an absentee parent.
+   او به‌عنوان والد غایب شناخته می‌شود.
+7. The company punished chronic absentees.
+   شرکت غایبان مزمن را جریمه کرد.
+8. Absentee landlords often neglect their property.
+   مالکین غایب اغلب به املاکشان بی‌توجه‌اند.
+9. They reported each absentee to the manager.
+   آن‌ها هر غایب را به مدیر گزارش دادند.
+10. Absenteeism affects productivity.
+    غیبت بر بهره‌وری تأثیر می‌گذارد.
+
+---
+
+ID: ID39
+Word: absolute
+Meanings: مطلق، کامل، قطعی
+Examples:
+1. He demanded absolute silence.
+   او سکوت مطلق خواست.
+2. That’s the absolute truth.
+   این حقیقت مطلق است.
+3. She has absolute control over the team.
+   او کنترل کامل بر تیم دارد.
+4. There’s no such thing as absolute freedom.
+   چیزی به نام آزادی مطلق وجود ندارد.
+5. His decision was absolute and final.
+   تصمیم او قطعی و نهایی بود.
+6. Absolute power can corrupt.
+   قدرت مطلق می‌تواند فاسد کند.
+7. The test requires absolute accuracy.
+   آزمون نیازمند دقت کامل است.
+8. I have absolute confidence in you.
+   من به تو اعتماد کامل دارم.
+9. The room was in absolute darkness.
+   اتاق در تاریکی مطلق بود.
+10. Their victory was absolute.
+    پیروزی آن‌ها کامل بود.
+
+---
+
+ID: ID40
+Word: absolutely
+Meanings: کاملاً، مطلقاً
+Examples:
+1. I absolutely agree with you.
+   کاملاً با تو موافقم.
+2. This is absolutely amazing!
+   این کاملاً شگفت‌انگیز است!
+3. You’re absolutely right.
+   کاملاً حق با توست.
+4. I’m absolutely sure about it.
+   کاملاً در این باره مطمئنم.
+5. He was absolutely furious.
+   او کاملاً عصبانی بود.
+6. That’s absolutely not true.
+   این اصلاً حقیقت ندارد.
+7. She absolutely loves chocolate.
+   او شکلات را واقعاً دوست دارد.
+8. It’s absolutely necessary.
+   کاملاً ضروری است.
+9. I absolutely forgot!
+   کاملاً فراموش کردم!
+10. They absolutely crushed the competition.
+    آن‌ها رقبا را کاملاً شکست دادند.
+
+---
+
+ID: ID41
+Word: absorb
+Meanings: جذب کردن، در خود کشیدن
+Examples:
+1. Towels absorb water quickly.
+   حوله‌ها آب را سریع جذب می‌کنند.
+2. Plants absorb sunlight for growth.
+   گیاهان برای رشد نور خورشید را جذب می‌کنند.
+3. The sponge absorbed the spill.
+   اسفنج مایع ریخته‌شده را جذب کرد.
+4. The walls absorb sound.
+   دیوارها صدا را جذب می‌کنند.
+5. He was absorbed in his book.
+   او غرق در کتابش بود.
+6. The company absorbed the smaller firm.
+   شرکت، شرکت کوچک‌تر را جذب کرد.
+7. The skin absorbs lotion well.
+   پوست لوسیون را به‌خوبی جذب می‌کند.
+8. She absorbed the information quickly.
+   او اطلاعات را سریع جذب کرد.
+9. The impact was absorbed by the airbags.
+   ضربه توسط ایربگ جذب شد.
+10. He absorbs knowledge like a sponge.
+    او مثل اسفنج دانش را جذب می‌کند.
+
+---
+
+ID: ID42
+Word: absorbed
+Meanings: غرق، جذب‌شده
+Examples:
+1. She was completely absorbed in her work.
+   او کاملاً در کارش غرق شده بود.
+2. He looked absorbed in thought.
+   او در فکر فرو رفته بود.
+3. The fabric absorbed the dye evenly.
+   پارچه رنگ را به طور یکنواخت جذب کرد.
+4. They were absorbed by the movie.
+   آن‌ها غرق فیلم شده بودند.
+5. The child was absorbed in the game.
+   کودک در بازی غرق شده بود.
+6. Water was absorbed by the soil.
+   آب توسط خاک جذب شد.
+7. I became absorbed in painting.
+   غرق نقاشی شدم.
+8. She was absorbed with her phone.
+   او غرق تلفن همراهش بود.
+9. He remained absorbed in silence.
+   او در سکوت فرو رفته بود.
+10. The company was absorbed into a larger group.
+    شرکت در یک گروه بزرگ‌تر ادغام شد.
+
+---
+
+ID: ID43
+Word: absorbing
+Meanings: جذاب، گیرا
+Examples:
+1. It was an absorbing book.
+   این کتابی جذاب بود.
+2. The film was absorbing from start to finish.
+   فیلم از ابتدا تا انتها گیرا بود.
+3. He gave an absorbing lecture.
+   او سخنرانی جذابی ارائه داد.
+4. I found the game absorbing.
+   بازی را بسیار جذاب یافتم.
+5. She told an absorbing story.
+   او داستانی گیرا تعریف کرد.
+6. The museum visit was absorbing.
+   بازدید از موزه بسیار جذاب بود.
+7. The absorbing drama kept us glued.
+   درام جذاب ما را میخکوب کرد.
+8. It's an absorbing topic of study.
+   این موضوع مطالعه بسیار گیراست.
+9. Their conversation was absorbing.
+   گفتگوی آن‌ها گیرا بود.
+10. The book presents an absorbing view of history.
+    کتاب دیدگاهی جذاب از تاریخ ارائه می‌دهد.
+
+---
+
