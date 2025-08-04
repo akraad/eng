@@ -4642,9 +4642,6 @@
 1485. frown: MFL-51LF
 1486. frozen: MFL-51LC
 1487. frugal: MFL-131
-
-
-
 1. historian: MFL-11P
 2. historic: MFL-62P
 3. historical: MFL-62P
